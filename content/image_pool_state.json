@@ -12,33 +12,35 @@
       "card-ftc",
       "card-stars",
       "card-ai",
-      "card-anon98"
+      "card-anon98",
+      "card-missedcall"
     ],
-    "last_iso": "2026-09-06T18:58:59",
+    "last_iso": "2026-09-07T11:37:15",
     "day": {
-      "date": "2026-09-06",
-      "count": 5
+      "date": "2026-09-07",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-09-06T08:49:20",
+    "last_iso": "2026-09-07T11:37:15",
     "day": {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "count": 1
     }
   },
   "facebook": {
     "posted": [
       "card-cpbj",
-      "card-angi"
+      "card-angi",
+      "card-reviews"
     ],
-    "last_iso": "2026-09-06T16:29:09",
+    "last_iso": "2026-09-07T11:37:15",
     "day": {
-      "date": "2026-09-06",
-      "count": 2
+      "date": "2026-09-07",
+      "count": 1
     }
   }
 }

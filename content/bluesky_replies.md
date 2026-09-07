@@ -2,6 +2,35 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Tempe?
+
+Look at how the contractor handles planning before they touch pricing, because vague scope is where a lot of remodel stress begins.
+
+https://phxhomerem
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3muqn3tnoyj2b
+
+- **@bawagc.bsky.social**: Top General Contractor Services in Taneytown MD
+
+Searching for professional general contractor services in Taneytown, MD? Get reliable help for home remodeling, kitchen renovations.
+Visit Here : bawag
+  → https://bsky.app/profile/bawagc.bsky.social/post/3muwqxaawkk2u
+
+- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
+
+ https://stylelib.org/?p=973301 
+
+#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
+  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
+
 - **@frankwild.bsky.social**: My brother can’t hire electricians in Philadelphia. Plenty of jobs starting at $80,000/yr.
 
 My brother makes about $225k as a master electrician.
@@ -174,27 +203,3 @@ www.you
 
 https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
   → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@aposthumousmemoir.bsky.social**: Red Baron has been owned by one of my former (and now defunct) employers, Schwan's, since 1977. They permanently killed their home delivery service after a series of stupid decisions kneecapped the bu
-  → https://bsky.app/profile/aposthumousmemoir.bsky.social/post/3mutf57q7s22z
-
-- **@bartlojo.bsky.social**: www.youtube.com/watch?v=y4Gf...
-  → https://bsky.app/profile/bartlojo.bsky.social/post/3mur4t4gat22l
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
