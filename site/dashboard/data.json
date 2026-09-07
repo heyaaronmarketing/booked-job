@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T23:24",
+  "updated": "2026-09-07T05:09",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -383,7 +383,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3527,
+      "views": 3487,
       "followers": 14,
       "likes": 3
     },
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 981,
+      "views": 938,
       "followers": 1
     },
     {
@@ -435,9 +435,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "posts",
-      "followers": 165,
+      "followers": 166,
       "grade": "B",
       "group": "social",
       "likes": 6
@@ -488,7 +488,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 45,
+      "count": 46,
       "unit": "posts (Buffer)",
       "stat": "942 reach \u00b7 2 reactions",
       "views": 12,
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 33
+        "count": 34
       },
       {
         "type": "Documents",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Video",
@@ -770,16 +770,16 @@
     }
   ],
   "funnel": {
-    "reach": 36040,
+    "reach": 35915,
     "engagement": 3,
-    "audience": 190,
-    "cr_clicks": 99
+    "audience": 191,
+    "cr_clicks": 100
   },
   "trends": {
-    "audience": 22,
+    "audience": 20,
     "engagement": -1,
     "email": 0,
-    "reach": -296
+    "reach": -540
   },
   "mafia": {
     "metrics": [
@@ -790,12 +790,12 @@
       },
       {
         "label": "Total Clicks",
-        "value": 99,
-        "grade": "C"
+        "value": 100,
+        "grade": "B"
       },
       {
         "label": "Total Posts",
-        "value": 1468,
+        "value": 1470,
         "grade": "A"
       },
       {
@@ -805,7 +805,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 190,
+        "value": 191,
         "grade": "C"
       },
       {
@@ -814,7 +814,7 @@
         "grade": "F"
       }
     ],
-    "overall": "C",
-    "summary": "Respectable for an early-stage brand. 1468 posts, 190 audience, 99 CR clicks \u2014 the flywheel is turning. To reach a B: double down on whatever's driving the most engagement, lean harder into video (the reach engine), and tighten the email nurture so more of this audience converts."
+    "overall": "B",
+    "summary": "Strong. 191 audience and 100 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

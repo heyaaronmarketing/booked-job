@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T04:24:57Z",
+  "updated": "2026-09-07T10:09:52Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -117,6 +117,11 @@
         "link": "https://mastodon.social/tags/HVACSabotage"
       },
       {
+        "tag": "#roofing_work",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/roofing_work"
+      },
+      {
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
@@ -130,11 +135,6 @@
         "tag": "#HVACMyth",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACMyth"
-      },
-      {
-        "tag": "#PlumbingRepairs",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/PlumbingRepairs"
       }
     ],
     "accounts": [
@@ -145,12 +145,12 @@
       },
       {
         "handle": "@home_garden_and_diy@threads.net",
-        "followers": 100972,
+        "followers": 100973,
         "link": "https://threads.net/@home_garden_and_diy/"
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35750,
+        "followers": 35775,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4086,
+      "followers": 4085,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1821,
+      "followers": 1822,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
