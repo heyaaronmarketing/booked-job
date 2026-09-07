@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@nityahuntley.bsky.social**: Do you think this money was earmarked at court? How many parents were murdered with secret service for Shotwell’s Israeli slush fund. Take it home. Her money is no good in the USA. That’s not how we d
+  → https://bsky.app/profile/nityahuntley.bsky.social/post/3mucmpfwces25
+
+- **@incredibletownswnc.bsky.social**: Looking for trusted Insurance in Fletcher or WNC?
+Tabatha Hamlin State Farm offers personalized auto, home, life & business insurance backed by local service you can count on.
+#HamlinInsurance #WNCIns
+  → https://bsky.app/profile/incredibletownswnc.bsky.social/post/3muexlt3swu2p
+
+- **@sdgroupservice.bsky.social**: 🚗✨ Looking for a reliable insurance quote? At SD Group Service, we offer coverage for auto, business, commercial, home, and life. Let us help you find the best fit for your needs! Book your appointmen
+  → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mumtijdvtf2g
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@aposthumousmemoir.bsky.social**: Red Baron has been owned by one of my former (and now defunct) employers, Schwan's, since 1977. They permanently killed their home delivery service after a series of stupid decisions kneecapped the bu
+  → https://bsky.app/profile/aposthumousmemoir.bsky.social/post/3mutf57q7s22z
+
 - **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
 
@@ -157,27 +180,3 @@ The only input is what a machine can read about a busi
 
 - **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
   → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
-
-- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/plumbing business needs a website that actually converts visitors into calls. We build SEO-optimized sites + AI chatbots that qualify leads 24/7. Done-for-you. No tech headach
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3muv7bust3j2p
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@stylelib.org**: Tanj  – Construction WordPress Theme
-
- https://stylelib.org/?p=164862 
-
-#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
-  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
