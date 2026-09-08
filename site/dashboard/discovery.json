@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T23:26:57Z",
+  "updated": "2026-09-08T04:24:56Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,28 +78,28 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 34,
+        "uses": 31,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
-        "tag": "#hvac",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
         "tag": "#roofing",
-        "uses": 4,
+        "uses": 3,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#contractor",
-        "uses": 4,
+        "uses": 3,
         "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#hvac",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#plumbingtips",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10064,
+      "followers": 10068,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4089,
+      "followers": 4088,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1822,
+      "followers": 1821,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1052,
+      "followers": 1053,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },

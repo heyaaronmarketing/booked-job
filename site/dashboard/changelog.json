@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-09-07T23:26",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy caulk"
+    },
+    {
+      "ts": "2026-09-07T23:26",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing scope creep"
+    },
+    {
+      "ts": "2026-09-07T23:26",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor porta potty"
+    },
+    {
       "ts": "2026-09-07T18:39",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: lastguy extension cord"
-    },
-    {
-      "ts": "2026-08-31T00:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy caulk"
-    },
-    {
-      "ts": "2026-08-31T00:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing pick two"
-    },
-    {
-      "ts": "2026-08-30T18:37",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from postmaster@cio54818.mail.apollo.io — needs Aaron"
     }
   ]
 }
