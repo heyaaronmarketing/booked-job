@@ -1,34 +1,52 @@
 {
-  "updated": "2026-09-08T13:48",
+  "updated": "2026-09-08T17:02",
   "posts": [
     {
-      "ts": "2026-09-08T13:45:36",
+      "ts": "2026-09-08T17:00:03",
+      "channel": "facebook",
+      "item": "card-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-09-08T17:00:00",
       "channel": "mastodon",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-09-08T13:45:31",
+      "ts": "2026-09-08T16:59:55",
       "channel": "tumblr",
-      "item": "pod-ep03-exclusive",
+      "item": "pod-ep03-channels",
       "url": null
     },
     {
-      "ts": "2026-09-08T13:45:28",
+      "ts": "2026-09-08T16:59:54",
       "channel": "bluesky",
-      "item": "pod-ep02-fake",
+      "item": "pod-ep02-onetap",
       "url": null
     },
     {
-      "ts": "2026-09-08T13:45:26",
+      "ts": "2026-09-08T16:59:52",
       "channel": "linkedin",
-      "item": "ad-arctic",
+      "item": "ad-pauls",
       "url": null
     },
     {
-      "ts": "2026-09-08T13:45:25",
+      "ts": "2026-09-08T16:59:50",
+      "channel": "ig",
+      "item": "pod-ep03-lie",
+      "url": null
+    },
+    {
+      "ts": "2026-09-08T16:59:50",
       "channel": "tiktok",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
+      "url": null
+    },
+    {
+      "ts": "2026-09-08T16:59:13",
+      "channel": "facebook",
+      "item": "bj-gbp",
       "url": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T18:33:47Z",
+  "updated": "2026-09-08T21:47:35Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 36,
+        "uses": 37,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466303,
+        "followers": 466304,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23268,
+        "followers": 23269,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
