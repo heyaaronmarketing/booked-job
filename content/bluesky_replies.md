@@ -2,6 +2,38 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muz64z4r672q
+
+- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
+
+Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
+  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
+
+- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
+
+- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
+
+- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
+
+- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
+
+- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
+
+- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
+
+- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
+
 - **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
 
  https://stylelib.org/?p=973301 
@@ -146,44 +178,3 @@ On Labor Day, PM Mark Carney thanked unions, listed nation-building projects, an
 
 54 of those files tell an AI agent how to talk to the business. Wix or Shopi
   → https://bsky.app/profile/rivercade.bsky.social/post/3mupovxphja2a
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/junk removal business gets found on Google, answers customer questions 24/7 with AI, and books more jobs automatically. That's a done-for-you website + SEO + chatbot. Ready to
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3muq6dzb5s526
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/plumbing business gets found by search + stays in touch with leads 24/7 via AI chatbot. Website Builders America handles the setup. More calls. Less admin work. Ready to talk?
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3musoswq4jx2t
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/plumbing business needs a website that actually converts visitors into calls. We build SEO-optimized sites + AI chatbots that qualify leads 24/7. Done-for-you. No tech headach
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3muv7bust3j2p
-
-- **@stylelib.org**: Roofix – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=48 
-
-#business #construction #corporate #maintenance #renovation #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3muxdoyqmot2n
-
-- **@lordboise.bsky.social**: Being a plumbing/HVAC company owner has nothing to do with whether he is or isn't qualified to be DHS Secretary.  
-I dislike Dean's implication that plumbing/HVAC business owners can't be effective po
-  → https://bsky.app/profile/lordboise.bsky.social/post/3mggpqayquc2e
-
-- **@marty10.bsky.social**: >>>Trump has made an unprecedented amount of stock trades during his second stint in the WH, including an estimated $194 million in trading volume in March of this year alone, according to Business In
-  → https://bsky.app/profile/marty10.bsky.social/post/3muux2sqwfk2u
-
-- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
- 
-#Alerting #ITOps 
-  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@bartlojo.bsky.social**: www.youtube.com/watch?v=y4Gf...
-  → https://bsky.app/profile/bartlojo.bsky.social/post/3mur4t4gat22l

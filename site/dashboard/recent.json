@@ -1,58 +1,34 @@
 {
-  "updated": "2026-09-08T09:41",
+  "updated": "2026-09-08T13:48",
   "posts": [
     {
-      "ts": "2026-09-08T09:39:20",
-      "channel": "facebook",
-      "item": "card-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-09-08T09:39:17",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-08T09:38:35",
+      "ts": "2026-09-08T13:45:36",
       "channel": "mastodon",
-      "item": "card-cpbj",
+      "item": "card-angi",
       "url": null
     },
     {
-      "ts": "2026-09-08T09:38:30",
+      "ts": "2026-09-08T13:45:31",
       "channel": "tumblr",
-      "item": "pod-ep03-track",
+      "item": "pod-ep03-exclusive",
       "url": null
     },
     {
-      "ts": "2026-09-08T09:38:28",
+      "ts": "2026-09-08T13:45:28",
       "channel": "bluesky",
-      "item": "pod-ep02-system",
+      "item": "pod-ep02-fake",
       "url": null
     },
     {
-      "ts": "2026-09-08T09:38:26",
+      "ts": "2026-09-08T13:45:26",
       "channel": "linkedin",
-      "item": "bj-track",
+      "item": "ad-arctic",
       "url": null
     },
     {
-      "ts": "2026-09-08T09:38:23",
+      "ts": "2026-09-08T13:45:25",
       "channel": "tiktok",
-      "item": "money-leaks-torque",
-      "url": null
-    },
-    {
-      "ts": "2026-09-08T09:38:22",
-      "channel": "ig",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-09-08T09:37:40",
-      "channel": "facebook",
-      "item": "bj-reviews50",
+      "item": "money-leaks",
       "url": null
     }
   ]
