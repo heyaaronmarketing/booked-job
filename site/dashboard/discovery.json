@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T09:34:09Z",
+  "updated": "2026-09-08T14:25:44Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 34,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,6 +92,11 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#plumbingtips",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/plumbingtips"
+      },
+      {
         "tag": "#contractor",
         "uses": 3,
         "link": "https://mastodon.social/tags/contractor"
@@ -102,9 +107,9 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
-        "tag": "#plumbingtips",
+        "tag": "#smallbusinessowners",
         "uses": 2,
-        "link": "https://mastodon.social/tags/plumbingtips"
+        "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
         "tag": "#HVACFailure",
@@ -125,11 +130,6 @@
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#smallbusinessowners",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
         "tag": "#HVACTrends",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10073,
+      "followers": 10074,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4091,
+      "followers": 4092,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1824,
+      "followers": 1827,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1583,
+      "followers": 1584,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
@@ -285,7 +285,7 @@
     {
       "handle": "@thebarehandyman.bsky.social",
       "display": "The Bare Handyman",
-      "followers": 712,
+      "followers": 713,
       "desc": "he/any - professional handyman",
       "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
     }
