@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T23:27",
+  "generated": "2026-09-08T04:38",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 13,
+        "current": 4,
         "target": 22,
         "status": "red",
         "needs": null
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 4,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -75,9 +75,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 35,
+        "current": 26,
         "target": 150,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 23,
+        "current": 20,
         "target": 120,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 143,
+        "current": 147,
         "target": 600,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 121,
+        "current": 122,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,8 +222,8 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1099,
-    "followers": 187,
+    "social_posts": 1103,
+    "followers": 188,
     "engagement": 3,
     "yt_views": 2226,
     "yt_shorts": 48,
@@ -261,6 +261,11 @@
       "title": "\ud83c\udfac Reels behind this week",
       "why": "0/7 \u2014 7 short of pace.",
       "prompt": "We're behind on reels this week (0/7). Cut more podcast & course clips."
+    },
+    {
+      "title": "\ud83d\udc65 New followers (all) behind this week",
+      "why": "20/120 \u2014 100 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (20/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
