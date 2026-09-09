@@ -1,34 +1,52 @@
 {
-  "updated": "2026-09-09T13:46",
+  "updated": "2026-09-09T16:54",
   "posts": [
     {
-      "ts": "2026-09-09T13:44:20",
+      "ts": "2026-09-09T16:52:01",
+      "channel": "facebook",
+      "item": "card-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T16:51:57",
       "channel": "mastodon",
-      "item": "card-rev-elec",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-09-09T13:44:15",
+      "ts": "2026-09-09T16:51:53",
       "channel": "tumblr",
-      "item": "pod-ep02-system",
+      "item": "pod-ep02-fake",
       "url": null
     },
     {
-      "ts": "2026-09-09T13:44:11",
+      "ts": "2026-09-09T16:51:51",
       "channel": "bluesky",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     },
     {
-      "ts": "2026-09-09T13:44:07",
+      "ts": "2026-09-09T16:51:49",
       "channel": "linkedin",
-      "item": "clip1-turd",
+      "item": "clip3-onestar",
       "url": null
     },
     {
-      "ts": "2026-09-09T13:44:05",
+      "ts": "2026-09-09T16:51:48",
       "channel": "tiktok",
-      "item": "rip-speed-rip",
+      "item": "stop-renting-leads",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T16:51:47",
+      "channel": "ig",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T16:51:11",
+      "channel": "facebook",
+      "item": "ad-arctic",
       "url": null
     }
   ]
