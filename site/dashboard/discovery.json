@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T21:47:35Z",
+  "updated": "2026-09-09T00:05:20Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 37,
+        "uses": 30,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#roofing",
-        "uses": 5,
+        "uses": 4,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
@@ -92,19 +92,19 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#plumbing",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#plumbingtips",
-        "uses": 3,
+        "uses": 2,
         "link": "https://mastodon.social/tags/plumbingtips"
       },
       {
         "tag": "#contractor",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#plumbing",
         "uses": 2,
-        "link": "https://mastodon.social/tags/plumbing"
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#smallbusinessowners",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466304,
+        "followers": 466305,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -201,14 +201,14 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4093,
+      "followers": 4092,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3826,
+      "followers": 3825,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1053,
+      "followers": 1052,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
