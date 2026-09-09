@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T04:35:19Z",
+  "updated": "2026-09-09T09:37:39Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,22 +78,22 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 31,
+        "uses": 32,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#roofing",
-        "uses": 4,
+        "uses": 6,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#hvac",
-        "uses": 3,
+        "uses": 4,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
-        "uses": 2,
+        "uses": 3,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466305,
+        "followers": 466304,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23269,
+        "followers": 23270,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -165,17 +165,17 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8488,
+        "followers": 8487,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7197,
+        "followers": 7195,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2341,
+        "followers": 2339,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10075,
+      "followers": 10074,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2234,
+      "followers": 2235,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
