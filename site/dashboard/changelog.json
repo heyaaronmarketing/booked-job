@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-09-09T09:41",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: The FTC fined HomeAdvisor $7.2M"
+    },
+    {
+      "ts": "2026-09-09T09:41",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
+    },
+    {
+      "ts": "2026-09-09T09:40",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Causal Inference with Python: A Guide to Regression Discontinuity Design | Lukas"
+    },
+    {
+      "ts": "2026-09-09T09:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor phone"
+    },
+    {
+      "ts": "2026-09-09T09:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz gbp stale"
+    },
+    {
       "ts": "2026-09-09T04:38",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from bounces-1138496118209375426@explore.pinterest.com: Major idea moment"
-    },
-    {
-      "ts": "2026-09-01T16:57",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz truck payment"
-    },
-    {
-      "ts": "2026-09-01T16:56",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy rate"
-    },
-    {
-      "ts": "2026-09-01T13:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-09-01T13:35",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Your vision is unmatched"
-    },
-    {
-      "ts": "2026-09-01T13:35",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy worst"
     }
   ]
 }

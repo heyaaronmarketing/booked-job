@@ -1,4 +1,65 @@
 {
-  "updated": "2026-09-09T04:41",
-  "posts": []
+  "updated": "2026-09-09T09:43",
+  "posts": [
+    {
+      "ts": "2026-09-09T09:41:07",
+      "channel": "youtube",
+      "item": "bj-ftc",
+      "url": "https://youtu.be/kYssCGucBaw"
+    },
+    {
+      "ts": "2026-09-09T09:40:58",
+      "channel": "facebook",
+      "item": "card-rev-paint",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:40:54",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:40:24",
+      "channel": "mastodon",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:40:18",
+      "channel": "tumblr",
+      "item": "pod-ep03-lie",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:40:16",
+      "channel": "bluesky",
+      "item": "pod-ep02-howmany",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:40:12",
+      "channel": "linkedin",
+      "item": "clip-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:40:10",
+      "channel": "tiktok",
+      "item": "rip-reviews-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:40:07",
+      "channel": "ig",
+      "item": "pod-ep02-system",
+      "url": null
+    },
+    {
+      "ts": "2026-09-09T09:39:28",
+      "channel": "facebook",
+      "item": "bj-track",
+      "url": null
+    }
+  ]
 }
