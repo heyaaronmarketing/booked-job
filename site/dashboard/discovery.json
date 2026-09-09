@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T14:27:35Z",
+  "updated": "2026-09-09T18:32:25Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 35,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466304,
+        "followers": 466305,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23271,
+        "followers": 23272,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10075,
+      "followers": 10076,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4095,
+      "followers": 4099,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -285,7 +285,7 @@
     {
       "handle": "@thebarehandyman.bsky.social",
       "display": "The Bare Handyman",
-      "followers": 715,
+      "followers": 714,
       "desc": "he/any - professional handyman",
       "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
     }

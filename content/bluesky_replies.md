@@ -3,6 +3,44 @@
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
 - **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x
+
+- **@stylelib.org**: Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=4706 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumber #responsive #themef
+  → https://bsky.app/profile/stylelib.org/post/3muo4nmdkzs2f
+
+- **@rivercade.bsky.social**: Ask an assistant to recommend a plumber in your town. You get a short list, and nothing on it is sponsored.
+
+No auction. No bid. No rep to call.
+
+The only input is what a machine can read about a busi
+  → https://bsky.app/profile/rivercade.bsky.social/post/3muoahl5il42q
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://themes.stylelib.org/?p=7465 
+
+#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3murmgl3xvo24
+
+- **@stylelib.org**: Hank – Construction WordPress theme
+
+ https://stylelib.org/?p=213128 
+
+#constructor #themeforest #visualcomposer #wordpress #architecture #business #plumber #building #company #corporate #responsive #
+  → https://bsky.app/profile/stylelib.org/post/3muuvhjtzqd2g
+
+- **@rankforaisearch.bsky.social**: Homeowners aren't just typing keywords into Google anymore—they're asking ChatGPT, Perplexity, and Google AI Overviews questions like "Who is the best local plumber for an emergency leak?" 
+If your  b
+  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mv2i3wgguk2z
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
   → https://bsky.app/profile/aicantseeme.bsky.social/post/3muz64z4r672q
 
 - **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
@@ -141,34 +179,3 @@ Design and Build your Professionnal Business Website, responsive design, payment
 
 #business #construction #corporate #maintenance #renovation #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3muxdoyqmot2n
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets maybe 3-5 calls a week. A website + SEO + AI chatbot that answers "when can you come out?" at 2am? That turns into 15-20. We build it. You just show
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mul5lcztoh22
-
-- **@rivercade.bsky.social**: We checked the /llms.txt of 550 plumbing, HVAC, roofing and electric firms. 153 have one, and 80 of them did not write it.
-
-54 of those files tell an AI agent how to talk to the business. Wix or Shopi
-  → https://bsky.app/profile/rivercade.bsky.social/post/3mupovxphja2a
-
-- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
-
- https://stylelib.org/?p=185862 
-
-#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
-  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
-
-- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
-
-- **@quincunctial.bsky.social**: Less than 24 hours after 9/11 the city announced The Jacob Javits Convention Center as a rendezvous point for anyone in the building trades to volunteer to help. After a matter of two or three hours t
-  → https://bsky.app/profile/quincunctial.bsky.social/post/3muxs243y6c22
-
-- **@grumpygeek4sure.bsky.social**: Canada Today - Carney Gives NO ATTENTION to Trump's STUPID Memes on Canada - Sep 7, 2026
-
-youtu.be/O7G8kvTix2I?...
-
-On Labor Day, PM Mark Carney thanked unions, listed nation-building projects, and an
-  → https://bsky.app/profile/grumpygeek4sure.bsky.social/post/3muxyaczoes2e
