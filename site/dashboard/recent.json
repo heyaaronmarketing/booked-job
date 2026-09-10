@@ -1,52 +1,40 @@
 {
-  "updated": "2026-09-10T11:34",
+  "updated": "2026-09-10T14:49",
   "posts": [
     {
-      "ts": "2026-09-10T11:31:55",
-      "channel": "facebook",
-      "item": "card-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-09-10T11:31:51",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-10T11:31:10",
+      "ts": "2026-09-10T14:46:32",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-09-10T11:31:06",
+      "ts": "2026-09-10T14:46:27",
       "channel": "tumblr",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-09-10T11:31:04",
+      "ts": "2026-09-10T14:46:24",
       "channel": "bluesky",
-      "item": "pod-ep01-ftc",
+      "item": "pod-ep01-refunds",
       "url": null
     },
     {
-      "ts": "2026-09-10T11:31:02",
+      "ts": "2026-09-10T14:46:21",
       "channel": "linkedin",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
       "url": null
     },
     {
-      "ts": "2026-09-10T11:31:00",
+      "ts": "2026-09-10T14:46:20",
       "channel": "tiktok",
-      "item": "pod-ep03-exclusive",
+      "item": "pod-ep03-channels",
       "url": null
     },
     {
-      "ts": "2026-09-10T11:30:59",
-      "channel": "facebook",
-      "item": "ad-summit",
+      "ts": "2026-09-10T14:46:19",
+      "channel": "ig",
+      "item": "pod-ep02-peak",
       "url": null
     }
   ]
