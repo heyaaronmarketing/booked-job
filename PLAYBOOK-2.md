@@ -110,11 +110,15 @@ do you need a website, what it should cost, the 5 must-haves, your first $200 of
 
 ---
 
-## FUNNEL
-Content → lead magnet → **email** → segment:
-- **No website** → Hey Aaron builds it ($500 web).
-- **Has a website** → Consent Resolve.
-The education self-segments the lead.
+## FUNNEL — promote the AGENCY (Aaron, 2026-09-10)
+**Directional change: the whole play now directly promotes Hey Aaron! Marketing (aaron.chat),
+NOT Consent Resolve.** The Marketing-101 theme (do you need a website, what it should cost, when
+to hire an agency) is a natural top-of-funnel for the agency that builds those sites.
+- **Primary CTA everywhere → aaron.chat.** No website → Hey Aaron builds it ($500 flat). Has a
+  website → Hey Aaron does social ($500) / ads (15%, $2k min).
+- **Email (the Starter Kit) is the soft path** for the not-ready-yet — capture, then nurture to
+  aaron.chat.
+- Same ICP (low-tech service pro), same voice, same visuals — real offer at the end.
 
 ---
 

@@ -38,6 +38,15 @@ CAPTURE_BLOCK = '''<div class="capture">
   <div class="capnote">Join contractors reading the numbers nobody else will show them. Unsubscribe anytime.</div>
 </div>'''
 
+# Agency CTA (Aaron 2026-09-10): every page directly promotes Hey Aaron! Marketing (aaron.chat).
+# Inline-styled so it renders identically on all 141 existing pages regardless of CSS.
+AGENCY_CTA = '''<div class="agency-cta" style="background:#15171A;border:2px solid #FFD23F;border-radius:14px;padding:26px;margin:34px 0">
+  <div style="color:#FFD23F;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.6px">Rather just have it done right?</div>
+  <h3 style="color:#fff;margin:10px 0 6px;font-size:23px;line-height:1.25">Hey Aaron builds honest websites for contractors.</h3>
+  <p style="color:#c7ccd3;margin:0 0 18px;font-size:15px;line-height:1.55">Flat <b style="color:#fff">$500</b>. No monthly games, no runaround &mdash; a site that does the four things that actually book jobs. Get found, get picked, get booked.</p>
+  <a href="https://aaron.chat" style="display:inline-block;background:#FF6A00;color:#fff;font-weight:800;text-decoration:none;padding:13px 26px;border-radius:8px;font-size:15px">See aaron.chat &rarr;</a>
+</div>'''
+
 
 def render(a):
     slug = a["slug"]; url = f"{B}/blog/{slug}/"
@@ -105,6 +114,7 @@ def render(a):
   <p class="lead">{lead}</p>
   <div class="stat"><div class="big">{big}</div><div class="lab">{lab}</div></div>{secs}
   <h2>Frequently asked questions</h2>{faq_html}
+  {AGENCY_CTA}
   {CAPTURE_BLOCK}
   <p class="answer" style="font-size:14px">More free tools: the <a href="https://booked-job.com/tools/">contractor calculators</a> and the <a href="https://booked-job.com/">Marketing 101 course</a>.</p>
 </article>
