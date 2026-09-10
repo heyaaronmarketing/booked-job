@@ -1,52 +1,34 @@
 {
-  "updated": "2026-09-09T16:54",
+  "updated": "2026-09-09T19:19",
   "posts": [
     {
-      "ts": "2026-09-09T16:52:01",
-      "channel": "facebook",
+      "ts": "2026-09-09T19:18:05",
+      "channel": "mastodon",
       "item": "card-speed",
       "url": null
     },
     {
-      "ts": "2026-09-09T16:51:57",
-      "channel": "mastodon",
-      "item": "card-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-09-09T16:51:53",
+      "ts": "2026-09-09T19:18:00",
       "channel": "tumblr",
-      "item": "pod-ep02-fake",
+      "item": "pod-ep02-onetap",
       "url": null
     },
     {
-      "ts": "2026-09-09T16:51:51",
+      "ts": "2026-09-09T19:17:58",
       "channel": "bluesky",
-      "item": "pod-ep01-verdict",
+      "item": "pod-ep01-speed",
       "url": null
     },
     {
-      "ts": "2026-09-09T16:51:49",
+      "ts": "2026-09-09T19:17:56",
       "channel": "linkedin",
-      "item": "clip3-onestar",
+      "item": "is-angi-worth-it",
       "url": null
     },
     {
-      "ts": "2026-09-09T16:51:48",
+      "ts": "2026-09-09T19:17:55",
       "channel": "tiktok",
-      "item": "stop-renting-leads",
-      "url": null
-    },
-    {
-      "ts": "2026-09-09T16:51:47",
-      "channel": "ig",
-      "item": "pod-ep02-fake",
-      "url": null
-    },
-    {
-      "ts": "2026-09-09T16:51:11",
-      "channel": "facebook",
-      "item": "ad-arctic",
+      "item": "pod-ep03-verdict",
       "url": null
     }
   ]

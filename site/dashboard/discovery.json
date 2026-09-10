@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T21:39:13Z",
+  "updated": "2026-09-10T00:06:20Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,17 +78,17 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 36,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#roofing",
-        "uses": 6,
+        "uses": 5,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#hvac",
-        "uses": 5,
+        "uses": 4,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -102,11 +102,6 @@
         "link": "https://mastodon.social/tags/plumbingtips"
       },
       {
-        "tag": "#contractor",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
         "tag": "#smallbusinessowners",
         "uses": 2,
         "link": "https://mastodon.social/tags/smallbusinessowners"
@@ -117,30 +112,35 @@
         "link": "https://mastodon.social/tags/HVACFailure"
       },
       {
-        "tag": "#HVACSabotage",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/HVACSabotage"
-      },
-      {
         "tag": "#roofing_work",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing_work"
       },
       {
-        "tag": "#handyman",
+        "tag": "#contractor",
         "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#HVACTrends",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACTrends"
+      },
+      {
+        "tag": "#HVACSabotage",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACSabotage"
+      },
+      {
+        "tag": "#HVACOperations",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACOperations"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466325,
+        "followers": 466324,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
