@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T19:19",
+  "generated": "2026-09-10T00:56",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 0,
+        "current": 2,
         "target": 22,
         "status": "red",
         "needs": null
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 34,
+        "current": 23,
         "target": 150,
         "status": "red",
         "needs": null
@@ -97,7 +97,7 @@
         "label": "YouTube Shorts/videos",
         "current": 3,
         "target": 7,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 23,
+        "current": 22,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 111,
+        "current": 113,
         "target": 600,
         "status": "red",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1096,
+        "current": 1103,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 128,
+        "current": 129,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,10 +222,10 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1067,
-    "followers": 194,
+    "social_posts": 1069,
+    "followers": 195,
     "engagement": 4,
-    "yt_views": 2244,
+    "yt_views": 2251,
     "yt_shorts": 49,
     "email_subs": 7,
     "traffic": 0
@@ -259,8 +259,8 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "34/150 \u2014 116 short of pace.",
-      "prompt": "We're behind on social posts this week (34/150). Refill the social queues / add more variant cards."
+      "why": "23/150 \u2014 127 short of pace.",
+      "prompt": "We're behind on social posts this week (23/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83c\udfac Reels behind this week",
@@ -269,8 +269,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "23/120 \u2014 97 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (23/120). Refill the social queues / add more variant cards."
+      "why": "22/120 \u2014 98 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (22/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
