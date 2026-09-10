@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T11:10:27Z",
+  "updated": "2026-09-10T16:19:05Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 31,
+        "uses": 32,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -122,6 +122,11 @@
         "link": "https://mastodon.social/tags/RoofingMachine"
       },
       {
+        "tag": "#roofing_installation",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/roofing_installation"
+      },
+      {
         "tag": "#contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractor"
@@ -130,11 +135,6 @@
         "tag": "#HVACTrends",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACTrends"
-      },
-      {
-        "tag": "#HVACSabotage",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACSabotage"
       }
     ],
     "accounts": [
@@ -165,12 +165,12 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8487,
+        "followers": 8488,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7195,
+        "followers": 7200,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10078,
+      "followers": 10079,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4102,
+      "followers": 4105,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
