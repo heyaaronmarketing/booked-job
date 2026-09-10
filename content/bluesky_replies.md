@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
+
+- **@stylelib.org**: Roofix – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=48 
+
+#business #construction #corporate #maintenance #renovation #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3muxdoyqmot2n
+
+- **@ralphhickman.bsky.social**: Not quite true. And it's hardly Doxing when it's publicly available information on a Government website?
+
+The company was set up by his mother, transferred to Daniel
+
+Kudos to his mother for telling t
+  → https://bsky.app/profile/ralphhickman.bsky.social/post/3mv5cwu3dps2c
+
+- **@joannahastings.bsky.social**: Primark? Isn't this essentially wear-once-and-throw-away quality fast fashion from child slave labour? Go to a charity shop and find something worth wearing, for the love. 
+www.theguardian.com/busines
+  → https://bsky.app/profile/joannahastings.bsky.social/post/3mv5onvxbos2e
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -181,17 +202,3 @@ We provide specialty accounting & bookkeeping for:
 → HVAC companies & contractors
 → Realtors & home service busi
   → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@texascontractorseo.bsky.social**: Consistent local proof keeps you ahead, not behind. A Houston contractor reclaimed top spots by adding project galleries every month, which kept prospects coming back. 📈 Ready to simplify your life? h
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrl7brcu2o
-
-- **@texascontractorseo.bsky.social**: Adding city-specific pages matters if you cover multiple Texas cities. One client expanded from Dallas to Austin and doubled lead flow by targeting each city properly. 🌎 Ready to simplify your life? h
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlaqqdc2h
-
-- **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
