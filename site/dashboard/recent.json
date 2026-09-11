@@ -1,58 +1,40 @@
 {
-  "updated": "2026-09-11T11:37",
+  "updated": "2026-09-11T14:51",
   "posts": [
     {
-      "ts": "2026-09-11T11:37:01",
-      "channel": "youtube",
-      "item": "bj-cpl",
-      "url": "https://youtu.be/4iHxjDG1jxc"
-    },
-    {
-      "ts": "2026-09-11T11:36:49",
-      "channel": "facebook",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-09-11T11:36:46",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-11T11:36:06",
+      "ts": "2026-09-11T14:48:35",
       "channel": "mastodon",
-      "item": "card-missedcall",
+      "item": "card-trade",
       "url": null
     },
     {
-      "ts": "2026-09-11T11:36:01",
+      "ts": "2026-09-11T14:48:31",
       "channel": "tumblr",
-      "item": "pod-ep01-ftc",
+      "item": "pod-ep01-refunds",
       "url": null
     },
     {
-      "ts": "2026-09-11T11:35:56",
+      "ts": "2026-09-11T14:48:29",
       "channel": "bluesky",
-      "item": "bj-angi",
+      "item": "bj-reviews",
       "url": null
     },
     {
-      "ts": "2026-09-11T11:35:50",
+      "ts": "2026-09-11T14:48:25",
       "channel": "linkedin",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-09-11T11:35:49",
+      "ts": "2026-09-11T14:47:56",
       "channel": "tiktok",
-      "item": "pod-ep02-fake",
+      "item": "pod-ep02-onetap",
       "url": null
     },
     {
-      "ts": "2026-09-11T11:35:48",
-      "channel": "facebook",
-      "item": "clip-speed",
+      "ts": "2026-09-11T14:47:55",
+      "channel": "ig",
+      "item": "pod-ep02-invisible",
       "url": null
     }
   ]
