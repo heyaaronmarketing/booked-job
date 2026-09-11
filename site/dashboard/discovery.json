@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T05:51:06Z",
+  "updated": "2026-09-11T11:09:41Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 28,
+        "uses": 31,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 4,
+        "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -127,14 +127,14 @@
         "link": "https://mastodon.social/tags/roofing_installation"
       },
       {
+        "tag": "#ElectricianSandyford",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ElectricianSandyford"
+      },
+      {
         "tag": "#HVACTrends",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACTrends"
-      },
-      {
-        "tag": "#HVACFailure",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACFailure"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23284,
+        "followers": 23288,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10082,
+      "followers": 10083,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },

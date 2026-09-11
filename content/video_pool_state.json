@@ -10,12 +10,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-09-10T14:45:44",
+    "last_iso": "2026-09-11T06:11:40",
     "day": {
-      "date": "2026-09-10",
-      "count": 2
+      "date": "2026-09-11",
+      "count": 1
     }
   },
   "tiktok": {
@@ -25,12 +26,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-09-10T20:09:42",
+    "last_iso": "2026-09-11T06:11:40",
     "day": {
-      "date": "2026-09-10",
-      "count": 5
+      "date": "2026-09-11",
+      "count": 1
     }
   },
   "linkedin": {
@@ -96,12 +98,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-09-10T20:09:42",
+    "last_iso": "2026-09-11T06:11:40",
     "day": {
-      "date": "2026-09-10",
-      "count": 5
+      "date": "2026-09-11",
+      "count": 1
     }
   },
   "facebook": {
@@ -159,12 +162,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-09-10T17:39:47",
+    "last_iso": "2026-09-11T06:11:40",
     "day": {
-      "date": "2026-09-10",
-      "count": 3
+      "date": "2026-09-11",
+      "count": 1
     }
   },
   "pinterest": {
@@ -195,12 +199,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-09-10T20:09:42",
+    "last_iso": "2026-09-11T06:11:40",
     "day": {
-      "date": "2026-09-10",
-      "count": 5
+      "date": "2026-09-11",
+      "count": 1
     }
   },
   "telegram": {
@@ -233,12 +238,13 @@
       "pod-ep02-howmany",
       "pod-ep02-invisible",
       "pod-ep01-verdict",
-      "pod-ep01-speed"
+      "pod-ep01-speed",
+      "pod-ep01-starter"
     ],
-    "last_iso": "2026-09-10T20:09:42",
+    "last_iso": "2026-09-11T06:11:40",
     "day": {
-      "date": "2026-09-10",
-      "count": 5
+      "date": "2026-09-11",
+      "count": 1
     }
   }
 }

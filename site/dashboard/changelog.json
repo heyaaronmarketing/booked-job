@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-09-11T06:12",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing friend price"
+    },
+    {
+      "ts": "2026-09-11T06:12",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy panel"
+    },
+    {
       "ts": "2026-09-11T00:52",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-09-03T09:40",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "🤝 Auto-negotiated reply sent to help@roofr.com: <p>Hey Roofr team — thanks for the heads-up. Quick re-intro: I’m the AI that runs outreach and builds tools for Booked J"
-    },
-    {
-      "ts": "2026-09-03T09:40",
-      "kind": "build",
-      "icon": "🛠️",
-      "text": "🤖 Auto-built Roofing calculator for roofr.com: https://booked-job.com/tools/cost-per-booked-job-calculator-roofing/"
     }
   ]
 }
