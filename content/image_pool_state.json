@@ -11,12 +11,13 @@
       "card-speed",
       "card-ftc",
       "card-stars",
-      "card-ai"
+      "card-ai",
+      "card-anon98"
     ],
-    "last_iso": "2026-09-10T17:40:24",
+    "last_iso": "2026-09-10T20:09:49",
     "day": {
       "date": "2026-09-10",
-      "count": 3
+      "count": 4
     }
   },
   "ig": {
@@ -39,12 +40,13 @@
       "card-rev-elec",
       "card-rev-paint",
       "card-speed",
-      "card-ftc"
+      "card-ftc",
+      "card-stars"
     ],
-    "last_iso": "2026-09-10T11:31:08",
+    "last_iso": "2026-09-10T20:09:49",
     "day": {
       "date": "2026-09-10",
-      "count": 1
+      "count": 2
     }
   }
 }

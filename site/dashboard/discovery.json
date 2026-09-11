@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:28:40Z",
+  "updated": "2026-09-11T00:58:27Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 32,
+        "uses": 28,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -87,19 +87,14 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#hvac",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
         "tag": "#plumbing",
         "uses": 4,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
-        "tag": "#plumbingtips",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/plumbingtips"
+        "tag": "#hvac",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#smallbusinessowners",
@@ -107,9 +102,9 @@
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#HVACFailure",
+        "tag": "#plumbingtips",
         "uses": 1,
-        "link": "https://mastodon.social/tags/HVACFailure"
+        "link": "https://mastodon.social/tags/plumbingtips"
       },
       {
         "tag": "#roofing_work",
@@ -127,14 +122,19 @@
         "link": "https://mastodon.social/tags/roofing_installation"
       },
       {
-        "tag": "#contractor",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
         "tag": "#HVACTrends",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACTrends"
+      },
+      {
+        "tag": "#HVACFailure",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACFailure"
+      },
+      {
+        "tag": "#HVACSabotage",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACSabotage"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10079,
+      "followers": 10081,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
