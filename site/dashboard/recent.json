@@ -1,41 +1,4 @@
 {
-  "updated": "2026-09-10T20:10",
-  "posts": [
-    {
-      "ts": "2026-09-10T20:09:55",
-      "channel": "facebook",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-09-10T20:09:51",
-      "channel": "mastodon",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-09-10T20:09:47",
-      "channel": "tumblr",
-      "item": "pod-ep01-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-09-10T20:09:46",
-      "channel": "bluesky",
-      "item": "pod-ep01-wrongnum",
-      "url": null
-    },
-    {
-      "ts": "2026-09-10T20:09:44",
-      "channel": "linkedin",
-      "item": "rip-reviews-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-09-10T20:09:43",
-      "channel": "tiktok",
-      "item": "pod-ep03-lie",
-      "url": null
-    }
-  ]
+  "updated": "2026-09-11T00:55",
+  "posts": []
 }

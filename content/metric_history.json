@@ -454,6 +454,13 @@
       "engagement": 4,
       "email": 7,
       "reach": 35581
+    },
+    {
+      "date": "2026-09-11",
+      "audience": 204,
+      "engagement": 3,
+      "email": 7,
+      "reach": 35582
     }
   ]
 }

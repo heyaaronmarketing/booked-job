@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T00:58:27Z",
+  "updated": "2026-09-11T05:51:06Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -102,6 +102,11 @@
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
+        "tag": "#hvacousticpolyesterpanels",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticpolyesterpanels"
+      },
+      {
         "tag": "#plumbingtips",
         "uses": 1,
         "link": "https://mastodon.social/tags/plumbingtips"
@@ -130,11 +135,6 @@
         "tag": "#HVACFailure",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACFailure"
-      },
-      {
-        "tag": "#HVACSabotage",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACSabotage"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23283,
+        "followers": 23284,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -180,7 +180,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 727,
+        "followers": 726,
         "link": "https://mastodon.social/@Noshir"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10081,
+      "followers": 10082,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1828,
+      "followers": 1829,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
