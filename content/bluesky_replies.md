@@ -2,6 +2,35 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@thekitastrophe.bsky.social**: Remember when the demented felon in the White House and the incompetent Attorney General in DC INSISTED that it had been the work of vandals?
+
+The corruption, lies, and ineptness remain utterly stagge
+  → https://bsky.app/profile/thekitastrophe.bsky.social/post/3mvb5dgy3ks25
+
+- **@ff072203.bsky.social**: THE REFLECTING POOL 
+
+The President lied ... again. 
+
+The US Attorney General for DC lied. When will she lose her law license?
+
+www.nytimes.com/2026/09/11/c...
+  → https://bsky.app/profile/ff072203.bsky.social/post/3mvb67qwmtc25
+
+- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
+👇🏼
+@angieforfl.bsky.social
+  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
+
+- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
+
+Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
+  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
+
+- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
+
+Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
+  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
+
 - **@jorgecoolreyes.bsky.social**: Pieces like THIS is exactly why I subscribe to @toomuchtvcom.bsky.social. Between Rick Ellis & @elainelow.bsky.social's Series Business/The Ankler, they're not trades parroting PR. Real, independent c
   → https://bsky.app/profile/jorgecoolreyes.bsky.social/post/3mvb6hfur5c2y
 
@@ -146,18 +175,3 @@ If a contractor cannot explain how planning leads into construction, that gap us
 
 - **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
   → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
-
-- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
-
-- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
-
-- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
-
-- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u

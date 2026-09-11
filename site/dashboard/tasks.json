@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @jorgecoolreyes.bsky.social: “Pieces like THIS is exactly why I subscribe to @toomuchtvcom.bsky.social. Between Rick Ell…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/jorgecoolreyes.bsky.social/post/3mvb6hfur5c2y",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @aicantseeme.bsky.social: “When a customer asks ChatGPT \"best plumber in Denver\", someone gets named. If it's never y…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Construction WordPress Theme   https://themes.stylelib.org/?p=4706   #architecture #buildi…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @rivercade.bsky.social: “Ask an assistant to recommend a plumber in your town. You get a short list, and nothing on…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @aicantseeme.bsky.social: “When a customer asks ChatGPT \"best plumber in Denver\", someone gets named. If it's never y…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/aicantseeme.bsky.social/post/3murmgl3xvo24",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @stylelib.org: “Hank – Construction WordPress theme   https://stylelib.org/?p=213128   #constructor #theme…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/stylelib.org/post/3muuvhjtzqd2g",
       "est": "2 min"
     },
     {
