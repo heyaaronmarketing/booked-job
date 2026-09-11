@@ -1,40 +1,58 @@
 {
-  "updated": "2026-09-11T06:15",
+  "updated": "2026-09-11T11:37",
   "posts": [
     {
-      "ts": "2026-09-11T06:12:45",
-      "channel": "tumblr",
-      "item": "pod-ep01-starter",
-      "url": null
+      "ts": "2026-09-11T11:37:01",
+      "channel": "youtube",
+      "item": "bj-cpl",
+      "url": "https://youtu.be/4iHxjDG1jxc"
     },
     {
-      "ts": "2026-09-11T06:12:44",
-      "channel": "bluesky",
-      "item": "pod-ep01-shared",
-      "url": null
-    },
-    {
-      "ts": "2026-09-11T06:12:42",
-      "channel": "linkedin",
-      "item": "rip-speed-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-09-11T06:12:41",
-      "channel": "tiktok",
-      "item": "pod-ep02-system",
-      "url": null
-    },
-    {
-      "ts": "2026-09-11T06:12:40",
-      "channel": "ig",
-      "item": "pod-ep02-howmany",
-      "url": null
-    },
-    {
-      "ts": "2026-09-11T06:12:07",
+      "ts": "2026-09-11T11:36:49",
       "channel": "facebook",
-      "item": "clip-porno3",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-09-11T11:36:46",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-09-11T11:36:06",
+      "channel": "mastodon",
+      "item": "card-missedcall",
+      "url": null
+    },
+    {
+      "ts": "2026-09-11T11:36:01",
+      "channel": "tumblr",
+      "item": "pod-ep01-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-09-11T11:35:56",
+      "channel": "bluesky",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-09-11T11:35:50",
+      "channel": "linkedin",
+      "item": "stop-renting-leads",
+      "url": null
+    },
+    {
+      "ts": "2026-09-11T11:35:49",
+      "channel": "tiktok",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-09-11T11:35:48",
+      "channel": "facebook",
+      "item": "clip-speed",
       "url": null
     }
   ]

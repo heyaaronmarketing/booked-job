@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T11:09:41Z",
+  "updated": "2026-09-11T16:23:13Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -122,11 +122,6 @@
         "link": "https://mastodon.social/tags/RoofingMachine"
       },
       {
-        "tag": "#roofing_installation",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofing_installation"
-      },
-      {
         "tag": "#ElectricianSandyford",
         "uses": 1,
         "link": "https://mastodon.social/tags/ElectricianSandyford"
@@ -135,12 +130,17 @@
         "tag": "#HVACTrends",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACTrends"
+      },
+      {
+        "tag": "#HVACFailure",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACFailure"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466323,
+        "followers": 466372,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10083,
+      "followers": 10084,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1829,
+      "followers": 1830,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
-      "followers": 1472,
+      "followers": 1473,
       "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
       "link": "https://bsky.app/profile/roofing11.bsky.social"
     },
