@@ -2,6 +2,34 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@glitchdeals.bsky.social**: Scotch General Purpose Contractor Grade Masking Tape (1.41'' x 60.1 Yd.) only $2.98 (Reg $7.01) or $2.53
+https://www.amazon.com/gp/product/B00004Z49P?smid=ATVPDKIKX0DER&th=1&linkCode=ll2&tag=bluesky0d
+  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mv5ttbxipz2o
+
+- **@thekitastrophe.bsky.social**: Remember when the demented felon in the White House and the incompetent Attorney General in DC INSISTED that it had been the work of vandals?
+
+The corruption, lies, and ineptness remain utterly stagge
+  → https://bsky.app/profile/thekitastrophe.bsky.social/post/3mvb5dgy3ks25
+
+- **@ff072203.bsky.social**: THE REFLECTING POOL 
+
+The President lied ... again. 
+
+The US Attorney General for DC lied. When will she lose her law license?
+
+www.nytimes.com/2026/09/11/c...
+  → https://bsky.app/profile/ff072203.bsky.social/post/3mvb67qwmtc25
+
+- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
+👇🏼
+@angieforfl.bsky.social
+  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
+
+- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
+
+Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
+  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
+
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
 
@@ -151,26 +179,3 @@ Kudos to his mother for telling t
 
 - **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
-
-- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
-
-- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
-
-- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@stylelib.org**: Reincon – Construction WordPress Theme
-
- https://stylelib.org/?p=900343 
-
-#builder #electrician #handyman #painter #themeforest #wordpress #architecture #business #plumber #building #engineering #comp
-  → https://bsky.app/profile/stylelib.org/post/3mszp5mgq4725
-
-- **@stylelib.org**: Tanj  – Construction WordPress Theme
-
- https://stylelib.org/?p=164862 
-
-#designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
-  → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22

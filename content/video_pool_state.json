@@ -34,12 +34,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-09-12T09:13:55",
+    "last_iso": "2026-09-12T12:12:41",
     "day": {
       "date": "2026-09-12",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -47,12 +48,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-09-12T09:13:55",
+    "last_iso": "2026-09-12T12:12:41",
     "day": {
       "date": "2026-09-12",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -156,12 +158,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-09-12T09:13:55",
+    "last_iso": "2026-09-12T12:12:41",
     "day": {
       "date": "2026-09-12",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -200,12 +203,13 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-09-12T09:13:55",
+    "last_iso": "2026-09-12T12:12:41",
     "day": {
       "date": "2026-09-12",
-      "count": 1
+      "count": 2
     }
   }
 }
