@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @websitebuilders.bsky.social: “Your roofing/landscaping/plumbing business needs a website that actually converts visitors…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/websitebuilders.bsky.social/post/3muv7bust3j2p",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @websitebuilders.bsky.social: “Your roofing/landscaping/junk removal business gets found by *one* person online: Google. …”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/websitebuilders.bsky.social/post/3mv7b5jukgs2z",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Renovation – Construction Company WordPress Theme   https://themes.stylelib.org/?p=7465   …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Hank – Construction WordPress theme   https://stylelib.org/?p=213128   #constructor #theme…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @aicantseeme.bsky.social: “When a customer asks ChatGPT \"best plumber in Denver\", someone gets named. If it's never y…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/aicantseeme.bsky.social/post/3muz64z4r672q",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @rankforaisearch.bsky.social: “Homeowners aren't just typing keywords into Google anymore—they're asking ChatGPT, Perplex…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/rankforaisearch.bsky.social/post/3mv2i3wgguk2z",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @hometipsworld.bsky.social: “Hiring tree service? Don't sign before checking liability & cleanup clauses:   homeimprove…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/hometipsworld.bsky.social/post/3mv44ujp42k2s",
       "est": "2 min"
     },
     {

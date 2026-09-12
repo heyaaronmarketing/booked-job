@@ -2,6 +2,49 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@opsmatters.com**: The latest update for #SIGNL4 includes "Stop Chasing Field Technicians – Track Work Progress with One-Tap Status Updates" and "Actionable Alerts: What Makes Alerts Truly Helpful?".
+ 
+#Alerting #ITOps 
+  → https://bsky.app/profile/opsmatters.com/post/3msrrwhonsi25
+
+- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
+
+www.you
+  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
+
+- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
+
+https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
+  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
+
+- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
+
+Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
+  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
+
+- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
+  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
+
 - **@websitebuilders.bsky.social**: Your roofing/landscaping/plumbing business needs a website that actually converts visitors into calls. We build SEO-optimized sites + AI chatbots that qualify leads 24/7. Done-for-you. No tech headach
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3muv7bust3j2p
 
@@ -131,78 +174,3 @@ Kudos to his mother for telling t
 
 #designthemes #electrician #renovation #themeforest #wordpress #agency #architecture #business #plumber #building #company #corp
   → https://bsky.app/profile/stylelib.org/post/3mt5b5g426m22
-
-- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
-
-What business does government have deciding what relationships you can have, with whom, or what to call them?
-
-And why should
-  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
-
-- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
-
- https://stylelib.org/?p=973301 
-
-#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
-  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
-
-- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
-
- https://stylelib.org/?p=185862 
-
-#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
-  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
-
-- **@stylelib.org**: Electrik – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=888904 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3mucherso2f2y
-
-- **@stylelib.org**: Easton – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=663877 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3musp2i2kyo2g
-
-- **@stylelib.org**: Dustar – Cleaning Services WordPress Theme
-
- https://stylelib.org/?p=155809 
-
-#cleaning #cleaningcompany #electrician #handyman #remodeling #themeforest #wordpress #business #plumber #corporate #maint
-  → https://bsky.app/profile/stylelib.org/post/3mv36muadai27
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@thekitastrophe.bsky.social**: Remember when the demented felon in the White House and the incompetent Attorney General in DC INSISTED that it had been the work of vandals?
-
-The corruption, lies, and ineptness remain utterly stagge
-  → https://bsky.app/profile/thekitastrophe.bsky.social/post/3mvb5dgy3ks25
-
-- **@ff072203.bsky.social**: THE REFLECTING POOL 
-
-The President lied ... again. 
-
-The US Attorney General for DC lied. When will she lose her law license?
-
-www.nytimes.com/2026/09/11/c...
-  → https://bsky.app/profile/ff072203.bsky.social/post/3mvb67qwmtc25
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
-
-Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
-  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b

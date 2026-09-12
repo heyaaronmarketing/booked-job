@@ -12,12 +12,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-09-11T14:47:00",
+    "last_iso": "2026-09-12T09:13:55",
     "day": {
-      "date": "2026-09-11",
-      "count": 2
+      "date": "2026-09-12",
+      "count": 1
     }
   },
   "tiktok": {
@@ -32,24 +33,26 @@
       "pod-ep02-fake",
       "pod-ep02-onetap",
       "pod-ep02-peak",
-      "pod-ep02-howmany"
+      "pod-ep02-howmany",
+      "pod-ep02-invisible"
     ],
-    "last_iso": "2026-09-11T20:04:50",
+    "last_iso": "2026-09-12T09:13:55",
     "day": {
-      "date": "2026-09-11",
-      "count": 5
+      "date": "2026-09-12",
+      "count": 1
     }
   },
   "linkedin": {
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-09-11T20:04:50",
+    "last_iso": "2026-09-12T09:13:55",
     "day": {
-      "date": "2026-09-11",
-      "count": 5
+      "date": "2026-09-12",
+      "count": 1
     }
   },
   "facebook": {
@@ -110,12 +113,13 @@
       "clip-porno2",
       "clip-porno3",
       "clip-speed",
-      "clip1-turd"
+      "clip1-turd",
+      "clip2-game"
     ],
-    "last_iso": "2026-09-11T17:40:43",
+    "last_iso": "2026-09-12T09:13:55",
     "day": {
-      "date": "2026-09-11",
-      "count": 3
+      "date": "2026-09-12",
+      "count": 1
     }
   },
   "pinterest": {
@@ -151,12 +155,13 @@
       "bj-angi",
       "bj-reviews",
       "bj-trade",
-      "bj-slow"
+      "bj-slow",
+      "bj-cpbj"
     ],
-    "last_iso": "2026-09-11T20:04:50",
+    "last_iso": "2026-09-12T09:13:55",
     "day": {
-      "date": "2026-09-11",
-      "count": 5
+      "date": "2026-09-12",
+      "count": 1
     }
   },
   "telegram": {
@@ -194,12 +199,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-09-11T20:04:50",
+    "last_iso": "2026-09-12T09:13:55",
     "day": {
-      "date": "2026-09-11",
-      "count": 5
+      "date": "2026-09-12",
+      "count": 1
     }
   }
 }
