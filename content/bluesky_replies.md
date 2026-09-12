@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/plumbing business needs a website that actually converts visitors into calls. We build SEO-optimized sites + AI chatbots that qualify leads 24/7. Done-for-you. No tech headach
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3muv7bust3j2p
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by *one* person online: Google. A real website + SEO means those searches turn into calls. AI chatbot handles the rest. We build it. You answe
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mv7b5jukgs2z
+
 - **@stylelib.org**: Renovation – Construction Company WordPress Theme
 
  https://themes.stylelib.org/?p=7465 
@@ -200,11 +206,3 @@ www.nytimes.com/2026/09/11/c...
 
 Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
   → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
-
-- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
-
-Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
-  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
-
-- **@jorgecoolreyes.bsky.social**: Pieces like THIS is exactly why I subscribe to @toomuchtvcom.bsky.social. Between Rick Ellis & @elainelow.bsky.social's Series Business/The Ankler, they're not trades parroting PR. Real, independent c
-  → https://bsky.app/profile/jorgecoolreyes.bsky.social/post/3mvb6hfur5c2y
