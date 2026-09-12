@@ -4,12 +4,13 @@
       "card-cpbj",
       "card-angi",
       "card-reviews",
-      "card-rev-plumb"
+      "card-rev-plumb",
+      "card-rev-roof"
     ],
-    "last_iso": "2026-09-12T14:24:30",
+    "last_iso": "2026-09-12T17:26:07",
     "day": {
       "date": "2026-09-12",
-      "count": 3
+      "count": 4
     }
   },
   "ig": {
@@ -36,12 +37,13 @@
       "card-stars",
       "card-ai",
       "card-anon98",
-      "card-missedcall"
+      "card-missedcall",
+      "card-trade"
     ],
-    "last_iso": "2026-09-12T09:15:03",
+    "last_iso": "2026-09-12T17:26:07",
     "day": {
       "date": "2026-09-12",
-      "count": 1
+      "count": 2
     }
   }
 }
