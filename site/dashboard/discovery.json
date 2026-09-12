@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T01:03:40Z",
+  "updated": "2026-09-12T05:42:44Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 29,
+        "uses": 32,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -98,7 +98,7 @@
       },
       {
         "tag": "#smallbusinessowners",
-        "uses": 2,
+        "uses": 3,
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/ElectricianSandyford"
       },
       {
-        "tag": "#HVACTrends",
+        "tag": "#HVACFailure",
         "uses": 0,
-        "link": "https://mastodon.social/tags/HVACTrends"
+        "link": "https://mastodon.social/tags/HVACFailure"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10086,
+      "followers": 10089,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1831,
+      "followers": 1832,
       "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1174,
+      "followers": 1175,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },

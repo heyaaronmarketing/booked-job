@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T20:03",
+  "updated": "2026-09-12T00:42",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -435,12 +435,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
       "followers": 183,
       "grade": "B",
       "group": "social",
-      "likes": 19
+      "likes": 18
     },
     {
       "name": "Mastodon",
@@ -490,7 +490,7 @@
       "status": "live",
       "count": 23,
       "unit": "posts (Buffer)",
-      "stat": "872 reach \u00b7 3 reactions",
+      "stat": "846 reach \u00b7 3 reactions",
       "views": 30,
       "likes": 3,
       "grade": "C",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Long video",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 2
+        "count": 3
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 13
+        "count": 14
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 23
+        "count": 24
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 18
+        "count": 19
       }
     ]
   },
@@ -776,10 +776,10 @@
     "cr_clicks": 108
   },
   "trends": {
-    "audience": 25,
+    "audience": 22,
     "engagement": 1,
     "email": 0,
-    "reach": -584
+    "reach": -526
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1420,
+        "value": 1421,
         "grade": "A"
       },
       {

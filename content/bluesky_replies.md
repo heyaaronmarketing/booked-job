@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://themes.stylelib.org/?p=7465 
+
+#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
+
+- **@stylelib.org**: Hank – Construction WordPress theme
+
+ https://stylelib.org/?p=213128 
+
+#constructor #themeforest #visualcomposer #wordpress #architecture #business #plumber #building #company #corporate #responsive #
+  → https://bsky.app/profile/stylelib.org/post/3muuvhjtzqd2g
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muz64z4r672q
+
+- **@rankforaisearch.bsky.social**: Homeowners aren't just typing keywords into Google anymore—they're asking ChatGPT, Perplexity, and Google AI Overviews questions like "Who is the best local plumber for an emergency leak?" 
+If your  b
+  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mv2i3wgguk2z
+
 - **@hometipsworld.bsky.social**: Hiring tree service? Don't sign before checking liability & cleanup clauses: 
 
 homeimprovementtips.co/what-to-look-for-in-a-tree-removal-contract/ 
@@ -187,23 +208,3 @@ Design and Build your Professionnal Business Website, responsive design, payment
 
 - **@jorgecoolreyes.bsky.social**: Pieces like THIS is exactly why I subscribe to @toomuchtvcom.bsky.social. Between Rick Ellis & @elainelow.bsky.social's Series Business/The Ankler, they're not trades parroting PR. Real, independent c
   → https://bsky.app/profile/jorgecoolreyes.bsky.social/post/3mvb6hfur5c2y
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x
-
-- **@stylelib.org**: Construction WordPress Theme
-
- https://themes.stylelib.org/?p=4706 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumber #responsive #themef
-  → https://bsky.app/profile/stylelib.org/post/3muo4nmdkzs2f
-
-- **@rivercade.bsky.social**: Ask an assistant to recommend a plumber in your town. You get a short list, and nothing on it is sponsored.
-
-No auction. No bid. No rep to call.
-
-The only input is what a machine can read about a busi
-  → https://bsky.app/profile/rivercade.bsky.social/post/3muoahl5il42q
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3murmgl3xvo24
