@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@newsfor38yearolds.com**: The US Government Launched 3 Previously Unreported Investigations of…
+
+WIRED Business
+
+https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/
+
+SUBSCRIBE: https://www.wired.com/v
+  → https://bsky.app/profile/newsfor38yearolds.com/post/3mvblnsuzcs2p
+
+- **@ngrl.bsky.social**: On a related topic, the trades bemoaning the dearth of great 9/11 movies feels sort of sickening. In these days where most everyone sees movies as a business venture, I do have to ask: what's on your 
+  → https://bsky.app/profile/ngrl.bsky.social/post/3mvbwsknq5225
+
+- **@stylelib.org**: Roofix – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=48 
+
+#business #construction #corporate #maintenance #renovation #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3muxdoyqmot2n
+
+- **@ralphhickman.bsky.social**: Not quite true. And it's hardly Doxing when it's publicly available information on a Government website?
+
+The company was set up by his mother, transferred to Daniel
+
+Kudos to his mother for telling t
+  → https://bsky.app/profile/ralphhickman.bsky.social/post/3mv5cwu3dps2c
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by *one* person online: Google. A real website + SEO means those searches turn into calls. AI chatbot handles the rest. We build it. You answe
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mv7b5jukgs2z
+
+- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
+
+- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
+
 - **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
   → https://bsky.app/profile/aicantseeme.bsky.social/post/3muk37n2yy42x
 
@@ -159,27 +194,3 @@ www.you
 
 https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
   → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
-
-- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
-
-Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
-  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
-
-- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
-  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
-
-- **@bsky.scrapers.lat**: Need detailed contractor info in Alabama? Our LBGC License Scraper extracts licenses, addresses, and contact data for general contractors. Perfect for B2B outreach and compliance checks. #WebScraping 
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mv7sjc6xyk2g
-
-- **@glitchdeals.bsky.social**: Scotch General Purpose Contractor Grade Masking Tape (1.41'' x 60.1 Yd.) only $2.98 (Reg $7.01) or $2.53
-https://www.amazon.com/gp/product/B00004Z49P?smid=ATVPDKIKX0DER&th=1&linkCode=ll2&tag=bluesky0d
-  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mvajpubayd2o
-
-- **@cravingnice.bsky.social**: Found him. A F Pacillo general contractor in Massachusetts. Nuke NY? Right next door idiot.
-  → https://bsky.app/profile/cravingnice.bsky.social/post/3mvaqpnafb22y
-
-- **@jordanharper.bsky.social**: Anybody in Northeast LA or environs have a general contractor they like?
-  → https://bsky.app/profile/jordanharper.bsky.social/post/3mvdvmes2ws2b
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
