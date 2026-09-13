@@ -15,12 +15,13 @@
       "pod-ep02-invisible",
       "pod-ep01-verdict",
       "pod-ep01-speed",
-      "pod-ep01-starter"
+      "pod-ep01-starter",
+      "pod-ep01-ftc"
     ],
-    "last_iso": "2026-09-13T06:42:14",
+    "last_iso": "2026-09-13T14:33:30",
     "day": {
       "date": "2026-09-13",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -42,12 +43,13 @@
       "pod-ep01-starter",
       "pod-ep01-ftc",
       "pod-ep01-refunds",
-      "pod-ep01-cost"
+      "pod-ep01-cost",
+      "pod-ep01-wrongnum"
     ],
-    "last_iso": "2026-09-13T11:20:38",
+    "last_iso": "2026-09-13T14:33:30",
     "day": {
       "date": "2026-09-13",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -61,12 +63,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-09-13T11:20:38",
+    "last_iso": "2026-09-13T14:33:30",
     "day": {
       "date": "2026-09-13",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -131,12 +134,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-09-13T06:42:14",
+    "last_iso": "2026-09-13T14:33:30",
     "day": {
       "date": "2026-09-13",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -179,12 +183,13 @@
       "bj-cpl",
       "bj-favor",
       "bj-stars",
-      "bj-ai"
+      "bj-ai",
+      "bj-scam"
     ],
-    "last_iso": "2026-09-13T11:20:38",
+    "last_iso": "2026-09-13T14:33:30",
     "day": {
       "date": "2026-09-13",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -229,12 +234,13 @@
       "bj-trade",
       "bj-slow",
       "bj-cpbj",
-      "bj-speed"
+      "bj-speed",
+      "bj-ftc"
     ],
-    "last_iso": "2026-09-13T11:20:38",
+    "last_iso": "2026-09-13T14:33:30",
     "day": {
       "date": "2026-09-13",
-      "count": 2
+      "count": 3
     }
   }
 }

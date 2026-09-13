@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://themes.stylelib.org/?p=7465 
+
+#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
+
+- **@stylelib.org**: Hank – Construction WordPress theme
+
+ https://stylelib.org/?p=213128 
+
+#constructor #themeforest #visualcomposer #wordpress #architecture #business #plumber #building #company #corporate #responsive #
+  → https://bsky.app/profile/stylelib.org/post/3muuvhjtzqd2g
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muz64z4r672q
+
+- **@rankforaisearch.bsky.social**: Homeowners aren't just typing keywords into Google anymore—they're asking ChatGPT, Perplexity, and Google AI Overviews questions like "Who is the best local plumber for an emergency leak?" 
+If your  b
+  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mv2i3wgguk2z
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mvapfuwun42t
+
+- **@eeka1313.bsky.social**: I’m also not sure where people get the idea that generic = professional. 
+
+I see these small business websites that are 100% templates “At ABC plumbing our goal is satisfaction leveraging synergy.” OK
+  → https://bsky.app/profile/eeka1313.bsky.social/post/3mvbh2eoye22z
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
 - **@stylelib.org**: Hendy – Handyman Service WordPress Theme
 
  https://themes.stylelib.org/?p=662763 
@@ -158,31 +193,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 How do you give apprentices a chance to show what they can 
   → https://bsky.app/profile/susanfitzell.bsky.social/post/3mvddwzov5j2p
-
-- **@texascontractorseo.bsky.social**: Consistent local proof keeps you ahead, not behind. A Houston contractor reclaimed top spots by adding project galleries every month, which kept prospects coming back. 📈 Ready to simplify your life? h
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrl7brcu2o
-
-- **@texascontractorseo.bsky.social**: Adding city-specific pages matters if you cover multiple Texas cities. One client expanded from Dallas to Austin and doubled lead flow by targeting each city properly. 🌎 Ready to simplify your life? h
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlaqqdc2h
-
-- **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
-
-- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
-
-- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
-
-- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
-
-Start by comparing process, not just price.
-
-If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
-  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
-
-- **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
-  → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
-
-- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
