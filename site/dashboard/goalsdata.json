@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T01:04",
+  "generated": "2026-09-13T06:46",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 2,
+        "current": 5,
         "target": 22,
         "status": "red",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 22,
+        "current": 23,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 93,
+        "current": 96,
         "target": 600,
         "status": "red",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1169,
+        "current": 1170,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 139,
+        "current": 140,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,10 +222,10 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1049,
-    "followers": 205,
+    "social_posts": 1052,
+    "followers": 206,
     "engagement": 4,
-    "yt_views": 2317,
+    "yt_views": 2318,
     "yt_shorts": 50,
     "email_subs": 7,
     "traffic": 0
@@ -269,8 +269,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "22/120 \u2014 98 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (22/120). Refill the social queues / add more variant cards."
+      "why": "23/120 \u2014 97 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (23/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

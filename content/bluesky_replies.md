@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
+
+- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
+
+- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
+
 - **@newsfor38yearolds.com**: The US Government Launched 3 Previously Unreported Investigations of…
 
 WIRED Business
@@ -180,17 +189,3 @@ homeimprovementtips.co/what-to-look-for-in-a-tree-removal-contract/
 
 #HomeTips #TreeCare
   → https://bsky.app/profile/hometipsworld.bsky.social/post/3mv44ujp42k2s
-
-- **@joannahastings.bsky.social**: Primark? Isn't this essentially wear-once-and-throw-away quality fast fashion from child slave labour? Go to a charity shop and find something worth wearing, for the love. 
-www.theguardian.com/busines
-  → https://bsky.app/profile/joannahastings.bsky.social/post/3mv5onvxbos2e
-
-- **@aptora.bsky.social**: Have you checked out our FREE webinar library yet?👀We've got several videos covering a variety of topics to help your field service business succeed. Check out the videos with the link below!
-
-www.you
-  → https://bsky.app/profile/aptora.bsky.social/post/3mstmh6yjhc2p
-
-- **@natalie-reed.bsky.social**: Meet Matt Barber, the Dallas CEO turning HVAC dispatch into a data business.
-
-https://yespress.io/matt-barber?utm_source=bluesky&utm_medium=social via Yespress - apply for company newsroom: yespress.i
-  → https://bsky.app/profile/natalie-reed.bsky.social/post/3msw7qejeio2t
