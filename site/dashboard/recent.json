@@ -1,46 +1,34 @@
 {
-  "updated": "2026-09-13T14:37",
+  "updated": "2026-09-13T17:34",
   "posts": [
     {
-      "ts": "2026-09-13T14:35:26",
+      "ts": "2026-09-13T17:33:03",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-09-13T14:35:19",
+      "ts": "2026-09-13T17:32:58",
       "channel": "tumblr",
-      "item": "bj-ftc",
+      "item": "bj-cpl",
       "url": null
     },
     {
-      "ts": "2026-09-13T14:35:18",
+      "ts": "2026-09-13T17:32:57",
       "channel": "bluesky",
-      "item": "bj-scam",
+      "item": "bj-rev-hvac",
       "url": null
     },
     {
-      "ts": "2026-09-13T14:35:15",
+      "ts": "2026-09-13T17:32:54",
       "channel": "linkedin",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-09-13T14:35:14",
-      "channel": "ig",
-      "item": "pod-ep01-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-09-13T14:35:14",
+      "ts": "2026-09-13T17:32:53",
       "channel": "tiktok",
-      "item": "pod-ep01-wrongnum",
-      "url": null
-    },
-    {
-      "ts": "2026-09-13T14:33:58",
-      "channel": "facebook",
-      "item": "money-leaks",
+      "item": "pod-ep01-shared",
       "url": null
     }
   ]
