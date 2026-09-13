@@ -6,21 +6,22 @@
       "card-reviews",
       "card-rev-plumb",
       "card-rev-roof",
-      "card-rev-elec"
+      "card-rev-elec",
+      "card-rev-paint"
     ],
-    "last_iso": "2026-09-12T20:05:21",
+    "last_iso": "2026-09-13T11:20:45",
     "day": {
-      "date": "2026-09-12",
-      "count": 5
+      "date": "2026-09-13",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-09-12T09:15:03",
+    "last_iso": "2026-09-13T11:20:45",
     "day": {
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "count": 1
     }
   },
@@ -39,12 +40,13 @@
       "card-ai",
       "card-anon98",
       "card-missedcall",
-      "card-trade"
+      "card-trade",
+      "carousel-leadsites"
     ],
-    "last_iso": "2026-09-12T17:26:07",
+    "last_iso": "2026-09-13T11:20:45",
     "day": {
-      "date": "2026-09-12",
-      "count": 2
+      "date": "2026-09-13",
+      "count": 1
     }
   }
 }

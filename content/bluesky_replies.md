@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Hendy – Handyman Service WordPress Theme
+
+ https://themes.stylelib.org/?p=662763 
+
+#business #construction #contractor #corporate #electrician #handyman #maintenance #painter #plumber #renovation #rep
+  → https://bsky.app/profile/stylelib.org/post/3mvfseqhhqg2t
+
+- **@bsky.scrapers.lat**: Need detailed contractor info in Alabama? Our LBGC License Scraper extracts licenses, addresses, and contact data for general contractors. Perfect for B2B outreach and compliance checks. #WebScraping 
+  → https://bsky.app/profile/bsky.scrapers.lat/post/3mv7sjc6xyk2g
+
+- **@glitchdeals.bsky.social**: Scotch General Purpose Contractor Grade Masking Tape (1.41'' x 60.1 Yd.) only $2.98 (Reg $7.01) or $2.53
+https://www.amazon.com/gp/product/B00004Z49P?smid=ATVPDKIKX0DER&th=1&linkCode=ll2&tag=bluesky0d
+  → https://bsky.app/profile/glitchdeals.bsky.social/post/3mvajpubayd2o
+
+- **@cravingnice.bsky.social**: Found him. A F Pacillo general contractor in Massachusetts. Nuke NY? Right next door idiot.
+  → https://bsky.app/profile/cravingnice.bsky.social/post/3mvaqpnafb22y
+
+- **@jordanharper.bsky.social**: Anybody in Northeast LA or environs have a general contractor they like?
+  → https://bsky.app/profile/jordanharper.bsky.social/post/3mvdvmes2ws2b
+
 - **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
 
@@ -166,26 +186,3 @@ If a contractor cannot explain how planning leads into construction, that gap us
 
 - **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
-
-- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
-
-- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
-
-Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
-  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
-
-- **@hometipsworld.bsky.social**: Hiring tree service? Don't sign before checking liability & cleanup clauses: 
-
-homeimprovementtips.co/what-to-look-for-in-a-tree-removal-contract/ 
-
-#HomeTips #TreeCare
-  → https://bsky.app/profile/hometipsworld.bsky.social/post/3mv44ujp42k2s
