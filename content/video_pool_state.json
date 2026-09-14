@@ -48,12 +48,13 @@
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
       "bj-angi",
-      "bj-reviews"
+      "bj-reviews",
+      "bj-trade"
     ],
-    "last_iso": "2026-09-14T09:06:32",
+    "last_iso": "2026-09-14T14:27:55",
     "day": {
       "date": "2026-09-14",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -71,12 +72,13 @@
       "pod-ep02-howmany",
       "pod-ep02-invisible",
       "pod-ep01-verdict",
-      "pod-ep01-speed"
+      "pod-ep01-speed",
+      "pod-ep01-starter"
     ],
-    "last_iso": "2026-09-14T09:06:32",
+    "last_iso": "2026-09-14T14:27:55",
     "day": {
       "date": "2026-09-14",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -144,12 +146,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-09-14T09:06:32",
+    "last_iso": "2026-09-14T14:27:55",
     "day": {
       "date": "2026-09-14",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -196,12 +199,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-09-14T09:06:32",
+    "last_iso": "2026-09-14T14:27:55",
     "day": {
       "date": "2026-09-14",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -250,12 +254,13 @@
       "bj-ftc",
       "bj-cpl",
       "bj-favor",
-      "bj-stars"
+      "bj-stars",
+      "bj-ai"
     ],
-    "last_iso": "2026-09-14T09:06:32",
+    "last_iso": "2026-09-14T14:27:55",
     "day": {
       "date": "2026-09-14",
-      "count": 1
+      "count": 2
     }
   }
 }

@@ -1,64 +1,40 @@
 {
-  "updated": "2026-09-14T09:11",
+  "updated": "2026-09-14T14:31",
   "posts": [
     {
-      "ts": "2026-09-14T09:08:59",
-      "channel": "youtube",
-      "item": "bj-favor",
-      "url": "https://youtu.be/Vx3SAVk4Geo"
-    },
-    {
-      "ts": "2026-09-14T09:08:50",
-      "channel": "facebook",
-      "item": "card-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-09-14T09:08:45",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-14T09:07:57",
+      "ts": "2026-09-14T14:28:45",
       "channel": "mastodon",
-      "item": "card-ai",
+      "item": "card-anon98",
       "url": null
     },
     {
-      "ts": "2026-09-14T09:07:51",
+      "ts": "2026-09-14T14:28:41",
       "channel": "tumblr",
-      "item": "bj-stars",
+      "item": "bj-ai",
       "url": null
     },
     {
-      "ts": "2026-09-14T09:07:48",
+      "ts": "2026-09-14T14:28:40",
       "channel": "bluesky",
-      "item": "bj-rev-roof",
+      "item": "bj-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-09-14T09:07:44",
+      "ts": "2026-09-14T14:28:37",
       "channel": "linkedin",
-      "item": "pod-ep01-speed",
+      "item": "pod-ep01-starter",
       "url": null
     },
     {
-      "ts": "2026-09-14T09:07:43",
+      "ts": "2026-09-14T14:28:36",
       "channel": "tiktok",
-      "item": "bj-reviews",
+      "item": "bj-trade",
       "url": null
     },
     {
-      "ts": "2026-09-14T09:07:40",
-      "channel": "ig",
-      "item": "pod-ep01-refunds",
-      "url": null
-    },
-    {
-      "ts": "2026-09-14T09:07:07",
+      "ts": "2026-09-14T14:28:34",
       "channel": "facebook",
-      "item": "rip-angi-rip",
+      "item": "rip-reviews-rip",
       "url": null
     }
   ]
