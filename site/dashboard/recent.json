@@ -1,34 +1,46 @@
 {
-  "updated": "2026-09-13T17:34",
+  "updated": "2026-09-13T20:12",
   "posts": [
     {
-      "ts": "2026-09-13T17:33:03",
+      "ts": "2026-09-13T20:11:38",
+      "channel": "facebook",
+      "item": "card-cpbj",
+      "url": null
+    },
+    {
+      "ts": "2026-09-13T20:11:35",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-09-13T17:32:58",
+      "ts": "2026-09-13T20:11:31",
       "channel": "tumblr",
-      "item": "bj-cpl",
+      "item": "bj-favor",
       "url": null
     },
     {
-      "ts": "2026-09-13T17:32:57",
+      "ts": "2026-09-13T20:11:29",
       "channel": "bluesky",
-      "item": "bj-rev-hvac",
+      "item": "bj-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-09-13T17:32:54",
+      "ts": "2026-09-13T20:11:25",
       "channel": "linkedin",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     },
     {
-      "ts": "2026-09-13T17:32:53",
+      "ts": "2026-09-13T20:11:24",
       "channel": "tiktok",
-      "item": "pod-ep01-shared",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-09-13T20:10:48",
+      "channel": "facebook",
+      "item": "explainer-lesson-01",
       "url": null
     }
   ]

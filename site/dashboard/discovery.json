@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T22:22:23Z",
+  "updated": "2026-09-14T00:58:50Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 30,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -112,11 +112,6 @@
         "link": "https://mastodon.social/tags/plumbingtips"
       },
       {
-        "tag": "#roofing_work",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofing_work"
-      },
-      {
         "tag": "#RoofingMachine",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingMachine"
@@ -135,6 +130,11 @@
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#HVACFailure",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACFailure"
       }
     ],
     "accounts": [
@@ -145,7 +145,7 @@
       },
       {
         "handle": "@home_garden_and_diy@threads.net",
-        "followers": 100973,
+        "followers": 101785,
         "link": "https://threads.net/@home_garden_and_diy/"
       },
       {
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1588,
+      "followers": 1591,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
@@ -278,7 +278,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1075,
+      "followers": 1106,
       "desc": "",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },

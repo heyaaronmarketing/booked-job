@@ -9,12 +9,13 @@
       "card-rev-elec",
       "card-rev-paint",
       "card-speed",
-      "card-ftc"
+      "card-ftc",
+      "card-stars"
     ],
-    "last_iso": "2026-09-13T17:33:01",
+    "last_iso": "2026-09-13T20:11:33",
     "day": {
       "date": "2026-09-13",
-      "count": 3
+      "count": 4
     }
   },
   "ig": {
@@ -29,26 +30,12 @@
   },
   "facebook": {
     "posted": [
-      "card-cpbj",
-      "card-angi",
-      "card-reviews",
-      "card-rev-plumb",
-      "card-rev-roof",
-      "card-rev-elec",
-      "card-rev-paint",
-      "card-speed",
-      "card-ftc",
-      "card-stars",
-      "card-ai",
-      "card-anon98",
-      "card-missedcall",
-      "card-trade",
-      "carousel-leadsites"
+      "card-cpbj"
     ],
-    "last_iso": "2026-09-13T11:20:45",
+    "last_iso": "2026-09-13T20:11:33",
     "day": {
       "date": "2026-09-13",
-      "count": 1
+      "count": 2
     }
   }
 }
