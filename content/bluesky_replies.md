@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mcraewrites.bsky.social**: Real Skills,
+Tasks,
+That Communities,
+& Humanity -
+Truly Need?
+
+I (ALWAYS) Value Higher!
+
+Fishermen?
+Farmers?
+Loggers?
+
+Skilled Trades?
+Firefighters?
+Nurses?
+
+Even Sans "Society" - Of Western Tripe,
+L
+  → https://bsky.app/profile/mcraewrites.bsky.social/post/3mvgcmxc3su2g
+
 - **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
 
@@ -183,6 +203,3 @@ Kudos to his mother for telling t
 
 - **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
   → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
