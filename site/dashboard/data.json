@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T01:06",
+  "updated": "2026-09-14T08:55",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -383,7 +383,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3318,
+      "views": 3218,
       "followers": 15,
       "likes": 7
     },
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 588,
+      "views": 596,
       "followers": 1
     },
     {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 27,
+      "count": 28,
       "unit": "posts",
       "followers": 190,
       "grade": "B",
@@ -488,10 +488,10 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 34,
+      "count": 36,
       "unit": "posts (Buffer)",
-      "stat": "683 reach \u00b7 2 reactions",
-      "views": 31,
+      "stat": "659 reach \u00b7 2 reactions",
+      "views": 27,
       "likes": 2,
       "grade": "C",
       "group": "social"
@@ -501,8 +501,8 @@
       "status": "live",
       "count": 78,
       "unit": "videos (Buffer)",
-      "stat": "34 views \u00b7 0 reactions",
-      "views": 34,
+      "stat": "33 views \u00b7 0 reactions",
+      "views": 33,
       "likes": 0,
       "grade": "B",
       "group": "social"
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 16
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 16
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 22
+        "count": 24
       },
       {
         "type": "Documents",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 27
+        "count": 28
       },
       {
         "type": "Video",
@@ -770,7 +770,7 @@
     }
   ],
   "funnel": {
-    "reach": 35218,
+    "reach": 35131,
     "engagement": 7,
     "audience": 216,
     "cr_clicks": 113
@@ -779,7 +779,7 @@
     "audience": 22,
     "engagement": 4,
     "email": 0,
-    "reach": -785
+    "reach": -872
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1445,
+        "value": 1448,
         "grade": "A"
       },
       {

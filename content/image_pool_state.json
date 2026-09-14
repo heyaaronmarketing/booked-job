@@ -10,32 +10,34 @@
       "card-rev-paint",
       "card-speed",
       "card-ftc",
-      "card-stars"
+      "card-stars",
+      "card-ai"
     ],
-    "last_iso": "2026-09-13T20:11:33",
+    "last_iso": "2026-09-14T09:07:54",
     "day": {
-      "date": "2026-09-13",
-      "count": 4
+      "date": "2026-09-14",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-09-13T11:20:45",
+    "last_iso": "2026-09-14T09:07:54",
     "day": {
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "count": 1
     }
   },
   "facebook": {
     "posted": [
-      "card-cpbj"
+      "card-cpbj",
+      "card-angi"
     ],
-    "last_iso": "2026-09-13T20:11:33",
+    "last_iso": "2026-09-14T09:07:54",
     "day": {
-      "date": "2026-09-13",
-      "count": 2
+      "date": "2026-09-14",
+      "count": 1
     }
   }
 }

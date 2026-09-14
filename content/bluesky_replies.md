@@ -2,6 +2,74 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
+
+- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
+
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
+
+Start by comparing process, not just price.
+
+If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
+
+- **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
+  → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://themes.stylelib.org/?p=7465 
+
+#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
+
+- **@stylelib.org**: Hank – Construction WordPress theme
+
+ https://stylelib.org/?p=213128 
+
+#constructor #themeforest #visualcomposer #wordpress #architecture #business #plumber #building #company #corporate #responsive #
+  → https://bsky.app/profile/stylelib.org/post/3muuvhjtzqd2g
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muz64z4r672q
+
+- **@rankforaisearch.bsky.social**: Homeowners aren't just typing keywords into Google anymore—they're asking ChatGPT, Perplexity, and Google AI Overviews questions like "Who is the best local plumber for an emergency leak?" 
+If your  b
+  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mv2i3wgguk2z
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mvapfuwun42t
+
+- **@eeka1313.bsky.social**: I’m also not sure where people get the idea that generic = professional. 
+
+I see these small business websites that are 100% templates “At ABC plumbing our goal is satisfaction leveraging synergy.” OK
+  → https://bsky.app/profile/eeka1313.bsky.social/post/3mvbh2eoye22z
+
+- **@stylelib.org**: Hendy – Handyman Service WordPress Theme
+
+ https://themes.stylelib.org/?p=662763 
+
+#business #construction #contractor #corporate #electrician #handyman #maintenance #painter #plumber #renovation #rep
+  → https://bsky.app/profile/stylelib.org/post/3mvfseqhhqg2t
+
+- **@jorgecoolreyes.bsky.social**: Pieces like THIS is exactly why I subscribe to @toomuchtvcom.bsky.social. Between Rick Ellis & @elainelow.bsky.social's Series Business/The Ankler, they're not trades parroting PR. Real, independent c
+  → https://bsky.app/profile/jorgecoolreyes.bsky.social/post/3mvb6hfur5c2y
+
+- **@pasttensehistories.bsky.social**: #OnThisDay in London racist employment history, 1731 : Black people are forbidden by the Lord Mayor’s proclamation to learn trades, at a time when tradesmen are strictly regulated, in an attempt to ‘p
+  → https://bsky.app/profile/pasttensehistories.bsky.social/post/3mvhnclkn2k25
+
+- **@originalaurelia.bsky.social**: “Gentrify” 
+
+When will anyone notice that trades require high level geometry, chemistry, physics, and business level budgeting skills? 
+
+Stop acting like tradespeople are jobs for less intelligent peo
+  → https://bsky.app/profile/originalaurelia.bsky.social/post/3mvi6eeb6i223
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
 
@@ -118,70 +186,3 @@ Kudos to his mother for telling t
 
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@thekitastrophe.bsky.social**: Remember when the demented felon in the White House and the incompetent Attorney General in DC INSISTED that it had been the work of vandals?
-
-The corruption, lies, and ineptness remain utterly stagge
-  → https://bsky.app/profile/thekitastrophe.bsky.social/post/3mvb5dgy3ks25
-
-- **@ff072203.bsky.social**: THE REFLECTING POOL 
-
-The President lied ... again. 
-
-The US Attorney General for DC lied. When will she lose her law license?
-
-www.nytimes.com/2026/09/11/c...
-  → https://bsky.app/profile/ff072203.bsky.social/post/3mvb67qwmtc25
-
-- **@jordanharper.bsky.social**: Anybody in Northeast LA or environs have a general contractor they like?
-  → https://bsky.app/profile/jordanharper.bsky.social/post/3mvdvmes2ws2b
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
-
-- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
-
-- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
-
-- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
-
-- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
-
-- **@oldukprintads.bsky.social**: From America, Sep 1946: Telephone Service ad from Bell Telephone System (more at @OldInPrintAds.bsky.social)
-
-(+Telephones)
-
-«Want to Meet a Nice Big Family?»
-  → https://bsky.app/profile/oldukprintads.bsky.social/post/3muzigpbxet2r
-
-- **@susanfitzell.bsky.social**: Struggling in school doesn't say everything about someone's talent. In the skilled trades, a different way of thinking can be a strength.
-
-How do you give apprentices a chance to show what they can 
-  → https://bsky.app/profile/susanfitzell.bsky.social/post/3mvddwzov5j2p
-
-- **@texascontractorseo.bsky.social**: Consistent local proof keeps you ahead, not behind. A Houston contractor reclaimed top spots by adding project galleries every month, which kept prospects coming back. 📈 Ready to simplify your life? h
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrl7brcu2o
-
-- **@texascontractorseo.bsky.social**: Adding city-specific pages matters if you cover multiple Texas cities. One client expanded from Dallas to Austin and doubled lead flow by targeting each city properly. 🌎 Ready to simplify your life? h
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlaqqdc2h
-
-- **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
