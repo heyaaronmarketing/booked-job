@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:58:50Z",
+  "updated": "2026-09-14T06:06:39Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 30,
+        "uses": 31,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 4,
+        "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -105,6 +105,11 @@
         "tag": "#hvacousticpolyesterpanels",
         "uses": 1,
         "link": "https://mastodon.social/tags/hvacousticpolyesterpanels"
+      },
+      {
+        "tag": "#hvacousticpolyester",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticpolyester"
       },
       {
         "tag": "#plumbingtips",
@@ -130,11 +135,6 @@
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#HVACFailure",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACFailure"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10112,
+      "followers": 10115,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -230,7 +230,7 @@
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
       "followers": 1833,
-      "desc": "Hit me up if you need a handyman ,tile or concrete work in the future.    Adults only 21 and up. Blue collar guy likes t",
+      "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
@@ -278,7 +278,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1106,
+      "followers": 1159,
       "desc": "",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
