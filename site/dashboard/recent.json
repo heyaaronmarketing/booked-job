@@ -1,34 +1,52 @@
 {
-  "updated": "2026-09-15T13:22",
+  "updated": "2026-09-15T17:24",
   "posts": [
     {
-      "ts": "2026-09-15T13:19:50",
+      "ts": "2026-09-15T17:20:34",
+      "channel": "facebook",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-09-15T17:20:31",
       "channel": "mastodon",
-      "item": "card-cpbj",
+      "item": "card-angi",
       "url": null
     },
     {
-      "ts": "2026-09-15T13:19:41",
+      "ts": "2026-09-15T17:20:26",
       "channel": "tumblr",
-      "item": "bj-rev-roof",
+      "item": "bj-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-09-15T13:19:39",
+      "ts": "2026-09-15T17:20:23",
       "channel": "bluesky",
-      "item": "bj-first10k",
+      "item": "bj-yelp",
       "url": null
     },
     {
-      "ts": "2026-09-15T13:19:35",
-      "channel": "linkedin",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-09-15T13:19:34",
+      "ts": "2026-09-15T17:20:19",
       "channel": "tiktok",
-      "item": "bj-ftc",
+      "item": "bj-cpl",
+      "url": null
+    },
+    {
+      "ts": "2026-09-15T17:20:19",
+      "channel": "linkedin",
+      "item": "pod-ep01-wrongnum",
+      "url": null
+    },
+    {
+      "ts": "2026-09-15T17:20:17",
+      "channel": "ig",
+      "item": "pod-ep01-shared",
+      "url": null
+    },
+    {
+      "ts": "2026-09-15T17:19:42",
+      "channel": "facebook",
+      "item": "pod-ep03-verdict",
       "url": null
     }
   ]
