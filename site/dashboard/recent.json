@@ -1,58 +1,34 @@
 {
-  "updated": "2026-09-15T08:45",
+  "updated": "2026-09-15T13:22",
   "posts": [
     {
-      "ts": "2026-09-15T08:41:50",
-      "channel": "facebook",
-      "item": "card-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-09-15T08:41:45",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-15T08:40:53",
+      "ts": "2026-09-15T13:19:50",
       "channel": "mastodon",
-      "item": "carousel-leadsites",
+      "item": "card-cpbj",
       "url": null
     },
     {
-      "ts": "2026-09-15T08:40:42",
+      "ts": "2026-09-15T13:19:41",
       "channel": "tumblr",
-      "item": "bj-rev-plumb",
+      "item": "bj-rev-roof",
       "url": null
     },
     {
-      "ts": "2026-09-15T08:40:39",
+      "ts": "2026-09-15T13:19:39",
       "channel": "bluesky",
-      "item": "bj-wordpress",
+      "item": "bj-first10k",
       "url": null
     },
     {
-      "ts": "2026-09-15T08:40:34",
+      "ts": "2026-09-15T13:19:35",
       "channel": "linkedin",
-      "item": "pod-ep01-refunds",
+      "item": "pod-ep01-cost",
       "url": null
     },
     {
-      "ts": "2026-09-15T08:40:33",
+      "ts": "2026-09-15T13:19:34",
       "channel": "tiktok",
-      "item": "bj-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-09-15T08:40:32",
-      "channel": "ig",
-      "item": "pod-ep01-wrongnum",
-      "url": null
-    },
-    {
-      "ts": "2026-09-15T08:39:54",
-      "channel": "facebook",
-      "item": "stop-renting-leads",
+      "item": "bj-ftc",
       "url": null
     }
   ]

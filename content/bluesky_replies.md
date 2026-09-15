@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@johnlk.bsky.social**: Don't you kind of have to hand it to the trades, though? They know their business, at least.
+  → https://bsky.app/profile/johnlk.bsky.social/post/3mvksxfiiu22f
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://themes.stylelib.org/?p=7465 
+
+#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
+  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
+
 - **@qtainpfaulkes.bsky.social**: You mean the skilled trades of those in unions that Carney is gutting the right to strike rules on?  Yes, unions have the right to strike but the changes make it so it almost always goes to forced arb
   → https://bsky.app/profile/qtainpfaulkes.bsky.social/post/3mvjn7qw3wk2p
 
@@ -189,26 +199,3 @@ And why should
 
 #buildingcompany #constructor #electrician #handyman #painter #remodeling #renovation #templatepath #th
   → https://bsky.app/profile/stylelib.org/post/3mussfsd5hg2s
-
-- **@mcraewrites.bsky.social**: Real Skills,
-Tasks,
-That Communities,
-& Humanity -
-Truly Need?
-
-I (ALWAYS) Value Higher!
-
-Fishermen?
-Farmers?
-Loggers?
-
-Skilled Trades?
-Firefighters?
-Nurses?
-
-Even Sans "Society" - Of Western Tripe,
-L
-  → https://bsky.app/profile/mcraewrites.bsky.social/post/3mvgcmxc3su2g
-
-- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h

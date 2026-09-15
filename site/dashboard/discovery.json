@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T13:28:01Z",
+  "updated": "2026-09-15T18:08:04Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 28,
+        "uses": 31,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#roofing",
-        "uses": 6,
+        "uses": 8,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
@@ -92,24 +92,29 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#RoofingServicesTexas",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/RoofingServicesTexas"
+      },
+      {
         "tag": "#hvac",
         "uses": 4,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
-        "tag": "#RoofingServicesTexas",
+        "tag": "#smallbusinessowners",
         "uses": 2,
-        "link": "https://mastodon.social/tags/RoofingServicesTexas"
+        "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#hvacousticpolyesterpanels",
+        "tag": "#Hvacousticwoodwool",
         "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpolyesterpanels"
+        "link": "https://mastodon.social/tags/Hvacousticwoodwool"
       },
       {
-        "tag": "#hvacousticpolyester",
+        "tag": "#hvacousticwoodwoolpanels",
         "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticpolyester"
+        "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       },
       {
         "tag": "#RoofingMachine",
@@ -130,17 +135,12 @@
         "tag": "#contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466477,
+        "followers": 466502,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23312,
+        "followers": 23314,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10121,
+      "followers": 10122,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4105,
+      "followers": 4106,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -250,14 +250,14 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1415,
+      "followers": 1414,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1336,
+      "followers": 1357,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
