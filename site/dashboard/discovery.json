@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:24:57Z",
+  "updated": "2026-09-15T07:38:21Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23310,
+        "followers": 23311,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10118,
+      "followers": 10120,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4105,
+      "followers": 4104,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -234,13 +234,6 @@
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
-      "handle": "@hvac66.bsky.social",
-      "display": "William🇨🇦",
-      "followers": 1592,
-      "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
-      "link": "https://bsky.app/profile/hvac66.bsky.social"
-    },
-    {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
       "followers": 1473,
@@ -262,20 +255,6 @@
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
     {
-      "handle": "@hvacrm.bsky.social",
-      "display": "hvacrm.bsky.social",
-      "followers": 1295,
-      "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
-      "link": "https://bsky.app/profile/hvacrm.bsky.social"
-    },
-    {
-      "handle": "@notenoughcrows.bsky.social",
-      "display": "HVAC Grayling 🙏🇪🇺",
-      "followers": 1289,
-      "desc": "Neurodivergent and unpleasant  She/her  #bantersky enthusiastic  Terfs fuck off   Air conditioning enforcement team  🖤🏴󠁧",
-      "link": "https://bsky.app/profile/notenoughcrows.bsky.social"
-    },
-    {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
       "followers": 1175,
@@ -288,6 +267,27 @@
       "followers": 1054,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
+    },
+    {
+      "handle": "@kegman83.bsky.social",
+      "display": "Killdozer Enthusiast. CIA contractor paid with kibble.",
+      "followers": 994,
+      "desc": "Definitely, totally not a member of a state sponsored intelligence agency but thanks for asking. 🇺🇦🇺🇲🇮🇪🦴",
+      "link": "https://bsky.app/profile/kegman83.bsky.social"
+    },
+    {
+      "handle": "@kirtolson.bsky.social",
+      "display": "Kirt Olson | World's Worst Handyman",
+      "followers": 849,
+      "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
+      "link": "https://bsky.app/profile/kirtolson.bsky.social"
+    },
+    {
+      "handle": "@thebarehandyman.bsky.social",
+      "display": "The Bare Handyman",
+      "followers": 715,
+      "desc": "he/any - professional handyman",
+      "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
     }
   ]
 }

@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Dustar – Cleaning Services WordPress Theme
+
+ https://stylelib.org/?p=155809 
+
+#cleaning #cleaningcompany #electrician #handyman #remodeling #themeforest #wordpress #business #plumber #corporate #maint
+  → https://bsky.app/profile/stylelib.org/post/3mv36muadai27
+
+- **@stylelib.org**: Jiolio – Construction Building Company
+
+ https://stylelib.org/?p=104340 
+
+#constructor #electrician #handyman #painter #remodeling #renovation #sitetemplates #themeforest #architecture #business #plum
+  → https://bsky.app/profile/stylelib.org/post/3mvd5gss56k2s
+
+- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
+
+- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
+
+- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
+
 - **@socialmymedia.bsky.social**: The truth? 👀
 
 Social media can help grow any business. Whether you're a restaurant, a law firm, a plumber, or a boutique, your customers are on social media every single day.
@@ -185,28 +208,3 @@ If your  b
 
 - **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
   → https://bsky.app/profile/aicantseeme.bsky.social/post/3mvapfuwun42t
-
-- **@eeka1313.bsky.social**: I’m also not sure where people get the idea that generic = professional. 
-
-I see these small business websites that are 100% templates “At ABC plumbing our goal is satisfaction leveraging synergy.” OK
-  → https://bsky.app/profile/eeka1313.bsky.social/post/3mvbh2eoye22z
-
-- **@stylelib.org**: Hendy – Handyman Service WordPress Theme
-
- https://themes.stylelib.org/?p=662763 
-
-#business #construction #contractor #corporate #electrician #handyman #maintenance #painter #plumber #renovation #rep
-  → https://bsky.app/profile/stylelib.org/post/3mvfseqhhqg2t
-
-- **@jorgecoolreyes.bsky.social**: Pieces like THIS is exactly why I subscribe to @toomuchtvcom.bsky.social. Between Rick Ellis & @elainelow.bsky.social's Series Business/The Ankler, they're not trades parroting PR. Real, independent c
-  → https://bsky.app/profile/jorgecoolreyes.bsky.social/post/3mvb6hfur5c2y
-
-- **@pasttensehistories.bsky.social**: #OnThisDay in London racist employment history, 1731 : Black people are forbidden by the Lord Mayor’s proclamation to learn trades, at a time when tradesmen are strictly regulated, in an attempt to ‘p
-  → https://bsky.app/profile/pasttensehistories.bsky.social/post/3mvhnclkn2k25
-
-- **@originalaurelia.bsky.social**: “Gentrify” 
-
-When will anyone notice that trades require high level geometry, chemistry, physics, and business level budgeting skills? 
-
-Stop acting like tradespeople are jobs for less intelligent peo
-  → https://bsky.app/profile/originalaurelia.bsky.social/post/3mvi6eeb6i223
