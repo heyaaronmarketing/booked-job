@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-09-15T08:41",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: GPT-6 Astra just ended software. | Michal Malewicz"
+    },
+    {
+      "ts": "2026-09-15T08:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor good help"
+    },
+    {
+      "ts": "2026-09-15T08:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor ghost"
+    },
+    {
+      "ts": "2026-09-15T08:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: labor ghost"
+    },
+    {
+      "ts": "2026-09-15T08:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
+    },
+    {
       "ts": "2026-09-15T02:39",
       "kind": "engage",
       "icon": "💬",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: pricing scope creep"
-    },
-    {
-      "ts": "2026-09-06T14:16",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-09-06T14:16",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: You do you"
-    },
-    {
-      "ts": "2026-09-06T14:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: labor show up"
-    },
-    {
-      "ts": "2026-09-06T14:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz review timing"
-    },
-    {
-      "ts": "2026-09-06T12:07",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
     }
   ]
 }

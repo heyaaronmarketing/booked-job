@@ -2,6 +2,47 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@qtainpfaulkes.bsky.social**: You mean the skilled trades of those in unions that Carney is gutting the right to strike rules on?  Yes, unions have the right to strike but the changes make it so it almost always goes to forced arb
+  → https://bsky.app/profile/qtainpfaulkes.bsky.social/post/3mvjn7qw3wk2p
+
+- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
+Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
+  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mvkhqedztr2f
+
+- **@rivercade.bsky.social**: Ask an assistant to recommend a plumber in your town. You get a short list, and nothing on it is sponsored.
+
+No auction. No bid. No rep to call.
+
+The only input is what a machine can read about a busi
+  → https://bsky.app/profile/rivercade.bsky.social/post/3muoahl5il42q
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3murmgl3xvo24
+
+- **@eeka1313.bsky.social**: I’m also not sure where people get the idea that generic = professional. 
+
+I see these small business websites that are 100% templates “At ABC plumbing our goal is satisfaction leveraging synergy.” OK
+  → https://bsky.app/profile/eeka1313.bsky.social/post/3mvbh2eoye22z
+
+- **@stylelib.org**: Nah Construction, Building Business WordPress Theme
+
+ https://stylelib.org/?p=165241 
+
+#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #contractor #
+  → https://bsky.app/profile/stylelib.org/post/3mvde5g7pbz2w
+
+- **@stylelib.org**: Hendy – Handyman Service WordPress Theme
+
+ https://themes.stylelib.org/?p=662763 
+
+#business #construction #contractor #corporate #electrician #handyman #maintenance #painter #plumber #renovation #rep
+  → https://bsky.app/profile/stylelib.org/post/3mvfseqhhqg2t
+
+- **@ppkfs.bsky.social**: business, marketing, engineering, architecture, etc
+
+but...surgeons? you'd hope if you are getting brain surgery that the result of the surgery is exactly the same if they are a regular neurosurgeon o
+  → https://bsky.app/profile/ppkfs.bsky.social/post/3mvkc6gppps23
+
 - **@stylelib.org**: Dustar – Cleaning Services WordPress Theme
 
  https://stylelib.org/?p=155809 
@@ -171,40 +212,3 @@ L
 
 - **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
-
-- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
-
-- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
-
-Start by comparing process, not just price.
-
-If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
-  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
-
-- **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
-  → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
-
-- **@stylelib.org**: Renovation – Construction Company WordPress Theme
-
- https://themes.stylelib.org/?p=7465 
-
-#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
-  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
-
-- **@stylelib.org**: Hank – Construction WordPress theme
-
- https://stylelib.org/?p=213128 
-
-#constructor #themeforest #visualcomposer #wordpress #architecture #business #plumber #building #company #corporate #responsive #
-  → https://bsky.app/profile/stylelib.org/post/3muuvhjtzqd2g
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3muz64z4r672q
-
-- **@rankforaisearch.bsky.social**: Homeowners aren't just typing keywords into Google anymore—they're asking ChatGPT, Perplexity, and Google AI Overviews questions like "Who is the best local plumber for an emergency leak?" 
-If your  b
-  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mv2i3wgguk2z
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mvapfuwun42t

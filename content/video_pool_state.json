@@ -18,12 +18,13 @@
       "pod-ep01-starter",
       "pod-ep01-ftc",
       "pod-ep01-refunds",
-      "pod-ep01-cost"
+      "pod-ep01-cost",
+      "pod-ep01-wrongnum"
     ],
-    "last_iso": "2026-09-14T18:17:30",
+    "last_iso": "2026-09-15T08:39:22",
     "day": {
-      "date": "2026-09-14",
-      "count": 2
+      "date": "2026-09-15",
+      "count": 1
     }
   },
   "tiktok": {
@@ -52,12 +53,13 @@
       "bj-reviews",
       "bj-trade",
       "bj-slow",
-      "bj-cpbj"
+      "bj-cpbj",
+      "bj-speed"
     ],
-    "last_iso": "2026-09-14T20:26:43",
+    "last_iso": "2026-09-15T08:39:22",
     "day": {
-      "date": "2026-09-14",
-      "count": 4
+      "date": "2026-09-15",
+      "count": 1
     }
   },
   "linkedin": {
@@ -77,12 +79,13 @@
       "pod-ep01-verdict",
       "pod-ep01-speed",
       "pod-ep01-starter",
-      "pod-ep01-ftc"
+      "pod-ep01-ftc",
+      "pod-ep01-refunds"
     ],
-    "last_iso": "2026-09-14T18:17:30",
+    "last_iso": "2026-09-15T08:39:22",
     "day": {
-      "date": "2026-09-14",
-      "count": 3
+      "date": "2026-09-15",
+      "count": 1
     }
   },
   "facebook": {
@@ -152,12 +155,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-09-14T20:26:43",
+    "last_iso": "2026-09-15T08:39:22",
     "day": {
-      "date": "2026-09-14",
-      "count": 3
+      "date": "2026-09-15",
+      "count": 1
     }
   },
   "pinterest": {
@@ -207,12 +211,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-09-14T20:26:43",
+    "last_iso": "2026-09-15T08:39:22",
     "day": {
-      "date": "2026-09-14",
-      "count": 4
+      "date": "2026-09-15",
+      "count": 1
     }
   },
   "telegram": {
@@ -264,12 +269,13 @@
       "bj-stars",
       "bj-ai",
       "bj-scam",
-      "bj-rev-hvac"
+      "bj-rev-hvac",
+      "bj-rev-plumb"
     ],
-    "last_iso": "2026-09-14T20:26:43",
+    "last_iso": "2026-09-15T08:39:22",
     "day": {
-      "date": "2026-09-14",
-      "count": 4
+      "date": "2026-09-15",
+      "count": 1
     }
   }
 }
