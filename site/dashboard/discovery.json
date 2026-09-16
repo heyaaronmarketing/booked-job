@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T01:20:29Z",
+  "updated": "2026-09-16T07:37:01Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23315,
+        "followers": 23320,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7200,
+        "followers": 7201,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -179,14 +179,14 @@
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
+        "handle": "@cmstudio.idn@threads.net",
+        "followers": 827,
+        "link": "https://threads.net/@cmstudio.idn/"
+      },
+      {
         "handle": "@Noshir",
         "followers": 727,
         "link": "https://mastodon.social/@Noshir"
-      },
-      {
-        "handle": "@electricians@lemmy.world",
-        "followers": 632,
-        "link": "https://lemmy.world/c/electricians"
       }
     ]
   },
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4105,
+      "followers": 4103,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -257,14 +257,14 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1382,
+      "followers": 1394,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1304,
+      "followers": 1303,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },

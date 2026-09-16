@@ -2,6 +2,53 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
+👇🏼
+@angieforfl.bsky.social
+  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
+
+- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
+
+Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
+  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
+
+- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
+
+Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
+  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
+
+- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
+  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
+
+- **@ralphhickman.bsky.social**: Not quite true. And it's hardly Doxing when it's publicly available information on a Government website?
+
+The company was set up by his mother, transferred to Daniel
+
+Kudos to his mother for telling t
+  → https://bsky.app/profile/ralphhickman.bsky.social/post/3mv5cwu3dps2c
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by *one* person online: Google. A real website + SEO means those searches turn into calls. AI chatbot handles the rest. We build it. You answe
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mv7b5jukgs2z
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/junk removal business doesn't need more social media posts. You need a website that converts visitors into calls, AI chatbot handling 60% of inquiries, and local SEO that puts
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mvgskcatuz2p
+
+- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
+
+- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
+
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
+
+Start by comparing process, not just price.
+
+If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
+
+- **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
+  → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
+
 - **@herrybrook06.bsky.social**: Planning a home upgrade? 🏡 Red Stone Contracting delivers quality home renovation Oakville services, from kitchens and bathrooms to basements and complete home transformations.
 📞 (905) 901-1006
 🌐 reds
@@ -131,69 +178,3 @@ Give extinguishers a monthly look: gauge in the green, pin and seal in place, no
 
 «Want to Meet a Nice Big Family?»
   → https://bsky.app/profile/oldukprintads.bsky.social/post/3muzigpbxet2r
-
-- **@hometipsworld.bsky.social**: Hiring tree service? Don't sign before checking liability & cleanup clauses: 
-
-homeimprovementtips.co/what-to-look-for-in-a-tree-removal-contract/ 
-
-#HomeTips #TreeCare
-  → https://bsky.app/profile/hometipsworld.bsky.social/post/3mv44ujp42k2s
-
-- **@joannahastings.bsky.social**: Primark? Isn't this essentially wear-once-and-throw-away quality fast fashion from child slave labour? Go to a charity shop and find something worth wearing, for the love. 
-www.theguardian.com/busines
-  → https://bsky.app/profile/joannahastings.bsky.social/post/3mv5onvxbos2e
-
-- **@hex.ooo**: the zapier home page 3 years ago versus now. they went from clearly describing a simple and powerful service that pretty much anyone in business could understand and set up to complete gibberish. how 
-  → https://bsky.app/profile/hex.ooo/post/3mvhyxyvk2k2w
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
-
-What business does government have deciding what relationships you can have, with whom, or what to call them?
-
-And why should
-  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
-
-- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
-
- https://stylelib.org/?p=973301 
-
-#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
-  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
-
-- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
-
- https://stylelib.org/?p=185862 
-
-#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
-  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
-
-- **@stylelib.org**: Electrik – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=888904 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3mucherso2f2y
-
-- **@stylelib.org**: Easton – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=663877 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3musp2i2kyo2g
