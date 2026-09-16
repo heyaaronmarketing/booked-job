@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@herrybrook06.bsky.social**: Planning a home upgrade? 🏡 Red Stone Contracting delivers quality home renovation Oakville services, from kitchens and bathrooms to basements and complete home transformations.
+📞 (905) 901-1006
+🌐 reds
+  → https://bsky.app/profile/herrybrook06.bsky.social/post/3mvkiihd6j225
+
 - **@johnlk.bsky.social**: Don't you kind of have to hand it to the trades, though? They know their business, at least.
   → https://bsky.app/profile/johnlk.bsky.social/post/3mvksxfiiu22f
 
@@ -192,10 +197,3 @@ And why should
 
 #electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
   → https://bsky.app/profile/stylelib.org/post/3musp2i2kyo2g
-
-- **@stylelib.org**: Construct Press – Construction and Renovation WordPress Theme
-
- https://stylelib.org/?p=196660 
-
-#buildingcompany #constructor #electrician #handyman #painter #remodeling #renovation #templatepath #th
-  → https://bsky.app/profile/stylelib.org/post/3mussfsd5hg2s
