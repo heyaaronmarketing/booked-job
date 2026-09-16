@@ -21,12 +21,13 @@
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
-      "bj-angi"
+      "bj-angi",
+      "bj-reviews"
     ],
-    "last_iso": "2026-09-16T08:38:09",
+    "last_iso": "2026-09-16T17:15:51",
     "day": {
       "date": "2026-09-16",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -61,12 +62,13 @@
       "bj-cpl",
       "bj-favor",
       "bj-stars",
-      "bj-ai"
+      "bj-ai",
+      "bj-scam"
     ],
-    "last_iso": "2026-09-16T13:20:19",
+    "last_iso": "2026-09-16T17:15:51",
     "day": {
       "date": "2026-09-16",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -92,23 +94,25 @@
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
       "bj-angi",
-      "bj-reviews"
+      "bj-reviews",
+      "bj-trade"
     ],
-    "last_iso": "2026-09-16T13:20:19",
+    "last_iso": "2026-09-16T17:15:51",
     "day": {
       "date": "2026-09-16",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-09-16T08:38:09",
+    "last_iso": "2026-09-16T17:15:51",
     "day": {
       "date": "2026-09-16",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -164,12 +168,13 @@
       "bj-yelp",
       "bj-anon98",
       "bj-missedcall",
-      "bj-stormchaser"
+      "bj-stormchaser",
+      "bj-freecheck"
     ],
-    "last_iso": "2026-09-16T13:20:19",
+    "last_iso": "2026-09-16T17:15:51",
     "day": {
       "date": "2026-09-16",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -227,12 +232,13 @@
       "bj-rev-elec",
       "bj-rev-paint",
       "bj-cheapbid",
-      "bj-wordpress"
+      "bj-wordpress",
+      "bj-first10k"
     ],
-    "last_iso": "2026-09-16T13:20:19",
+    "last_iso": "2026-09-16T17:15:51",
     "day": {
       "date": "2026-09-16",
-      "count": 2
+      "count": 3
     }
   }
 }

@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@susanfitzell.bsky.social**: Struggling in school doesn't say everything about someone's talent. In the skilled trades, a different way of thinking can be a strength.
+
+How do you give apprentices a chance to show what they can 
+  → https://bsky.app/profile/susanfitzell.bsky.social/post/3mvnfwvaw4j2k
+
 - **@jackiebigford.bsky.social**: If anyone sees this company anywhere near the Kennedy Center, demolition is not far behind. 🏗️👷‍♂️
 
  ACECO LLC served as the demolition subcontractor under the general contractor Clark Construction Gr
@@ -173,6 +178,3 @@ Give extinguishers a monthly look: gauge in the green, pin and seal in place, no
 
 - **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
-
-- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m

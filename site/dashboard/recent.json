@@ -1,28 +1,52 @@
 {
-  "updated": "2026-09-16T13:22",
+  "updated": "2026-09-16T17:19",
   "posts": [
     {
-      "ts": "2026-09-16T13:20:29",
+      "ts": "2026-09-16T17:17:14",
+      "channel": "facebook",
+      "item": "card-rev-paint",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T17:17:11",
+      "channel": "mastodon",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T17:17:05",
       "channel": "tumblr",
-      "item": "bj-wordpress",
+      "item": "bj-first10k",
       "url": null
     },
     {
-      "ts": "2026-09-16T13:20:28",
+      "ts": "2026-09-16T17:17:02",
       "channel": "bluesky",
-      "item": "bj-stormchaser",
+      "item": "bj-freecheck",
       "url": null
     },
     {
-      "ts": "2026-09-16T13:20:25",
+      "ts": "2026-09-16T17:16:57",
       "channel": "linkedin",
+      "item": "bj-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T17:16:55",
+      "channel": "tiktok",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T17:16:53",
+      "channel": "ig",
       "item": "bj-reviews",
       "url": null
     },
     {
-      "ts": "2026-09-16T13:20:21",
-      "channel": "tiktok",
-      "item": "bj-ai",
+      "ts": "2026-09-16T17:16:20",
+      "channel": "facebook",
+      "item": "pod-ep03-exclusive",
       "url": null
     }
   ]
