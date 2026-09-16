@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jackiebigford.bsky.social**: If anyone sees this company anywhere near the Kennedy Center, demolition is not far behind. 🏗️👷‍♂️
+
+ ACECO LLC served as the demolition subcontractor under the general contractor Clark Construction Gr
+  → https://bsky.app/profile/jackiebigford.bsky.social/post/3mvnjxgcqys2q
+
 - **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
 👇🏼
 @angieforfl.bsky.social
@@ -171,10 +176,3 @@ Give extinguishers a monthly look: gauge in the green, pin and seal in place, no
 
 - **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
-
-- **@oldukprintads.bsky.social**: From America, Sep 1946: Telephone Service ad from Bell Telephone System (more at @OldInPrintAds.bsky.social)
-
-(+Telephones)
-
-«Want to Meet a Nice Big Family?»
-  → https://bsky.app/profile/oldukprintads.bsky.social/post/3muzigpbxet2r
