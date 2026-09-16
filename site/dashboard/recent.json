@@ -1,4 +1,65 @@
 {
-  "updated": "2026-09-16T02:41",
-  "posts": []
+  "updated": "2026-09-16T08:42",
+  "posts": [
+    {
+      "ts": "2026-09-16T08:40:42",
+      "channel": "youtube",
+      "item": "bj-stars",
+      "url": "https://youtu.be/WqNMe1-ISgc"
+    },
+    {
+      "ts": "2026-09-16T08:40:21",
+      "channel": "facebook",
+      "item": "card-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:40:17",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:39:31",
+      "channel": "mastodon",
+      "item": "card-rev-plumb",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:39:22",
+      "channel": "tumblr",
+      "item": "bj-cheapbid",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:39:20",
+      "channel": "bluesky",
+      "item": "bj-missedcall",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:39:16",
+      "channel": "linkedin",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:39:15",
+      "channel": "tiktok",
+      "item": "bj-stars",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:39:14",
+      "channel": "ig",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-09-16T08:38:38",
+      "channel": "facebook",
+      "item": "pod-ep03-track",
+      "url": null
+    }
+  ]
 }

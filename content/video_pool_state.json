@@ -20,12 +20,13 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-09-15T17:19:14",
+    "last_iso": "2026-09-16T08:38:09",
     "day": {
-      "date": "2026-09-15",
-      "count": 2
+      "date": "2026-09-16",
+      "count": 1
     }
   },
   "tiktok": {
@@ -58,12 +59,13 @@
       "bj-speed",
       "bj-ftc",
       "bj-cpl",
-      "bj-favor"
+      "bj-favor",
+      "bj-stars"
     ],
-    "last_iso": "2026-09-15T20:22:05",
+    "last_iso": "2026-09-16T08:38:09",
     "day": {
-      "date": "2026-09-15",
-      "count": 4
+      "date": "2026-09-16",
+      "count": 1
     }
   },
   "linkedin": {
@@ -87,22 +89,24 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-09-15T20:22:05",
+    "last_iso": "2026-09-16T08:38:09",
     "day": {
-      "date": "2026-09-15",
-      "count": 4
+      "date": "2026-09-16",
+      "count": 1
     }
   },
   "facebook": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-09-15T17:19:14",
+    "last_iso": "2026-09-16T08:38:09",
     "day": {
-      "date": "2026-09-15",
-      "count": 2
+      "date": "2026-09-16",
+      "count": 1
     }
   },
   "pinterest": {
@@ -156,12 +160,13 @@
       "bj-wordpress",
       "bj-first10k",
       "bj-yelp",
-      "bj-anon98"
+      "bj-anon98",
+      "bj-missedcall"
     ],
-    "last_iso": "2026-09-15T20:22:05",
+    "last_iso": "2026-09-16T08:38:09",
     "day": {
-      "date": "2026-09-15",
-      "count": 4
+      "date": "2026-09-16",
+      "count": 1
     }
   },
   "telegram": {
@@ -217,12 +222,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-09-15T20:22:05",
+    "last_iso": "2026-09-16T08:38:09",
     "day": {
-      "date": "2026-09-15",
-      "count": 4
+      "date": "2026-09-16",
+      "count": 1
     }
   }
 }
