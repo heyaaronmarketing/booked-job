@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:02",
+  "updated": "2026-09-17T06:34",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -383,7 +383,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3380,
+      "views": 3378,
       "followers": 15,
       "likes": 8
     },
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 617,
+      "views": 611,
       "followers": 1
     },
     {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 42,
+      "count": 43,
       "unit": "posts",
       "followers": 199,
       "grade": "B",
@@ -488,11 +488,8 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 57,
+      "count": 58,
       "unit": "posts (Buffer)",
-      "stat": "638 reach \u00b7 2 reactions",
-      "views": 22,
-      "likes": 2,
       "grade": "B",
       "group": "social"
     },
@@ -547,7 +544,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 19
       },
       {
         "type": "Polls",
@@ -577,7 +574,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 19
       },
       {
         "type": "Long video",
@@ -623,7 +620,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 45
+        "count": 46
       },
       {
         "type": "Documents",
@@ -664,7 +661,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 42
+        "count": 43
       },
       {
         "type": "Video",
@@ -770,7 +767,7 @@
     }
   ],
   "funnel": {
-    "reach": 35336,
+    "reach": 35298,
     "engagement": 8,
     "audience": 225,
     "cr_clicks": 115
@@ -779,7 +776,7 @@
     "audience": 21,
     "engagement": 4,
     "email": 0,
-    "reach": -245
+    "reach": -283
   },
   "mafia": {
     "metrics": [
@@ -795,7 +792,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1485,
+        "value": 1487,
         "grade": "A"
       },
       {
