@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-09-16T19:37",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy caulk"
+    },
+    {
       "ts": "2026-09-16T17:17",
       "kind": "engage",
       "icon": "💬",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: pricing scope creep"
-    },
-    {
-      "ts": "2026-09-07T23:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor porta potty"
     }
   ]
 }

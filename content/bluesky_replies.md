@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@foreignsubstance.bsky.social**: The B block: The idiot sub-contractor who Trump hired to do the job on the Reflecting pool has admitted, 𝒊𝒏 𝒘𝒓𝒊𝒕𝒊𝒏𝒈, to screwing it up.
+
+It 𝒘𝒂𝒔𝒏'𝒕 vandalism? 🙄
+
+Spoiler: The sub-contractor, among 𝒐𝒕𝒉𝒆
+  → https://bsky.app/profile/foreignsubstance.bsky.social/post/3mvo7uizhlc2o
+
+- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
+
+- **@hometipsworld.bsky.social**: Hiring tree service? Don't sign before checking liability & cleanup clauses: 
+
+homeimprovementtips.co/what-to-look-for-in-a-tree-removal-contract/ 
+
+#HomeTips #TreeCare
+  → https://bsky.app/profile/hometipsworld.bsky.social/post/3mv44ujp42k2s
+
+- **@joannahastings.bsky.social**: Primark? Isn't this essentially wear-once-and-throw-away quality fast fashion from child slave labour? Go to a charity shop and find something worth wearing, for the love. 
+www.theguardian.com/busines
+  → https://bsky.app/profile/joannahastings.bsky.social/post/3mv5onvxbos2e
+
 - **@susanfitzell.bsky.social**: Struggling in school doesn't say everything about someone's talent. In the skilled trades, a different way of thinking can be a strength.
 
 How do you give apprentices a chance to show what they can 
@@ -166,15 +187,3 @@ Give extinguishers a monthly look: gauge in the green, pin and seal in place, no
 
 - **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
-
-- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
-
-- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
-
-- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y

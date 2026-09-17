@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T22:04:29Z",
+  "updated": "2026-09-17T00:25:53Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 26,
+        "uses": 23,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#roofing",
-        "uses": 6,
+        "uses": 5,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
@@ -117,16 +117,6 @@
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       },
       {
-        "tag": "#RoofingMachine",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/RoofingMachine"
-      },
-      {
-        "tag": "#roofing_installation",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/roofing_installation"
-      },
-      {
         "tag": "#ElectricianSandyford",
         "uses": 1,
         "link": "https://mastodon.social/tags/ElectricianSandyford"
@@ -135,12 +125,22 @@
         "tag": "#contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#HVACFailure",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACFailure"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466524,
+        "followers": 466525,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1833,
+      "followers": 1834,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1411,
+      "followers": 1413,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },

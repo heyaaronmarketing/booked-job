@@ -1,52 +1,34 @@
 {
-  "updated": "2026-09-16T17:19",
+  "updated": "2026-09-16T19:39",
   "posts": [
     {
-      "ts": "2026-09-16T17:17:14",
-      "channel": "facebook",
-      "item": "card-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-09-16T17:17:11",
+      "ts": "2026-09-16T19:37:15",
       "channel": "mastodon",
-      "item": "card-rev-roof",
+      "item": "card-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-09-16T17:17:05",
+      "ts": "2026-09-16T19:37:11",
       "channel": "tumblr",
-      "item": "bj-first10k",
+      "item": "bj-yelp",
       "url": null
     },
     {
-      "ts": "2026-09-16T17:17:02",
+      "ts": "2026-09-16T19:37:10",
       "channel": "bluesky",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     },
     {
-      "ts": "2026-09-16T17:16:57",
+      "ts": "2026-09-16T19:37:06",
       "channel": "linkedin",
-      "item": "bj-trade",
+      "item": "bj-slow",
       "url": null
     },
     {
-      "ts": "2026-09-16T17:16:55",
+      "ts": "2026-09-16T19:37:05",
       "channel": "tiktok",
-      "item": "bj-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-09-16T17:16:53",
-      "channel": "ig",
-      "item": "bj-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-09-16T17:16:20",
-      "channel": "facebook",
-      "item": "pod-ep03-exclusive",
+      "item": "bj-rev-hvac",
       "url": null
     }
   ]
