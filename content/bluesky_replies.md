@@ -2,6 +2,76 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@fantasystudio.bsky.social**: How is A.F. Pacillo General Contracting in North Andover MA a Contractor of just 3 people?
+
+#ICE should pay a visit to A.F. Pacillo job sites & confirm he is hiring legal workers.
+
+Because we wouldn't
+  → https://bsky.app/profile/fantasystudio.bsky.social/post/3mvpw5wsv6k2x
+
+- **@vote4rmurray.bsky.social**: On Nov. 3, you’ll vote on a Constitutional Amendment defining “marriage.”
+
+What business does government have deciding what relationships you can have, with whom, or what to call them?
+
+And why should
+  → https://bsky.app/profile/vote4rmurray.bsky.social/post/3mtjn2tjsec2f
+
+- **@stylelib.org**: Vastcon – Construction  Building WordPress Theme
+
+ https://stylelib.org/?p=973301 
+
+#builder #casethemes #constructor #electrician #handyman #painter #renovation #themeforest #wordpress #architecture 
+  → https://bsky.app/profile/stylelib.org/post/3mtywbknppk2d
+
+- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
+
+ https://stylelib.org/?p=185862 
+
+#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
+  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
+
+- **@stylelib.org**: Electrik – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=888904 
+
+#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
+  → https://bsky.app/profile/stylelib.org/post/3mucherso2f2y
+
+- **@stylelib.org**: Easton – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=663877 
+
+#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
+  → https://bsky.app/profile/stylelib.org/post/3musp2i2kyo2g
+
+- **@stylelib.org**: Construct Press – Construction and Renovation WordPress Theme
+
+ https://stylelib.org/?p=196660 
+
+#buildingcompany #constructor #electrician #handyman #painter #remodeling #renovation #templatepath #th
+  → https://bsky.app/profile/stylelib.org/post/3mussfsd5hg2s
+
+- **@stylelib.org**: Dustar – Cleaning Services WordPress Theme
+
+ https://stylelib.org/?p=155809 
+
+#cleaning #cleaningcompany #electrician #handyman #remodeling #themeforest #wordpress #business #plumber #corporate #maint
+  → https://bsky.app/profile/stylelib.org/post/3mv36muadai27
+
+- **@stylelib.org**: Jiolio – Construction Building Company
+
+ https://stylelib.org/?p=104340 
+
+#constructor #electrician #handyman #painter #remodeling #renovation #sitetemplates #themeforest #architecture #business #plum
+  → https://bsky.app/profile/stylelib.org/post/3mvd5gss56k2s
+
+- **@stylelib.org**: Hendy – Handyman Service WordPress Theme
+
+ https://themes.stylelib.org/?p=662763 
+
+#business #construction #contractor #corporate #electrician #handyman #maintenance #painter #plumber #renovation #rep
+  → https://bsky.app/profile/stylelib.org/post/3mvfseqhhqg2t
+
 - **@madisonfocal.bsky.social**: Federal audit flags gaps in Wisconsin’s oversight of Madison victim-services grants
 
 A U.S.…
@@ -137,48 +207,3 @@ Kudos to his mother for telling t
 
 - **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
-
-- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
-
-- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
-
-Start by comparing process, not just price.
-
-If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
-  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
-
-- **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
-  → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
-
-- **@herrybrook06.bsky.social**: Planning a home upgrade? 🏡 Red Stone Contracting delivers quality home renovation Oakville services, from kitchens and bathrooms to basements and complete home transformations.
-📞 (905) 901-1006
-🌐 reds
-  → https://bsky.app/profile/herrybrook06.bsky.social/post/3mvkiihd6j225
-
-- **@johnlk.bsky.social**: Don't you kind of have to hand it to the trades, though? They know their business, at least.
-  → https://bsky.app/profile/johnlk.bsky.social/post/3mvksxfiiu22f
-
-- **@stylelib.org**: Renovation – Construction Company WordPress Theme
-
- https://themes.stylelib.org/?p=7465 
-
-#architect #architecture #builder #building #business #construction #contractor #corporate #electrician #handy
-  → https://bsky.app/profile/stylelib.org/post/3mup2t6hkue2g
-
-- **@qtainpfaulkes.bsky.social**: You mean the skilled trades of those in unions that Carney is gutting the right to strike rules on?  Yes, unions have the right to strike but the changes make it so it almost always goes to forced arb
-  → https://bsky.app/profile/qtainpfaulkes.bsky.social/post/3mvjn7qw3wk2p
-
-- **@jobfairgiant.bsky.social**: Are There Jobs Hiring Immediately in Detroit?
-Yes, many Detroit employers hire immediately for positions in warehouse, manufacturing, transportation, healthcare support, security, customer service, sa
-  → https://bsky.app/profile/jobfairgiant.bsky.social/post/3mvkhqedztr2f
-
-- **@rivercade.bsky.social**: Ask an assistant to recommend a plumber in your town. You get a short list, and nothing on it is sponsored.
-
-No auction. No bid. No rep to call.
-
-The only input is what a machine can read about a busi
-  → https://bsky.app/profile/rivercade.bsky.social/post/3muoahl5il42q
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3murmgl3xvo24
