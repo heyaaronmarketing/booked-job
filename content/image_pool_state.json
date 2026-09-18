@@ -13,17 +13,17 @@
     ],
     "last_iso": "2026-09-17T18:43:46",
     "day": {
-      "date": "2026-09-17",
-      "count": 3
+      "date": "2026-09-18",
+      "count": 0
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-09-17T12:03:43",
+    "last_iso": "2026-09-18T09:35:59",
     "day": {
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "count": 1
     }
   },
@@ -36,11 +36,12 @@
       "card-rev-roof",
       "card-rev-elec",
       "card-rev-paint",
-      "card-speed"
+      "card-speed",
+      "card-ftc"
     ],
-    "last_iso": "2026-09-17T12:03:43",
+    "last_iso": "2026-09-18T09:35:59",
     "day": {
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "count": 1
     }
   }
