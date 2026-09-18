@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-09-17T23:33",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from 010001a0b23dc6b9-50657595-a602-4fc0-b727-fc510bb66809-000000@amazonses.com: \"You've got the job! We regret to inform you that you have NOT been selecte...\""
+    },
+    {
+      "ts": "2026-09-17T23:33",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor porta potty"
+    },
+    {
       "ts": "2026-09-17T18:43",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from postmaster@cio54818.mail.apollo.io — needs Aaron"
-    },
-    {
-      "ts": "2026-09-08T13:45",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com — needs Aaron"
-    },
-    {
-      "ts": "2026-09-08T13:45",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: You do you"
     }
   ]
 }

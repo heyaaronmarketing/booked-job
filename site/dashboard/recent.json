@@ -1,41 +1,4 @@
 {
-  "updated": "2026-09-17T18:46",
-  "posts": [
-    {
-      "ts": "2026-09-17T18:43:48",
-      "channel": "mastodon",
-      "item": "card-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-09-17T18:43:43",
-      "channel": "tumblr",
-      "item": "bj-freecheck",
-      "url": null
-    },
-    {
-      "ts": "2026-09-17T18:43:41",
-      "channel": "bluesky",
-      "item": "bj-track",
-      "url": null
-    },
-    {
-      "ts": "2026-09-17T18:43:38",
-      "channel": "linkedin",
-      "item": "bj-cpl",
-      "url": null
-    },
-    {
-      "ts": "2026-09-17T18:43:37",
-      "channel": "tiktok",
-      "item": "bj-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-09-17T18:43:36",
-      "channel": "facebook",
-      "item": "pod-ep03-lie",
-      "url": null
-    }
-  ]
+  "updated": "2026-09-17T23:34",
+  "posts": []
 }
