@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T13:20",
+  "updated": "2026-09-18T16:36",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 2329,
+        "current": 2331,
         "target": 1400,
         "pct": 100,
         "on_track": true
@@ -129,7 +129,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 1,
-    "views": 2329,
+    "views": 2331,
     "likes": 3,
     "videos": 53,
     "shorts": 53
@@ -404,7 +404,7 @@
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 2329,
+      "views": 2331,
       "followers": 1,
       "likes": 3
     },
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 50,
+      "count": 51,
       "unit": "posts",
       "followers": 202,
       "grade": "A",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Long video",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 29
+        "count": 30
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 50
+        "count": 51
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 51
+        "count": 52
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 46
+        "count": 47
       }
     ]
   },
@@ -770,7 +770,7 @@
     }
   ],
   "funnel": {
-    "reach": 35295,
+    "reach": 35297,
     "engagement": 7,
     "audience": 228,
     "cr_clicks": 118
@@ -779,13 +779,13 @@
     "audience": 19,
     "engagement": 3,
     "email": 0,
-    "reach": -240
+    "reach": -238
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 19033,
+        "value": 19035,
         "grade": "B"
       },
       {
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1505,
+        "value": 1506,
         "grade": "A"
       },
       {

@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@i3axb-722bq.bsky.social**: Get Found Faster with Local SEO in Miami!
+
+Want more local customers to discover your business online? Local SEO Services in Miami, FL can help improve your visibility in local search results, connect
+  → https://bsky.app/profile/i3axb-722bq.bsky.social/post/3mvrvgltl6s2r
+
+- **@thederringer.bsky.social**: youtube.com/watch?v=Irpw...
+DENY THEM SERVICE AT YOUR BUSINESS. SEND THESE SHITHEADS HOME !
+  → https://bsky.app/profile/thederringer.bsky.social/post/3mvs22cctcc2q
+
+- **@stocktitan.net**: #OPTU Optimum to Launch Fastest Internet Speeds to Carterville and Webb City, Missouri
+
+https://www.stocktitan.net/news/OPTU/optimum-to-launch-fastest-internet-speeds-to-carterville-and-webb-9qqiiwfcc
+  → https://bsky.app/profile/stocktitan.net/post/3mvs7zoynx226
+
+- **@sdgroupservice.bsky.social**: Looking for peace of mind? Get your personalized insurance quote today with SD Group Service! Whether it's auto, home, business, or life insurance, we've got you covered. Book your appointment now at 
+  → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mvsko7ms5x2b
+
 - **@youthfutures.bsky.social**: Interested in a rewarding career in the skilled trades? Join the Skilled Trades Career Fair Open 
 House at Ottawa's Cohere Centre on November 24, 3-7pm! Talk to experts and explore future career oppor
   → https://bsky.app/profile/youthfutures.bsky.social/post/3mvs4rovgkc2f
@@ -186,18 +203,3 @@ Want to learn more or get started? Click the link below or give us a call at (31
 
 Get professional electrical installation, repairs, maintenance, wiring, lighting, and troubleshooting services designed to keep your commercia
   → https://bsky.app/profile/rainyriverelectric.bsky.social/post/3mvrdblgxuc2t
-
-- **@joannahastings.bsky.social**: Primark? Isn't this essentially wear-once-and-throw-away quality fast fashion from child slave labour? Go to a charity shop and find something worth wearing, for the love. 
-www.theguardian.com/busines
-  → https://bsky.app/profile/joannahastings.bsky.social/post/3mv5onvxbos2e
-
-- **@iptvshop4k.bsky.social**: Direct Service Focus (Subscription + Reseller)
-Upgrade your home entertainment with ultra-smooth streaming, 4K picture quality, and 99.9% uptime. 📺✨
-Looking to start your own business? Access our dedi
-  → https://bsky.app/profile/iptvshop4k.bsky.social/post/3mvqbllir6k2m
-
-- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
-
-- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m

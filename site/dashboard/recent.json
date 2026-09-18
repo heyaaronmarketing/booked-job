@@ -1,34 +1,52 @@
 {
-  "updated": "2026-09-18T13:35",
+  "updated": "2026-09-18T16:53",
   "posts": [
     {
-      "ts": "2026-09-18T13:32:33",
-      "channel": "mastodon",
+      "ts": "2026-09-18T16:50:02",
+      "channel": "facebook",
       "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-09-18T13:32:29",
+      "ts": "2026-09-18T16:49:59",
+      "channel": "mastodon",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-09-18T16:49:45",
       "channel": "tumblr",
-      "item": "bj-agency12k",
+      "item": "bj-reviews50",
       "url": null
     },
     {
-      "ts": "2026-09-18T13:32:27",
+      "ts": "2026-09-18T16:49:42",
       "channel": "bluesky",
-      "item": "ad-pauls",
+      "item": "ad-summit",
       "url": null
     },
     {
-      "ts": "2026-09-18T13:32:24",
+      "ts": "2026-09-18T16:49:39",
       "channel": "linkedin",
-      "item": "bj-stars",
+      "item": "bj-ai",
       "url": null
     },
     {
-      "ts": "2026-09-18T13:32:22",
+      "ts": "2026-09-18T16:49:38",
       "channel": "tiktok",
-      "item": "bj-cheapbid",
+      "item": "bj-wordpress",
+      "url": null
+    },
+    {
+      "ts": "2026-09-18T16:49:36",
+      "channel": "ig",
+      "item": "bj-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-09-18T16:49:02",
+      "channel": "facebook",
+      "item": "pod-ep02-fake",
       "url": null
     }
   ]
