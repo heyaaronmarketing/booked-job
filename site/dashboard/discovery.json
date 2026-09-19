@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T17:57:05Z",
+  "updated": "2026-09-19T20:32:09Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 20,
+        "uses": 21,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2245,
+      "followers": 2246,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1489,
+      "followers": 1496,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },

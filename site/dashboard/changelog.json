@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-09-19T15:43",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing pick two"
+    },
+    {
       "ts": "2026-09-19T13:08",
       "kind": "engage",
       "icon": "💬",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: pricing insurance"
-    },
-    {
-      "ts": "2026-09-09T16:52",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces-1138496118209375426@explore.pinterest.com — needs Aaron"
     }
   ]
 }
