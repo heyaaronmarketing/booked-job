@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T09:35",
+  "generated": "2026-09-19T13:11",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 8,
+        "current": 10,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 25,
+        "current": 27,
         "target": 150,
         "status": "red",
         "needs": null
@@ -115,7 +115,7 @@
         "cat": "Social",
         "icon": "\ud83d\udd25",
         "label": "Engagement actions",
-        "current": 3,
+        "current": 2,
         "target": 250,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 116,
+        "current": 118,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,9 +222,9 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1072,
+    "social_posts": 1074,
     "followers": 226,
-    "engagement": 7,
+    "engagement": 6,
     "yt_views": 2331,
     "yt_shorts": 53,
     "email_subs": 7,
@@ -259,8 +259,8 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "25/150 \u2014 125 short of pace.",
-      "prompt": "We're behind on social posts this week (25/150). Refill the social queues / add more variant cards."
+      "why": "27/150 \u2014 123 short of pace.",
+      "prompt": "We're behind on social posts this week (27/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83c\udfac Reels behind this week",
@@ -279,8 +279,8 @@
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
-      "why": "3/250 \u2014 247 short of pace.",
-      "prompt": "We're behind on engagement actions this week (3/250). Refill the social queues / add more variant cards."
+      "why": "2/250 \u2014 248 short of pace.",
+      "prompt": "We're behind on engagement actions this week (2/250). Refill the social queues / add more variant cards."
     }
   ]
 }
