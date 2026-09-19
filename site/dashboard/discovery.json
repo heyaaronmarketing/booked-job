@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:49:52Z",
+  "updated": "2026-09-19T14:20:12Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -112,19 +112,19 @@
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       },
       {
-        "tag": "#PlumbingservicesnearmeinLosAngeles",
+        "tag": "#PlumbingservicenearmeinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
+        "link": "https://mastodon.social/tags/PlumbingservicenearmeinLosAngeles"
       },
       {
-        "tag": "#PlumbingservicesnearmeinHouston",
+        "tag": "#PlumbingrepairinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
+        "link": "https://mastodon.social/tags/PlumbingrepairinLosAngeles"
       },
       {
-        "tag": "#PlumbingservicesinHouston",
+        "tag": "#PlumbingcompanyinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
+        "link": "https://mastodon.social/tags/PlumbingcompanyinLosAngeles"
       },
       {
         "tag": "#handyman",
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1480,
+      "followers": 1484,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
