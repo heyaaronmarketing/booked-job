@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-09-19T00:46",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from 010001a0b77c0bac-81092a60-e9b3-479e-8c70-7e9e504be476-000000@amazonses.com: \"Costco is hiring, they just don't know it yet.\""
+    },
+    {
+      "ts": "2026-09-19T00:46",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing low bid"
+    },
+    {
+      "ts": "2026-09-19T00:46",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz fire customer"
+    },
+    {
       "ts": "2026-09-18T19:23",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "reel",
       "icon": "🎬",
       "text": "Published YouTube Short: The FTC fined HomeAdvisor $7.2M"
-    },
-    {
-      "ts": "2026-09-09T09:41",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-09-09T09:40",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Causal Inference with Python: A Guide to Regression Discontinuity Design | Lukas"
-    },
-    {
-      "ts": "2026-09-09T09:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: labor phone"
     }
   ]
 }
