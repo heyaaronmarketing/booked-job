@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T21:36:57Z",
+  "updated": "2026-09-19T00:12:13Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 19,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#roofing",
@@ -92,29 +87,19 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#plumbing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#RoofingServicesTexas",
         "uses": 5,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
       },
       {
-        "tag": "#hvac",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
         "tag": "#contractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#smallbusinessowners",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
         "tag": "#Hvacousticwoodwool",
@@ -135,6 +120,21 @@
         "tag": "#PlumbingservicesnearmeinHouston",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
+      },
+      {
+        "tag": "#PlumbingservicesinHouston",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#smallbusinessowners",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/smallbusinessowners"
       }
     ],
     "accounts": [
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1833,
+      "followers": 1834,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -241,18 +241,18 @@
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
     {
+      "handle": "@hvacrm.bsky.social",
+      "display": "hvacrm.bsky.social",
+      "followers": 1473,
+      "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
+      "link": "https://bsky.app/profile/hvacrm.bsky.social"
+    },
+    {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
       "followers": 1472,
       "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
       "link": "https://bsky.app/profile/roofing11.bsky.social"
-    },
-    {
-      "handle": "@hvacrm.bsky.social",
-      "display": "hvacrm.bsky.social",
-      "followers": 1465,
-      "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
-      "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
     {
       "handle": "@thatroofingguy.bsky.social",
@@ -285,7 +285,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1054,
+      "followers": 1055,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     }
