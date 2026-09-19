@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T05:44:45Z",
+  "updated": "2026-09-19T10:49:52Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 19,
+        "uses": 20,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -112,19 +112,19 @@
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       },
       {
-        "tag": "#PlumbingservicenearmeinLosAngeles",
+        "tag": "#PlumbingservicesnearmeinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicenearmeinLosAngeles"
+        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
       },
       {
-        "tag": "#PlumbingrepairinLosAngeles",
+        "tag": "#PlumbingservicesnearmeinHouston",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingrepairinLosAngeles"
+        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
       },
       {
-        "tag": "#PlumbingcompanyinLosAngeles",
+        "tag": "#PlumbingservicesinHouston",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingcompanyinLosAngeles"
+        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
       },
       {
         "tag": "#handyman",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466544,
+        "followers": 466543,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23360,
+        "followers": 23361,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10144,
+      "followers": 10146,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1477,
+      "followers": 1480,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
