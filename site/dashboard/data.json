@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:43",
+  "updated": "2026-09-20T16:28",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 536
+    "media": 537
   },
   "email": {
     "subscribers": 7
@@ -435,12 +435,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 6,
+      "count": 7,
       "unit": "posts",
       "followers": 212,
       "grade": "A",
       "group": "social",
-      "likes": 12
+      "likes": 13
     },
     {
       "name": "Mastodon",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 9
+        "count": 7
       },
       {
         "type": "Long video",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 38
+        "count": 39
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 6
+        "count": 7
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 61
+        "count": 62
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 56
+        "count": 57
       }
     ]
   },
@@ -773,7 +773,7 @@
     "reach": 35234,
     "engagement": 6,
     "audience": 237,
-    "cr_clicks": 120
+    "cr_clicks": 121
   },
   "trends": {
     "audience": 22,
@@ -790,12 +790,12 @@
       },
       {
         "label": "Total Clicks",
-        "value": 120,
+        "value": 121,
         "grade": "B"
       },
       {
         "label": "Total Posts",
-        "value": 1418,
+        "value": 1419,
         "grade": "A"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 237 audience and 120 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 237 audience and 121 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

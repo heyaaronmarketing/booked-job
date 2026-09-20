@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @lpl.ca: “Teens! Curious about where different careers can take you? 🎓  Hear from post-secondary stu…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/lpl.ca/post/3mvxebrsgwj2r",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @rochbourassa.bsky.social: “www.canada.ca/en/employmen...  You know what would contribute greatly to increasing access…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/rochbourassa.bsky.social/post/3mvxrab2roc2g",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @cleveland.com: “Looking for a new job? Swagelok plans to hire more than 1,200 people across Northeast Ohio…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/cleveland.com/post/3mvx5xxxuim2c",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @susanfitzell.bsky.social: “Struggling in school doesn't say everything about someone's talent. In the skilled trades,…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @ketkinztalent.bsky.social: “Strong businesses need the right people. KTS supports employers hiring across Skilled Trad…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/ketkinztalent.bsky.social/post/3mvxl5j2jwg25",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @chdodenny.bsky.social: “Who remembers Joe the Plumber?  \"But far more relevant to the story of inequality in Ameri…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/chdodenny.bsky.social/post/3mvlj5y5xc22e",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @aicantseeme.bsky.social: “When a customer asks ChatGPT \"best plumber in Denver\", someone gets named. If it's never y…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/aicantseeme.bsky.social/post/3mvnbue3k3q2m",
       "est": "2 min"
     },
     {
