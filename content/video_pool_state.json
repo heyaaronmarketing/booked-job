@@ -29,12 +29,13 @@
       "bj-speed",
       "bj-ftc",
       "bj-cpl",
-      "bj-favor"
+      "bj-favor",
+      "bj-stars"
     ],
-    "last_iso": "2026-09-20T06:18:05",
+    "last_iso": "2026-09-20T13:54:23",
     "day": {
       "date": "2026-09-20",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -85,12 +86,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-09-20T11:09:49",
+    "last_iso": "2026-09-20T13:54:23",
     "day": {
       "date": "2026-09-20",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -132,12 +134,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-09-20T11:09:49",
+    "last_iso": "2026-09-20T13:54:23",
     "day": {
       "date": "2026-09-20",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -152,12 +155,13 @@
       "pod-ep02-fake",
       "pod-ep02-onetap",
       "pod-ep02-peak",
-      "pod-ep02-howmany"
+      "pod-ep02-howmany",
+      "pod-ep02-invisible"
     ],
-    "last_iso": "2026-09-20T06:18:05",
+    "last_iso": "2026-09-20T13:54:23",
     "day": {
       "date": "2026-09-20",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -230,12 +234,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-09-20T11:09:49",
+    "last_iso": "2026-09-20T13:54:23",
     "day": {
       "date": "2026-09-20",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -310,12 +315,13 @@
       "ad-summit",
       "clip-speed",
       "clip1-turd",
-      "clip2-game"
+      "clip2-game",
+      "clip3-onestar"
     ],
-    "last_iso": "2026-09-20T11:09:49",
+    "last_iso": "2026-09-20T13:54:23",
     "day": {
       "date": "2026-09-20",
-      "count": 2
+      "count": 3
     }
   }
 }

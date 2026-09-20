@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-09-20T13:56",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Booked Job, this is so you-coded"
+    },
+    {
+      "ts": "2026-09-20T13:56",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing friend price"
+    },
+    {
       "ts": "2026-09-20T11:11",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Inbound (not our pitch) from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com — needs Aaron"
-    },
-    {
-      "ts": "2026-09-10T11:32",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: 21 Reinforcement Learning (RL) Concepts Explained In Plain English | Dr. Ashish "
-    },
-    {
-      "ts": "2026-09-10T11:32",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Booked Job, you have a good eye"
     }
   ]
 }

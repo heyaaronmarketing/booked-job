@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lpl.ca**: Teens! Curious about where different careers can take you? 🎓
+
+Hear from post-secondary students and working professionals about career paths, education, funding, and changing industries at Ed Talks.
+
+
+  → https://bsky.app/profile/lpl.ca/post/3mvxebrsgwj2r
+
+- **@rochbourassa.bsky.social**: www.canada.ca/en/employmen...
+
+You know what would contribute greatly to increasing access to the trades? 
+Changing the freaking requirement to have the person find / fend for themselves to get someon
+  → https://bsky.app/profile/rochbourassa.bsky.social/post/3mvxrab2roc2g
+
 - **@cleveland.com**: Looking for a new job? Swagelok plans to hire more than 1,200 people across Northeast Ohio this year, with openings ranging from entry-level manufacturing to skilled trades. Many roles don’t require a
   → https://bsky.app/profile/cleveland.com/post/3mvx5xxxuim2c
 
@@ -154,9 +167,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/junk removal business doesn't need more social media posts. You need a website that converts visitors into calls, AI chatbot handling 60% of inquiries, and local SEO that puts
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mvgskcatuz2p
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/plumbing business gets found because of your website—not despite it. We build sites that rank in Google, convert visitors to calls, and handle lead follow-up with AI. Ready to
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mvvvdwmuak2z
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
