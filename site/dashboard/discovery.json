@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T06:05:46Z",
+  "updated": "2026-09-20T11:16:49Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 19,
+        "uses": 20,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -117,6 +117,11 @@
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       },
       {
+        "tag": "#hvacousticwoodwoolboards",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
+      },
+      {
         "tag": "#PlumbingservicesnearmeinLosAngeles",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
@@ -130,11 +135,6 @@
         "tag": "#PlumbingservicesinHouston",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
-      },
-      {
-        "tag": "#smallbusinessowners",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23362,
+        "followers": 23366,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -208,7 +208,7 @@
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3827,
+      "followers": 3828,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1513,
+      "followers": 1517,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@notenoughcrows.bsky.social",
       "display": "HVAC Grayling 🙏🇪🇺",
-      "followers": 1289,
+      "followers": 1290,
       "desc": "Neurodivergent and unpleasant  She/her  #bantersky enthusiastic  Terfs fuck off   Air conditioning enforcement team  🖤🏴󠁧",
       "link": "https://bsky.app/profile/notenoughcrows.bsky.social"
     },
