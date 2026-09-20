@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T11:16:49Z",
+  "updated": "2026-09-20T15:58:26Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -83,7 +83,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
+        "tag": "#hvac",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#Hvacousticwoodwool",
         "uses": 1,
         "link": "https://mastodon.social/tags/Hvacousticwoodwool"
@@ -122,19 +127,14 @@
         "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
       },
       {
-        "tag": "#PlumbingservicesnearmeinLosAngeles",
+        "tag": "#PlumbingservicenearmeinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
+        "link": "https://mastodon.social/tags/PlumbingservicenearmeinLosAngeles"
       },
       {
-        "tag": "#PlumbingservicesnearmeinHouston",
+        "tag": "#PlumbingrepairinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
-      },
-      {
-        "tag": "#PlumbingservicesinHouston",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
+        "link": "https://mastodon.social/tags/PlumbingrepairinLosAngeles"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23366,
+        "followers": 23367,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10146,
+      "followers": 10147,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2246,
+      "followers": 2247,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1836,
+      "followers": 1837,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1517,
+      "followers": 1518,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1414,
+      "followers": 1413,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@notenoughcrows.bsky.social",
       "display": "HVAC Grayling 🙏🇪🇺",
-      "followers": 1290,
+      "followers": 1289,
       "desc": "Neurodivergent and unpleasant  She/her  #bantersky enthusiastic  Terfs fuck off   Air conditioning enforcement team  🖤🏴󠁧",
       "link": "https://bsky.app/profile/notenoughcrows.bsky.social"
     },

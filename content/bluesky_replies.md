@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@cleveland.com**: Looking for a new job? Swagelok plans to hire more than 1,200 people across Northeast Ohio this year, with openings ranging from entry-level manufacturing to skilled trades. Many roles don’t require a
+  → https://bsky.app/profile/cleveland.com/post/3mvx5xxxuim2c
+
+- **@susanfitzell.bsky.social**: Struggling in school doesn't say everything about someone's talent. In the skilled trades, a different way of thinking can be a strength.
+
+How do you give apprentices a chance to show what they can 
+  → https://bsky.app/profile/susanfitzell.bsky.social/post/3mvxhqlv5p42g
+
+- **@ketkinztalent.bsky.social**: Strong businesses need the right people. KTS supports employers hiring across Skilled Trades and IT & Business Support. Growing your team or filling an urgent vacancy? Let's talk about what you need. 
+  → https://bsky.app/profile/ketkinztalent.bsky.social/post/3mvxl5j2jwg25
+
 - **@chdodenny.bsky.social**: Who remembers Joe the Plumber?
 
 "But far more relevant to the story of inequality in America are the everywhere millionaires who quietly press their elected representatives for favorable treatment. Th
@@ -149,24 +160,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@stylelib.org**: Struqta – Industrial  Construction Elementor WordPress Theme
-
- https://stylelib.org/?p=185862 
-
-#builder #constructioncompany #electrician #elementor #handyman #renovation #themeforest #wordpress #arc
-  → https://bsky.app/profile/stylelib.org/post/3mu2pbjkalc2s
-
-- **@stylelib.org**: Electrik – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=888904 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3mucherso2f2y
-
-- **@stylelib.org**: Easton – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=663877 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3musp2i2kyo2g
