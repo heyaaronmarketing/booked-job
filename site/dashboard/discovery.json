@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:54:55Z",
+  "updated": "2026-09-20T00:59:56Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,18 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 21,
+        "uses": 18,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#roofing",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#plumbing",
         "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#roofing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#RoofingServicesTexas",
@@ -102,6 +102,11 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#handyman",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
         "tag": "#Hvacousticwoodwool",
         "uses": 1,
         "link": "https://mastodon.social/tags/Hvacousticwoodwool"
@@ -112,24 +117,19 @@
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       },
       {
-        "tag": "#PlumbingservicesnearmeinLosAngeles",
+        "tag": "#PlumbingservicenearmeinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
+        "link": "https://mastodon.social/tags/PlumbingservicenearmeinLosAngeles"
       },
       {
-        "tag": "#PlumbingservicesnearmeinHouston",
+        "tag": "#PlumbingrepairinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
+        "link": "https://mastodon.social/tags/PlumbingrepairinLosAngeles"
       },
       {
-        "tag": "#PlumbingservicesinHouston",
+        "tag": "#PlumbingcompanyinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
-      },
-      {
-        "tag": "#handyman",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
+        "link": "https://mastodon.social/tags/PlumbingcompanyinLosAngeles"
       },
       {
         "tag": "#smallbusinessowners",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23361,
+        "followers": 23362,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {

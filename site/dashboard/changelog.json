@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-09-19T20:01",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing low bid"
+    },
+    {
       "ts": "2026-09-19T18:08",
       "kind": "engage",
       "icon": "💬",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: ba nobody sees"
-    },
-    {
-      "ts": "2026-09-10T00:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing low bid"
     }
   ]
 }
