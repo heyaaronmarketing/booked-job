@@ -1,58 +1,40 @@
 {
-  "updated": "2026-09-21T09:14",
+  "updated": "2026-09-21T14:34",
   "posts": [
     {
-      "ts": "2026-09-21T09:11:26",
-      "channel": "youtube",
-      "item": "bj-scam",
-      "url": "https://youtu.be/H8_r6lvi-OQ"
-    },
-    {
-      "ts": "2026-09-21T09:11:20",
-      "channel": "facebook",
-      "item": "carousel-leadsites",
+      "ts": "2026-09-21T14:31:52",
+      "channel": "mastodon",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-09-21T09:11:16",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T09:10:35",
+      "ts": "2026-09-21T14:31:47",
       "channel": "tumblr",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
       "url": null
     },
     {
-      "ts": "2026-09-21T09:10:34",
+      "ts": "2026-09-21T14:31:45",
       "channel": "bluesky",
-      "item": "rip-reviews-rip",
+      "item": "rip-speed-rip",
       "url": null
     },
     {
-      "ts": "2026-09-21T09:10:32",
+      "ts": "2026-09-21T14:31:42",
       "channel": "linkedin",
-      "item": "bj-yelp",
+      "item": "bj-anon98",
       "url": null
     },
     {
-      "ts": "2026-09-21T09:10:31",
+      "ts": "2026-09-21T14:31:41",
       "channel": "tiktok",
-      "item": "ad-arctic",
+      "item": "ad-pauls",
       "url": null
     },
     {
-      "ts": "2026-09-21T09:10:30",
-      "channel": "ig",
-      "item": "bj-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T09:09:57",
+      "ts": "2026-09-21T14:31:40",
       "channel": "facebook",
-      "item": "pod-ep01-speed",
+      "item": "pod-ep01-starter",
       "url": null
     }
   ]
