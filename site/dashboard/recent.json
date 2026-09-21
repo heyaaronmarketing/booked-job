@@ -1,41 +1,4 @@
 {
-  "updated": "2026-09-20T19:22",
-  "posts": [
-    {
-      "ts": "2026-09-20T19:21:53",
-      "channel": "facebook",
-      "item": "card-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-09-20T19:21:49",
-      "channel": "mastodon",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-09-20T19:21:46",
-      "channel": "tumblr",
-      "item": "money-leaks-torque",
-      "url": null
-    },
-    {
-      "ts": "2026-09-20T19:21:45",
-      "channel": "bluesky",
-      "item": "rip-angi-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-09-20T19:21:02",
-      "channel": "tiktok",
-      "item": "bj-track",
-      "url": null
-    },
-    {
-      "ts": "2026-09-20T19:21:01",
-      "channel": "facebook",
-      "item": "pod-ep01-verdict",
-      "url": null
-    }
-  ]
+  "updated": "2026-09-21T01:14",
+  "posts": []
 }
