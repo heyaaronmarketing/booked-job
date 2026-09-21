@@ -30,12 +30,13 @@
       "bj-ftc",
       "bj-cpl",
       "bj-favor",
-      "bj-stars"
+      "bj-stars",
+      "bj-ai"
     ],
-    "last_iso": "2026-09-20T13:54:23",
+    "last_iso": "2026-09-21T09:09:26",
     "day": {
-      "date": "2026-09-20",
-      "count": 2
+      "date": "2026-09-21",
+      "count": 1
     }
   },
   "tiktok": {
@@ -89,12 +90,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-09-20T19:20:35",
+    "last_iso": "2026-09-21T09:09:26",
     "day": {
-      "date": "2026-09-20",
-      "count": 5
+      "date": "2026-09-21",
+      "count": 1
     }
   },
   "linkedin": {
@@ -138,12 +140,13 @@
       "bj-rev-paint",
       "bj-cheapbid",
       "bj-wordpress",
-      "bj-first10k"
+      "bj-first10k",
+      "bj-yelp"
     ],
-    "last_iso": "2026-09-20T16:39:20",
+    "last_iso": "2026-09-21T09:09:26",
     "day": {
-      "date": "2026-09-20",
-      "count": 4
+      "date": "2026-09-21",
+      "count": 1
     }
   },
   "facebook": {
@@ -160,12 +163,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-09-20T19:20:35",
+    "last_iso": "2026-09-21T09:09:26",
     "day": {
-      "date": "2026-09-20",
-      "count": 3
+      "date": "2026-09-21",
+      "count": 1
     }
   },
   "pinterest": {
@@ -241,12 +245,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-09-20T19:20:35",
+    "last_iso": "2026-09-21T09:09:26",
     "day": {
-      "date": "2026-09-20",
-      "count": 5
+      "date": "2026-09-21",
+      "count": 1
     }
   },
   "telegram": {
@@ -324,12 +329,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-09-20T19:20:35",
+    "last_iso": "2026-09-21T09:09:26",
     "day": {
-      "date": "2026-09-20",
-      "count": 5
+      "date": "2026-09-21",
+      "count": 1
     }
   }
 }

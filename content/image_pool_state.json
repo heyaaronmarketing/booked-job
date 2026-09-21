@@ -10,17 +10,17 @@
     ],
     "last_iso": "2026-09-20T19:21:48",
     "day": {
-      "date": "2026-09-20",
-      "count": 4
+      "date": "2026-09-21",
+      "count": 0
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-09-20T11:09:57",
+    "last_iso": "2026-09-21T09:10:37",
     "day": {
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "count": 1
     }
   },
@@ -39,12 +39,13 @@
       "card-ai",
       "card-anon98",
       "card-missedcall",
-      "card-trade"
+      "card-trade",
+      "carousel-leadsites"
     ],
-    "last_iso": "2026-09-20T19:21:48",
+    "last_iso": "2026-09-21T09:10:37",
     "day": {
-      "date": "2026-09-20",
-      "count": 2
+      "date": "2026-09-21",
+      "count": 1
     }
   }
 }
