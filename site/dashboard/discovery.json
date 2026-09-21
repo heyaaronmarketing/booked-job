@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T21:28:12Z",
+  "updated": "2026-09-21T00:09:22Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 20,
+        "uses": 15,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#roofing",
@@ -92,14 +87,14 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#plumbing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#RoofingServicesTexas",
         "uses": 5,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#handyman",
@@ -132,15 +127,20 @@
         "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
       },
       {
-        "tag": "#PlumbingservicenearmeinLosAngeles",
+        "tag": "#PlumbingservicesnearmeinLosAngeles",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicenearmeinLosAngeles"
+        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
+      },
+      {
+        "tag": "#PlumbingservicesnearmeinHouston",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466596,
+        "followers": 466597,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10151,
+      "followers": 10150,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2247,
+      "followers": 2248,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1837,
+      "followers": 1839,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1523,
+      "followers": 1524,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
