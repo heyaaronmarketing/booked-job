@@ -31,12 +31,13 @@
       "bj-cpl",
       "bj-favor",
       "bj-stars",
-      "bj-ai"
+      "bj-ai",
+      "bj-scam"
     ],
-    "last_iso": "2026-09-21T09:09:26",
+    "last_iso": "2026-09-21T18:24:43",
     "day": {
       "date": "2026-09-21",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -92,12 +93,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-09-21T14:31:14",
+    "last_iso": "2026-09-21T18:24:43",
     "day": {
       "date": "2026-09-21",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -143,12 +145,13 @@
       "bj-wordpress",
       "bj-first10k",
       "bj-yelp",
-      "bj-anon98"
+      "bj-anon98",
+      "bj-missedcall"
     ],
-    "last_iso": "2026-09-21T14:31:14",
+    "last_iso": "2026-09-21T18:24:43",
     "day": {
       "date": "2026-09-21",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -250,12 +253,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-09-21T14:31:14",
+    "last_iso": "2026-09-21T18:24:43",
     "day": {
       "date": "2026-09-21",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -335,12 +339,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-09-21T14:31:14",
+    "last_iso": "2026-09-21T18:24:43",
     "day": {
       "date": "2026-09-21",
-      "count": 2
+      "count": 3
     }
   }
 }
