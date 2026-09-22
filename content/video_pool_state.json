@@ -96,12 +96,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-09-22T09:54:18",
+    "last_iso": "2026-09-22T13:59:15",
     "day": {
       "date": "2026-09-22",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -149,12 +150,13 @@
       "bj-yelp",
       "bj-anon98",
       "bj-missedcall",
-      "bj-stormchaser"
+      "bj-stormchaser",
+      "bj-freecheck"
     ],
-    "last_iso": "2026-09-22T09:54:18",
+    "last_iso": "2026-09-22T13:59:15",
     "day": {
       "date": "2026-09-22",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -192,12 +194,13 @@
   },
   "bluesky": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-09-22T09:54:18",
+    "last_iso": "2026-09-22T13:59:15",
     "day": {
       "date": "2026-09-22",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -279,12 +282,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-09-22T09:54:18",
+    "last_iso": "2026-09-22T13:59:15",
     "day": {
       "date": "2026-09-22",
-      "count": 1
+      "count": 2
     }
   }
 }

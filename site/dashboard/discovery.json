@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:42:47Z",
+  "updated": "2026-09-22T18:47:16Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -87,6 +87,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvac",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#roofing",
         "uses": 3,
         "link": "https://mastodon.social/tags/roofing"
@@ -97,14 +102,14 @@
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#hvac",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#PlumbingservicesnearmeinLosAngeles",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
       },
       {
         "tag": "#PlumbingservicesnearmeinHouston",
@@ -112,14 +117,9 @@
         "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
       },
       {
-        "tag": "#PlumbingcompanyinHouston",
+        "tag": "#PlumbingservicesinHouston",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingcompanyinHouston"
-      },
-      {
-        "tag": "#PlumbingservicenearmeinHouston",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicenearmeinHouston"
+        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
       },
       {
         "tag": "#contractor",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466625,
+        "followers": 466652,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23377,
+        "followers": 23376,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4116,
+      "followers": 4117,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1557,
+      "followers": 1562,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
