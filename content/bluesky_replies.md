@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
+
+- **@socialmymedia.bsky.social**: The truth? 👀
+
+Social media can help grow any business. Whether you're a restaurant, a law firm, a plumber, or a boutique, your customers are on social media every single day.
+
+The question is never "d
+  → https://bsky.app/profile/socialmymedia.bsky.social/post/3mvj53fhr6s27
+
+- **@ppkfs.bsky.social**: business, marketing, engineering, architecture, etc
+
+but...surgeons? you'd hope if you are getting brain surgery that the result of the surgery is exactly the same if they are a regular neurosurgeon o
+  → https://bsky.app/profile/ppkfs.bsky.social/post/3mvkc6gppps23
+
 - **@cromwell2nd.bsky.social**: About 3 weeks ago Carny of Canda said we are going to do it "[tariffs] dollar for dollar "
 
 The irony is..
@@ -157,12 +172,3 @@ If a contractor cannot explain how planning leads into construction, that gap us
 
 - **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
-
-- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
-
-- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
-
-- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
