@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T09:52:00Z",
+  "updated": "2026-09-22T14:42:47Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,19 +107,19 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
-        "tag": "#PlumbingservicesnearmeinLosAngeles",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
-      },
-      {
         "tag": "#PlumbingservicesnearmeinHouston",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
       },
       {
-        "tag": "#PlumbingservicesinHouston",
+        "tag": "#PlumbingcompanyinHouston",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
+        "link": "https://mastodon.social/tags/PlumbingcompanyinHouston"
+      },
+      {
+        "tag": "#PlumbingservicenearmeinHouston",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingservicenearmeinHouston"
       },
       {
         "tag": "#contractor",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23378,
+        "followers": 23377,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4115,
+      "followers": 4116,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1551,
+      "followers": 1557,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
