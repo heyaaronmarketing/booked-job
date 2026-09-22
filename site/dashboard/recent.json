@@ -1,47 +1,4 @@
 {
-  "updated": "2026-09-21T18:28",
-  "posts": [
-    {
-      "ts": "2026-09-21T18:25:51",
-      "channel": "facebook",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T18:25:48",
-      "channel": "mastodon",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T18:25:43",
-      "channel": "tumblr",
-      "item": "rip-angi-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T18:25:41",
-      "channel": "bluesky",
-      "item": "stop-renting-leads",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T18:25:38",
-      "channel": "linkedin",
-      "item": "bj-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T18:25:37",
-      "channel": "tiktok",
-      "item": "ad-summit",
-      "url": null
-    },
-    {
-      "ts": "2026-09-21T18:25:36",
-      "channel": "ig",
-      "item": "bj-scam",
-      "url": null
-    }
-  ]
+  "updated": "2026-09-21T23:45",
+  "posts": []
 }

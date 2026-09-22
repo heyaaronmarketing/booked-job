@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:13:12Z",
+  "updated": "2026-09-22T04:43:05Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 20,
+        "uses": 16,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,17 +88,12 @@
       },
       {
         "tag": "#roofing",
-        "uses": 6,
+        "uses": 3,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#RoofingServicesTexas",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/RoofingServicesTexas"
-      },
-      {
         "tag": "#smallbusinessowners",
-        "uses": 4,
+        "uses": 3,
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
@@ -112,21 +107,6 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
-        "tag": "#Hvacousticwoodwool",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/Hvacousticwoodwool"
-      },
-      {
-        "tag": "#hvacousticwoodwoolpanels",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
-      },
-      {
-        "tag": "#hvacousticwoodwoolboards",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
-      },
-      {
         "tag": "#PlumbingservicesnearmeinHouston",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
@@ -135,6 +115,26 @@
         "tag": "#PlumbingcompanyinHouston",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingcompanyinHouston"
+      },
+      {
+        "tag": "#PlumbingservicenearmeinHouston",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingservicenearmeinHouston"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#handymantech",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handymantech"
+      },
+      {
+        "tag": "#Hvacousticwoodwool",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/Hvacousticwoodwool"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23374,
+        "followers": 23378,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1543,
+      "followers": 1548,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1303,
+      "followers": 1304,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
