@@ -33,12 +33,13 @@
       "bj-stars",
       "bj-ai",
       "bj-scam",
-      "bj-rev-hvac"
+      "bj-rev-hvac",
+      "bj-rev-plumb"
     ],
-    "last_iso": "2026-09-22T09:54:18",
+    "last_iso": "2026-09-22T17:11:21",
     "day": {
       "date": "2026-09-22",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -97,12 +98,13 @@
       "ad-pauls",
       "ad-summit",
       "clip-porno2",
-      "clip-porno3"
+      "clip-porno3",
+      "clip-speed"
     ],
-    "last_iso": "2026-09-22T13:59:15",
+    "last_iso": "2026-09-22T17:11:21",
     "day": {
       "date": "2026-09-22",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -151,12 +153,13 @@
       "bj-anon98",
       "bj-missedcall",
       "bj-stormchaser",
-      "bj-freecheck"
+      "bj-freecheck",
+      "bj-fakemaps"
     ],
-    "last_iso": "2026-09-22T13:59:15",
+    "last_iso": "2026-09-22T17:11:21",
     "day": {
       "date": "2026-09-22",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -176,12 +179,13 @@
       "pod-ep01-verdict",
       "pod-ep01-speed",
       "pod-ep01-starter",
-      "pod-ep01-ftc"
+      "pod-ep01-ftc",
+      "pod-ep01-refunds"
     ],
-    "last_iso": "2026-09-22T09:54:18",
+    "last_iso": "2026-09-22T17:11:21",
     "day": {
       "date": "2026-09-22",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -195,12 +199,13 @@
   "bluesky": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-09-22T13:59:15",
+    "last_iso": "2026-09-22T17:11:21",
     "day": {
       "date": "2026-09-22",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -283,12 +288,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-09-22T13:59:15",
+    "last_iso": "2026-09-22T17:11:21",
     "day": {
       "date": "2026-09-22",
-      "count": 2
+      "count": 3
     }
   }
 }

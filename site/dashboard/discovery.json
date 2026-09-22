@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T18:47:16Z",
+  "updated": "2026-09-22T22:00:11Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,19 +107,19 @@
         "link": "https://mastodon.social/tags/handyman"
       },
       {
-        "tag": "#PlumbingservicesnearmeinLosAngeles",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesnearmeinLosAngeles"
-      },
-      {
         "tag": "#PlumbingservicesnearmeinHouston",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingservicesnearmeinHouston"
       },
       {
-        "tag": "#PlumbingservicesinHouston",
+        "tag": "#PlumbingcompanyinHouston",
         "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingservicesinHouston"
+        "link": "https://mastodon.social/tags/PlumbingcompanyinHouston"
+      },
+      {
+        "tag": "#PlumbingservicenearmeinHouston",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingservicenearmeinHouston"
       },
       {
         "tag": "#contractor",
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35830,
+        "followers": 35861,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -243,7 +243,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1562,
+      "followers": 1566,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },

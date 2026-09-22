@@ -1,34 +1,52 @@
 {
-  "updated": "2026-09-22T14:02",
+  "updated": "2026-09-22T17:15",
   "posts": [
     {
-      "ts": "2026-09-22T13:59:29",
+      "ts": "2026-09-22T17:13:07",
+      "channel": "facebook",
+      "item": "card-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-09-22T17:13:03",
       "channel": "mastodon",
-      "item": "card-stars",
+      "item": "card-ai",
       "url": null
     },
     {
-      "ts": "2026-09-22T13:59:24",
+      "ts": "2026-09-22T17:12:58",
       "channel": "tumblr",
-      "item": "rip-speed-rip",
+      "item": "stop-renting-leads",
       "url": null
     },
     {
-      "ts": "2026-09-22T13:59:21",
+      "ts": "2026-09-22T17:12:56",
       "channel": "bluesky",
-      "item": "pod-ep03-track",
+      "item": "pod-ep03-exclusive",
       "url": null
     },
     {
-      "ts": "2026-09-22T13:59:18",
+      "ts": "2026-09-22T17:12:53",
       "channel": "linkedin",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     },
     {
-      "ts": "2026-09-22T13:59:17",
+      "ts": "2026-09-22T17:12:52",
       "channel": "tiktok",
-      "item": "clip-porno3",
+      "item": "clip-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-09-22T17:12:51",
+      "channel": "ig",
+      "item": "bj-rev-plumb",
+      "url": null
+    },
+    {
+      "ts": "2026-09-22T17:11:48",
+      "channel": "facebook",
+      "item": "pod-ep01-refunds",
       "url": null
     }
   ]
