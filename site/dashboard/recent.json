@@ -1,52 +1,28 @@
 {
-  "updated": "2026-09-22T17:15",
+  "updated": "2026-09-22T19:35",
   "posts": [
     {
-      "ts": "2026-09-22T17:13:07",
-      "channel": "facebook",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-09-22T17:13:03",
-      "channel": "mastodon",
-      "item": "card-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-09-22T17:12:58",
+      "ts": "2026-09-22T19:34:00",
       "channel": "tumblr",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-09-22T17:12:56",
+      "ts": "2026-09-22T19:33:58",
       "channel": "bluesky",
-      "item": "pod-ep03-exclusive",
+      "item": "pod-ep03-channels",
       "url": null
     },
     {
-      "ts": "2026-09-22T17:12:53",
+      "ts": "2026-09-22T19:33:55",
       "channel": "linkedin",
-      "item": "bj-fakemaps",
+      "item": "bj-agency12k",
       "url": null
     },
     {
-      "ts": "2026-09-22T17:12:52",
+      "ts": "2026-09-22T19:33:54",
       "channel": "tiktok",
-      "item": "clip-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-09-22T17:12:51",
-      "channel": "ig",
-      "item": "bj-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-09-22T17:11:48",
-      "channel": "facebook",
-      "item": "pod-ep01-refunds",
+      "item": "clip1-turd",
       "url": null
     }
   ]
