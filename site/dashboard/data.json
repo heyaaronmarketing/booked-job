@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:51",
+  "updated": "2026-09-23T06:24",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -383,7 +383,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3311,
+      "views": 3240,
       "followers": 14,
       "likes": 7
     },
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 581,
+      "views": 578,
       "followers": 1
     },
     {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 19,
+      "count": 20,
       "unit": "posts",
       "followers": 218,
       "grade": "A",
@@ -488,7 +488,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 41,
+      "count": 44,
       "unit": "posts (Buffer)",
       "stat": "685 reach \u00b7 1 reactions",
       "views": 13,
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 29
+        "count": 32
       },
       {
         "type": "Documents",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Video",
@@ -770,7 +770,7 @@
     }
   ],
   "funnel": {
-    "reach": 35209,
+    "reach": 35132,
     "engagement": 7,
     "audience": 243,
     "cr_clicks": 121
@@ -779,7 +779,7 @@
     "audience": 19,
     "engagement": -1,
     "email": 0,
-    "reach": -127
+    "reach": -204
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1448,
+        "value": 1452,
         "grade": "A"
       },
       {

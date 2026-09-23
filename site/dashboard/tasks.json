@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @refigman.bsky.social: “As a small business owner, white male, a college education, skilled in the trades, more th…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @rightaboutnow2.bsky.social: “Also, my grandfathers were a baker and a general contractor. What do I know about there wo…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/rightaboutnow2.bsky.social/post/3mvzsd7d7ik2l",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @fireandsugar.bsky.social: “I read Raelyn's text message as i leave the salon for lunch. I message @wildfirerp.bsky.so…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @kebs.bsky.social: “polly doesnt look that fucked up in game either. idk what the illustrator was on, maybe th…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @jobfairgiant.bsky.social: “Are There Jobs Hiring Immediately in Detroit? Yes, many Detroit employers hire immediately…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/jobfairgiant.bsky.social/post/3mw42yso3ta26",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @ghunkinking.bsky.social: “Who cares about scholarships? Her college is paid for no matter what school she chooses. S…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e",
       "est": "2 min"
     },
     {
