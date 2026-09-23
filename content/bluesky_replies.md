@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@rightaboutnow2.bsky.social**: Also, my grandfathers were a baker and a general contractor. What do I know about there work? I don’t eat cake and say “this isn’t how my grandfather would bake it!”
   → https://bsky.app/profile/rightaboutnow2.bsky.social/post/3mvzsd7d7ik2l
 
@@ -189,6 +192,3 @@ Get professional electrical installation, repairs, maintenance, wiring, lighting
 Discover how Google Business Profile posts can enhance AI recommendations! 
 Build trust and local authority with factual updates tailored for your comm
   → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mvsno2j3sc2p
-
-- **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
