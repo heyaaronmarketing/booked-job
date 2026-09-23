@@ -105,12 +105,13 @@
       "clip1-turd",
       "clip2-game",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-09-23T15:24:22",
+    "last_iso": "2026-09-23T18:48:32",
     "day": {
       "date": "2026-09-23",
-      "count": 3
+      "count": 4
     }
   },
   "linkedin": {
@@ -164,12 +165,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-09-23T15:24:22",
+    "last_iso": "2026-09-23T18:48:32",
     "day": {
       "date": "2026-09-23",
-      "count": 3
+      "count": 4
     }
   },
   "facebook": {
@@ -192,12 +194,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-09-23T11:59:00",
+    "last_iso": "2026-09-23T18:48:32",
     "day": {
       "date": "2026-09-23",
-      "count": 2
+      "count": 3
     }
   },
   "pinterest": {
@@ -216,12 +219,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-09-23T15:24:22",
+    "last_iso": "2026-09-23T18:48:32",
     "day": {
       "date": "2026-09-23",
-      "count": 3
+      "count": 4
     }
   },
   "telegram": {
@@ -244,12 +248,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-09-23T15:24:22",
+    "last_iso": "2026-09-23T18:48:32",
     "day": {
       "date": "2026-09-23",
-      "count": 3
+      "count": 4
     }
   }
 }
