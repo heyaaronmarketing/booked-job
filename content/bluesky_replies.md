@@ -2,6 +2,55 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rankforaisearch.bsky.social**: Want to boost your contracting business online? 
+Discover how Google Business Profile posts can enhance AI recommendations! 
+Build trust and local authority with factual updates tailored for your comm
+  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mvsno2j3sc2p
+
+- **@stylelib.org**: Yellow Hats – Construction, Building  Renovation Theme
+
+ https://themes.stylelib.org/?p=15097 
+
+#architecture #business #constructor #contractor #corporate #electrician #engineering #factory #handyman
+  → https://bsky.app/profile/stylelib.org/post/3mvopeb7dtq2g
+
+- **@stylelib.org**: Plumberx – Plumber and Construction HTML Template
+
+ https://stylelib.org/?p=285713 
+
+#constructor #painter #remodeling #renovation #roofing #sitetemplates #themeforest #architecture #business #plumber
+  → https://bsky.app/profile/stylelib.org/post/3mw2wja2gst2s
+
+- **@stylelib.org**: Vindors – Windows  Doors Company WordPress Theme
+
+ https://stylelib.org/?p=888359 
+
+#designthemes #elementor #handyman #plumbing #services #themeforest #wordpress #business #plumber #corporate #mainte
+  → https://bsky.app/profile/stylelib.org/post/3mw4c3ye6gv2g
+
+- **@exposure.marketing**: AI can’t recommend a business it can’t see.
+
+Keep publishing. Keep collecting proof. Keep giving customers and search systems a reason to trust you.
+
+▶️From Behind the Curtain: AI Is Picking Your Plum
+  → https://bsky.app/profile/exposure.marketing/post/3mw4kgmukuk22
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mw4rpz655726
+
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://stylelib.org/?p=159532 
+
+#builder #constructioncompany #electrician #handyman #painter #renovation #themeforest #wordpress #archite
+  → https://bsky.app/profile/stylelib.org/post/3mw4zkz2wym2g
+
+- **@hivergentai.bsky.social**: 𝗣𝗹𝘂𝗺𝗯𝗲𝗿 𝗧𝘂𝗿𝗻𝘀 𝗠𝗶𝘀𝘀𝗲𝗱 𝗖𝗮𝗹𝗹𝘀 𝗜𝗻𝘁𝗼 𝗮 𝟯𝗫 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲
+𝗢𝗻𝗲 𝗽𝗹𝘂𝗺𝗯𝗶𝗻𝗴 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗿𝗶𝗽𝗹𝗲𝗱 𝗺𝗼�...
+https://www.gohighlevel.com/blog/category/did-you-know?fp_ref=hiv er g ent-ai27
+via HiVergent AI Rss at https
+  → https://bsky.app/profile/hivergentai.bsky.social/post/3mw5q74b6ok2p
+
 - **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Queen Creek?
 
 A strong remodel starts with a complete plan, not a guess. Phoenix Home Remodeling helps homeowners define the work before construction starts.
@@ -128,41 +177,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
   → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@chdodenny.bsky.social**: Who remembers Joe the Plumber?
-
-"But far more relevant to the story of inequality in America are the everywhere millionaires who quietly press their elected representatives for favorable treatment. Th
-  → https://bsky.app/profile/chdodenny.bsky.social/post/3mvlj5y5xc22e
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mvnbue3k3q2m
-
-- **@stylelib.org**: StructurePress – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=7406 
-
-#builder #business #construction #contractor #corporate #engineering #handyman #interior #pagebui
-  → https://bsky.app/profile/stylelib.org/post/3mvrgjtpc7l2h
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
-
-Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
-  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
-
-- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
-
-Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
-  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
-
-- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
-  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
-
-- **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
-
-Want to learn more or get started? Click the link below or give us a call at (316) 
-  → https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e
