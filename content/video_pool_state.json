@@ -108,12 +108,13 @@
       "clip3-onestar",
       "is-angi-worth-it",
       "money-leaks-torque",
-      "money-leaks"
+      "money-leaks",
+      "explainer-lesson-01"
     ],
-    "last_iso": "2026-09-24T10:07:41",
+    "last_iso": "2026-09-24T14:13:58",
     "day": {
       "date": "2026-09-24",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -169,12 +170,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-09-24T10:07:41",
+    "last_iso": "2026-09-24T14:13:58",
     "day": {
       "date": "2026-09-24",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -225,12 +227,13 @@
       "pod-ep03-lie",
       "pod-ep02-system",
       "pod-ep02-fake",
-      "pod-ep02-onetap"
+      "pod-ep02-onetap",
+      "pod-ep02-peak"
     ],
-    "last_iso": "2026-09-24T10:07:41",
+    "last_iso": "2026-09-24T14:13:58",
     "day": {
       "date": "2026-09-24",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -255,12 +258,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-09-24T10:07:41",
+    "last_iso": "2026-09-24T14:13:58",
     "day": {
       "date": "2026-09-24",
-      "count": 1
+      "count": 2
     }
   }
 }

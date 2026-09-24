@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ketkinztalent.bsky.social**: Need people without slowing down your operation? KTS supports permanent, temporary and contract recruitment across Skilled Trades and IT & Business Support. Tell us about your workforce needs. #Staffi
+  → https://bsky.app/profile/ketkinztalent.bsky.social/post/3mwbmzohyfr2s
+
+- **@raantuva.blacksky.app**: Wait do people not know skilled trades are having the same issue as college degrees now? (also my college facilitates both)
+  → https://bsky.app/profile/raantuva.blacksky.app/post/3mwbq37e4x222
+
 - **@alpi-t.bsky.social**: Ottawa home-service pros is a good niche - people search for those exact trades. I'm building TurnKey Directories, a WordPress plugin for business directories, and keeping listings current was the har
   → https://bsky.app/profile/alpi-t.bsky.social/post/3mwanln565s2l
 
@@ -193,13 +199,3 @@ Get professional electrical installation, repairs, maintenance, wiring, lighting
 
 #builder #business #construction #contractor #corporate #engineering #handyman #interior #pagebui
   → https://bsky.app/profile/stylelib.org/post/3mvrgjtpc7l2h
-
-- **@geospart.mastodon.social.ap.brid.gy**: Of course there’s corruption. Intel shares surge before his Intel speeches. Crude trades spike before his war speeches. His family’s wealth explodes—even during war. In WWII, that’d be treason. Now? J
-  → https://bsky.app/profile/geospart.mastodon.social.ap.brid.gy/post/3mw52maavx7d2
-
-- **@noneedforgreed.bsky.social**: lnkd.in/p/eQWa4j8h
-
-@implausibleblog.bsky.social and the clear position of UK Government backing up the sanctions on products from illegal settlements.
-
-Can the UK and Eurozone exert enough pressure t
-  → https://bsky.app/profile/noneedforgreed.bsky.social/post/3mw67cswkwk2l
