@@ -2,6 +2,47 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@alpi-t.bsky.social**: Ottawa home-service pros is a good niche - people search for those exact trades. I'm building TurnKey Directories, a WordPress plugin for business directories, and keeping listings current was the har
+  → https://bsky.app/profile/alpi-t.bsky.social/post/3mwanln565s2l
+
+- **@stylelib.org**: Yellow Hats – Construction, Building  Renovation Theme
+
+ https://themes.stylelib.org/?p=15097 
+
+#architecture #business #constructor #contractor #corporate #electrician #engineering #factory #handyman
+  → https://bsky.app/profile/stylelib.org/post/3mvopeb7dtq2g
+
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://stylelib.org/?p=159532 
+
+#builder #constructioncompany #electrician #handyman #painter #renovation #themeforest #wordpress #archite
+  → https://bsky.app/profile/stylelib.org/post/3mw4zkz2wym2g
+
+- **@stylelib.org**: Plumberx – Plumber and Construction HTML Template
+
+ https://stylelib.org/?p=285713 
+
+#constructor #painter #remodeling #renovation #roofing #sitetemplates #themeforest #architecture #business #plumber
+  → https://bsky.app/profile/stylelib.org/post/3mw2wja2gst2s
+
+- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
+
+- **@rankforaisearch.bsky.social**: Want to boost your contracting business online? 
+Discover how Google Business Profile posts can enhance AI recommendations! 
+Build trust and local authority with factual updates tailored for your comm
+  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mvsno2j3sc2p
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mwaxrq732n2j
+
 - **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
 
 Blackwater USA Is More Than Just a Private Contractor
@@ -162,38 +203,3 @@ Get professional electrical installation, repairs, maintenance, wiring, lighting
 
 Can the UK and Eurozone exert enough pressure t
   → https://bsky.app/profile/noneedforgreed.bsky.social/post/3mw67cswkwk2l
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
-
-- **@organizingpower.bsky.social**: Angie Nixon seems pretty cool? And she’s on BlueSky! 
-👇🏼
-@angieforfl.bsky.social
-  → https://bsky.app/profile/organizingpower.bsky.social/post/3mtfgwmxpts24
-
-- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
-
-Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
-  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
-
-- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
-
-Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
-  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
-
-- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
-  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
-
-- **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
-
-Want to learn more or get started? Click the link below or give us a call at (316) 
-  → https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e
-
-- **@employment-law.bsky.social**: Your subcontractor’s worker is injured. Are you on the hook?
-  → https://bsky.app/profile/employment-law.bsky.social/post/3mw4otnqdeq24
