@@ -1,34 +1,52 @@
 {
-  "updated": "2026-09-24T14:16",
+  "updated": "2026-09-24T17:34",
   "posts": [
     {
-      "ts": "2026-09-24T14:14:10",
+      "ts": "2026-09-24T17:31:34",
+      "channel": "facebook",
+      "item": "card-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-09-24T17:31:30",
       "channel": "mastodon",
-      "item": "card-cpbj",
+      "item": "card-angi",
       "url": null
     },
     {
-      "ts": "2026-09-24T14:14:06",
+      "ts": "2026-09-24T17:31:25",
       "channel": "tumblr",
-      "item": "pod-ep02-system",
+      "item": "pod-ep02-fake",
       "url": null
     },
     {
-      "ts": "2026-09-24T14:14:04",
+      "ts": "2026-09-24T17:31:23",
       "channel": "bluesky",
-      "item": "pod-ep02-peak",
+      "item": "pod-ep02-howmany",
       "url": null
     },
     {
-      "ts": "2026-09-24T14:14:01",
+      "ts": "2026-09-24T17:31:21",
       "channel": "linkedin",
-      "item": "ad-summit",
+      "item": "clip-speed",
       "url": null
     },
     {
-      "ts": "2026-09-24T14:14:00",
+      "ts": "2026-09-24T17:31:20",
       "channel": "tiktok",
-      "item": "explainer-lesson-01",
+      "item": "rip-angi-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-09-24T17:31:19",
+      "channel": "ig",
+      "item": "bj-cheapbid",
+      "url": null
+    },
+    {
+      "ts": "2026-09-24T17:29:54",
+      "channel": "facebook",
+      "item": "bj-reviews",
       "url": null
     }
   ]

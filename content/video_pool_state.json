@@ -37,12 +37,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-09-24T10:07:41",
+    "last_iso": "2026-09-24T17:29:28",
     "day": {
       "date": "2026-09-24",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -109,12 +110,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-09-24T14:13:58",
+    "last_iso": "2026-09-24T17:29:28",
     "day": {
       "date": "2026-09-24",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -171,12 +173,13 @@
       "bj-track",
       "ad-arctic",
       "ad-pauls",
-      "ad-summit"
+      "ad-summit",
+      "clip-speed"
     ],
-    "last_iso": "2026-09-24T14:13:58",
+    "last_iso": "2026-09-24T17:29:28",
     "day": {
       "date": "2026-09-24",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -201,12 +204,13 @@
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
-      "bj-angi"
+      "bj-angi",
+      "bj-reviews"
     ],
-    "last_iso": "2026-09-24T10:07:41",
+    "last_iso": "2026-09-24T17:29:28",
     "day": {
       "date": "2026-09-24",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -228,12 +232,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-09-24T14:13:58",
+    "last_iso": "2026-09-24T17:29:28",
     "day": {
       "date": "2026-09-24",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -259,12 +264,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-09-24T14:13:58",
+    "last_iso": "2026-09-24T17:29:28",
     "day": {
       "date": "2026-09-24",
-      "count": 2
+      "count": 3
     }
   }
 }
