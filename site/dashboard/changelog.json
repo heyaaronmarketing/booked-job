@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-09-24T10:09",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Nobody Wants to Learn AI | Alvis Ng"
+    },
+    {
+      "ts": "2026-09-24T10:09",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces-1138496118209375426@ideas.pinterest.com: DIY and Crafts"
+    },
+    {
+      "ts": "2026-09-24T10:08",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy caulk"
+    },
+    {
+      "ts": "2026-09-24T10:08",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools mil vs dewalt"
+    },
+    {
       "ts": "2026-09-24T04:55",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: humor friday"
-    },
-    {
-      "ts": "2026-09-14T09:07",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor clean shirt"
-    },
-    {
-      "ts": "2026-09-14T09:07",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: tools borrowed"
-    },
-    {
-      "ts": "2026-09-14T01:08",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from 010001a09d8e74f4-09ad9e95-87d4-4a15-836f-cc6cad17275e-000000@amazonses.com: \"Apply for internship -> \"You will get paid when we start making money\"....\""
-    },
-    {
-      "ts": "2026-09-14T01:08",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor one more"
     }
   ]
 }

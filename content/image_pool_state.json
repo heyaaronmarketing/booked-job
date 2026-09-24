@@ -14,21 +14,22 @@
       "card-ai",
       "card-anon98",
       "card-missedcall",
-      "card-trade"
+      "card-trade",
+      "carousel-leadsites"
     ],
-    "last_iso": "2026-09-23T18:49:11",
+    "last_iso": "2026-09-24T10:08:52",
     "day": {
-      "date": "2026-09-23",
-      "count": 3
+      "date": "2026-09-24",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-09-23T11:59:34",
+    "last_iso": "2026-09-24T10:08:52",
     "day": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "count": 1
     }
   },
@@ -37,11 +38,12 @@
       "card-cpbj",
       "card-angi",
       "card-reviews",
-      "card-rev-plumb"
+      "card-rev-plumb",
+      "card-rev-roof"
     ],
-    "last_iso": "2026-09-23T11:59:34",
+    "last_iso": "2026-09-24T10:08:52",
     "day": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "count": 1
     }
   }

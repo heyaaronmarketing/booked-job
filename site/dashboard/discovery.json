@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T09:54:31Z",
+  "updated": "2026-09-24T14:56:24Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 14,
+        "uses": 17,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
         "uses": 4,
         "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#roofing",
@@ -95,11 +100,6 @@
         "tag": "#smallbusinessowners",
         "uses": 3,
         "link": "https://mastodon.social/tags/smallbusinessowners"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#contractor",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10151,
+      "followers": 10152,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4123,
+      "followers": 4126,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -234,18 +234,18 @@
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
+      "handle": "@hvacrm.bsky.social",
+      "display": "hvacrm.bsky.social",
+      "followers": 1596,
+      "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
+      "link": "https://bsky.app/profile/hvacrm.bsky.social"
+    },
+    {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
       "followers": 1596,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
-    },
-    {
-      "handle": "@hvacrm.bsky.social",
-      "display": "hvacrm.bsky.social",
-      "followers": 1594,
-      "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
-      "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
     {
       "handle": "@roofing11.bsky.social",
@@ -264,7 +264,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1305,
+      "followers": 1304,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
