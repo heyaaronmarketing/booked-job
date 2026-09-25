@@ -2,6 +2,49 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Easton – Electricity Services WordPress Theme
+
+ https://stylelib.org/?p=663877 
+
+#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
+  → https://bsky.app/profile/stylelib.org/post/3musp2i2kyo2g
+
+- **@stylelib.org**: Construct Press – Construction and Renovation WordPress Theme
+
+ https://stylelib.org/?p=196660 
+
+#buildingcompany #constructor #electrician #handyman #painter #remodeling #renovation #templatepath #th
+  → https://bsky.app/profile/stylelib.org/post/3mussfsd5hg2s
+
+- **@stylelib.org**: Dustar – Cleaning Services WordPress Theme
+
+ https://stylelib.org/?p=155809 
+
+#cleaning #cleaningcompany #electrician #handyman #remodeling #themeforest #wordpress #business #plumber #corporate #maint
+  → https://bsky.app/profile/stylelib.org/post/3mv36muadai27
+
+- **@stylelib.org**: Jiolio – Construction Building Company
+
+ https://stylelib.org/?p=104340 
+
+#constructor #electrician #handyman #painter #remodeling #renovation #sitetemplates #themeforest #architecture #business #plum
+  → https://bsky.app/profile/stylelib.org/post/3mvd5gss56k2s
+
+- **@stylelib.org**: Hendy – Handyman Service WordPress Theme
+
+ https://themes.stylelib.org/?p=662763 
+
+#business #construction #contractor #corporate #electrician #handyman #maintenance #painter #plumber #renovation #rep
+  → https://bsky.app/profile/stylelib.org/post/3mvfseqhhqg2t
+
+- **@rainyriverelectric.bsky.social**: Need a Trusted Commercial Electrician for Your Business?
+
+Get professional electrical installation, repairs, maintenance, wiring, lighting, and troubleshooting services designed to keep your commercia
+  → https://bsky.app/profile/rainyriverelectric.bsky.social/post/3mvrdblgxuc2t
+
+- **@marihonna.bsky.social**: This contractor owns a home, properties, cars, has a legitimate licensed business. He employs people and anyone who deals with him has all good things to say. His brother is an electrician and got pul
+  → https://bsky.app/profile/marihonna.bsky.social/post/3mvsgakdyd22w
+
 - **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Queen Creek?
 
 A strong remodel starts with a complete plan, not a guess. Phoenix Home Remodeling helps homeowners define the work before construction starts.
@@ -159,28 +202,3 @@ For the last 30 years, Gary has been a Marketing and Sales
 
 - **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
-
-- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
-
-- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website. It needs one that gets the phone ringing. We build done-for-you sites with SEO + AI chatbots that qualify leads 24/7. More call
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mw7x7j45ay2n
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@i3axb-722bq.bsky.social**: Get Found Faster with Local SEO in Miami!
-
-Want more local customers to discover your business online? Local SEO Services in Miami, FL can help improve your visibility in local search results, connect
-  → https://bsky.app/profile/i3axb-722bq.bsky.social/post/3mvrvgltl6s2r
-
-- **@stocktitan.net**: #OPTU Optimum to Launch Fastest Internet Speeds to Carterville and Webb City, Missouri
-
-https://www.stocktitan.net/news/OPTU/optimum-to-launch-fastest-internet-speeds-to-carterville-and-webb-9qqiiwfcc
-  → https://bsky.app/profile/stocktitan.net/post/3mvs7zoynx226
-
-- **@sdgroupservice.bsky.social**: Looking for peace of mind? Get your personalized insurance quote today with SD Group Service! Whether it's auto, home, business, or life insurance, we've got you covered. Book your appointment now at 
-  → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mvsko7ms5x2b
