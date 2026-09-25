@@ -1,52 +1,34 @@
 {
-  "updated": "2026-09-24T17:34",
+  "updated": "2026-09-24T20:28",
   "posts": [
     {
-      "ts": "2026-09-24T17:31:34",
-      "channel": "facebook",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-09-24T17:31:30",
+      "ts": "2026-09-24T20:26:27",
       "channel": "mastodon",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-09-24T17:31:25",
+      "ts": "2026-09-24T20:26:23",
       "channel": "tumblr",
-      "item": "pod-ep02-fake",
+      "item": "pod-ep02-onetap",
       "url": null
     },
     {
-      "ts": "2026-09-24T17:31:23",
+      "ts": "2026-09-24T20:26:22",
       "channel": "bluesky",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-09-24T17:31:21",
+      "ts": "2026-09-24T20:26:19",
       "channel": "linkedin",
-      "item": "clip-speed",
+      "item": "clip1-turd",
       "url": null
     },
     {
-      "ts": "2026-09-24T17:31:20",
+      "ts": "2026-09-24T20:26:18",
       "channel": "tiktok",
-      "item": "rip-angi-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-09-24T17:31:19",
-      "channel": "ig",
-      "item": "bj-cheapbid",
-      "url": null
-    },
-    {
-      "ts": "2026-09-24T17:29:54",
-      "channel": "facebook",
-      "item": "bj-reviews",
+      "item": "rip-reviews-rip",
       "url": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:18:10Z",
+  "updated": "2026-09-25T01:24:52Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 17,
+        "uses": 16,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,24 +92,19 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
-        "tag": "#roofing",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/roofing"
-      },
-      {
         "tag": "#smallbusinessowners",
         "uses": 3,
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#contractor",
+        "tag": "#roofing",
         "uses": 2,
-        "link": "https://mastodon.social/tags/contractor"
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#roofing_standards",
+        "tag": "#contractor",
         "uses": 1,
-        "link": "https://mastodon.social/tags/roofing_standards"
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#contractors",
@@ -135,6 +130,11 @@
         "tag": "#hvacousticwoodwoolpanels",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
+      },
+      {
+        "tag": "#hvacousticwoodwoolboards",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
       }
     ],
     "accounts": [
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35862,
+        "followers": 35863,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -236,7 +236,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1599,
+      "followers": 1601,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
