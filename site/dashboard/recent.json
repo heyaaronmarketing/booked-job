@@ -1,34 +1,40 @@
 {
-  "updated": "2026-09-26T12:19",
+  "updated": "2026-09-26T15:03",
   "posts": [
     {
-      "ts": "2026-09-26T12:17:02",
+      "ts": "2026-09-26T15:01:22",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-09-26T12:16:58",
+      "ts": "2026-09-26T15:01:18",
       "channel": "tumblr",
-      "item": "pod-ep01-starter",
+      "item": "pod-ep01-ftc",
       "url": null
     },
     {
-      "ts": "2026-09-26T12:16:57",
+      "ts": "2026-09-26T15:01:17",
       "channel": "bluesky",
-      "item": "pod-ep01-cost",
+      "item": "pod-ep01-wrongnum",
       "url": null
     },
     {
-      "ts": "2026-09-26T12:16:55",
+      "ts": "2026-09-26T15:01:15",
       "channel": "linkedin",
-      "item": "rip-angi-rip",
+      "item": "rip-reviews-rip",
       "url": null
     },
     {
-      "ts": "2026-09-26T12:16:54",
+      "ts": "2026-09-26T15:01:14",
       "channel": "tiktok",
-      "item": "pod-ep03-channels",
+      "item": "pod-ep03-trap",
+      "url": null
+    },
+    {
+      "ts": "2026-09-26T15:01:13",
+      "channel": "facebook",
+      "item": "bj-speed",
       "url": null
     }
   ]
