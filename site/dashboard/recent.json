@@ -1,52 +1,34 @@
 {
-  "updated": "2026-09-25T17:29",
+  "updated": "2026-09-25T20:30",
   "posts": [
     {
-      "ts": "2026-09-25T17:27:26",
-      "channel": "facebook",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-09-25T17:27:24",
+      "ts": "2026-09-25T20:29:18",
       "channel": "mastodon",
-      "item": "card-rev-elec",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-09-25T17:27:19",
+      "ts": "2026-09-25T20:29:13",
       "channel": "tumblr",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     },
     {
-      "ts": "2026-09-25T17:27:15",
+      "ts": "2026-09-25T20:29:12",
       "channel": "bluesky",
-      "item": "pod-ep01-starter",
+      "item": "pod-ep01-ftc",
       "url": null
     },
     {
-      "ts": "2026-09-25T17:27:12",
-      "channel": "tiktok",
-      "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-09-25T17:27:12",
+      "ts": "2026-09-25T20:29:09",
       "channel": "linkedin",
-      "item": "money-leaks-torque",
+      "item": "money-leaks",
       "url": null
     },
     {
-      "ts": "2026-09-25T17:27:11",
-      "channel": "ig",
-      "item": "bj-first10k",
-      "url": null
-    },
-    {
-      "ts": "2026-09-25T17:25:41",
-      "channel": "facebook",
-      "item": "bj-slow",
+      "ts": "2026-09-25T20:29:08",
+      "channel": "tiktok",
+      "item": "pod-ep03-track",
       "url": null
     }
   ]
