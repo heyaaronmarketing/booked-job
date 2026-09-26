@@ -1,35 +1,4 @@
 {
-  "updated": "2026-09-25T20:30",
-  "posts": [
-    {
-      "ts": "2026-09-25T20:29:18",
-      "channel": "mastodon",
-      "item": "card-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-09-25T20:29:13",
-      "channel": "tumblr",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-09-25T20:29:12",
-      "channel": "bluesky",
-      "item": "pod-ep01-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-09-25T20:29:09",
-      "channel": "linkedin",
-      "item": "money-leaks",
-      "url": null
-    },
-    {
-      "ts": "2026-09-25T20:29:08",
-      "channel": "tiktok",
-      "item": "pod-ep03-track",
-      "url": null
-    }
-  ]
+  "updated": "2026-09-26T02:37",
+  "posts": []
 }
