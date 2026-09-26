@@ -2,6 +2,42 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
+
+Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
+  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
+
+- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
+
+Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
+  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
+
+- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
+  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
+
+- **@stylelib.org**: Vindors – Windows  Doors Company WordPress Theme
+
+ https://stylelib.org/?p=888359 
+
+#designthemes #elementor #handyman #plumbing #services #themeforest #wordpress #business #plumber #corporate #mainte
+  → https://bsky.app/profile/stylelib.org/post/3mw4c3ye6gv2g
+
+- **@exposure.marketing**: AI can’t recommend a business it can’t see.
+
+Keep publishing. Keep collecting proof. Keep giving customers and search systems a reason to trust you.
+
+▶️From Behind the Curtain: AI Is Picking Your Plum
+  → https://bsky.app/profile/exposure.marketing/post/3mw4kgmukuk22
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mw4rpz655726
+
+- **@hivergentai.bsky.social**: 𝗣𝗹𝘂𝗺𝗯𝗲𝗿 𝗧𝘂𝗿𝗻𝘀 𝗠𝗶𝘀𝘀𝗲𝗱 𝗖𝗮𝗹𝗹𝘀 𝗜𝗻𝘁𝗼 𝗮 𝟯𝗫 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲
+𝗢𝗻𝗲 𝗽𝗹𝘂𝗺𝗯𝗶𝗻𝗴 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗿𝗶𝗽𝗹𝗲𝗱 𝗺𝗼�...
+https://www.gohighlevel.com/blog/category/did-you-know?fp_ref=hiv er g ent-ai27
+via HiVergent AI Rss at https
+  → https://bsky.app/profile/hivergentai.bsky.social/post/3mw5q74b6ok2p
+
 - **@scotfi1.bsky.social**: Apparently Danny Tommo has a roofing company somewhere. Quite apart from the fact you wouldn't want him anywhere near your house, the service he provides must be crap because he's never at his bloody 
   → https://bsky.app/profile/scotfi1.bsky.social/post/3mwg55u6zps2b
 
@@ -156,40 +192,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
   → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@stylelib.org**: BuildGo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824443 
-
-#architecture #building #business #company #construction #contractor #corporate #electrician #engineering #handyman #in
-  → https://bsky.app/profile/stylelib.org/post/3mwe6oeukol25
-
-- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
-
-- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@stylelib.org**: Easton – Electricity Services WordPress Theme
-
- https://stylelib.org/?p=663877 
-
-#electrician #mechanic #themeforest #wordpress #business #engineering #corporate #maintenance #repair
-  → https://bsky.app/profile/stylelib.org/post/3musp2i2kyo2g
-
-- **@stylelib.org**: Construct Press – Construction and Renovation WordPress Theme
-
- https://stylelib.org/?p=196660 
-
-#buildingcompany #constructor #electrician #handyman #painter #remodeling #renovation #templatepath #th
-  → https://bsky.app/profile/stylelib.org/post/3mussfsd5hg2s
-
-- **@stylelib.org**: Dustar – Cleaning Services WordPress Theme
-
- https://stylelib.org/?p=155809 
-
-#cleaning #cleaningcompany #electrician #handyman #remodeling #themeforest #wordpress #business #plumber #corporate #maint
-  → https://bsky.app/profile/stylelib.org/post/3mv36muadai27
