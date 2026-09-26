@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:48:31Z",
+  "updated": "2026-09-26T22:41:06Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -82,14 +82,14 @@
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
+        "tag": "#plumbing",
+        "uses": 6,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#hvac",
         "uses": 5,
         "link": "https://mastodon.social/tags/hvac"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#smallbusinessowners",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23393,
+        "followers": 23394,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -185,7 +185,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 728,
+        "followers": 729,
         "link": "https://mastodon.social/@Noshir"
       }
     ]
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4151,
+      "followers": 4153,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@notenoughcrows.bsky.social",
       "display": "Ghost in the HVAC 👻🧙🌀",
-      "followers": 1289,
+      "followers": 1290,
       "desc": "Neurodivergent and unpleasant  She/her  #bantersky enthusiastic  Terfs fuck off   Air conditioning enforcement team  🖤🏴󠁧",
       "link": "https://bsky.app/profile/notenoughcrows.bsky.social"
     },
