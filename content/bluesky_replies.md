@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@scotfi1.bsky.social**: Apparently Danny Tommo has a roofing company somewhere. Quite apart from the fact you wouldn't want him anywhere near your house, the service he provides must be crap because he's never at his bloody 
+  → https://bsky.app/profile/scotfi1.bsky.social/post/3mwg55u6zps2b
+
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Scottsdale?
+
+Compare contractors by what happens before construction. Phoenix Home Remodeling focuses on planning, 3D design, selections, and fixed pricing aft
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mwfgyhvqcy2v
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
+
 - **@mamedesu466.bsky.social**: youtu.be/T_l9nHKUfms?...
   → https://bsky.app/profile/mamedesu466.bsky.social/post/3mwbrsabbsc2n
 
@@ -176,22 +193,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 #cleaning #cleaningcompany #electrician #handyman #remodeling #themeforest #wordpress #business #plumber #corporate #maint
   → https://bsky.app/profile/stylelib.org/post/3mv36muadai27
-
-- **@stylelib.org**: Jiolio – Construction Building Company
-
- https://stylelib.org/?p=104340 
-
-#constructor #electrician #handyman #painter #remodeling #renovation #sitetemplates #themeforest #architecture #business #plum
-  → https://bsky.app/profile/stylelib.org/post/3mvd5gss56k2s
-
-- **@stylelib.org**: Hendy – Handyman Service WordPress Theme
-
- https://themes.stylelib.org/?p=662763 
-
-#business #construction #contractor #corporate #electrician #handyman #maintenance #painter #plumber #renovation #rep
-  → https://bsky.app/profile/stylelib.org/post/3mvfseqhhqg2t
-
-- **@rainyriverelectric.bsky.social**: Need a Trusted Commercial Electrician for Your Business?
-
-Get professional electrical installation, repairs, maintenance, wiring, lighting, and troubleshooting services designed to keep your commercia
-  → https://bsky.app/profile/rainyriverelectric.bsky.social/post/3mvrdblgxuc2t
