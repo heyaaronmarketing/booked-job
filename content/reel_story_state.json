@@ -1,15 +1,16 @@
 {
   "done": [
+    "low-bid",
+    "last-guy",
+    "money-leaks",
+    "519-reviews",
     "pod-ep03-verdict",
     "missed-call",
+    "quick-favor",
     "first-to-answer",
-    "eight-automations",
-    "low-bid",
-    "chargeback-trap",
-    "519-reviews",
-    "last-guy",
-    "is-angi-worth-it",
     "money-leaks-torque",
-    "money-leaks"
+    "chargeback-trap",
+    "is-angi-worth-it",
+    "eight-automations"
   ]
 }

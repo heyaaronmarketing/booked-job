@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@citizenptnewsma.bsky.social**: Why is a drywall subcontractor previously barred for wage theft now involved in an $11 million taxpayer-funded project? 
+
+Get the details!
+
+#MA #CitizenPortal #PublicTransparency #WorkerRights #Accoun
+  → https://bsky.app/profile/citizenptnewsma.bsky.social/post/3mwi5a5fxwr27
+
+- **@akexaaonn.bsky.social**: General contractor in Land O' Lakes FL | Iconic Construction, LLC
+
+General contractor in Land O' Lakes FL can support your property with remodeling, upgrades, repairs, and other construction needs.
+
+w
+  → https://bsky.app/profile/akexaaonn.bsky.social/post/3mwix5lyh7s2v
+
+- **@ketkinztalent.bsky.social**: Skilled trades keep businesses moving. If you’re an electrician, HVAC technician, mechanic or another hands-on professional, what skill took you the longest to master? We’d like to hear your story. #S
+  → https://bsky.app/profile/ketkinztalent.bsky.social/post/3mwiubjxmyv2t
+
 - **@mamedesu466.bsky.social**: youtu.be/T_l9nHKUfms?...
   → https://bsky.app/profile/mamedesu466.bsky.social/post/3mwbrsabbsc2n
 
@@ -176,16 +193,3 @@ youtu.be/F8XgjQbTmXs?.
 
 - **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
-
-- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
-
-- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
-
-Start by comparing process, not just price.
-
-If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
-  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
