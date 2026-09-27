@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mamedesu466.bsky.social**: youtu.be/T_l9nHKUfms?...
+  → https://bsky.app/profile/mamedesu466.bsky.social/post/3mwbrsabbsc2n
+
+- **@topstory.bsky.social**: youtube.com/watch?v=T_l9...
+  → https://bsky.app/profile/topstory.bsky.social/post/3mwbrugkals2a
+
+- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
+
+Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
+  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
+
+- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
+
+Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
+  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
+
+- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
+  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
+
+- **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
+
+Want to learn more or get started? Click the link below or give us a call at (316) 
+  → https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e
+
 - **@rankforaisearch.bsky.social**: Want to boost your contracting business online? 
 Discover how Google Business Profile posts can enhance AI recommendations! 
 Build trust and local authority with factual updates tailored for your comm
@@ -165,23 +189,3 @@ Start by comparing process, not just price.
 
 If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
   → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
-
-- **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
-  → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
-
-- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
-
-- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
-
-- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
-
-- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@processorpress.bsky.social**: Gold Coast swaps beachside sparkle for Texas‑style barbecue? The city’s rebranding plot twists like a Bondi surfboard.
-#Gold #Coast #Glitter #Business #Satire
-https://processorpress.com/story/463/gold
-  → https://bsky.app/profile/processorpress.bsky.social/post/3mwhbnv7hn62t

@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-09-27T03:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing once not twice"
+    },
+    {
+      "ts": "2026-09-27T03:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing low bid"
+    },
+    {
+      "ts": "2026-09-27T03:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy caulk"
+    },
+    {
       "ts": "2026-09-26T20:23",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: lastguy caulk"
-    },
-    {
-      "ts": "2026-09-16T08:39",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing scope creep"
-    },
-    {
-      "ts": "2026-09-16T08:39",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz deposit"
-    },
-    {
-      "ts": "2026-09-16T02:39",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from 010001a0a810c121-2221a772-676b-4c36-a62d-f0cca7db7f59-000000@amazonses.com: \"This was the first response I got after the application, and no, 0 convers...\""
     }
   ]
 }
