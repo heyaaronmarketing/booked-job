@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Fixology – Handyman Multi-Service WordPress Theme
+
+ https://themes.stylelib.org/?p=3591 
+
+#business #construction #corporate #electrician #engineering #handyman #industry #maintenance #plumber #renova
+  → https://bsky.app/profile/stylelib.org/post/3mwjcxktv5v2t
+
+- **@woodcollier.bsky.social**: Question:
+Would you employ a youngster who’s  only work experience to date is washing out used sex dolls and fixing punctures for your dads business?
+Almost feel a bit of pity.
+  → https://bsky.app/profile/woodcollier.bsky.social/post/3mwipoonwss25
+
+- **@hennhouseagency.bsky.social**: New episode of The Hennhouse Podcast is live 🎙️
+
+Watch it here: https://youtu.be/zo89HgxnWxE?is=x2Qb2TsOPG-z-n32
+
+If you’re into entrepreneurship, marketing, and building a business, check this one ou
+  → https://bsky.app/profile/hennhouseagency.bsky.social/post/3mwj7fczfvv2s
+
 - **@citizenptnewsma.bsky.social**: Why is a drywall subcontractor previously barred for wage theft now involved in an $11 million taxpayer-funded project? 
 
 Get the details!
@@ -184,12 +203,3 @@ youtu.be/F8XgjQbTmXs?.
 
 - **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
   → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@texascontractorseo.bsky.social**: Budget limits stall growth. One contractor was visible but stagnant until they increased SEO investment, then saw steady lead growth in a competitive market. 💡 Ready to simplify your life? https://tex
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlc2o4k2x
-
-- **@texascontractorseo.bsky.social**: Expanding service scope widens search presence. Our San Antonio client moved from attic-only spray foam to full residential and commercial coverage, and their lead quality improved. 🏗️ Ready to simpli
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlcy3js2h
-
-- **@texascontractorseo.bsky.social**: Early SEO months build trust through impressions, not instant calls. One customer’s site impressions tripled before consistent inquiries began rolling in. Patience pays. ⏳ Ready to simplify your life?
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrleafnu2e
