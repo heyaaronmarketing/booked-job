@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T01:45",
+  "generated": "2026-09-28T10:36",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 3,
+        "current": 7,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,9 +75,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 19,
+        "current": 23,
         "target": 150,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 16,
+        "current": 21,
         "target": 120,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 110,
+        "current": 114,
         "target": 600,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 183,
+        "current": 188,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,8 +222,8 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1066,
-    "followers": 249,
+    "social_posts": 1070,
+    "followers": 254,
     "engagement": 3,
     "yt_views": 2349,
     "yt_shorts": 55,

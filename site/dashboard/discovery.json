@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:41:51Z",
+  "updated": "2026-09-28T15:19:45Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,18 +78,23 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 14,
+        "uses": 16,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
         "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#handyman",
@@ -110,11 +115,6 @@
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#contractors",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466677,
+        "followers": 466858,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -150,12 +150,12 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35862,
+        "followers": 35863,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23404,
+        "followers": 23405,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2342,
+        "followers": 2343,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10157,
+      "followers": 10158,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4167,
+      "followers": 4168,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1644,
+      "followers": 1646,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -257,21 +257,21 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1412,
+      "followers": 1411,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1306,
+      "followers": 1305,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
     {
       "handle": "@notenoughcrows.bsky.social",
       "display": "Ghost in the HVAC 👻🧙🌀",
-      "followers": 1290,
+      "followers": 1291,
       "desc": "Neurodivergent and unpleasant  She/her  #bantersky enthusiastic  Terfs fuck off   Air conditioning enforcement team  🖤🏴󠁧",
       "link": "https://bsky.app/profile/notenoughcrows.bsky.social"
     },
