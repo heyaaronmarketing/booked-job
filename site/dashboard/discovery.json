@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T22:02:35Z",
+  "updated": "2026-09-28T00:36:44Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 17,
+        "uses": 13,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#hvac",
@@ -92,9 +87,19 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
-        "tag": "#smallbusinessowners",
+        "tag": "#plumbing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#handyman",
         "uses": 2,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#hvac用膨張タンク",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvac用膨張タンク"
       },
       {
         "tag": "#plumbingpet",
@@ -117,16 +122,6 @@
         "link": "https://mastodon.social/tags/contractors"
       },
       {
-        "tag": "#handyman",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#handymantech",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handymantech"
-      },
-      {
         "tag": "#Hvacousticwoodwool",
         "uses": 0,
         "link": "https://mastodon.social/tags/Hvacousticwoodwool"
@@ -135,6 +130,11 @@
         "tag": "#hvacousticwoodwoolpanels",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
+      },
+      {
+        "tag": "#hvacousticwoodwoolboards",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
       }
     ],
     "accounts": [
@@ -236,7 +236,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1638,
+      "followers": 1640,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },

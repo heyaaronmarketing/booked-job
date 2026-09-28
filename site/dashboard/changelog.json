@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-09-27T19:48",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner permit"
+    },
+    {
       "ts": "2026-09-27T17:15",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: lastguy extension cord"
-    },
-    {
-      "ts": "2026-09-16T17:17",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing scope creep"
     }
   ]
 }
