@@ -1,64 +1,40 @@
 {
-  "updated": "2026-09-28T10:36",
+  "updated": "2026-09-28T17:06",
   "posts": [
     {
-      "ts": "2026-09-28T10:33:27",
-      "channel": "youtube",
-      "item": "bj-rev-plumb",
-      "url": "https://youtu.be/X3F0La3_go4"
-    },
-    {
-      "ts": "2026-09-28T10:33:19",
-      "channel": "facebook",
-      "item": "card-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-09-28T10:33:15",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-09-28T10:32:39",
+      "ts": "2026-09-28T17:04:06",
       "channel": "mastodon",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-09-28T10:32:34",
+      "ts": "2026-09-28T17:04:03",
       "channel": "tumblr",
-      "item": "bj-trade",
+      "item": "bj-slow",
       "url": null
     },
     {
-      "ts": "2026-09-28T10:32:32",
+      "ts": "2026-09-28T17:04:00",
       "channel": "bluesky",
-      "item": "bj-speed",
+      "item": "bj-ftc",
       "url": null
     },
     {
-      "ts": "2026-09-28T10:32:27",
-      "channel": "linkedin",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-09-28T10:32:26",
+      "ts": "2026-09-28T17:03:56",
       "channel": "tiktok",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     },
     {
-      "ts": "2026-09-28T10:32:25",
-      "channel": "ig",
-      "item": "bj-freecheck",
+      "ts": "2026-09-28T17:03:56",
+      "channel": "linkedin",
+      "item": "pod-ep03-lie",
       "url": null
     },
     {
-      "ts": "2026-09-28T10:31:49",
+      "ts": "2026-09-28T17:03:54",
       "channel": "facebook",
-      "item": "bj-stars",
+      "item": "bj-ai",
       "url": null
     }
   ]

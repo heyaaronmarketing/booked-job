@@ -2,6 +2,10 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rsbellrealtor.bsky.social**: New: Buyer's Agent in Loxahatchee, FL. Hire your buyers agent as your own general contractor on the showing.
+https://randolphscottbell.com/listings/buyers-agent/loxahatchee/?utm_source=metricool&utm_m
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwlp3ztruj2w
+
 - **@soapoperaspy.bsky.social**: General Hospital Spoilers: Prison Beatdown Frame-Up, Sonny Takes the Blame & Justine Walks Away?
   → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mwlnb7wqpx2b
 
@@ -179,8 +183,3 @@ Shatrughna Sinha is a career diplomat who joined the Indian Foreign Service
 
 - **@sdgroupservice.bsky.social**: Need an insurance quote? Let SD Group Service help you find the right coverage for auto, home, business, and life. We're here to support your needs in El Cajon. Check out our services and book an appo
   → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mwe5quyhd22l
-
-- **@326bureauchief.bsky.social**: Hang on. Just saw another ad, this one paid for by the Department of Defense, but *this* one is propping up... putting people to work in skilled trades, as promoted by Mike Lowe?
-
-The fuck is that all
-  → https://bsky.app/profile/326bureauchief.bsky.social/post/3mwjgoorg6s2q
