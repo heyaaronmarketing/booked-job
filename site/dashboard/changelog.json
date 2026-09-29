@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-09-29T10:56",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: MCP is Dead | Nick Babich in UX Planet"
+    },
+    {
+      "ts": "2026-09-29T10:56",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from postmaster@cio49840.mail.hunter.io: Three tips to get going with the Outreach Planner"
+    },
+    {
+      "ts": "2026-09-29T10:55",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor 10mm"
+    },
+    {
+      "ts": "2026-09-29T10:55",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: homeowner cash"
+    },
+    {
+      "ts": "2026-09-29T10:55",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: guy safety"
+    },
+    {
+      "ts": "2026-09-29T10:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
+    },
+    {
       "ts": "2026-09-29T03:23",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: labor phone"
-    },
-    {
-      "ts": "2026-09-18T04:38",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor monday"
-    },
-    {
-      "ts": "2026-09-17T23:33",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from 010001a0b23dc6b9-50657595-a602-4fc0-b727-fc510bb66809-000000@amazonses.com: \"You've got the job! We regret to inform you that you have NOT been selecte...\""
-    },
-    {
-      "ts": "2026-09-17T23:33",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor porta potty"
-    },
-    {
-      "ts": "2026-09-17T18:43",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Booked Job, you are the moment"
-    },
-    {
-      "ts": "2026-09-17T18:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: guy safety"
-    },
-    {
-      "ts": "2026-09-17T18:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: tools lost tape"
     }
   ]
 }
