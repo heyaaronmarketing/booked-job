@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T06:37:03Z",
+  "updated": "2026-09-30T13:37:30Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 20,
+        "uses": 22,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35864,
+        "followers": 35865,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7204,
+        "followers": 7206,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -236,7 +236,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1667,
+      "followers": 1673,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
