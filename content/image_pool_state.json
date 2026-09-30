@@ -9,12 +9,13 @@
       "card-rev-elec",
       "card-rev-paint",
       "card-speed",
-      "card-ftc"
+      "card-ftc",
+      "card-stars"
     ],
-    "last_iso": "2026-09-30T14:20:04",
+    "last_iso": "2026-09-30T18:53:32",
     "day": {
       "date": "2026-09-30",
-      "count": 2
+      "count": 3
     }
   },
   "ig": {
@@ -30,12 +31,13 @@
   "facebook": {
     "posted": [
       "card-cpbj",
-      "card-angi"
+      "card-angi",
+      "card-reviews"
     ],
-    "last_iso": "2026-09-30T08:50:11",
+    "last_iso": "2026-09-30T18:53:32",
     "day": {
       "date": "2026-09-30",
-      "count": 1
+      "count": 2
     }
   }
 }

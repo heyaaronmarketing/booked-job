@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T19:08:13Z",
+  "updated": "2026-09-30T23:41:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/hvac用膨張タンク"
       },
       {
+        "tag": "#hvacstudent",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacstudent"
+      },
+      {
         "tag": "#plumbingpet",
         "uses": 1,
         "link": "https://mastodon.social/tags/plumbingpet"
@@ -130,11 +135,6 @@
         "tag": "#hvacousticwoodwoolpanels",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
-      },
-      {
-        "tag": "#hvacousticwoodwoolboards",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
       }
     ],
     "accounts": [
@@ -150,12 +150,12 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35865,
+        "followers": 35959,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23414,
+        "followers": 23413,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4182,
+      "followers": 4183,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1673,
+      "followers": 1675,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@notenoughcrows.bsky.social",
       "display": "Ghost in the HVAC 👻🧙🌀",
-      "followers": 1291,
+      "followers": 1292,
       "desc": "Neurodivergent and unpleasant  She/her  #bantersky enthusiastic  Terfs fuck off   Air conditioning enforcement team  🖤🏴󠁧",
       "link": "https://bsky.app/profile/notenoughcrows.bsky.social"
     },

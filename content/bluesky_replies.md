@@ -2,6 +2,63 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rahuledeka.bsky.social**: A NIC code is more than a form field. It tells people what your business mainly does.
+
+Before choosing one, ask: Do I manufacture, trade, repair, or provide a service? A furniture maker, seller, and r
+  → https://bsky.app/profile/rahuledeka.bsky.social/post/3muyu3kywgk2b
+
+- **@724ws.bsky.social**: Design and Build your Responsive Business Website, sales page, landing page, showcase for $50
+
+Design and Build your Professionnal Business Website, responsive design, payment gateway We offer you an 
+  → https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v
+
+- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
+  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
+
+- **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
+
+Want to learn more or get started? Click the link below or give us a call at (316) 
+  → https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e
+
+- **@olivetreebuilds.bsky.social**: A franchise suggests a 12-week opening. Is that timeline realistic? While franchises offer estimates, every build-out is unique. Communicate directly with your general contractor about potential issue
+  → https://bsky.app/profile/olivetreebuilds.bsky.social/post/3mwotg4yv4t2b
+
+- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
+
+ https://themes.stylelib.org/?p=22449 
+
+#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
+  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
 - **@citizenptnewsma.bsky.social**: Why is a drywall subcontractor previously barred for wage theft now involved in an $11 million taxpayer-funded project? 
 
 Get the details!
@@ -154,65 +211,3 @@ Keep publishing. Keep collecting proof. Keep giving customers and search systems
 
 #builder #constructioncompany #electrician #handyman #painter #renovation #themeforest #wordpress #archite
   → https://bsky.app/profile/stylelib.org/post/3mw4zkz2wym2g
-
-- **@hivergentai.bsky.social**: 𝗣𝗹𝘂𝗺𝗯𝗲𝗿 𝗧𝘂𝗿𝗻𝘀 𝗠𝗶𝘀𝘀𝗲𝗱 𝗖𝗮𝗹𝗹𝘀 𝗜𝗻𝘁𝗼 𝗮 𝟯𝗫 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲
-𝗢𝗻𝗲 𝗽𝗹𝘂𝗺𝗯𝗶𝗻𝗴 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗿𝗶𝗽𝗹𝗲𝗱 𝗺𝗼�...
-https://www.gohighlevel.com/blog/category/did-you-know?fp_ref=hiv er g ent-ai27
-via HiVergent AI Rss at https
-  → https://bsky.app/profile/hivergentai.bsky.social/post/3mw5q74b6ok2p
-
-- **@brilliantdirectories.com**: 🔧 Plumbers ask why they should pay to be listed.
-
-Your plumber directory shows every plumber side by side.
-
-👉 Learn more: https://get.brilliantdirectories.com/best-local-business-directory-platform?ut
-  → https://bsky.app/profile/brilliantdirectories.com/post/3mwdskcrc6y2a
-
-- **@stylelib.org**: Fixology – Handyman Multi-Service WordPress Theme
-
- https://themes.stylelib.org/?p=3591 
-
-#business #construction #corporate #electrician #engineering #handyman #industry #maintenance #plumber #renova
-  → https://bsky.app/profile/stylelib.org/post/3mwjcxktv5v2t
-
-- **@stylelib.org**: RenoWise – Construction  Building WordPress Theme
-
- https://themes.stylelib.org/?p=4233 
-
-#boldthemes #building #business #construction #contractor #corporate #electrician #handyman #plumber #renovati
-  → https://bsky.app/profile/stylelib.org/post/3mwkym5oxth2x
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mwm4szmxad2t
-
-- **@stylelib.org**: Shapen – Construction Architecture HTML
-
- https://themes.stylelib.org/?p=16422 
-
-#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
-  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
-
-- **@texascontractorseo.bsky.social**: Ongoing updates keep you ranked while competitors fall behind. A Dallas contractor maintained the #1 spot by publishing steady monthly content and project updates. 🔄 Ready to simplify your life? https
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlfb4pl27
-
-- **@texascontractorseo.bsky.social**: Quality SEO investment shortens the timeline to visible leads, even in crowded markets like Houston and Austin—one client saw stable inquiries after just 6 months. ⏱️ Ready to simplify your life? http
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3mudrlgjcsn2d
-
-- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
-
-Start by comparing process, not just price.
-
-If a contractor cannot explain how planning leads into construction, that gap usually shows up later i
-  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mugndjwzfv2h
-
-- **@ajbezos.bsky.social**: Former #Mossad chief David Barnea now leads a #US defence contractor, paving the way for #Israeli interests to infiltrate our military. It's like inviting a fox to guard the henhouse! The #American #t
-  → https://bsky.app/profile/ajbezos.bsky.social/post/3muuiclaa5s2h
-
-- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
-
-- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
-
-- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
