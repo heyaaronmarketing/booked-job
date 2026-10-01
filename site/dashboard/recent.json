@@ -1,47 +1,4 @@
 {
-  "updated": "2026-09-30T18:56",
-  "posts": [
-    {
-      "ts": "2026-09-30T18:53:38",
-      "channel": "facebook",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-09-30T18:53:34",
-      "channel": "mastodon",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-09-30T18:53:30",
-      "channel": "tumblr",
-      "item": "bj-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-09-30T18:53:29",
-      "channel": "bluesky",
-      "item": "bj-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-09-30T18:53:26",
-      "channel": "linkedin",
-      "item": "pod-ep01-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-09-30T18:53:25",
-      "channel": "tiktok",
-      "item": "pod-ep01-shared",
-      "url": null
-    },
-    {
-      "ts": "2026-09-30T18:53:24",
-      "channel": "ig",
-      "item": "bj-track",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-01T00:44",
+  "posts": []
 }
