@@ -1,4 +1,59 @@
 {
-  "updated": "2026-10-01T00:44",
-  "posts": []
+  "updated": "2026-10-01T08:18",
+  "posts": [
+    {
+      "ts": "2026-10-01T08:15:51",
+      "channel": "facebook",
+      "item": "card-rev-plumb",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:15:48",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:15:16",
+      "channel": "mastodon",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:15:10",
+      "channel": "tumblr",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:15:09",
+      "channel": "bluesky",
+      "item": "bj-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:15:06",
+      "channel": "linkedin",
+      "item": "pod-ep01-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:15:05",
+      "channel": "tiktok",
+      "item": "bj-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:15:02",
+      "channel": "ig",
+      "item": "ad-arctic",
+      "url": null
+    },
+    {
+      "ts": "2026-10-01T08:13:54",
+      "channel": "facebook",
+      "item": "bj-rev-elec",
+      "url": null
+    }
+  ]
 }

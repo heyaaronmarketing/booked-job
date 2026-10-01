@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T05:40:24Z",
+  "updated": "2026-10-01T13:02:17Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 3,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -122,6 +122,11 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#contractors",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#smallbusinessowners",
         "uses": 1,
         "link": "https://mastodon.social/tags/smallbusinessowners"
@@ -130,17 +135,12 @@
         "tag": "#Hvacousticwoodwool",
         "uses": 0,
         "link": "https://mastodon.social/tags/Hvacousticwoodwool"
-      },
-      {
-        "tag": "#hvacousticwoodwoolpanels",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 466895,
+        "followers": 466940,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23414,
+        "followers": 23415,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10164,
+      "followers": 10163,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4186,
+      "followers": 4191,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1677,
+      "followers": 1687,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -269,13 +269,6 @@
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
     {
-      "handle": "@notenoughcrows.bsky.social",
-      "display": "Ghost in the HVAC 👻🧙🌀",
-      "followers": 1292,
-      "desc": "Neurodivergent and unpleasant  She/her  #bantersky enthusiastic  Terfs fuck off   Air conditioning enforcement team  🖤🏴󠁧",
-      "link": "https://bsky.app/profile/notenoughcrows.bsky.social"
-    },
-    {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
       "followers": 1178,
@@ -288,6 +281,13 @@
       "followers": 1055,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
+    },
+    {
+      "handle": "@kegman83.bsky.social",
+      "display": "Killdozer Enthusiast. CIA contractor paid with kibble.",
+      "followers": 998,
+      "desc": "Definitely, totally not a member of a state sponsored intelligence agency but thanks for asking. 🇺🇦🇺🇲🇮🇪🦴",
+      "link": "https://bsky.app/profile/kegman83.bsky.social"
     }
   ]
 }

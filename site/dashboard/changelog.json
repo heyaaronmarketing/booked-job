@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-10-01T08:15",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Stop Designing for Delight, Start Designing for Anxiety Reduction | Rishi Sharma"
+    },
+    {
+      "ts": "2026-10-01T08:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz money leaks"
+    },
+    {
+      "ts": "2026-10-01T08:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz slow season"
+    },
+    {
+      "ts": "2026-10-01T08:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor good help"
+    },
+    {
+      "ts": "2026-10-01T08:15",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing low bid"
+    },
+    {
       "ts": "2026-10-01T00:41",
       "kind": "site",
       "icon": "🌐",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: lastguy worst"
-    },
-    {
-      "ts": "2026-09-19T13:08",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: ba nobody sees"
-    },
-    {
-      "ts": "2026-09-19T09:33",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: If x^x = 49, then x=? | Math in history"
-    },
-    {
-      "ts": "2026-09-19T09:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing friend price"
-    },
-    {
-      "ts": "2026-09-19T09:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing callback"
-    },
-    {
-      "ts": "2026-09-19T09:32",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz gbp stale"
     }
   ]
 }
