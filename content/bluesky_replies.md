@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mauconline.bsky.social**: 📍 Run a service business in Nigeria? You may be able to appear on Google Maps without displaying your home address.
+
+Our guide explains:
+✅ Who qualifies—and who doesn’t
+✅ How to list the areas you ser
+  → https://bsky.app/profile/mauconline.bsky.social/post/3mwsc654luk22
+
+- **@automatestl.com**: No full-time receptionist? No problem! Use automation and smart strategies to handle phone FAQs efficiently in your home service business. Stay professional and save time. #HomeService #Automation #Cu
+  → https://bsky.app/profile/automatestl.com/post/3mwthrk6dyh2j
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
+
 - **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
 
  https://themes.stylelib.org/?p=28230 
@@ -179,26 +198,3 @@ w
 
 A strong remodeling process should define the project before demolition, including scope, selections, schedule, and pricing. Phoenix Home Remodeling 
   → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mwpja6strj22
-
-- **@rankforaisearch.bsky.social**: Want to boost your contracting business online? 
-Discover how Google Business Profile posts can enhance AI recommendations! 
-Build trust and local authority with factual updates tailored for your comm
-  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mvsno2j3sc2p
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7xgf2xbo2p
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mwaxrq732n2j

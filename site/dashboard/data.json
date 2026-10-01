@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:05",
+  "updated": "2026-10-01T18:06",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -435,9 +435,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 3,
+      "count": 4,
       "unit": "posts",
-      "followers": 240,
+      "followers": 241,
       "grade": "A",
       "group": "social",
       "likes": 15
@@ -488,12 +488,12 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 49,
+      "count": 51,
       "unit": "posts (Buffer)",
       "stat": "248 reach \u00b7 0 reactions",
       "views": 12,
       "likes": 0,
-      "grade": "C",
+      "grade": "B",
       "group": "social"
     },
     {
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 16
+        "count": 18
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 16
+        "count": 18
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 37
+        "count": 39
       },
       {
         "type": "Documents",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 14
+        "count": 15
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 35
+        "count": 36
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 32
+        "count": 33
       }
     ]
   },
@@ -772,11 +772,11 @@
   "funnel": {
     "reach": 35396,
     "engagement": 6,
-    "audience": 269,
+    "audience": 270,
     "cr_clicks": 135
   },
   "trends": {
-    "audience": 19,
+    "audience": 20,
     "engagement": 0,
     "email": 0,
     "reach": 326
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1443,
+        "value": 1446,
         "grade": "A"
       },
       {
@@ -805,7 +805,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 269,
+        "value": 270,
         "grade": "B"
       },
       {
@@ -815,6 +815,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 269 audience and 135 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 270 audience and 135 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

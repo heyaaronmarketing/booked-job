@@ -12,12 +12,13 @@
       "card-ftc",
       "card-stars",
       "card-ai",
-      "card-anon98"
+      "card-anon98",
+      "card-missedcall"
     ],
-    "last_iso": "2026-10-01T14:16:59",
+    "last_iso": "2026-10-01T18:18:12",
     "day": {
       "date": "2026-10-01",
-      "count": 2
+      "count": 3
     }
   },
   "ig": {
@@ -35,12 +36,13 @@
       "card-cpbj",
       "card-angi",
       "card-reviews",
-      "card-rev-plumb"
+      "card-rev-plumb",
+      "card-rev-roof"
     ],
-    "last_iso": "2026-10-01T08:15:14",
+    "last_iso": "2026-10-01T18:18:12",
     "day": {
       "date": "2026-10-01",
-      "count": 1
+      "count": 2
     }
   }
 }
