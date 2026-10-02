@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@pushtheneedle.bsky.social**: This is a great tool and it’s fascinating to find out that our permitting process, zoning codes and regulations that micromanage builders and designers to death requires huge ai data centers to deciph
+  → https://bsky.app/profile/pushtheneedle.bsky.social/post/3mww3s6bfbc2y
+
+- **@weerm.com**: Full answer + sources →
+https://weerm.com/factcheck/california-independent-contractor-abc-test
+
+General information, not legal advice.
+  → https://bsky.app/profile/weerm.com/post/3mww5zunhv22g
+
 - **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
   → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
 
@@ -195,9 +204,3 @@ youtu.be/F8XgjQbTmXs?.
 
 #builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
   → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@swipesports.bsky.social**: Three trades with Dallas in under two years. At what point is it not Jerry Jones "fleecing" anybody and just Pittsburgh's business model?
-  → https://bsky.app/profile/swipesports.bsky.social/post/3mwsg2xuotj26
