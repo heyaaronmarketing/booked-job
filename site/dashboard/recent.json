@@ -1,4 +1,65 @@
 {
-  "updated": "2026-10-02T04:43",
-  "posts": []
+  "updated": "2026-10-02T11:30",
+  "posts": [
+    {
+      "ts": "2026-10-02T11:27:54",
+      "channel": "youtube",
+      "item": "bj-rev-elec",
+      "url": "https://youtu.be/0YzHPYlCCgs"
+    },
+    {
+      "ts": "2026-10-02T11:27:45",
+      "channel": "facebook",
+      "item": "card-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:27:42",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:27:02",
+      "channel": "mastodon",
+      "item": "card-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:26:58",
+      "channel": "tumblr",
+      "item": "bj-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:26:55",
+      "channel": "bluesky",
+      "item": "bj-wordpress",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:26:51",
+      "channel": "tiktok",
+      "item": "bj-cpbj",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:26:51",
+      "channel": "linkedin",
+      "item": "pod-ep01-refunds",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:26:49",
+      "channel": "ig",
+      "item": "ad-summit",
+      "url": null
+    },
+    {
+      "ts": "2026-10-02T11:26:15",
+      "channel": "facebook",
+      "item": "bj-wordpress",
+      "url": null
+    }
+  ]
 }
