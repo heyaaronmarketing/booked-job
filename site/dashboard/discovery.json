@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T02:11:54Z",
+  "updated": "2026-10-02T09:39:05Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,28 +78,28 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 25,
+        "uses": 27,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 6,
+        "uses": 7,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#contractors",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#contractor",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#handyman",
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#Hvacousticwoodwool",
+        "tag": "#hvacousticwoodwoolboards",
         "uses": 0,
-        "link": "https://mastodon.social/tags/Hvacousticwoodwool"
+        "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
       }
     ],
     "accounts": [
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7206,
+        "followers": 7204,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4200,
+      "followers": 4202,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1698,
+      "followers": 1703,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1305,
+      "followers": 1307,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },

@@ -2,6 +2,56 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@inkandtrade.bsky.social**: How to Start a General Contracting Business: Licensing, Insurance, Contracts & Liens #generalcontractor #contractorlife #remodeling #constructionbusiness #skilledtrades #homeimprovement #smallbusiness
+  → https://bsky.app/profile/inkandtrade.bsky.social/post/3mwue5hxw6c2u
+
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mwm4szmxad2t
+
+- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
+
+ https://themes.stylelib.org/?p=22449 
+
+#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
+  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
+
+- **@stylelib.org**: Shapen – Construction Architecture HTML
+
+ https://themes.stylelib.org/?p=16422 
+
+#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
+  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
+
+- **@india-rising.bsky.social**: Baden-Württemberg in particular, and what he recommends business leaders to do to unlock deeper ties with his home country.
+
+Shatrughna Sinha is a career diplomat who joined the Indian Foreign Service
+  → https://bsky.app/profile/india-rising.bsky.social/post/3mwe323qcpp23
+
+- **@sdgroupservice.bsky.social**: Need an insurance quote? Let SD Group Service help you find the right coverage for auto, home, business, and life. We're here to support your needs in El Cajon. Check out our services and book an appo
+  → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mwe5quyhd22l
+
+- **@woodcollier.bsky.social**: Question:
+Would you employ a youngster who’s  only work experience to date is washing out used sex dolls and fixing punctures for your dads business?
+Almost feel a bit of pity.
+  → https://bsky.app/profile/woodcollier.bsky.social/post/3mwipoonwss25
+
+- **@hennhouseagency.bsky.social**: New episode of The Hennhouse Podcast is live 🎙️
+
+Watch it here: https://youtu.be/zo89HgxnWxE?is=x2Qb2TsOPG-z-n32
+
+If you’re into entrepreneurship, marketing, and building a business, check this one ou
+  → https://bsky.app/profile/hennhouseagency.bsky.social/post/3mwj7fczfvv2s
+
+- **@jessexpress.bsky.social**: youtu.be/T_l9nHKUfms?...
+
+#SouthDakota what's the tea??
+  → https://bsky.app/profile/jessexpress.bsky.social/post/3mwkacck6gc26
+
+- **@brooklinenews.bsky.social**: Did you know: Before the rise of the disposable diaper, Brookline was once home to a major cloth diaper laundering and delivery service? 
+
+The only thing left of this slice of Brookline history is a f
+  → https://bsky.app/profile/brooklinenews.bsky.social/post/3mwmbstyj5k2y
+
 - **@rsbellrealtor.bsky.social**: New: Buyer's Agent in Loxahatchee, FL. Hire your buyers agent as your own general contractor on the showing.
 https://randolphscottbell.com/listings/buyers-agent/loxahatchee/?utm_source=metricool&utm_m
   → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwlp3ztruj2w
@@ -143,64 +193,3 @@ If a contractor cannot explain how planning leads into construction, that gap us
 
 - **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@mauconline.bsky.social**: 📍 Run a service business in Nigeria? You may be able to appear on Google Maps without displaying your home address.
-
-Our guide explains:
-✅ Who qualifies—and who doesn’t
-✅ How to list the areas you ser
-  → https://bsky.app/profile/mauconline.bsky.social/post/3mwsc654luk22
-
-- **@automatestl.com**: No full-time receptionist? No problem! Use automation and smart strategies to handle phone FAQs efficiently in your home service business. Stay professional and save time. #HomeService #Automation #Cu
-  → https://bsky.app/profile/automatestl.com/post/3mwthrk6dyh2j
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
-
-- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
-
- https://themes.stylelib.org/?p=28230 
-
-#architecture #builder #building #business #construction #contractor #corporate #creative #electrician #fac
-  → https://bsky.app/profile/stylelib.org/post/3mwr6g4yheq27
-
-- **@caseysseo.bsky.social**: Homeowners search 200 amp panel upgrade Denver and compare before they call. Is your Google Business Profile showing up? 719-639-8238 caseysseo.com #DenverElectrician #LocalSEO
-
-https://youtu.be/W40d5
-  → https://bsky.app/profile/caseysseo.bsky.social/post/3mwrc36yocj2k
-
-- **@hivergentai.bsky.social**: 𝗣𝗹𝘂𝗺𝗯𝗲𝗿 𝗧𝘂𝗿𝗻𝘀 𝗠𝗶𝘀𝘀𝗲𝗱 𝗖𝗮𝗹𝗹𝘀 𝗜𝗻𝘁𝗼 𝗮 𝟯𝗫 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲
-𝗢𝗻𝗲 𝗽𝗹𝘂𝗺𝗯𝗶𝗻𝗴 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝘁𝗿𝗶𝗽𝗹𝗲𝗱 𝗺𝗼�...
-https://www.gohighlevel.com/blog/category/did-you-know?fp_ref=hiv er g ent-ai27
-via HiVergent AI Rss at https
-  → https://bsky.app/profile/hivergentai.bsky.social/post/3mw5q74b6ok2p
-
-- **@brilliantdirectories.com**: 🔧 Plumbers ask why they should pay to be listed.
-
-Your plumber directory shows every plumber side by side.
-
-👉 Learn more: https://get.brilliantdirectories.com/best-local-business-directory-platform?ut
-  → https://bsky.app/profile/brilliantdirectories.com/post/3mwdskcrc6y2a
-
-- **@stylelib.org**: Fixology – Handyman Multi-Service WordPress Theme
-
- https://themes.stylelib.org/?p=3591 
-
-#business #construction #corporate #electrician #engineering #handyman #industry #maintenance #plumber #renova
-  → https://bsky.app/profile/stylelib.org/post/3mwjcxktv5v2t
-
-- **@stylelib.org**: RenoWise – Construction  Building WordPress Theme
-
- https://themes.stylelib.org/?p=4233 
-
-#boldthemes #building #business #construction #contractor #corporate #electrician #handyman #plumber #renovati
-  → https://bsky.app/profile/stylelib.org/post/3mwkym5oxth2x

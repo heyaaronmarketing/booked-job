@@ -601,6 +601,13 @@
       "engagement": 6,
       "email": 7,
       "reach": 35401
+    },
+    {
+      "date": "2026-10-02",
+      "audience": 272,
+      "engagement": 9,
+      "email": 7,
+      "reach": 35426
     }
   ]
 }
