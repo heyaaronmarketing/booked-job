@@ -2,6 +2,42 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rainyriverelectric.bsky.social**: Need a Trusted Commercial Electrician for Your Business?
+
+Get professional electrical installation, repairs, maintenance, wiring, lighting, and troubleshooting services designed to keep your commercia
+  → https://bsky.app/profile/rainyriverelectric.bsky.social/post/3mvrdblgxuc2t
+
+- **@marihonna.bsky.social**: This contractor owns a home, properties, cars, has a legitimate licensed business. He employs people and anyone who deals with him has all good things to say. His brother is an electrician and got pul
+  → https://bsky.app/profile/marihonna.bsky.social/post/3mvsgakdyd22w
+
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://stylelib.org/?p=159532 
+
+#builder #constructioncompany #electrician #handyman #painter #renovation #themeforest #wordpress #archite
+  → https://bsky.app/profile/stylelib.org/post/3mw4zkz2wym2g
+
+- **@stylelib.org**: BuildGo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=824443 
+
+#architecture #building #business #company #construction #contractor #corporate #electrician #engineering #handyman #in
+  → https://bsky.app/profile/stylelib.org/post/3mwe6oeukol25
+
+- **@mark.orbum.net**: Phenomenal piece about Waffle House 😄 I had no idea - amazing backstory to this business.
+
+The video is some British guy reacting to a video about it from the Fat Electrician. 
+
+youtu.be/F8XgjQbTmXs?.
+  → https://bsky.app/profile/mark.orbum.net/post/3mwgjwmotis2i
+
+- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
+
+ https://stylelib.org/?p=134193 
+
+#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
+  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
+
 - **@ketkinztalent.bsky.social**: What advice would you give someone starting in skilled trades, IT support or business support today? One honest lesson could help someone take their next step. #Careers #KTS
   → https://bsky.app/profile/ketkinztalent.bsky.social/post/3mwwlh7vzqo2w
 
@@ -165,35 +201,3 @@ https://youtu.be/W40d5
 
 #builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
   → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
-
-- **@stylelib.org**: Shapen – Construction Architecture HTML
-
- https://themes.stylelib.org/?p=16422 
-
-#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
-  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
-
-- **@india-rising.bsky.social**: Baden-Württemberg in particular, and what he recommends business leaders to do to unlock deeper ties with his home country.
-
-Shatrughna Sinha is a career diplomat who joined the Indian Foreign Service
-  → https://bsky.app/profile/india-rising.bsky.social/post/3mwe323qcpp23
-
-- **@sdgroupservice.bsky.social**: Need an insurance quote? Let SD Group Service help you find the right coverage for auto, home, business, and life. We're here to support your needs in El Cajon. Check out our services and book an appo
-  → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mwe5quyhd22l
-
-- **@woodcollier.bsky.social**: Question:
-Would you employ a youngster who’s  only work experience to date is washing out used sex dolls and fixing punctures for your dads business?
-Almost feel a bit of pity.
-  → https://bsky.app/profile/woodcollier.bsky.social/post/3mwipoonwss25
-
-- **@hennhouseagency.bsky.social**: New episode of The Hennhouse Podcast is live 🎙️
-
-Watch it here: https://youtu.be/zo89HgxnWxE?is=x2Qb2TsOPG-z-n32
-
-If you’re into entrepreneurship, marketing, and building a business, check this one ou
-  → https://bsky.app/profile/hennhouseagency.bsky.social/post/3mwj7fczfvv2s
-
-- **@jessexpress.bsky.social**: youtu.be/T_l9nHKUfms?...
-
-#SouthDakota what's the tea??
-  → https://bsky.app/profile/jessexpress.bsky.social/post/3mwkacck6gc26
