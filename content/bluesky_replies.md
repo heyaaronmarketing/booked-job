@@ -2,6 +2,44 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@inkandtrade.bsky.social**: How to Start a Pest Control Business From Zero: Licensing, Pesticide Law & Pricing #pestcontrol #pestcontrolbusiness #exterminator #smallbusiness #skilledtrades #pestcontroltech #startabusiness Want t
+  → https://bsky.app/profile/inkandtrade.bsky.social/post/3mwwzbxq74k2y
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@rankforaisearch.bsky.social**: Want to boost your contracting business online? 
+Discover how Google Business Profile posts can enhance AI recommendations! 
+Build trust and local authority with factual updates tailored for your comm
+  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mvsno2j3sc2p
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7xgf2xbo2p
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mwaxrq732n2j
+
 - **@rsbellrealtor.bsky.social**: Wellington buyers agent: a REALTOR® who is also a licensed general contractor. Village permits, roofs, HOAs.
 https://randolphscottbell.com/listings/buyers-agent/wellington/?utm_source=metricool&utm_me
   → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwvngfyobx23
@@ -165,25 +203,3 @@ https://randolphscottbell.com/listings/buyers-agent/loxahatchee/?utm_source=metr
 https://estar1.click
 WhatsApp https:/
   → https://bsky.app/profile/estarcontractor.bsky.social/post/3mwszigvdja2e
-
-- **@thebusinessindex.bsky.social**: The US must fill about 1.7 million skilled trades jobs a year through 2035, but its training pathways produce roughly 55 workers for every 100 needed. Ford and JPMorgan have a $2 billion plan. Is mone
-  → https://bsky.app/profile/thebusinessindex.bsky.social/post/3mwt3c35wo22v
-
-- **@stylelib.org**: Plumberx – Plumber and Construction HTML Template
-
- https://stylelib.org/?p=285713 
-
-#constructor #painter #remodeling #renovation #roofing #sitetemplates #themeforest #architecture #business #plumber
-  → https://bsky.app/profile/stylelib.org/post/3mw2wja2gst2s
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business doesn't need a fancy website. It needs one that gets the phone ringing. We build done-for-you sites with SEO + AI chatbots that qualify leads 24/7. More call
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mw7x7j45ay2n
-
-- **@scotfi1.bsky.social**: Apparently Danny Tommo has a roofing company somewhere. Quite apart from the fact you wouldn't want him anywhere near your house, the service he provides must be crap because he's never at his bloody 
-  → https://bsky.app/profile/scotfi1.bsky.social/post/3mwg55u6zps2b
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business doesn't need to compete on price. You need more qualified calls. Our done-for-you website + SEO + AI chatbot handles 60% of inquiries while you're on the
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwjz36wsey2t
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business deserves a website that actually converts. We build SEO-optimized sites + add AI chatbots that answer inquiries 24/7. Result: more qualified calls, less admin
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwmjk4oyi72l
