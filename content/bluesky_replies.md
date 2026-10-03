@@ -2,6 +2,42 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rsbellrealtor.bsky.social**: Wellington buyers agent: a REALTOR® who is also a licensed general contractor. Village permits, roofs, HOAs.
+https://randolphscottbell.com/listings/buyers-agent/wellington/?utm_source=metricool&utm_me
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwvngfyobx23
+
+- **@zbs.bsky.social**: To be fair, “go into construction” can be great advice if your father owns a fancy general contractor
+  → https://bsky.app/profile/zbs.bsky.social/post/3mwwhoijf7c2x
+
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
 - **@pushtheneedle.bsky.social**: This is a great tool and it’s fascinating to find out that our permitting process, zoning codes and regulations that micromanage builders and designers to death requires huge ai data centers to deciph
   → https://bsky.app/profile/pushtheneedle.bsky.social/post/3mww3s6bfbc2y
 
@@ -151,56 +187,3 @@ WhatsApp https:/
 
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/service business deserves a website that actually converts. We build SEO-optimized sites + add AI chatbots that answer inquiries 24/7. Result: more qualified calls, less admin
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwmjk4oyi72l
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business gets found how? Google search + phone calls. We build SEO websites that rank, add AI chatbots that answer questions 24/7, and automate lead follow-ups. More 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwozz2hed42l
-
-- **@stylelib.org**: Cobble – Flooring  Construction WordPress Theme + AI
-
- https://stylelib.org/?p=897248 
-
-#handyman #remodeling #renovation #roofing #themeforest #themerex #wordpress #business #design #interiordesign #
-  → https://bsky.app/profile/stylelib.org/post/3mwq74s2q2s2t
-
-- **@stylelib.org**: Yellow Hats – Construction, Building  Renovation Theme
-
- https://themes.stylelib.org/?p=15097 
-
-#architecture #business #constructor #contractor #corporate #electrician #engineering #factory #handyman
-  → https://bsky.app/profile/stylelib.org/post/3mvopeb7dtq2g
-
-- **@rainyriverelectric.bsky.social**: Need a Trusted Commercial Electrician for Your Business?
-
-Get professional electrical installation, repairs, maintenance, wiring, lighting, and troubleshooting services designed to keep your commercia
-  → https://bsky.app/profile/rainyriverelectric.bsky.social/post/3mvrdblgxuc2t
-
-- **@marihonna.bsky.social**: This contractor owns a home, properties, cars, has a legitimate licensed business. He employs people and anyone who deals with him has all good things to say. His brother is an electrician and got pul
-  → https://bsky.app/profile/marihonna.bsky.social/post/3mvsgakdyd22w
-
-- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
-
- https://stylelib.org/?p=159532 
-
-#builder #constructioncompany #electrician #handyman #painter #renovation #themeforest #wordpress #archite
-  → https://bsky.app/profile/stylelib.org/post/3mw4zkz2wym2g
-
-- **@stylelib.org**: BuildGo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824443 
-
-#architecture #building #business #company #construction #contractor #corporate #electrician #engineering #handyman #in
-  → https://bsky.app/profile/stylelib.org/post/3mwe6oeukol25
-
-- **@mark.orbum.net**: Phenomenal piece about Waffle House 😄 I had no idea - amazing backstory to this business.
-
-The video is some British guy reacting to a video about it from the Fat Electrician. 
-
-youtu.be/F8XgjQbTmXs?.
-  → https://bsky.app/profile/mark.orbum.net/post/3mwgjwmotis2i
-
-- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
-
- https://stylelib.org/?p=134193 
-
-#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
-  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d

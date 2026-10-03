@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:17:27Z",
+  "updated": "2026-10-03T01:05:29Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 6,
+        "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -102,11 +102,6 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
-        "tag": "#handyman",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/handyman"
-      },
-      {
         "tag": "#hvac用膨張タンク",
         "uses": 1,
         "link": "https://mastodon.social/tags/hvac用膨張タンク"
@@ -117,14 +112,14 @@
         "link": "https://mastodon.social/tags/hvacstudent"
       },
       {
-        "tag": "#PlumbingKnowledge",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingKnowledge"
-      },
-      {
         "tag": "#roofing",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofing"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#smallbusinessowners",
@@ -132,9 +127,14 @@
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#hvacousticwoodwoolboards",
+        "tag": "#Hvacousticwoodwool",
         "uses": 0,
-        "link": "https://mastodon.social/tags/hvacousticwoodwoolboards"
+        "link": "https://mastodon.social/tags/Hvacousticwoodwool"
+      },
+      {
+        "tag": "#hvacousticwoodwoolpanels",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacousticwoodwoolpanels"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10173,
+      "followers": 10174,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -222,21 +222,21 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2236,
+      "followers": 2237,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1844,
+      "followers": 1845,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1710,
+      "followers": 1712,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -264,21 +264,21 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1308,
+      "followers": 1309,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1178,
+      "followers": 1179,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1055,
+      "followers": 1058,
       "desc": "D&D content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) htt",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },

@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @pushtheneedle.bsky.social: “This is a great tool and it’s fascinating to find out that our permitting process, zoning …”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/pushtheneedle.bsky.social/post/3mww3s6bfbc2y",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @weerm.com: “Full answer + sources → https://weerm.com/factcheck/california-independent-contractor-abc-…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/weerm.com/post/3mww5zunhv22g",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @bsky.scrapers.lat: “Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on bu…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @rahuledeka.bsky.social: “A NIC code is more than a form field. It tells people what your business mainly does.  Bef…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @724ws.bsky.social: “Design and Build your Responsive Business Website, sales page, landing page, showcase for …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/724ws.bsky.social/post/3mv347tssw42v",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @citizenptnewsil.bsky.social: “Urbana is set to transform its animal control billing system, moving from a per-capita mod…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @aptora.bsky.social: “Powerful integrations you can count on. Aptora 360 is the software that will help your fie…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e",
       "est": "2 min"
     },
     {
