@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ketkinztalent.bsky.social**: What advice would you give someone starting in skilled trades, IT support or business support today? One honest lesson could help someone take their next step. #Careers #KTS
+  → https://bsky.app/profile/ketkinztalent.bsky.social/post/3mwwlh7vzqo2w
+
+- **@prestobal.bsky.social**: My actual advice to HS students determined to go into trades I work with is always a version of "At least go to community college, and if you can, do a BA, because you'll be better off in the trade wi
+  → https://bsky.app/profile/prestobal.bsky.social/post/3mwwp4bpqk22s
+
 - **@marcusreidtrucker.bsky.social**: Trucking treated me better than any classroom would have, but the regret cuts both ways - plenty of drivers wish someone had steered them into a skilled trade first. Who do you know making the most mo
   → https://bsky.app/profile/marcusreidtrucker.bsky.social/post/3mwxgaxnmss2l
 
@@ -191,12 +197,3 @@ If you’re into entrepreneurship, marketing, and building a business, check thi
 
 #SouthDakota what's the tea??
   → https://bsky.app/profile/jessexpress.bsky.social/post/3mwkacck6gc26
-
-- **@brooklinenews.bsky.social**: Did you know: Before the rise of the disposable diaper, Brookline was once home to a major cloth diaper laundering and delivery service? 
-
-The only thing left of this slice of Brookline history is a f
-  → https://bsky.app/profile/brooklinenews.bsky.social/post/3mwmbstyj5k2y
-
-- **@rsbellrealtor.bsky.social**: New: Buyer's Agent in Loxahatchee, FL. Hire your buyers agent as your own general contractor on the showing.
-https://randolphscottbell.com/listings/buyers-agent/loxahatchee/?utm_source=metricool&utm_m
-  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwlp3ztruj2w
