@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@marcusreidtrucker.bsky.social**: Trucking treated me better than any classroom would have, but the regret cuts both ways - plenty of drivers wish someone had steered them into a skilled trade first. Who do you know making the most mo
+  → https://bsky.app/profile/marcusreidtrucker.bsky.social/post/3mwxgaxnmss2l
+
 - **@inkandtrade.bsky.social**: How to Start a Pest Control Business From Zero: Licensing, Pesticide Law & Pricing #pestcontrol #pestcontrolbusiness #exterminator #smallbusiness #skilledtrades #pestcontroltech #startabusiness Want t
   → https://bsky.app/profile/inkandtrade.bsky.social/post/3mwwzbxq74k2y
 
@@ -197,9 +200,3 @@ The only thing left of this slice of Brookline history is a f
 - **@rsbellrealtor.bsky.social**: New: Buyer's Agent in Loxahatchee, FL. Hire your buyers agent as your own general contractor on the showing.
 https://randolphscottbell.com/listings/buyers-agent/loxahatchee/?utm_source=metricool&utm_m
   → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwlp3ztruj2w
-
-- **@estarcontractor.bsky.social**: Foundation or load bearing wall repair in Broward? We handle both as a licensed South Florida general contractor. What would you want to know before work begins?
-
-https://estar1.click
-WhatsApp https:/
-  → https://bsky.app/profile/estarcontractor.bsky.social/post/3mwszigvdja2e
