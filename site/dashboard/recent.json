@@ -1,46 +1,40 @@
 {
-  "updated": "2026-10-03T16:22",
+  "updated": "2026-10-03T19:44",
   "posts": [
     {
-      "ts": "2026-10-03T16:20:34",
-      "channel": "mastodon",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-10-03T16:20:29",
-      "channel": "tumblr",
-      "item": "bj-yelp",
-      "url": null
-    },
-    {
-      "ts": "2026-10-03T16:20:28",
-      "channel": "bluesky",
-      "item": "bj-stormchaser",
-      "url": null
-    },
-    {
-      "ts": "2026-10-03T16:20:25",
-      "channel": "linkedin",
-      "item": "bj-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-10-03T16:20:24",
-      "channel": "tiktok",
-      "item": "bj-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-10-03T16:20:23",
-      "channel": "ig",
-      "item": "clip-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-10-03T16:19:48",
+      "ts": "2026-10-03T19:42:35",
       "channel": "facebook",
+      "item": "card-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-10-03T19:42:32",
+      "channel": "mastodon",
+      "item": "card-rev-plumb",
+      "url": null
+    },
+    {
+      "ts": "2026-10-03T19:42:28",
+      "channel": "tumblr",
       "item": "bj-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-10-03T19:42:27",
+      "channel": "bluesky",
+      "item": "bj-freecheck",
+      "url": null
+    },
+    {
+      "ts": "2026-10-03T19:42:24",
+      "channel": "linkedin",
+      "item": "bj-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-10-03T19:42:23",
+      "channel": "tiktok",
+      "item": "bj-ai",
       "url": null
     }
   ]
