@@ -2,6 +2,39 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Fixology – Handyman Multi-Service WordPress Theme
+
+ https://themes.stylelib.org/?p=3591 
+
+#business #construction #corporate #electrician #engineering #handyman #industry #maintenance #plumber #renova
+  → https://bsky.app/profile/stylelib.org/post/3mwjcxktv5v2t
+
+- **@stylelib.org**: RenoWise – Construction  Building WordPress Theme
+
+ https://themes.stylelib.org/?p=4233 
+
+#boldthemes #building #business #construction #contractor #corporate #electrician #handyman #plumber #renovati
+  → https://bsky.app/profile/stylelib.org/post/3mwkym5oxth2x
+
+- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
+
+ https://themes.stylelib.org/?p=22449 
+
+#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
+  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
+
+- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
+
+ https://themes.stylelib.org/?p=28230 
+
+#architecture #builder #building #business #construction #contractor #corporate #creative #electrician #fac
+  → https://bsky.app/profile/stylelib.org/post/3mwr6g4yheq27
+
+- **@caseysseo.bsky.social**: Homeowners search 200 amp panel upgrade Denver and compare before they call. Is your Google Business Profile showing up? 719-639-8238 caseysseo.com #DenverElectrician #LocalSEO
+
+https://youtu.be/W40d5
+  → https://bsky.app/profile/caseysseo.bsky.social/post/3mwrc36yocj2k
+
 - **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Ahwatukee?
 
 Start by comparing process, not just price.
@@ -169,26 +202,3 @@ Get professional electrical installation, repairs, maintenance, wiring, lighting
 
 #architecture #building #business #company #construction #contractor #corporate #electrician #engineering #handyman #in
   → https://bsky.app/profile/stylelib.org/post/3mwe6oeukol25
-
-- **@mark.orbum.net**: Phenomenal piece about Waffle House 😄 I had no idea - amazing backstory to this business.
-
-The video is some British guy reacting to a video about it from the Fat Electrician. 
-
-youtu.be/F8XgjQbTmXs?.
-  → https://bsky.app/profile/mark.orbum.net/post/3mwgjwmotis2i
-
-- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
-
- https://stylelib.org/?p=134193 
-
-#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
-  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
-
-- **@ketkinztalent.bsky.social**: What advice would you give someone starting in skilled trades, IT support or business support today? One honest lesson could help someone take their next step. #Careers #KTS
-  → https://bsky.app/profile/ketkinztalent.bsky.social/post/3mwwlh7vzqo2w
-
-- **@prestobal.bsky.social**: My actual advice to HS students determined to go into trades I work with is always a version of "At least go to community college, and if you can, do a BA, because you'll be better off in the trade wi
-  → https://bsky.app/profile/prestobal.bsky.social/post/3mwwp4bpqk22s
-
-- **@marcusreidtrucker.bsky.social**: Trucking treated me better than any classroom would have, but the regret cuts both ways - plenty of drivers wish someone had steered them into a skilled trade first. Who do you know making the most mo
-  → https://bsky.app/profile/marcusreidtrucker.bsky.social/post/3mwxgaxnmss2l
