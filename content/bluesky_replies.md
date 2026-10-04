@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rsbellrealtor.bsky.social**: Wellington buyers agent: a REALTOR® who is also a licensed general contractor. Village permits, roofs, HOAs.
+https://randolphscottbell.com/listings/buyers-agent/wellington/?utm_source=metricool&utm_me
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwvngfyobx23
+
+- **@pushtheneedle.bsky.social**: This is a great tool and it’s fascinating to find out that our permitting process, zoning codes and regulations that micromanage builders and designers to death requires huge ai data centers to deciph
+  → https://bsky.app/profile/pushtheneedle.bsky.social/post/3mww3s6bfbc2y
+
+- **@weerm.com**: Full answer + sources →
+https://weerm.com/factcheck/california-independent-contractor-abc-test
+
+General information, not legal advice.
+  → https://bsky.app/profile/weerm.com/post/3mww5zunhv22g
+
+- **@zbs.bsky.social**: To be fair, “go into construction” can be great advice if your father owns a fancy general contractor
+  → https://bsky.app/profile/zbs.bsky.social/post/3mwwhoijf7c2x
+
 - **@stylelib.org**: Fixology – Handyman Multi-Service WordPress Theme
 
  https://themes.stylelib.org/?p=3591 
@@ -180,25 +196,3 @@ We’re cutting red tape and speeding up permits to make it easier to b
 
 #business #construction #corporate #maintenance #renovation #rstheme #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3mwymhmw5wf2s
-
-- **@rainyriverelectric.bsky.social**: Need a Trusted Commercial Electrician for Your Business?
-
-Get professional electrical installation, repairs, maintenance, wiring, lighting, and troubleshooting services designed to keep your commercia
-  → https://bsky.app/profile/rainyriverelectric.bsky.social/post/3mvrdblgxuc2t
-
-- **@marihonna.bsky.social**: This contractor owns a home, properties, cars, has a legitimate licensed business. He employs people and anyone who deals with him has all good things to say. His brother is an electrician and got pul
-  → https://bsky.app/profile/marihonna.bsky.social/post/3mvsgakdyd22w
-
-- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
-
- https://stylelib.org/?p=159532 
-
-#builder #constructioncompany #electrician #handyman #painter #renovation #themeforest #wordpress #archite
-  → https://bsky.app/profile/stylelib.org/post/3mw4zkz2wym2g
-
-- **@stylelib.org**: BuildGo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824443 
-
-#architecture #building #business #company #construction #contractor #corporate #electrician #engineering #handyman #in
-  → https://bsky.app/profile/stylelib.org/post/3mwe6oeukol25

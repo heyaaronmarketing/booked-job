@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-10-04T08:22",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Who Wants To Be Chief AI Officer? | Joe Procopio in Entrepreneurship Handbook"
+    },
+    {
+      "ts": "2026-10-04T08:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing once not twice"
+    },
+    {
+      "ts": "2026-10-04T08:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing low bid"
+    },
+    {
+      "ts": "2026-10-04T08:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing insurance"
+    },
+    {
+      "ts": "2026-10-04T08:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing pick two"
+    },
+    {
+      "ts": "2026-10-04T08:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner quick"
+    },
+    {
       "ts": "2026-10-04T01:47",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: humor clean shirt"
-    },
-    {
-      "ts": "2026-09-22T04:53",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: homeowner lie"
-    },
-    {
-      "ts": "2026-09-21T23:44",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from 010001a0c6c13311-75917253-ba74-43b8-b25a-71c6117791aa-000000@amazonses.com: \"Accidentally Sent a Selfie to My Doordasher\""
-    },
-    {
-      "ts": "2026-09-21T23:44",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor one more"
-    },
-    {
-      "ts": "2026-09-21T23:44",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor quick job"
-    },
-    {
-      "ts": "2026-09-21T23:44",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: ba credit"
-    },
-    {
-      "ts": "2026-09-21T18:25",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Booked Job, a beautiful life is your calling"
     }
   ]
 }

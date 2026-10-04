@@ -1,4 +1,59 @@
 {
-  "updated": "2026-10-04T01:50",
-  "posts": []
+  "updated": "2026-10-04T08:25",
+  "posts": [
+    {
+      "ts": "2026-10-04T08:22:45",
+      "channel": "facebook",
+      "item": "card-stars",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:22:43",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:22:00",
+      "channel": "mastodon",
+      "item": "card-rev-roof",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:21:54",
+      "channel": "tumblr",
+      "item": "bj-missedcall",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:21:52",
+      "channel": "bluesky",
+      "item": "bj-fakemaps",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:21:50",
+      "channel": "linkedin",
+      "item": "bj-slow",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:21:49",
+      "channel": "tiktok",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:21:47",
+      "channel": "ig",
+      "item": "clip1-turd",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T08:20:36",
+      "channel": "facebook",
+      "item": "bj-missedcall",
+      "url": null
+    }
+  ]
 }

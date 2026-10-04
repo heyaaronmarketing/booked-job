@@ -4,21 +4,22 @@
       "card-cpbj",
       "card-angi",
       "card-reviews",
-      "card-rev-plumb"
+      "card-rev-plumb",
+      "card-rev-roof"
     ],
-    "last_iso": "2026-10-03T19:42:29",
+    "last_iso": "2026-10-04T08:21:57",
     "day": {
-      "date": "2026-10-03",
-      "count": 3
+      "date": "2026-10-04",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-10-03T12:23:36",
+    "last_iso": "2026-10-04T08:21:57",
     "day": {
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "count": 1
     }
   },
@@ -32,12 +33,13 @@
       "card-rev-elec",
       "card-rev-paint",
       "card-speed",
-      "card-ftc"
+      "card-ftc",
+      "card-stars"
     ],
-    "last_iso": "2026-10-03T19:42:29",
+    "last_iso": "2026-10-04T08:21:57",
     "day": {
-      "date": "2026-10-03",
-      "count": 2
+      "date": "2026-10-04",
+      "count": 1
     }
   }
 }
