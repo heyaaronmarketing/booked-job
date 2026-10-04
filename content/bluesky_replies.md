@@ -2,6 +2,10 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rsbellrealtor.bsky.social**: A REALTOR® who is also a licensed general contractor represents you as a buyer across Palm Beach County. Call (561) 779-3213.
+https://randolphscottbell.com/listings/buyers-agent/?utm_source=metricool&
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mx2ruekoqz2g
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -178,10 +182,3 @@ If you’re into entrepreneurship, marketing, and building a business, check thi
 
 The only thing left of this slice of Brookline history is a f
   → https://bsky.app/profile/brooklinenews.bsky.social/post/3mwmbstyj5k2y
-
-- **@mauconline.bsky.social**: 📍 Run a service business in Nigeria? You may be able to appear on Google Maps without displaying your home address.
-
-Our guide explains:
-✅ Who qualifies—and who doesn’t
-✅ How to list the areas you ser
-  → https://bsky.app/profile/mauconline.bsky.social/post/3mwsc654luk22

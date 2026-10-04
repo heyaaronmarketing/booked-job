@@ -1,34 +1,52 @@
 {
-  "updated": "2026-10-04T13:21",
+  "updated": "2026-10-04T17:34",
   "posts": [
     {
-      "ts": "2026-10-04T13:18:26",
+      "ts": "2026-10-04T17:32:25",
+      "channel": "facebook",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T17:32:22",
       "channel": "mastodon",
-      "item": "card-rev-elec",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-10-04T13:18:22",
+      "ts": "2026-10-04T17:32:17",
       "channel": "tumblr",
-      "item": "bj-stormchaser",
+      "item": "bj-freecheck",
       "url": null
     },
     {
-      "ts": "2026-10-04T13:18:21",
+      "ts": "2026-10-04T17:32:15",
       "channel": "bluesky",
-      "item": "bj-agency12k",
+      "item": "bj-reviews50",
       "url": null
     },
     {
-      "ts": "2026-10-04T13:18:18",
-      "channel": "tiktok",
-      "item": "bj-rev-hvac",
-      "url": null
-    },
-    {
-      "ts": "2026-10-04T13:18:18",
+      "ts": "2026-10-04T17:32:12",
       "channel": "linkedin",
-      "item": "bj-cpbj",
+      "item": "bj-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T17:32:11",
+      "channel": "tiktok",
+      "item": "bj-rev-plumb",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T17:32:10",
+      "channel": "ig",
+      "item": "clip2-game",
+      "url": null
+    },
+    {
+      "ts": "2026-10-04T17:31:36",
+      "channel": "facebook",
+      "item": "bj-stormchaser",
       "url": null
     }
   ]
