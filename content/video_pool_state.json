@@ -107,12 +107,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-10-06T10:14:10",
+    "last_iso": "2026-10-06T15:23:19",
     "day": {
       "date": "2026-10-06",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -146,12 +147,13 @@
       "bj-ftc",
       "bj-cpl",
       "bj-favor",
-      "bj-stars"
+      "bj-stars",
+      "bj-ai"
     ],
-    "last_iso": "2026-10-06T10:14:10",
+    "last_iso": "2026-10-06T15:23:19",
     "day": {
       "date": "2026-10-06",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -202,12 +204,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-10-06T10:14:10",
+    "last_iso": "2026-10-06T15:23:19",
     "day": {
       "date": "2026-10-06",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -271,12 +274,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-10-06T10:14:10",
+    "last_iso": "2026-10-06T15:23:19",
     "day": {
       "date": "2026-10-06",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -344,12 +348,13 @@
       "bj-fakemaps",
       "bj-agency12k",
       "bj-reviews50",
-      "bj-gbp"
+      "bj-gbp",
+      "bj-track"
     ],
-    "last_iso": "2026-10-06T10:14:10",
+    "last_iso": "2026-10-06T15:23:19",
     "day": {
       "date": "2026-10-06",
-      "count": 1
+      "count": 2
     }
   }
 }

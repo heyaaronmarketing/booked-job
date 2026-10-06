@@ -2,6 +2,70 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business deserves a website that actually converts. We build SEO-optimized sites + add AI chatbots that answer inquiries 24/7. Result: more qualified calls, less admin
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwmjk4oyi72l
+
+- **@stylelib.org**: Fixology – Handyman Multi-Service WordPress Theme
+
+ https://themes.stylelib.org/?p=3591 
+
+#business #construction #corporate #electrician #engineering #handyman #industry #maintenance #plumber #renova
+  → https://bsky.app/profile/stylelib.org/post/3mwjcxktv5v2t
+
+- **@stylelib.org**: RenoWise – Construction  Building WordPress Theme
+
+ https://themes.stylelib.org/?p=4233 
+
+#boldthemes #building #business #construction #contractor #corporate #electrician #handyman #plumber #renovati
+  → https://bsky.app/profile/stylelib.org/post/3mwkym5oxth2x
+
+- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
+
+ https://themes.stylelib.org/?p=22449 
+
+#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
+  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
+
+- **@stylelib.org**: Shapen – Construction Architecture HTML
+
+ https://themes.stylelib.org/?p=16422 
+
+#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
+  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
+
+- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
+
+ https://themes.stylelib.org/?p=28230 
+
+#architecture #builder #building #business #construction #contractor #corporate #creative #electrician #fac
+  → https://bsky.app/profile/stylelib.org/post/3mwr6g4yheq27
+
+- **@caseysseo.bsky.social**: Homeowners search 200 amp panel upgrade Denver and compare before they call. Is your Google Business Profile showing up? 719-639-8238 caseysseo.com #DenverElectrician #LocalSEO
+
+https://youtu.be/W40d5
+  → https://bsky.app/profile/caseysseo.bsky.social/post/3mwrc36yocj2k
+
+- **@stylelib.org**: Hampton – Home Design and Renovation WordPress Theme
+
+ https://themes.stylelib.org/?p=26557 
+
+#axiomthemes #building #business #construction #corporate #electrician #handyman #renovation #services #th
+  → https://bsky.app/profile/stylelib.org/post/3mx3ufknuji2q
+
+- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
+
+ https://stylelib.org/?p=811344 
+
+#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
+  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
+
+- **@stylelib.org**: Constro – Construction Business HTML5 Template
+
+ https://stylelib.org/?p=286501 
+
+#builder #electrician #painting #renovation #sitetemplates #themeforest #architecture #business #building #engineering
+  → https://bsky.app/profile/stylelib.org/post/3mxa4qmym3f2w
+
 - **@hartlynova.bsky.social**: 🎃 Still managing crypto trades manually? 👻
 
 Don’t let missed opportunities and slow execution haunt your business!
@@ -141,69 +205,3 @@ Get professional electrical installation, repairs, maintenance, wiring, lighting
 
 - **@marihonna.bsky.social**: This contractor owns a home, properties, cars, has a legitimate licensed business. He employs people and anyone who deals with him has all good things to say. His brother is an electrician and got pul
   → https://bsky.app/profile/marihonna.bsky.social/post/3mvsgakdyd22w
-
-- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
-
- https://stylelib.org/?p=159532 
-
-#builder #constructioncompany #electrician #handyman #painter #renovation #themeforest #wordpress #archite
-  → https://bsky.app/profile/stylelib.org/post/3mw4zkz2wym2g
-
-- **@stylelib.org**: BuildGo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824443 
-
-#architecture #building #business #company #construction #contractor #corporate #electrician #engineering #handyman #in
-  → https://bsky.app/profile/stylelib.org/post/3mwe6oeukol25
-
-- **@mark.orbum.net**: Phenomenal piece about Waffle House 😄 I had no idea - amazing backstory to this business.
-
-The video is some British guy reacting to a video about it from the Fat Electrician. 
-
-youtu.be/F8XgjQbTmXs?.
-  → https://bsky.app/profile/mark.orbum.net/post/3mwgjwmotis2i
-
-- **@mauconline.bsky.social**: 📍 Run a service business in Nigeria? You may be able to appear on Google Maps without displaying your home address.
-
-Our guide explains:
-✅ Who qualifies—and who doesn’t
-✅ How to list the areas you ser
-  → https://bsky.app/profile/mauconline.bsky.social/post/3mwsc654luk22
-
-- **@automatestl.com**: No full-time receptionist? No problem! Use automation and smart strategies to handle phone FAQs efficiently in your home service business. Stay professional and save time. #HomeService #Automation #Cu
-  → https://bsky.app/profile/automatestl.com/post/3mwthrk6dyh2j
-
-- **@rankforaisearch.bsky.social**: Want to boost your contracting business online? 
-Discover how Google Business Profile posts can enhance AI recommendations! 
-Build trust and local authority with factual updates tailored for your comm
-  → https://bsky.app/profile/rankforaisearch.bsky.social/post/3mvsno2j3sc2p
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7xgf2xbo2p
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mwaxrq732n2j
-
-- **@marcusreidtrucker.bsky.social**: Trucking treated me better than any classroom would have, but the regret cuts both ways - plenty of drivers wish someone had steered them into a skilled trade first. Who do you know making the most mo
-  → https://bsky.app/profile/marcusreidtrucker.bsky.social/post/3mwxgaxnmss2l
