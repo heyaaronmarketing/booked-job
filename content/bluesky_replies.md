@@ -2,6 +2,54 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hartlynova.bsky.social**: 🎃 Still managing crypto trades manually? 👻
+
+Don’t let missed opportunities and slow execution haunt your business!
+
+🔥 Get 50% OFF Crypto Trading Bot Development this Halloween with Osiz Technologies.
+
+  → https://bsky.app/profile/hartlynova.bsky.social/post/3mx4ltnimb22c
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business gets found how? Google search + phone calls. We build SEO websites that rank, add AI chatbots that answer questions 24/7, and automate lead follow-ups. More 
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwozz2hed42l
+
+- **@stylelib.org**: Cobble – Flooring  Construction WordPress Theme + AI
+
+ https://stylelib.org/?p=897248 
+
+#handyman #remodeling #renovation #roofing #themeforest #themerex #wordpress #business #design #interiordesign #
+  → https://bsky.app/profile/stylelib.org/post/3mwq74s2q2s2t
+
+- **@inkandtrade.bsky.social**: How to Start a Roofing Business From Zero: Licensing, Insurance & Fall Protection #roofing #roofingbusiness #roofer #skilledtrades #contractorlife #roofingcontractor #smallbusiness Thinking about star
+  → https://bsky.app/profile/inkandtrade.bsky.social/post/3mwuesqmzc22u
+
+- **@mayorjacobfrey.bsky.social**: Kitchen upgrade, new porch, or new room? 
+
+4 days.
+
+Roofing upgrades?
+
+1 day.
+
+Replacing a toilet or leaky sink? 
+
+Instantaneous.
+
+We’re cutting red tape and speeding up permits to make it easier to b
+  → https://bsky.app/profile/mayorjacobfrey.bsky.social/post/3mwwewuqbz22f
+
+- **@stylelib.org**: Roofio – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=809284 
+
+#business #construction #corporate #maintenance #renovation #rstheme #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3mwymhmw5wf2s
+
+- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
+
+https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
+  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
+
 - **@2ndchanceemp.bsky.social**: Interested in a rewarding career in the skilled trades? Join us at our Open 
 House at Sadlon Arena on Oct. 6th! Talk to experts and explore future career 
 opportunities! Come by and say hello!
@@ -159,27 +207,3 @@ For the last 30 years, Gary has been a Marketing and Sales
 
 - **@marcusreidtrucker.bsky.social**: Trucking treated me better than any classroom would have, but the regret cuts both ways - plenty of drivers wish someone had steered them into a skilled trade first. Who do you know making the most mo
   → https://bsky.app/profile/marcusreidtrucker.bsky.social/post/3mwxgaxnmss2l
-
-- **@hotboredom.bsky.social**: I did graduate assistant work recording oral histories of women in skilled trades. Badass older women who worked in masonry, welding, steel manufacturing - you name it. Every single one had a harassme
-  → https://bsky.app/profile/hotboredom.bsky.social/post/3mwy7gqfeyc2t
-
-- **@barengineer.bsky.social**: There isn't a shortage in skilled trades.... there's an abundance of companies who don't want to pay the market rate for the skilled trades and complain about how they can't find anyone to work.
-  → https://bsky.app/profile/barengineer.bsky.social/post/3mwyl3xxku223
-
-- **@redwingshoes-cc-nv.bsky.social**: Ready to build your future in the skilled trades?
-
-Red Wing and SkillsUSA are offering $2,500 Build the Future Scholarships to help eligible students take the next step toward a career in the trades.
-
-  → https://bsky.app/profile/redwingshoes-cc-nv.bsky.social/post/3mwyntogqwk2b
-
-- **@sicy.bsky.social**: It’s a figure of speech. You know exactly what I mean. Shortage of critical skilled trades + disincentives to work = shit show. Questions?
-  → https://bsky.app/profile/sicy.bsky.social/post/3mx3elbstvk2p
-
-- **@scotfi1.bsky.social**: Apparently Danny Tommo has a roofing company somewhere. Quite apart from the fact you wouldn't want him anywhere near your house, the service he provides must be crap because he's never at his bloody 
-  → https://bsky.app/profile/scotfi1.bsky.social/post/3mwg55u6zps2b
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business doesn't need to compete on price. You need more qualified calls. Our done-for-you website + SEO + AI chatbot handles 60% of inquiries while you're on the
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwjz36wsey2t
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/service business deserves a website that actually converts. We build SEO-optimized sites + add AI chatbots that answer inquiries 24/7. Result: more qualified calls, less admin
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwmjk4oyi72l

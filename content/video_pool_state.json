@@ -59,11 +59,12 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-10-05T13:31:47",
+    "last_iso": "2026-10-06T10:14:10",
     "day": {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "count": 1
     }
   },
@@ -105,12 +106,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-10-05T19:57:32",
+    "last_iso": "2026-10-06T10:14:10",
     "day": {
-      "date": "2026-10-05",
-      "count": 2
+      "date": "2026-10-06",
+      "count": 1
     }
   },
   "linkedin": {
@@ -143,12 +145,13 @@
       "bj-speed",
       "bj-ftc",
       "bj-cpl",
-      "bj-favor"
+      "bj-favor",
+      "bj-stars"
     ],
-    "last_iso": "2026-10-05T19:57:32",
+    "last_iso": "2026-10-06T10:14:10",
     "day": {
-      "date": "2026-10-05",
-      "count": 2
+      "date": "2026-10-06",
+      "count": 1
     }
   },
   "facebook": {
@@ -198,12 +201,13 @@
       "bj-missedcall",
       "bj-stormchaser",
       "bj-freecheck",
-      "bj-fakemaps"
+      "bj-fakemaps",
+      "bj-agency12k"
     ],
-    "last_iso": "2026-10-05T19:57:32",
+    "last_iso": "2026-10-06T10:14:10",
     "day": {
-      "date": "2026-10-05",
-      "count": 2
+      "date": "2026-10-06",
+      "count": 1
     }
   },
   "pinterest": {
@@ -266,12 +270,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-10-05T19:57:32",
+    "last_iso": "2026-10-06T10:14:10",
     "day": {
-      "date": "2026-10-05",
-      "count": 2
+      "date": "2026-10-06",
+      "count": 1
     }
   },
   "telegram": {
@@ -338,12 +343,13 @@
       "bj-freecheck",
       "bj-fakemaps",
       "bj-agency12k",
-      "bj-reviews50"
+      "bj-reviews50",
+      "bj-gbp"
     ],
-    "last_iso": "2026-10-05T19:57:32",
+    "last_iso": "2026-10-06T10:14:10",
     "day": {
-      "date": "2026-10-05",
-      "count": 2
+      "date": "2026-10-06",
+      "count": 1
     }
   }
 }
