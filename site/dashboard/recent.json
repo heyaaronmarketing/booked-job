@@ -1,58 +1,40 @@
 {
-  "updated": "2026-10-05T13:36",
+  "updated": "2026-10-05T20:00",
   "posts": [
     {
-      "ts": "2026-10-05T13:33:48",
-      "channel": "facebook",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T13:33:45",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T13:33:03",
+      "ts": "2026-10-05T19:58:17",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-10-05T13:32:57",
+      "ts": "2026-10-05T19:58:12",
       "channel": "tumblr",
-      "item": "bj-agency12k",
+      "item": "bj-reviews50",
       "url": null
     },
     {
-      "ts": "2026-10-05T13:32:55",
+      "ts": "2026-10-05T19:58:11",
       "channel": "bluesky",
-      "item": "bj-track",
+      "item": "ad-arctic",
       "url": null
     },
     {
-      "ts": "2026-10-05T13:32:52",
-      "channel": "linkedin",
-      "item": "bj-cpl",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T13:32:51",
+      "ts": "2026-10-05T19:58:08",
       "channel": "tiktok",
-      "item": "bj-rev-elec",
+      "item": "bj-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-10-05T13:32:50",
-      "channel": "ig",
-      "item": "clip3-onestar",
+      "ts": "2026-10-05T19:58:08",
+      "channel": "linkedin",
+      "item": "bj-favor",
       "url": null
     },
     {
-      "ts": "2026-10-05T13:32:18",
+      "ts": "2026-10-05T19:58:06",
       "channel": "facebook",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     }
   ]
