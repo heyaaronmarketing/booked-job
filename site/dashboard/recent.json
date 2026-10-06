@@ -1,41 +1,4 @@
 {
-  "updated": "2026-10-05T20:00",
-  "posts": [
-    {
-      "ts": "2026-10-05T19:58:17",
-      "channel": "mastodon",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T19:58:12",
-      "channel": "tumblr",
-      "item": "bj-reviews50",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T19:58:11",
-      "channel": "bluesky",
-      "item": "ad-arctic",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T19:58:08",
-      "channel": "tiktok",
-      "item": "bj-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T19:58:08",
-      "channel": "linkedin",
-      "item": "bj-favor",
-      "url": null
-    },
-    {
-      "ts": "2026-10-05T19:58:06",
-      "channel": "facebook",
-      "item": "bj-fakemaps",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-06T02:33",
+  "posts": []
 }
