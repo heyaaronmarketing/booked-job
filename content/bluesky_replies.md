@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@chicagocityscape.com**: our real-time Pending Permits map shows the location, owner, architect, and GC of most building permits currently being reviewed by the City of Chicago. 
+
+www.chicagocityscape.com/permits.php?...
+  → https://bsky.app/profile/chicagocityscape.com/post/3mxcju6u6la2n
+
+- **@rsbellrealtor.bsky.social**: Buyers Agent Jupiter FL.
+
+Buyers agent in Jupiter, FL: a REALTOR® and licensed general contractor reads roofs, Town permits…
+
+Randolph Scott Bell, REALTOR® · LoKation · SL3247858
+
+https://randolphscot
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxcts5jlfm2g
+
 - **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
 
 Blackwater USA Is More Than Just a Private Contractor
@@ -224,9 +238,3 @@ opportunities! Come by and say hello!
 
 - **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
-
-- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
