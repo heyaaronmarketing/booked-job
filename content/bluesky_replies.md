@@ -2,6 +2,43 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7xgf2xbo2p
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mwaxrq732n2j
+
+- **@gucky.bsky.social**: Remember when Mark Hurd got run out of the CEO job at HP because he was using tons of company funds and the corporate jet to have an affair with a junior marketing contractor?
+
+And then Larry Ellison 
+  → https://bsky.app/profile/gucky.bsky.social/post/3mxaklfu6rs27
+
+- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
+
+Click to
+  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
+
 - **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
   → https://bsky.app/profile/aicantseeme.bsky.social/post/3mwm4szmxad2t
 
@@ -193,25 +230,3 @@ opportunities! Come by and say hello!
 
 - **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
   → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@pushtheneedle.bsky.social**: This is a great tool and it’s fascinating to find out that our permitting process, zoning codes and regulations that micromanage builders and designers to death requires huge ai data centers to deciph
-  → https://bsky.app/profile/pushtheneedle.bsky.social/post/3mww3s6bfbc2y
-
-- **@weerm.com**: Full answer + sources →
-https://weerm.com/factcheck/california-independent-contractor-abc-test
-
-General information, not legal advice.
-  → https://bsky.app/profile/weerm.com/post/3mww5zunhv22g
-
-- **@zbs.bsky.social**: To be fair, “go into construction” can be great advice if your father owns a fancy general contractor
-  → https://bsky.app/profile/zbs.bsky.social/post/3mwwhoijf7c2x
-
-- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
-
- https://stylelib.org/?p=134193 
-
-#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
-  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
-
-- **@sdgroupservice.bsky.social**: Need an insurance quote? Let SD Group Service help you find the right coverage for auto, home, business, and life. We're here to support your needs in El Cajon. Check out our services and book an appo
-  → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mwe5quyhd22l
