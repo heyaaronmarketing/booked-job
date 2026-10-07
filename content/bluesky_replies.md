@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
+  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mwm4szmxad2t
+
+- **@tecmaxdigital.bsky.social**: Quick Google Business Profile check:
+
+What's your primary category?
+
+If it says "Contractor" but you're a plumber, Google won't show you for "plumber near me."
+
+Pick the most specific one for your mai
+  → https://bsky.app/profile/tecmaxdigital.bsky.social/post/3mwxnx5ious22
+
+- **@stylelib.org**: Bauhaus – Architecture  Interior WordPress Theme
+
+ https://themes.stylelib.org/?p=5669 
+
+#architect #architecture #building #business #construction #corporate #creative #decor #furniture #home #house 
+  → https://bsky.app/profile/stylelib.org/post/3mwzup3ucsm25
+
 - **@votevets.org**: Elon Musk is back in Washingto. Musk will help lead "Project Meridian," a study meant to shape "the future of U.S. military warfare."
 
 Hegseth handed the role not to a general, but to a defense contra
@@ -196,20 +215,3 @@ General information, not legal advice.
 
 - **@sdgroupservice.bsky.social**: Need an insurance quote? Let SD Group Service help you find the right coverage for auto, home, business, and life. We're here to support your needs in El Cajon. Check out our services and book an appo
   → https://bsky.app/profile/sdgroupservice.bsky.social/post/3mwe5quyhd22l
-
-- **@woodcollier.bsky.social**: Question:
-Would you employ a youngster who’s  only work experience to date is washing out used sex dolls and fixing punctures for your dads business?
-Almost feel a bit of pity.
-  → https://bsky.app/profile/woodcollier.bsky.social/post/3mwipoonwss25
-
-- **@hennhouseagency.bsky.social**: New episode of The Hennhouse Podcast is live 🎙️
-
-Watch it here: https://youtu.be/zo89HgxnWxE?is=x2Qb2TsOPG-z-n32
-
-If you’re into entrepreneurship, marketing, and building a business, check this one ou
-  → https://bsky.app/profile/hennhouseagency.bsky.social/post/3mwj7fczfvv2s
-
-- **@jessexpress.bsky.social**: youtu.be/T_l9nHKUfms?...
-
-#SouthDakota what's the tea??
-  → https://bsky.app/profile/jessexpress.bsky.social/post/3mwkacck6gc26
