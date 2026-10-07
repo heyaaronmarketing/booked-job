@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@votevets.org**: Elon Musk is back in Washingto. Musk will help lead "Project Meridian," a study meant to shape "the future of U.S. military warfare."
+
+Hegseth handed the role not to a general, but to a defense contra
+  → https://bsky.app/profile/votevets.org/post/3mxamsf7qsk2x
+
+- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
+  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
+
+- **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
+
+Want to learn more or get started? Click the link below or give us a call at (316) 
+  → https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e
+
+- **@getpinnacleai.bsky.social**: 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝗧𝗶𝘁𝗮𝗻 𝘃𝘀 𝗣𝗶𝗻𝗻𝗮𝗰𝗹𝗲 𝗔𝗶: 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗙𝗶𝘁𝘀 𝗬𝗼𝘂𝗿 𝗧𝗿𝗮𝗱𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀?
+ServiceTitan is built for large field service operations with dedicated admin teams and custo...
+https://getpinnacle.ai/blog/s
+  → https://bsky.app/profile/getpinnacleai.bsky.social/post/3mwvhfodate2m
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later
+
+https://www.cloudpulsebriefs.com/briefs/m365-573239/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dyn
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx6yc3jfy22f
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window
+
+https://www.cloudpulsebriefs.com/briefs/m365-571666/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dyn
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx76ghjbmk23
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/service business deserves a website that actually converts. We build SEO-optimized sites + add AI chatbots that answer inquiries 24/7. Result: more qualified calls, less admin
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwmjk4oyi72l
 
@@ -178,30 +213,3 @@ If you’re into entrepreneurship, marketing, and building a business, check thi
 
 #SouthDakota what's the tea??
   → https://bsky.app/profile/jessexpress.bsky.social/post/3mwkacck6gc26
-
-- **@brooklinenews.bsky.social**: Did you know: Before the rise of the disposable diaper, Brookline was once home to a major cloth diaper laundering and delivery service? 
-
-The only thing left of this slice of Brookline history is a f
-  → https://bsky.app/profile/brooklinenews.bsky.social/post/3mwmbstyj5k2y
-
-- **@rsbellrealtor.bsky.social**: Listing agent in Loxahatchee, FL: a REALTOR® and licensed general contractor who preps your home to sell. (561) 779-3213
-https://randolphscottbell.com/listings/listing-agent/loxahatchee/?utm_source=me
-  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mwy62ykvrj2m
-
-- **@beaccorppm.bsky.social**: HOA management in Boynton Beach, Delray Beach and Lake Worth: a licensed CAM (CAM34850, firm CAB3255) and general contractor for HOA and condo boards. (561) 779-3213
-https://randolphscottbell.com/prop
-  → https://bsky.app/profile/beaccorppm.bsky.social/post/3mwy66ahqdl2l
-
-- **@jamesqualls.com**: I’m watching friends and family struggle to make ends meet, then turn the tv on and see a camera crew interviewing two surveyors doing preliminary work on Trump’s Arch. Why the $*#% weren’t they arres
-  → https://bsky.app/profile/jamesqualls.com/post/3mwyuqmi2mc25
-
-- **@rebelhilljim.bsky.social**: Who was the general contractor?
-  → https://bsky.app/profile/rebelhilljim.bsky.social/post/3mx2nxhbfmc2l
-
-- **@rainyriverelectric.bsky.social**: Need a Trusted Commercial Electrician for Your Business?
-
-Get professional electrical installation, repairs, maintenance, wiring, lighting, and troubleshooting services designed to keep your commercia
-  → https://bsky.app/profile/rainyriverelectric.bsky.social/post/3mvrdblgxuc2t
-
-- **@marihonna.bsky.social**: This contractor owns a home, properties, cars, has a legitimate licensed business. He employs people and anyone who deals with him has all good things to say. His brother is an electrician and got pul
-  → https://bsky.app/profile/marihonna.bsky.social/post/3mvsgakdyd22w

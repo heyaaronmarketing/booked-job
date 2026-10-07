@@ -12,12 +12,13 @@
       "card-ftc",
       "card-stars",
       "card-ai",
-      "card-anon98"
+      "card-anon98",
+      "card-missedcall"
     ],
-    "last_iso": "2026-10-06T15:23:50",
+    "last_iso": "2026-10-06T19:49:47",
     "day": {
       "date": "2026-10-06",
-      "count": 2
+      "count": 3
     }
   },
   "ig": {
@@ -44,12 +45,13 @@
       "card-stars",
       "card-ai",
       "card-anon98",
-      "card-missedcall"
+      "card-missedcall",
+      "card-trade"
     ],
-    "last_iso": "2026-10-06T10:15:12",
+    "last_iso": "2026-10-06T19:49:47",
     "day": {
       "date": "2026-10-06",
-      "count": 1
+      "count": 2
     }
   }
 }
