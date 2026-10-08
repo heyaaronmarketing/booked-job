@@ -2,6 +2,37 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
+
+Want to learn more or get started? Click the link below or give us a call at (316) 
+  → https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e
+
+- **@getpinnacleai.bsky.social**: 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝗧𝗶𝘁𝗮𝗻 𝘃𝘀 𝗣𝗶𝗻𝗻𝗮𝗰𝗹𝗲 𝗔𝗶: 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗙𝗶𝘁𝘀 𝗬𝗼𝘂𝗿 𝗧𝗿𝗮𝗱𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀?
+ServiceTitan is built for large field service operations with dedicated admin teams and custo...
+https://getpinnacle.ai/blog/s
+  → https://bsky.app/profile/getpinnacleai.bsky.social/post/3mwvhfodate2m
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later
+
+https://www.cloudpulsebriefs.com/briefs/m365-573239/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dyn
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx6yc3jfy22f
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window
+
+https://www.cloudpulsebriefs.com/briefs/m365-571666/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dyn
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx76ghjbmk23
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
+
+https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dynamics3
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
+
 - **@andybrown1951.bsky.social**: Anyone else think having British care homes sold off for over a billion by a very wealthy man to a consortium from California is not a healthy way to provide a service?
 www.yorkshirepost.co.uk/busines
   → https://bsky.app/profile/andybrown1951.bsky.social/post/3mxdzflxzj22f
@@ -194,30 +225,3 @@ And then Larry Ellison
 
 Click to
   → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
-
-- **@aicantseeme.bsky.social**: When a customer asks ChatGPT "best plumber in Denver", someone gets named. If it's never you, it's usually 1 of 3 fixable reasons. The 5-minute self-check: https://myaiplay.github.io/ai-visibility-hub
-  → https://bsky.app/profile/aicantseeme.bsky.social/post/3mwm4szmxad2t
-
-- **@tecmaxdigital.bsky.social**: Quick Google Business Profile check:
-
-What's your primary category?
-
-If it says "Contractor" but you're a plumber, Google won't show you for "plumber near me."
-
-Pick the most specific one for your mai
-  → https://bsky.app/profile/tecmaxdigital.bsky.social/post/3mwxnx5ious22
-
-- **@stylelib.org**: Bauhaus – Architecture  Interior WordPress Theme
-
- https://themes.stylelib.org/?p=5669 
-
-#architect #architecture #building #business #construction #corporate #creative #decor #furniture #home #house 
-  → https://bsky.app/profile/stylelib.org/post/3mwzup3ucsm25
-
-- **@votevets.org**: Elon Musk is back in Washingto. Musk will help lead "Project Meridian," a study meant to shape "the future of U.S. military warfare."
-
-Hegseth handed the role not to a general, but to a defense contra
-  → https://bsky.app/profile/votevets.org/post/3mxamsf7qsk2x
-
-- **@citizenptnewsil.bsky.social**: Urbana is set to transform its animal control billing system, moving from a per-capita model to a fee-for-service approach that promises greater fiscal sustainability—what does this mean for residents
-  → https://bsky.app/profile/citizenptnewsil.bsky.social/post/3mvcnth2f3e2e
