@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T16:14",
+  "updated": "2026-10-07T20:49",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -17,10 +17,10 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 59,
+        "current": 41,
         "target": 45,
-        "pct": 100,
-        "on_track": true
+        "pct": 91,
+        "on_track": false
       },
       {
         "label": "Posts shipped",
@@ -41,33 +41,33 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 9,
+        "current": 10,
         "target": 60,
-        "pct": 15,
+        "pct": 17,
         "on_track": false
       },
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 2392,
+        "current": 0,
         "target": 1400,
-        "pct": 100,
-        "on_track": true
+        "pct": 0,
+        "on_track": false
       },
       {
         "label": "FB followers",
         "icon": "\ud83d\udc65",
-        "current": 18,
+        "current": 19,
         "target": 25,
-        "pct": 72,
+        "pct": 76,
         "on_track": false
       },
       {
         "label": "YouTube subs",
         "icon": "\ud83d\udd14",
-        "current": 1,
+        "current": 0,
         "target": 10,
-        "pct": 10,
+        "pct": 0,
         "on_track": false
       },
       {
@@ -89,9 +89,9 @@
       {
         "label": "FB page likes",
         "icon": "\ud83d\udc4d",
-        "current": 18,
+        "current": 19,
         "target": 25,
-        "pct": 72,
+        "pct": 76,
         "on_track": false
       }
     ]
@@ -106,12 +106,12 @@
   "upcoming": [],
   "page": {
     "name": "Booked Job",
-    "followers": 18,
-    "likes": 18
+    "followers": 19,
+    "likes": 19
   },
   "content": {
     "posts_published": 73,
-    "reactions": 9,
+    "reactions": 10,
     "comments": 0,
     "shares": 0,
     "reels_published": 51,
@@ -127,12 +127,11 @@
     "video_views": 16704
   },
   "youtube": {
-    "connected": true,
-    "subscribers": 1,
-    "views": 2392,
-    "likes": 3,
-    "videos": 59,
-    "shorts": 59
+    "connected": false,
+    "subscribers": 0,
+    "views": 0,
+    "videos": 0,
+    "shorts": 41
   },
   "instagram": {
     "connected": true,
@@ -384,8 +383,8 @@
       "grade": "B",
       "group": "social",
       "views": 3269,
-      "followers": 18,
-      "likes": 9
+      "followers": 19,
+      "likes": 10
     },
     {
       "name": "Instagram",
@@ -404,9 +403,9 @@
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 2392,
-      "followers": 1,
-      "likes": 3
+      "views": 0,
+      "followers": 0,
+      "likes": 0
     },
     {
       "name": "Blogger",
@@ -435,7 +434,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 29,
+      "count": 30,
       "unit": "posts",
       "followers": 256,
       "grade": "A",
@@ -488,7 +487,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 39,
+      "count": 41,
       "unit": "posts (Buffer)",
       "stat": "259 reach \u00b7 0 reactions",
       "views": 5,
@@ -501,8 +500,8 @@
       "status": "live",
       "count": 78,
       "unit": "videos (Buffer)",
-      "stat": "97 views \u00b7 1 reactions",
-      "views": 97,
+      "stat": "95 views \u00b7 1 reactions",
+      "views": 95,
       "likes": 1,
       "grade": "B",
       "group": "social"
@@ -547,7 +546,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 14
+        "count": 12
       },
       {
         "type": "Polls",
@@ -577,7 +576,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 14
+        "count": 12
       },
       {
         "type": "Long video",
@@ -623,7 +622,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 27
+        "count": 29
       },
       {
         "type": "Documents",
@@ -633,7 +632,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 33
+        "count": 34
       },
       {
         "type": "Articles",
@@ -664,12 +663,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 29
+        "count": 30
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 55
+        "count": 56
       }
     ],
     "Mastodon": [
@@ -728,7 +727,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 51
+        "count": 52
       }
     ]
   },
@@ -770,22 +769,22 @@
     }
   ],
   "funnel": {
-    "reach": 35270,
-    "engagement": 9,
+    "reach": 32876,
+    "engagement": 10,
     "audience": 285,
     "cr_clicks": 144
   },
   "trends": {
     "audience": 21,
-    "engagement": 4,
+    "engagement": 5,
     "email": 0,
-    "reach": -56
+    "reach": -2450
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 19096,
+        "value": 16704,
         "grade": "B"
       },
       {
@@ -795,7 +794,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1461,
+        "value": 1464,
         "grade": "A"
       },
       {
@@ -810,7 +809,7 @@
       },
       {
         "label": "Engagement",
-        "value": 9,
+        "value": 10,
         "grade": "D"
       }
     ],
