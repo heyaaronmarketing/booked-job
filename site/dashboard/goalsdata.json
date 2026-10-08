@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T03:53",
+  "generated": "2026-10-08T11:40",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 3,
+        "current": 6,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 18,
+        "current": 21,
         "target": 150,
         "status": "red",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 15,
+        "current": 18,
         "target": 120,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 118,
+        "current": 121,
         "target": 600,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 212,
+        "current": 215,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,8 +222,8 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1074,
-    "followers": 278,
+    "social_posts": 1077,
+    "followers": 281,
     "engagement": 10,
     "yt_views": 0,
     "yt_shorts": 0,
@@ -259,8 +259,8 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "18/150 \u2014 132 short of pace.",
-      "prompt": "We're behind on social posts this week (18/150). Refill the social queues / add more variant cards."
+      "why": "21/150 \u2014 129 short of pace.",
+      "prompt": "We're behind on social posts this week (21/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83c\udfac Reels behind this week",
@@ -274,8 +274,8 @@
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "15/120 \u2014 105 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (15/120). Refill the social queues / add more variant cards."
+      "why": "18/120 \u2014 102 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (18/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",
