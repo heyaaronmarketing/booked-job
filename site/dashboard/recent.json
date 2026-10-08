@@ -1,47 +1,4 @@
 {
-  "updated": "2026-10-07T20:54",
-  "posts": [
-    {
-      "ts": "2026-10-07T20:51:53",
-      "channel": "facebook",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-10-07T20:51:49",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-10-07T20:51:45",
-      "channel": "tumblr",
-      "item": "ad-summit",
-      "url": null
-    },
-    {
-      "ts": "2026-10-07T20:51:42",
-      "channel": "bluesky",
-      "item": "clip1-turd",
-      "url": null
-    },
-    {
-      "ts": "2026-10-07T20:51:39",
-      "channel": "linkedin",
-      "item": "bj-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-10-07T20:51:38",
-      "channel": "tiktok",
-      "item": "bj-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-10-07T20:51:36",
-      "channel": "ig",
-      "item": "explainer-lesson-01",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-08T03:53",
+  "posts": []
 }
