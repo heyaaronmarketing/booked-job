@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T22:00:30Z",
+  "updated": "2026-10-09T02:01:46Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,23 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/contractors"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#RoofingServicesTexas",
@@ -102,9 +87,24 @@
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
       },
       {
+        "tag": "#hvac",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#plumbing",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#roofing",
         "uses": 3,
         "link": "https://mastodon.social/tags/roofing"
+      },
+      {
+        "tag": "#contractors",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#contractorlife",
@@ -229,14 +229,14 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1884,
+      "followers": 1885,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1854,
+      "followers": 1853,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },

@@ -2,6 +2,52 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rsbellrealtor.bsky.social**: Listing Agent Loxahatchee FL.
+
+Listing agent in Loxahatchee, FL: a REALTOR® who is also a licensed general contractor…
+
+Randolph Scott Bell, REALTOR® · LoKation · SL3247858
+
+https://randolphscottbell.
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxfobhwgpt2o
+
+- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
+
+ https://themes.stylelib.org/?p=22449 
+
+#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
+  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
+
+- **@stylelib.org**: Shapen – Construction Architecture HTML
+
+ https://themes.stylelib.org/?p=16422 
+
+#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
+  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
+
+- **@tecmaxdigital.bsky.social**: Quick Google Business Profile check:
+
+What's your primary category?
+
+If it says "Contractor" but you're a plumber, Google won't show you for "plumber near me."
+
+Pick the most specific one for your mai
+  → https://bsky.app/profile/tecmaxdigital.bsky.social/post/3mwxnx5ious22
+
+- **@stylelib.org**: Bauhaus – Architecture  Interior WordPress Theme
+
+ https://themes.stylelib.org/?p=5669 
+
+#architect #architecture #building #business #construction #corporate #creative #decor #furniture #home #house 
+  → https://bsky.app/profile/stylelib.org/post/3mwzup3ucsm25
+
+- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
+
+ https://stylelib.org/?p=811344 
+
+#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
+  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
+
 - **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
 
 Want to learn more or get started? Click the link below or give us a call at (316) 
@@ -179,49 +225,3 @@ youtu.be/F8XgjQbTmXs?.
 
 www.chicagocityscape.com/permits.php?...
   → https://bsky.app/profile/chicagocityscape.com/post/3mxcju6u6la2n
-
-- **@rsbellrealtor.bsky.social**: Buyers Agent Jupiter FL.
-
-Buyers agent in Jupiter, FL: a REALTOR® and licensed general contractor reads roofs, Town permits…
-
-Randolph Scott Bell, REALTOR® · LoKation · SL3247858
-
-https://randolphscot
-  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxcts5jlfm2g
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7xgf2xbo2p
-
-- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
-
-Blackwater USA Is More Than Just a Private Contractor
-
-Gary Ater
-
-For the last 30 years, Gary has been a Marketing and Sales 
-  → https://bsky.app/profile/iissonline.bsky.social/post/3mwaxrq732n2j
-
-- **@gucky.bsky.social**: Remember when Mark Hurd got run out of the CEO job at HP because he was using tons of company funds and the corporate jet to have an affair with a junior marketing contractor?
-
-And then Larry Ellison 
-  → https://bsky.app/profile/gucky.bsky.social/post/3mxaklfu6rs27
-
-- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
-
-Click to
-  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
