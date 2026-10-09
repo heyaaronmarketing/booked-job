@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T11:06",
+  "updated": "2026-10-09T16:36",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -17,7 +17,7 @@
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 59,
+        "current": 60,
         "target": 45,
         "pct": 100,
         "on_track": true
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 2393,
+        "current": 2396,
         "target": 1400,
         "pct": 100,
         "on_track": true
@@ -129,15 +129,15 @@
   "youtube": {
     "connected": true,
     "subscribers": 1,
-    "views": 2393,
+    "views": 2396,
     "likes": 3,
-    "videos": 59,
-    "shorts": 59
+    "videos": 60,
+    "shorts": 60
   },
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 590
+    "media": 592
   },
   "email": {
     "subscribers": 7
@@ -394,17 +394,17 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 692,
+      "views": 694,
       "followers": 1
     },
     {
       "name": "YouTube",
       "status": "live",
-      "count": 41,
+      "count": 42,
       "unit": "shorts",
       "grade": "C",
       "group": "social",
-      "views": 2393,
+      "views": 2396,
       "followers": 1,
       "likes": 3
     },
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 36,
+      "count": 37,
       "unit": "posts",
       "followers": 264,
       "grade": "A",
@@ -488,7 +488,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 53,
+      "count": 55,
       "unit": "posts (Buffer)",
       "stat": "90 reach \u00b7 0 reactions",
       "views": 4,
@@ -501,8 +501,8 @@
       "status": "live",
       "count": 78,
       "unit": "videos (Buffer)",
-      "stat": "101 views \u00b7 1 reactions",
-      "views": 101,
+      "stat": "100 views \u00b7 1 reactions",
+      "views": 100,
       "likes": 1,
       "grade": "B",
       "group": "social"
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 5
+        "count": 7
       },
       {
         "type": "Long video",
@@ -588,7 +588,7 @@
       {
         "type": "Shorts",
         "status": "live",
-        "count": 41
+        "count": 42
       },
       {
         "type": "Community posts",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 41
+        "count": 43
       },
       {
         "type": "Documents",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 38
+        "count": 39
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 36
+        "count": 37
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 60
+        "count": 61
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 56
+        "count": 57
       }
     ]
   },
@@ -749,9 +749,9 @@
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 23,
+      "remaining": 22,
       "per_day": 2,
-      "days": 11.5,
+      "days": 11.0,
       "status": "green"
     },
     {
@@ -770,7 +770,7 @@
     }
   ],
   "funnel": {
-    "reach": 35419,
+    "reach": 35425,
     "engagement": 10,
     "audience": 295,
     "cr_clicks": 146
@@ -779,13 +779,13 @@
     "audience": 22,
     "engagement": 1,
     "email": 0,
-    "reach": -23
+    "reach": -17
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 19097,
+        "value": 19100,
         "grade": "B"
       },
       {
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1482,
+        "value": 1486,
         "grade": "A"
       },
       {

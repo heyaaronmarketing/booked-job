@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:06:56Z",
+  "updated": "2026-10-09T21:36:21Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 28,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -87,14 +87,14 @@
         "link": "https://mastodon.social/tags/hvac"
       },
       {
+        "tag": "#plumbing",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#RoofingServicesTexas",
         "uses": 5,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
-      },
-      {
-        "tag": "#plumbing",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#roofing",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10218,
+      "followers": 10219,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4258,
+      "followers": 4259,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2246,
+      "followers": 2247,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1907,
+      "followers": 1913,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1600,
+      "followers": 1601,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },

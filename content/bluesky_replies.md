@@ -2,6 +2,48 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Cartana – Building and Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=9483 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plum
+  → https://bsky.app/profile/stylelib.org/post/3mxhsmh6wh42q
+
+- **@chicagocityscape.com**: our real-time Pending Permits map shows the location, owner, architect, and GC of most building permits currently being reviewed by the City of Chicago. 
+
+www.chicagocityscape.com/permits.php?...
+  → https://bsky.app/profile/chicagocityscape.com/post/3mxcju6u6la2n
+
+- **@rsbellrealtor.bsky.social**: Buyers Agent Jupiter FL.
+
+Buyers agent in Jupiter, FL: a REALTOR® and licensed general contractor reads roofs, Town permits…
+
+Randolph Scott Bell, REALTOR® · LoKation · SL3247858
+
+https://randolphscot
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxcts5jlfm2g
+
+- **@rsbellrealtor.bsky.social**: Buyers Agent Palm Beach Gardens FL.
+
+Buyers agent in Palm Beach Gardens: a REALTOR® and licensed general contractor…
+
+Randolph Scott Bell, REALTOR® · LoKation · SL3247858
+
+https://randolphscottbell.co
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxeg4ia36u2y
+
+- **@rsbellrealtor.bsky.social**: Buyers agent in Greenacres, FL: a REALTOR® who is also a licensed general contractor reads the roof, permits and HOA.
+
+Randolph Scott Bell, REALTOR® · LoKation · SL3247858
+
+https://randolphscottbell.c
+  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxeqgooe5z2z
+
+- **@soapoperanews.bsky.social**: Justine had enough—and Nazneen Contractor brought every ounce of emotion to that Sonny showdown.  She was on🔥... thoughts? #GH #GeneralHospital 
+
+soapoperanews.net/performer-of...
+  → https://bsky.app/profile/soapoperanews.bsky.social/post/3mxh2yufpb22q
+
 - **@neoscottie.bsky.social**: grahhhhh feeling sad about stupid stuff.
 wish i'd made more stickers to bring to BLFC for trades, but they're expensive and nobody buys them online so it feels like a waste. 
 wish i got updated busine
@@ -199,33 +241,3 @@ We provide specialty accounting & bookkeeping for:
 → HVAC companies & contractors
 → Realtors & home service busi
   → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
-
-You know, a lot of times an owner tells me, “We already had somebody set that up.” 
-  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
-
-- **@stylelib.org**: BuildGo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824443 
-
-#architecture #building #business #company #construction #contractor #corporate #electrician #engineering #handyman #in
-  → https://bsky.app/profile/stylelib.org/post/3mwe6oeukol25
-
-- **@mark.orbum.net**: Phenomenal piece about Waffle House 😄 I had no idea - amazing backstory to this business.
-
-The video is some British guy reacting to a video about it from the Fat Electrician. 
-
-youtu.be/F8XgjQbTmXs?.
-  → https://bsky.app/profile/mark.orbum.net/post/3mwgjwmotis2i
