@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "ts": "2026-10-09T11:20",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: Cheapest bid costs the most"
+    },
+    {
+      "ts": "2026-10-09T11:20",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: If I Could Start My Data Journey Over, =?UTF-8?B?SeKAmWQ=?= Do It Completely Dif"
+    },
+    {
+      "ts": "2026-10-09T11:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy extension cord"
+    },
+    {
+      "ts": "2026-10-09T11:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy caulk"
+    },
+    {
+      "ts": "2026-10-09T11:19",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz money leaks"
+    },
+    {
       "ts": "2026-10-09T03:56",
       "kind": "engage",
       "icon": "💬",
@@ -1169,36 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: biz chasing invoices"
-    },
-    {
-      "ts": "2026-09-26T08:14",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: From Figma to Front-End Without Losing Your Mind | =?UTF-8?B?xYF1a2Fzeg==?= Szad"
-    },
-    {
-      "ts": "2026-09-26T08:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: ba nobody sees"
-    },
-    {
-      "ts": "2026-09-26T08:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz gbp stale"
-    },
-    {
-      "ts": "2026-09-26T08:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz money leaks"
-    },
-    {
-      "ts": "2026-09-26T02:34",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz truck payment"
     }
   ]
 }

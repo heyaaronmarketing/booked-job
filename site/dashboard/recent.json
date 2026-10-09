@@ -1,4 +1,65 @@
 {
-  "updated": "2026-10-09T03:58",
-  "posts": []
+  "updated": "2026-10-09T11:23",
+  "posts": [
+    {
+      "ts": "2026-10-09T11:20:32",
+      "channel": "youtube",
+      "item": "bj-cheapbid",
+      "url": "https://youtu.be/KUzTimZyuTI"
+    },
+    {
+      "ts": "2026-10-09T11:20:26",
+      "channel": "facebook",
+      "item": "card-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:20:22",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:19:42",
+      "channel": "mastodon",
+      "item": "card-rev-plumb",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:19:38",
+      "channel": "tumblr",
+      "item": "clip3-onestar",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:19:37",
+      "channel": "bluesky",
+      "item": "money-leaks-torque",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:19:35",
+      "channel": "linkedin",
+      "item": "bj-wordpress",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:19:34",
+      "channel": "tiktok",
+      "item": "bj-agency12k",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:19:32",
+      "channel": "ig",
+      "item": "rip-speed-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-10-09T11:18:57",
+      "channel": "facebook",
+      "item": "ad-summit",
+      "url": null
+    }
+  ]
 }

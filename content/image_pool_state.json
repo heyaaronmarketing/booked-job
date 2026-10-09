@@ -3,32 +3,34 @@
     "posted": [
       "card-cpbj",
       "card-angi",
-      "card-reviews"
+      "card-reviews",
+      "card-rev-plumb"
     ],
-    "last_iso": "2026-10-08T17:12:58",
+    "last_iso": "2026-10-09T11:19:40",
     "day": {
-      "date": "2026-10-08",
-      "count": 2
+      "date": "2026-10-09",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-10-08T11:36:33",
+    "last_iso": "2026-10-09T11:19:40",
     "day": {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "count": 1
     }
   },
   "facebook": {
     "posted": [
       "card-cpbj",
-      "card-angi"
+      "card-angi",
+      "card-reviews"
     ],
-    "last_iso": "2026-10-08T11:36:33",
+    "last_iso": "2026-10-09T11:19:40",
     "day": {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "count": 1
     }
   }
