@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@neoscottie.bsky.social**: grahhhhh feeling sad about stupid stuff.
+wish i'd made more stickers to bring to BLFC for trades, but they're expensive and nobody buys them online so it feels like a waste. 
+wish i got updated busine
+  → https://bsky.app/profile/neoscottie.bsky.social/post/3mxfjsiv7ac2c
+
+- **@voline.bsky.social**: Who we got here?
+* The Portland Metro Council (aka Portland Business Alliance)
+* Laurie Wimmer (lobbyist and total reactionary who managed to get herself a sinecure in the Northwest Oregon Labor Counc
+  → https://bsky.app/profile/voline.bsky.social/post/3mxfojxsu6226
+
+- **@voline.bsky.social**: Who we got here?
+* The Portland Metro Council (aka Portland Business Alliance)
+* Laurie Wimmer (lobbyist and total reactionary who managed to get herself a sinecure in the Northwest Oregon Labor Counc
+  → https://bsky.app/profile/voline.bsky.social/post/3mxfoly2nd226
+
+- **@voipfone.bsky.social**: Business VoIP for Trades | Keep Working, Keep Connected 🔧
+
+Halfway through an MOT? Oil change? Your hands are busy, but customers are still calling. 
+
+Voipfone isn’t just for offices. Our VoIP solutio
+  → https://bsky.app/profile/voipfone.bsky.social/post/3mxgj7mxhtk2o
+
 - **@rsbellrealtor.bsky.social**: Listing Agent Loxahatchee FL.
 
 Listing agent in Loxahatchee, FL: a REALTOR® who is also a licensed general contractor…
@@ -207,21 +229,3 @@ The video is some British guy reacting to a video about it from the Fat Electric
 
 youtu.be/F8XgjQbTmXs?.
   → https://bsky.app/profile/mark.orbum.net/post/3mwgjwmotis2i
-
-- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
-
- https://stylelib.org/?p=134193 
-
-#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
-  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
-
-- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@chicagocityscape.com**: our real-time Pending Permits map shows the location, owner, architect, and GC of most building permits currently being reviewed by the City of Chicago. 
-
-www.chicagocityscape.com/permits.php?...
-  → https://bsky.app/profile/chicagocityscape.com/post/3mxcju6u6la2n
