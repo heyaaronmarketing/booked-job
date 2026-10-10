@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T08:24:23Z",
+  "updated": "2026-10-10T15:15:27Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -103,8 +103,13 @@
       },
       {
         "tag": "#contractors",
-        "uses": 2,
+        "uses": 3,
         "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#Roofing_contractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/Roofing_contractor"
       },
       {
         "tag": "#contractorlife",
@@ -130,11 +135,6 @@
         "tag": "#hvacmodules",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacmodules"
-      },
-      {
-        "tag": "#HVACBusiness",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACBusiness"
       }
     ],
     "accounts": [
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 35990,
+        "followers": 35994,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8489,
+        "followers": 8488,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10216,
+      "followers": 10218,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4261,
+      "followers": 4262,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1927,
+      "followers": 1930,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1854,
+      "followers": 1855,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1314,
+      "followers": 1316,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },

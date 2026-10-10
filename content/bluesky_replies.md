@@ -2,6 +2,60 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mark.orbum.net**: Phenomenal piece about Waffle House 😄 I had no idea - amazing backstory to this business.
+
+The video is some British guy reacting to a video about it from the Fat Electrician. 
+
+youtu.be/F8XgjQbTmXs?.
+  → https://bsky.app/profile/mark.orbum.net/post/3mwgjwmotis2i
+
+- **@stylelib.org**: Fixology – Handyman Multi-Service WordPress Theme
+
+ https://themes.stylelib.org/?p=3591 
+
+#business #construction #corporate #electrician #engineering #handyman #industry #maintenance #plumber #renova
+  → https://bsky.app/profile/stylelib.org/post/3mwjcxktv5v2t
+
+- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
+
+ https://stylelib.org/?p=134193 
+
+#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
+  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
+
+- **@stylelib.org**: RenoWise – Construction  Building WordPress Theme
+
+ https://themes.stylelib.org/?p=4233 
+
+#boldthemes #building #business #construction #contractor #corporate #electrician #handyman #plumber #renovati
+  → https://bsky.app/profile/stylelib.org/post/3mwkym5oxth2x
+
+- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
+
+ https://themes.stylelib.org/?p=28230 
+
+#architecture #builder #building #business #construction #contractor #corporate #creative #electrician #fac
+  → https://bsky.app/profile/stylelib.org/post/3mwr6g4yheq27
+
+- **@caseysseo.bsky.social**: Homeowners search 200 amp panel upgrade Denver and compare before they call. Is your Google Business Profile showing up? 719-639-8238 caseysseo.com #DenverElectrician #LocalSEO
+
+https://youtu.be/W40d5
+  → https://bsky.app/profile/caseysseo.bsky.social/post/3mwrc36yocj2k
+
+- **@stylelib.org**: Hampton – Home Design and Renovation WordPress Theme
+
+ https://themes.stylelib.org/?p=26557 
+
+#axiomthemes #building #business #construction #corporate #electrician #handyman #renovation #services #th
+  → https://bsky.app/profile/stylelib.org/post/3mx3ufknuji2q
+
+- **@stylelib.org**: Constro – Construction Business HTML5 Template
+
+ https://stylelib.org/?p=286501 
+
+#builder #electrician #painting #renovation #sitetemplates #themeforest #architecture #business #building #engineering
+  → https://bsky.app/profile/stylelib.org/post/3mxa4qmym3f2w
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -200,38 +254,3 @@ https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-c
 
 - **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
-
-- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
-
-- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
-
-- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
-
-- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
-Financial stability?
-Patron experience?
-Industry standing?
-Ticket sales?
-Education program?
-Marketing?
-Rental client satisfaction?
-Show advance?
-Contractor dep
-  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
-
-- **@foxydonuts.bsky.social**: Seattle is such a furry town it seems every plumbing/HVAC/electrical etc... business has a furry mascot. And I don't even have pics of the orange roofing lion or pink plumbing cat.
-
-And why is that ro
-  → https://bsky.app/profile/foxydonuts.bsky.social/post/3mxck5zjeus2x
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24

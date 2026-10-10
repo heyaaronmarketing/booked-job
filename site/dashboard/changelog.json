@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-10-10T10:29",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Change Data Capture (CDC) for Data Engineers | Vu Trinh in Data Engineer Things"
+    },
+    {
+      "ts": "2026-10-10T10:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor phone"
+    },
+    {
+      "ts": "2026-10-10T10:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: guy safety"
+    },
+    {
+      "ts": "2026-10-10T10:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools lost tape"
+    },
+    {
+      "ts": "2026-10-10T10:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: tools loyalty"
+    },
+    {
+      "ts": "2026-10-10T10:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing scope creep"
+    },
+    {
       "ts": "2026-10-10T03:25",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: homeowner warranty"
-    },
-    {
-      "ts": "2026-09-27T09:06",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Build a Second Brain in 15 Minutes: Just Markdown, Git, and an AI Agent | Roan B"
-    },
-    {
-      "ts": "2026-09-27T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing friend price"
-    },
-    {
-      "ts": "2026-09-27T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing callback"
-    },
-    {
-      "ts": "2026-09-27T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing diagnostic fee"
-    },
-    {
-      "ts": "2026-09-27T09:05",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy extension cord"
-    },
-    {
-      "ts": "2026-09-27T03:03",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing once not twice"
     }
   ]
 }
