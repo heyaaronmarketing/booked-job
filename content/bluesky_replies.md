@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@stylelib.org**: Cartana – Building and Construction WordPress Theme
 
  https://themes.stylelib.org/?p=9483 
@@ -232,12 +235,3 @@ And why is that ro
 
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r

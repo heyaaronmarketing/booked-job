@@ -1,47 +1,4 @@
 {
-  "updated": "2026-10-09T20:45",
-  "posts": [
-    {
-      "ts": "2026-10-09T20:43:25",
-      "channel": "facebook",
-      "item": "card-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-10-09T20:43:21",
-      "channel": "mastodon",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-10-09T20:43:17",
-      "channel": "tumblr",
-      "item": "money-leaks-torque",
-      "url": null
-    },
-    {
-      "ts": "2026-10-09T20:43:16",
-      "channel": "bluesky",
-      "item": "explainer-lesson-01",
-      "url": null
-    },
-    {
-      "ts": "2026-10-09T20:43:13",
-      "channel": "linkedin",
-      "item": "bj-yelp",
-      "url": null
-    },
-    {
-      "ts": "2026-10-09T20:43:12",
-      "channel": "tiktok",
-      "item": "bj-gbp",
-      "url": null
-    },
-    {
-      "ts": "2026-10-09T20:43:10",
-      "channel": "ig",
-      "item": "stop-renting-leads",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-10T03:27",
+  "posts": []
 }
