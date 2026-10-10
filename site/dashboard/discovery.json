@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:36:21Z",
+  "updated": "2026-10-10T01:41:17Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 28,
+        "uses": 24,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 5,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
@@ -92,8 +87,13 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvac",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#RoofingServicesTexas",
-        "uses": 5,
+        "uses": 4,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10219,
+      "followers": 10215,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1913,
+      "followers": 1918,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
@@ -250,7 +250,7 @@
     {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
-      "followers": 1473,
+      "followers": 1472,
       "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
       "link": "https://bsky.app/profile/roofing11.bsky.social"
     },
@@ -278,14 +278,14 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Haunted Plumbing (Runic Press)",
-      "followers": 1063,
+      "followers": 1062,
       "desc": "TTRPG content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) h",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
     {
       "handle": "@kegman83.bsky.social",
       "display": "Killdozer Enthusiast. CIA contractor paid with kibble.",
-      "followers": 997,
+      "followers": 998,
       "desc": "Definitely, totally not a member of a state sponsored intelligence agency but thanks for asking. 🇺🇦🇺🇲🇮🇪🦴",
       "link": "https://bsky.app/profile/kegman83.bsky.social"
     }
