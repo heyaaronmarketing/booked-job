@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:15:27Z",
+  "updated": "2026-10-10T20:00:58Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 25,
+        "uses": 26,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -112,6 +112,11 @@
         "link": "https://mastodon.social/tags/Roofing_contractor"
       },
       {
+        "tag": "#contractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
         "tag": "#contractorlife",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractorlife"
@@ -130,17 +135,12 @@
         "tag": "#hvacstudent",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacstudent"
-      },
-      {
-        "tag": "#hvacmodules",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacmodules"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467228,
+        "followers": 467301,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23472,
+        "followers": 23475,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10218,
+      "followers": 10219,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4262,
+      "followers": 4263,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@hvacrm.bsky.social",
       "display": "hvacrm.bsky.social",
-      "followers": 1930,
+      "followers": 1933,
       "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
       "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },

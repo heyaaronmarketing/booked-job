@@ -2,6 +2,73 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@olympusanalytics.bsky.social**: Bidding public work or selling to contractors? We clean official public vendor records into ready-to-use CSVs with contacts, trades, and small-business flags. Free 8-contact Sample, and packs start at
+  → https://bsky.app/profile/olympusanalytics.bsky.social/post/3mxjsnkil2k26
+
+- **@texascontractorseo.bsky.social**: Expansion works only if you beat local rivals, and one Austin spray foam contractor did just that by continuously adding new project proof, now ranking ahead of long-standing competitors. Ready for a 
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesdah6p2m
+
+- **@texascontractorseo.bsky.social**: Ranking improvement drives inquiries, and clients report that mid-tier SEO helped their sites gain authority for both attic and wall spray foam, producing more consistent monthly leads. Want steady le
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muveseaxfn2u
+
+- **@texascontractorseo.bsky.social**: Consistency prevents the low-budget plateau, like the San Antonio insulation business that sustained high visibility through ongoing SEO reinforcement and avoided market stagnation. Ready to keep rank
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesfbi5g25
+
+- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
+
+- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
+  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7lsclhzk2b
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mw7xgf2xbo2p
+
+- **@iissonline.bsky.social**: http://www.americanchronicle.com/articles/viewArticle.asp?articleID=39454
+
+Blackwater USA Is More Than Just a Private Contractor
+
+Gary Ater
+
+For the last 30 years, Gary has been a Marketing and Sales 
+  → https://bsky.app/profile/iissonline.bsky.social/post/3mwaxrq732n2j
+
+- **@gucky.bsky.social**: Remember when Mark Hurd got run out of the CEO job at HP because he was using tons of company funds and the corporate jet to have an affair with a junior marketing contractor?
+
+And then Larry Ellison 
+  → https://bsky.app/profile/gucky.bsky.social/post/3mxaklfu6rs27
+
+- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
+
+Click to
+  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
+
+- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
+Financial stability?
+Patron experience?
+Industry standing?
+Ticket sales?
+Education program?
+Marketing?
+Rental client satisfaction?
+Show advance?
+Contractor dep
+  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
+
 - **@mark.orbum.net**: Phenomenal piece about Waffle House 😄 I had no idea - amazing backstory to this business.
 
 The video is some British guy reacting to a video about it from the Fat Electrician. 
@@ -185,72 +252,3 @@ https://www.cloudpulsebriefs.com/briefs/m365-573239/?utm_source=bluesky
 
 #M365 #Microsoft365 #Cloud #Dyn
   → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx6yc3jfy22f
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window
-
-https://www.cloudpulsebriefs.com/briefs/m365-571666/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dyn
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx76ghjbmk23
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
-
-https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics3
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
-
-- **@andybrown1951.bsky.social**: Anyone else think having British care homes sold off for over a billion by a very wealthy man to a consortium from California is not a healthy way to provide a service?
-www.yorkshirepost.co.uk/busines
-  → https://bsky.app/profile/andybrown1951.bsky.social/post/3mxdzflxzj22f
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business gets found how? Google search + phone calls. We build SEO websites that rank, add AI chatbots that answer questions 24/7, and automate lead follow-ups. More 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mwozz2hed42l
-
-- **@stylelib.org**: Cobble – Flooring  Construction WordPress Theme + AI
-
- https://stylelib.org/?p=897248 
-
-#handyman #remodeling #renovation #roofing #themeforest #themerex #wordpress #business #design #interiordesign #
-  → https://bsky.app/profile/stylelib.org/post/3mwq74s2q2s2t
-
-- **@inkandtrade.bsky.social**: How to Start a Roofing Business From Zero: Licensing, Insurance & Fall Protection #roofing #roofingbusiness #roofer #skilledtrades #contractorlife #roofingcontractor #smallbusiness Thinking about star
-  → https://bsky.app/profile/inkandtrade.bsky.social/post/3mwuesqmzc22u
-
-- **@mayorjacobfrey.bsky.social**: Kitchen upgrade, new porch, or new room? 
-
-4 days.
-
-Roofing upgrades?
-
-1 day.
-
-Replacing a toilet or leaky sink? 
-
-Instantaneous.
-
-We’re cutting red tape and speeding up permits to make it easier to b
-  → https://bsky.app/profile/mayorjacobfrey.bsky.social/post/3mwwewuqbz22f
-
-- **@stylelib.org**: Roofio – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=809284 
-
-#business #construction #corporate #maintenance #renovation #rstheme #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mwymhmw5wf2s
-
-- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
-
-https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
-  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
-
-- **@getpeacecall.com**: Don't let missed calls die in voicemail. A good text-back names the business, acknowledges the call, and asks one easy question:
-
-"Hi, it's [Business]. Sorry we missed your call! How can we help? Repl
-  → https://bsky.app/profile/getpeacecall.com/post/3mxeat7fxpq2m
-
-- **@texascontractorseo.bsky.social**: Within just 3 months, one Houston spray foam contractor saw a 40% boost in qualified leads thanks to our ongoing SEO strategy, results that matter. Ready to simplify your lead gen? https://texascontra
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesahzxe2k
-
-- **@texascontractorseo.bsky.social**: That quick win wasn’t unique, we helped a Dallas insulation company expand from one city to three metros with a localized SEO approach, watching steady lead growth across all markets. Want growth acro
-  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvescb37o2y
