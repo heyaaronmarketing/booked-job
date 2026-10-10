@@ -8,12 +8,13 @@
       "card-rev-roof",
       "card-rev-elec",
       "card-rev-paint",
-      "card-speed"
+      "card-speed",
+      "card-ftc"
     ],
-    "last_iso": "2026-10-10T15:12:39",
+    "last_iso": "2026-10-10T18:40:07",
     "day": {
       "date": "2026-10-10",
-      "count": 2
+      "count": 3
     }
   },
   "ig": {
@@ -32,12 +33,13 @@
       "card-angi",
       "card-reviews",
       "card-rev-plumb",
-      "card-rev-roof"
+      "card-rev-roof",
+      "card-rev-elec"
     ],
-    "last_iso": "2026-10-10T10:28:19",
+    "last_iso": "2026-10-10T18:40:07",
     "day": {
       "date": "2026-10-10",
-      "count": 1
+      "count": 2
     }
   }
 }

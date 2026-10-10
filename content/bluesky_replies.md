@@ -2,6 +2,44 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Sun Lakes?
+
+Ask how the contractor handles scope gaps before construction. Phoenix Home Remodeling plans the project first so pricing and build details are not
+  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mxirsueg7h2j
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window
+
+https://www.cloudpulsebriefs.com/briefs/m365-571666/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dyn
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx76ghjbmk23
+
+- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
+
+https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
+  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
+
+https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dynamics3
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Enhance mobile offline up-sync
+
+https://www.cloudpulsebriefs.com/briefs/m365-573241/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dynamics365FieldService
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxi7cfwqo32y
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Modernize the mobile offline foundation
+
+https://www.cloudpulsebriefs.com/briefs/m365-573240/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dynamics365FieldService
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxidxqm4qy23
+
 - **@olympusanalytics.bsky.social**: Bidding public work or selling to contractors? We clean official public vendor records into ready-to-use CSVs with contacts, trades, and small-business flags. Free 8-contact Sample, and packs start at
   → https://bsky.app/profile/olympusanalytics.bsky.social/post/3mxjsnkil2k26
 
@@ -212,43 +250,3 @@ https://randolphscottbell.
 
 #architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
   → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
-
-- **@tecmaxdigital.bsky.social**: Quick Google Business Profile check:
-
-What's your primary category?
-
-If it says "Contractor" but you're a plumber, Google won't show you for "plumber near me."
-
-Pick the most specific one for your mai
-  → https://bsky.app/profile/tecmaxdigital.bsky.social/post/3mwxnx5ious22
-
-- **@stylelib.org**: Bauhaus – Architecture  Interior WordPress Theme
-
- https://themes.stylelib.org/?p=5669 
-
-#architect #architecture #building #business #construction #corporate #creative #decor #furniture #home #house 
-  → https://bsky.app/profile/stylelib.org/post/3mwzup3ucsm25
-
-- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
-
- https://stylelib.org/?p=811344 
-
-#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
-  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
-
-- **@aptora.bsky.social**: Powerful integrations you can count on. Aptora 360 is the software that will help your field service business grow.
-
-Want to learn more or get started? Click the link below or give us a call at (316) 
-  → https://bsky.app/profile/aptora.bsky.social/post/3mvo4y3xuzk2e
-
-- **@getpinnacleai.bsky.social**: 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝗧𝗶𝘁𝗮𝗻 𝘃𝘀 𝗣𝗶𝗻𝗻𝗮𝗰𝗹𝗲 𝗔𝗶: 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗙𝗶𝘁𝘀 𝗬𝗼𝘂𝗿 𝗧𝗿𝗮𝗱𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀?
-ServiceTitan is built for large field service operations with dedicated admin teams and custo...
-https://getpinnacle.ai/blog/s
-  → https://bsky.app/profile/getpinnacleai.bsky.social/post/3mwvhfodate2m
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later
-
-https://www.cloudpulsebriefs.com/briefs/m365-573239/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dyn
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx6yc3jfy22f

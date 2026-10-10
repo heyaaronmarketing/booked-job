@@ -1,12 +1,13 @@
 {
   "ig": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-10-10T10:26:45",
+    "last_iso": "2026-10-10T18:38:56",
     "day": {
       "date": "2026-10-10",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -61,12 +62,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-10-10T15:12:29",
+    "last_iso": "2026-10-10T18:38:56",
     "day": {
       "date": "2026-10-10",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -113,12 +115,13 @@
       "bj-first10k",
       "bj-yelp",
       "bj-anon98",
-      "bj-missedcall"
+      "bj-missedcall",
+      "bj-stormchaser"
     ],
-    "last_iso": "2026-10-10T15:12:29",
+    "last_iso": "2026-10-10T18:38:56",
     "day": {
       "date": "2026-10-10",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -177,12 +180,13 @@
       "ad-pauls",
       "ad-summit",
       "clip-porno2",
-      "clip-porno3"
+      "clip-porno3",
+      "clip-speed"
     ],
-    "last_iso": "2026-10-10T10:26:45",
+    "last_iso": "2026-10-10T18:38:56",
     "day": {
       "date": "2026-10-10",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -259,12 +263,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-10-10T15:12:29",
+    "last_iso": "2026-10-10T18:38:56",
     "day": {
       "date": "2026-10-10",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -344,12 +349,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-10-10T15:12:29",
+    "last_iso": "2026-10-10T18:38:56",
     "day": {
       "date": "2026-10-10",
-      "count": 2
+      "count": 3
     }
   }
 }
