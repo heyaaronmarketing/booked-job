@@ -2,6 +2,27 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
+
+ https://themes.stylelib.org/?p=22449 
+
+#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
+  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
+
+- **@stylelib.org**: Shapen – Construction Architecture HTML
+
+ https://themes.stylelib.org/?p=16422 
+
+#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
+  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
+
+- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
+
+ https://stylelib.org/?p=811344 
+
+#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
+  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
+
 - **@mithutech.bsky.social**: Computer and Laptop Repair Services in Durgapur – Reliable Solutions for Home and Business
 
 Are you searching for reliable computer and laptop repair services in Durgapur? Whether your laptop is runni
@@ -227,24 +248,3 @@ wish i got updated busine
 * The Portland Metro Council (aka Portland Business Alliance)
 * Laurie Wimmer (lobbyist and total reactionary who managed to get herself a sinecure in the Northwest Oregon Labor Counc
   → https://bsky.app/profile/voline.bsky.social/post/3mxfojxsu6226
-
-- **@voline.bsky.social**: Who we got here?
-* The Portland Metro Council (aka Portland Business Alliance)
-* Laurie Wimmer (lobbyist and total reactionary who managed to get herself a sinecure in the Northwest Oregon Labor Counc
-  → https://bsky.app/profile/voline.bsky.social/post/3mxfoly2nd226
-
-- **@voipfone.bsky.social**: Business VoIP for Trades | Keep Working, Keep Connected 🔧
-
-Halfway through an MOT? Oil change? Your hands are busy, but customers are still calling. 
-
-Voipfone isn’t just for offices. Our VoIP solutio
-  → https://bsky.app/profile/voipfone.bsky.social/post/3mxgj7mxhtk2o
-
-- **@rsbellrealtor.bsky.social**: Listing Agent Loxahatchee FL.
-
-Listing agent in Loxahatchee, FL: a REALTOR® who is also a licensed general contractor…
-
-Randolph Scott Bell, REALTOR® · LoKation · SL3247858
-
-https://randolphscottbell.
-  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxfobhwgpt2o

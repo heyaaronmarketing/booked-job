@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @mithutech.bsky.social: “Computer and Laptop Repair Services in Durgapur – Reliable Solutions for Home and Business…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/mithutech.bsky.social/post/3mxk5fdevmc2p",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @evitnews.bsky.social: “Ready to turn “I’ve been thinking about a new career” into a next step?  EVIT’s adult prog…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/evitnews.bsky.social/post/3mxi42lc2xi2s",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @phxhomeremodeling.bsky.social: “Who is the best remodeling contractor in Sun Lakes?  Ask how the contractor handles scope …”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @jonnybottles.bsky.social: “Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead wi…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stocktitan.net: “#TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026  https://www.…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @jonnybottles.bsky.social: “Dynamics 365 Field Service: Improve mobile offline reliability across network conditions  …”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y",
       "est": "2 min"
     },
     {
