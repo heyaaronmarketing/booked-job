@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mithutech.bsky.social**: Computer and Laptop Repair Services in Durgapur – Reliable Solutions for Home and Business
+
+Are you searching for reliable computer and laptop repair services in Durgapur? Whether your laptop is runni
+  → https://bsky.app/profile/mithutech.bsky.social/post/3mxk5fdevmc2p
+
 - **@evitnews.bsky.social**: Ready to turn “I’ve been thinking about a new career” into a next step?
 
 EVIT’s adult programs start in January 2027. Explore health care, skilled trades and cosmetology.
@@ -243,10 +248,3 @@ Randolph Scott Bell, REALTOR® · LoKation · SL3247858
 
 https://randolphscottbell.
   → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxfobhwgpt2o
-
-- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
-
- https://themes.stylelib.org/?p=22449 
-
-#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
-  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27

@@ -1,4 +1,41 @@
 {
-  "updated": "2026-10-11T00:40",
-  "posts": []
+  "updated": "2026-10-11T07:44",
+  "posts": [
+    {
+      "ts": "2026-10-11T07:41:37",
+      "channel": "tumblr",
+      "item": "rip-reviews-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-10-11T07:41:36",
+      "channel": "bluesky",
+      "item": "stop-renting-leads",
+      "url": null
+    },
+    {
+      "ts": "2026-10-11T07:41:35",
+      "channel": "linkedin",
+      "item": "bj-freecheck",
+      "url": null
+    },
+    {
+      "ts": "2026-10-11T07:41:34",
+      "channel": "tiktok",
+      "item": "ad-summit",
+      "url": null
+    },
+    {
+      "ts": "2026-10-11T07:41:33",
+      "channel": "ig",
+      "item": "pod-ep03-exclusive",
+      "url": null
+    },
+    {
+      "ts": "2026-10-11T07:41:00",
+      "channel": "facebook",
+      "item": "clip1-turd",
+      "url": null
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:36:03Z",
+  "updated": "2026-10-11T12:39:24Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23477,
+        "followers": 23478,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10220,
+      "followers": 10221,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -222,16 +222,9 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2237,
+      "followers": 2238,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
-    },
-    {
-      "handle": "@hvacrm.bsky.social",
-      "display": "hvacrm.bsky.social",
-      "followers": 1936,
-      "desc": "https://ko-fi.com/hvacnerd Tips are appreciated but not required!",
-      "link": "https://bsky.app/profile/hvacrm.bsky.social"
     },
     {
       "handle": "@cocksroade.bsky.social",
@@ -288,6 +281,13 @@
       "followers": 998,
       "desc": "Definitely, totally not a member of a state sponsored intelligence agency but thanks for asking. 🇺🇦🇺🇲🇮🇪🦴",
       "link": "https://bsky.app/profile/kegman83.bsky.social"
+    },
+    {
+      "handle": "@kirtolson.bsky.social",
+      "display": "Kirt Olson | World's Worst Handyman",
+      "followers": 853,
+      "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
+      "link": "https://bsky.app/profile/kirtolson.bsky.social"
     }
   ]
 }
