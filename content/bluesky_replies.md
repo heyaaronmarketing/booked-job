@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lpl.ca**: Teens! Thinking about your next step? 🎓
+
+Join Ed Talks to hear from post-secondary students and professionals in technology, healthcare, trades, business, education, and law.
+
+📅 Saturday, November 7, 
+  → https://bsky.app/profile/lpl.ca/post/3mxm2rqdvoe2d
+
 - **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
 
  https://themes.stylelib.org/?p=22449 
@@ -243,8 +250,3 @@ soapoperanews.net/performer-of...
 wish i'd made more stickers to bring to BLFC for trades, but they're expensive and nobody buys them online so it feels like a waste. 
 wish i got updated busine
   → https://bsky.app/profile/neoscottie.bsky.social/post/3mxfjsiv7ac2c
-
-- **@voline.bsky.social**: Who we got here?
-* The Portland Metro Council (aka Portland Business Alliance)
-* Laurie Wimmer (lobbyist and total reactionary who managed to get herself a sinecure in the Northwest Oregon Labor Counc
-  → https://bsky.app/profile/voline.bsky.social/post/3mxfojxsu6226

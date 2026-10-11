@@ -3,12 +3,13 @@
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-10-11T07:40:34",
+    "last_iso": "2026-10-11T17:01:03",
     "day": {
       "date": "2026-10-11",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -66,12 +67,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-10-11T13:13:21",
+    "last_iso": "2026-10-11T17:01:03",
     "day": {
       "date": "2026-10-11",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -121,12 +123,13 @@
       "bj-missedcall",
       "bj-stormchaser",
       "bj-freecheck",
-      "bj-fakemaps"
+      "bj-fakemaps",
+      "bj-agency12k"
     ],
-    "last_iso": "2026-10-11T13:13:21",
+    "last_iso": "2026-10-11T17:01:03",
     "day": {
       "date": "2026-10-11",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -206,12 +209,13 @@
   },
   "bluesky": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-10-11T13:13:21",
+    "last_iso": "2026-10-11T17:01:03",
     "day": {
       "date": "2026-10-11",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -294,12 +298,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-10-11T13:13:21",
+    "last_iso": "2026-10-11T17:01:03",
     "day": {
       "date": "2026-10-11",
-      "count": 2
+      "count": 3
     }
   }
 }

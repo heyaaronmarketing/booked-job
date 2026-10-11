@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:01:06Z",
+  "updated": "2026-10-11T21:49:47Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/contractors"
       },
       {
+        "tag": "#plumbingmarketing",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/plumbingmarketing"
+      },
+      {
         "tag": "#Roofing_contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/Roofing_contractor"
@@ -130,11 +135,6 @@
         "tag": "#hvac用膨張タンク",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvac用膨張タンク"
-      },
-      {
-        "tag": "#hvacstudent",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacstudent"
       }
     ],
     "accounts": [
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4266,
+      "followers": 4267,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -285,7 +285,7 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 853,
+      "followers": 854,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     }
