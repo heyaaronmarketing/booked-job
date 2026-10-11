@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@evitnews.bsky.social**: Ready to turn “I’ve been thinking about a new career” into a next step?
+
+EVIT’s adult programs start in January 2027. Explore health care, skilled trades and cosmetology.
+
+Applications are open. Apply
+  → https://bsky.app/profile/evitnews.bsky.social/post/3mxi42lc2xi2s
+
 - **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Sun Lakes?
 
 Ask how the contractor handles scope gaps before construction. Phoenix Home Remodeling plans the project first so pricing and build details are not
@@ -243,10 +250,3 @@ https://randolphscottbell.
 
 #builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
   → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
-
-- **@stylelib.org**: Shapen – Construction Architecture HTML
-
- https://themes.stylelib.org/?p=16422 
-
-#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
-  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
