@@ -2,6 +2,33 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@randolphscottbell.bsky.social**: Building in Royal Palm Beach, done right.
+
+Licensed general contractor & roofer serving Royal… Save this for later.
+
+https://randolphscottbell.com/construction/service-areas/royal-palm-beach/?utm_sour
+  → https://bsky.app/profile/randolphscottbell.bsky.social/post/3mxovjrfpkt2x
+
+- **@randolphscottbell.bsky.social**: Building in The Acreage, on your acre.
+
+Licensed general contractor & roofer serving The Acreage… Save this for later.
+
+https://randolphscottbell.com/construction/service-areas/the-acreage/?utm_source
+  → https://bsky.app/profile/randolphscottbell.bsky.social/post/3mxp446gxnv2n
+
+- **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
+  → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
+
+- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
+  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
+
+- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
+
+Conventional builds fail when builders ignore living topography and thermal mass.
+
+Are you building 
+  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
+
 - **@sunriselimousine.bsky.social**: Chauffeur Service West Trenton: Comfortable Airport Transportation
 
 
@@ -201,36 +228,3 @@ Applications are open. Apply
 
 Ask how the contractor handles scope gaps before construction. Phoenix Home Remodeling plans the project first so pricing and build details are not
   → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mxirsueg7h2j
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window
-
-https://www.cloudpulsebriefs.com/briefs/m365-571666/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dyn
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx76ghjbmk23
-
-- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
-
-https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
-  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
-
-https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics3
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Enhance mobile offline up-sync
-
-https://www.cloudpulsebriefs.com/briefs/m365-573241/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxi7cfwqo32y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Modernize the mobile offline foundation
-
-https://www.cloudpulsebriefs.com/briefs/m365-573240/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxidxqm4qy23

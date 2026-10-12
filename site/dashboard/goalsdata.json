@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T04:07",
+  "generated": "2026-10-12T14:14",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 4,
+        "current": 8,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,9 +75,9 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 20,
+        "current": 24,
         "target": 150,
-        "status": "yellow",
+        "status": "green",
         "needs": null
       },
       {
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 109,
+        "current": 113,
         "target": 600,
         "status": "red",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1248,
+        "current": 1249,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -222,10 +222,10 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1065,
+    "social_posts": 1069,
     "followers": 292,
     "engagement": 10,
-    "yt_views": 2396,
+    "yt_views": 2397,
     "yt_shorts": 60,
     "email_subs": 7,
     "traffic": 0
