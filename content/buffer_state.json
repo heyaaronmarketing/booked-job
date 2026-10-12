@@ -1,9 +1,12 @@
 {
   "linkedin": [
-    "pricing-once-not-twice",
-    "pricing-insurance",
+    "pricing-low-bid",
+    "pricing-friend-price",
     "pricing-pick-two",
-    "pricing-low-bid"
+    "pricing-diagnostic-fee",
+    "pricing-callback",
+    "pricing-insurance",
+    "pricing-once-not-twice"
   ],
   "tiktok": [
     "chargeback-trap",

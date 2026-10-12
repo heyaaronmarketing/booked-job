@@ -1,47 +1,4 @@
 {
-  "updated": "2026-10-11T20:16",
-  "posts": [
-    {
-      "ts": "2026-10-11T20:15:27",
-      "channel": "facebook",
-      "item": "card-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-10-11T20:15:23",
-      "channel": "mastodon",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-10-11T20:15:19",
-      "channel": "tumblr",
-      "item": "pod-ep03-verdict",
-      "url": null
-    },
-    {
-      "ts": "2026-10-11T20:15:16",
-      "channel": "bluesky",
-      "item": "pod-ep03-exclusive",
-      "url": null
-    },
-    {
-      "ts": "2026-10-11T20:15:14",
-      "channel": "linkedin",
-      "item": "bj-reviews50",
-      "url": null
-    },
-    {
-      "ts": "2026-10-11T20:15:13",
-      "channel": "tiktok",
-      "item": "clip-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-10-11T20:15:12",
-      "channel": "facebook",
-      "item": "clip3-onestar",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-12T04:07",
+  "posts": []
 }
