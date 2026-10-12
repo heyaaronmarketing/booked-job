@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T21:49:47Z",
+  "updated": "2026-10-12T01:13:04Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,13 +78,8 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 20,
         "link": "https://mastodon.social/tags/homeimprovement"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 7,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
@@ -92,19 +87,19 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvac",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#RoofingServicesTexas",
-        "uses": 4,
+        "uses": 3,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
       },
       {
         "tag": "#roofing",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#contractors",
         "uses": 2,
-        "link": "https://mastodon.social/tags/contractors"
+        "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#plumbingmarketing",
@@ -120,6 +115,11 @@
         "tag": "#contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractor"
+      },
+      {
+        "tag": "#contractors",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#contractorlife",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467352,
+        "followers": 467351,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4267,
+      "followers": 4268,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },

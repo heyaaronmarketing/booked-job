@@ -1,40 +1,46 @@
 {
-  "updated": "2026-10-11T17:03",
+  "updated": "2026-10-11T20:16",
   "posts": [
     {
-      "ts": "2026-10-11T17:01:49",
+      "ts": "2026-10-11T20:15:27",
+      "channel": "facebook",
+      "item": "card-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-10-11T20:15:23",
       "channel": "mastodon",
-      "item": "card-ai",
+      "item": "card-anon98",
       "url": null
     },
     {
-      "ts": "2026-10-11T17:01:44",
+      "ts": "2026-10-11T20:15:19",
       "channel": "tumblr",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-10-11T17:01:42",
+      "ts": "2026-10-11T20:15:16",
       "channel": "bluesky",
-      "item": "pod-ep03-track",
+      "item": "pod-ep03-exclusive",
       "url": null
     },
     {
-      "ts": "2026-10-11T17:01:40",
+      "ts": "2026-10-11T20:15:14",
       "channel": "linkedin",
-      "item": "bj-agency12k",
+      "item": "bj-reviews50",
       "url": null
     },
     {
-      "ts": "2026-10-11T17:01:39",
+      "ts": "2026-10-11T20:15:13",
       "channel": "tiktok",
-      "item": "clip-porno3",
+      "item": "clip-speed",
       "url": null
     },
     {
-      "ts": "2026-10-11T17:01:37",
-      "channel": "ig",
-      "item": "pod-ep03-channels",
+      "ts": "2026-10-11T20:15:12",
+      "channel": "facebook",
+      "item": "clip3-onestar",
       "url": null
     }
   ]

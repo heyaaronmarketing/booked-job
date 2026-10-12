@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:49",
+  "updated": "2026-10-11T20:13",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 598
+    "media": 599
   },
   "email": {
     "subscribers": 7
@@ -435,12 +435,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 46,
+      "count": 47,
       "unit": "posts",
       "followers": 268,
       "grade": "A",
       "group": "social",
-      "likes": 24
+      "likes": 21
     },
     {
       "name": "Mastodon",
@@ -488,7 +488,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts (Buffer)",
       "stat": "327 reach \u00b7 0 reactions",
       "views": 7,
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 13
+        "count": 15
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 13
+        "count": 15
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 3
+        "count": 4
       },
       {
         "type": "Documents",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 46
+        "count": 47
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 46
+        "count": 47
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 1
+        "count": 2
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 64
+        "count": 65
       }
     ]
   },
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1455,
+        "value": 1457,
         "grade": "A"
       },
       {
