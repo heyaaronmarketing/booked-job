@@ -1,58 +1,40 @@
 {
-  "updated": "2026-10-13T12:50",
+  "updated": "2026-10-13T17:51",
   "posts": [
     {
-      "ts": "2026-10-13T12:47:31",
-      "channel": "facebook",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T12:47:27",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T12:46:43",
+      "ts": "2026-10-13T17:49:42",
       "channel": "mastodon",
-      "item": "carousel-leadsites",
+      "item": "card-cpbj",
       "url": null
     },
     {
-      "ts": "2026-10-13T12:46:31",
+      "ts": "2026-10-13T17:49:33",
       "channel": "tumblr",
-      "item": "pod-ep03-channels",
+      "item": "pod-ep03-trap",
       "url": null
     },
     {
-      "ts": "2026-10-13T12:46:26",
+      "ts": "2026-10-13T17:49:31",
       "channel": "bluesky",
-      "item": "pod-ep03-lie",
+      "item": "pod-ep02-system",
       "url": null
     },
     {
-      "ts": "2026-10-13T12:46:22",
+      "ts": "2026-10-13T17:49:28",
       "channel": "linkedin",
-      "item": "ad-arctic",
+      "item": "ad-pauls",
       "url": null
     },
     {
-      "ts": "2026-10-13T12:46:21",
-      "channel": "tiktok",
-      "item": "clip3-onestar",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T12:46:19",
-      "channel": "ig",
-      "item": "pod-ep03-lie",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T12:45:45",
+      "ts": "2026-10-13T17:49:26",
       "channel": "facebook",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
+      "url": null
+    },
+    {
+      "ts": "2026-10-13T17:49:26",
+      "channel": "tiktok",
+      "item": "is-angi-worth-it",
       "url": null
     }
   ]

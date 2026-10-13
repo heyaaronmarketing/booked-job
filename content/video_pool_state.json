@@ -74,12 +74,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-10-13T12:45:20",
+    "last_iso": "2026-10-13T17:48:49",
     "day": {
       "date": "2026-10-13",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -134,12 +135,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-10-13T12:45:20",
+    "last_iso": "2026-10-13T17:48:49",
     "day": {
       "date": "2026-10-13",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -205,12 +207,13 @@
       "clip3-onestar",
       "is-angi-worth-it",
       "money-leaks-torque",
-      "money-leaks"
+      "money-leaks",
+      "explainer-lesson-01"
     ],
-    "last_iso": "2026-10-13T12:45:20",
+    "last_iso": "2026-10-13T17:48:49",
     "day": {
       "date": "2026-10-13",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -228,12 +231,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-10-13T12:45:20",
+    "last_iso": "2026-10-13T17:48:49",
     "day": {
       "date": "2026-10-13",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -256,12 +260,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-10-13T12:45:20",
+    "last_iso": "2026-10-13T17:48:49",
     "day": {
       "date": "2026-10-13",
-      "count": 1
+      "count": 2
     }
   }
 }
