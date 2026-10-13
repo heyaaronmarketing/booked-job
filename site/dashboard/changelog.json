@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-10-12T20:18",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy diy"
+    },
+    {
+      "ts": "2026-10-12T20:18",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy flextape"
+    },
+    {
+      "ts": "2026-10-12T20:18",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools lost tape"
+    },
+    {
       "ts": "2026-10-12T14:11",
       "kind": "engage",
       "icon": "💬",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: humor that guy"
-    },
-    {
-      "ts": "2026-09-29T15:54",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: labor phone"
-    },
-    {
-      "ts": "2026-09-29T10:56",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: MCP is Dead | Nick Babich in UX Planet"
-    },
-    {
-      "ts": "2026-09-29T10:56",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from postmaster@cio49840.mail.hunter.io: Three tips to get going with the Outreach Planner"
     }
   ]
 }
