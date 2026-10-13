@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:19:21Z",
+  "updated": "2026-10-13T17:33:06Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 28,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 9,
+        "uses": 10,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -93,12 +93,12 @@
       },
       {
         "tag": "#RoofingServicesTexas",
-        "uses": 4,
+        "uses": 6,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
       },
       {
         "tag": "#contractors",
-        "uses": 4,
+        "uses": 6,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
@@ -127,25 +127,25 @@
         "link": "https://mastodon.social/tags/contractorfraud"
       },
       {
-        "tag": "#hvac用膨張タンク",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvac用膨張タンク"
-      },
-      {
         "tag": "#hvacstudent",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacstudent"
+      },
+      {
+        "tag": "#hvac用膨張タンク",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvac用膨張タンク"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467391,
+        "followers": 467392,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
         "handle": "@home_garden_and_diy@threads.net",
-        "followers": 103026,
+        "followers": 103030,
         "link": "https://threads.net/@home_garden_and_diy/"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23491,
+        "followers": 23495,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8489,
+        "followers": 8488,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -185,7 +185,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 732,
+        "followers": 731,
         "link": "https://mastodon.social/@Noshir"
       }
     ]
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4275,
+      "followers": 4276,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1318,
+      "followers": 1320,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
