@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T20:16",
+  "updated": "2026-10-13T04:19",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 8,
+        "current": 9,
         "target": 60,
-        "pct": 13,
+        "pct": 15,
         "on_track": false
       },
       {
@@ -111,7 +111,7 @@
   },
   "content": {
     "posts_published": 73,
-    "reactions": 8,
+    "reactions": 9,
     "comments": 0,
     "shares": 0,
     "reels_published": 51,
@@ -383,9 +383,9 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 3067,
+      "views": 3149,
       "followers": 20,
-      "likes": 8
+      "likes": 9
     },
     {
       "name": "Instagram",
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 933,
+      "views": 879,
       "followers": 1
     },
     {
@@ -435,12 +435,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 50,
+      "count": 51,
       "unit": "posts",
-      "followers": 269,
+      "followers": 270,
       "grade": "A",
       "group": "social",
-      "likes": 16
+      "likes": 14
     },
     {
       "name": "Mastodon",
@@ -488,7 +488,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 22,
+      "count": 24,
       "unit": "posts (Buffer)",
       "stat": "503 reach \u00b7 0 reactions",
       "views": 17,
@@ -501,8 +501,8 @@
       "status": "live",
       "count": 78,
       "unit": "videos (Buffer)",
-      "stat": "96 views \u00b7 1 reactions",
-      "views": 96,
+      "stat": "97 views \u00b7 1 reactions",
+      "views": 97,
       "likes": 1,
       "grade": "B",
       "group": "social"
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Documents",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 49
+        "count": 50
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 50
+        "count": 51
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 4
+        "count": 5
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -770,16 +770,16 @@
     }
   ],
   "funnel": {
-    "reach": 35740,
-    "engagement": 8,
-    "audience": 300,
+    "reach": 35720,
+    "engagement": 9,
+    "audience": 301,
     "cr_clicks": 152
   },
   "trends": {
-    "audience": 18,
-    "engagement": -2,
+    "audience": 16,
+    "engagement": 0,
     "email": 0,
-    "reach": 304
+    "reach": 379
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1466,
+        "value": 1469,
         "grade": "A"
       },
       {
@@ -805,16 +805,16 @@
       },
       {
         "label": "Audience Size",
-        "value": 300,
+        "value": 301,
         "grade": "B"
       },
       {
         "label": "Engagement",
-        "value": 8,
+        "value": 9,
         "grade": "D"
       }
     ],
     "overall": "B",
-    "summary": "Strong. 300 audience and 152 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 301 audience and 152 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }
