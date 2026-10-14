@@ -1,40 +1,46 @@
 {
-  "updated": "2026-10-13T17:51",
+  "updated": "2026-10-13T20:53",
   "posts": [
     {
-      "ts": "2026-10-13T17:49:42",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T17:49:33",
-      "channel": "tumblr",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T17:49:31",
-      "channel": "bluesky",
-      "item": "pod-ep02-system",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T17:49:28",
-      "channel": "linkedin",
-      "item": "ad-pauls",
-      "url": null
-    },
-    {
-      "ts": "2026-10-13T17:49:26",
+      "ts": "2026-10-13T20:50:50",
       "channel": "facebook",
-      "item": "explainer-lesson-01",
+      "item": "card-ai",
       "url": null
     },
     {
-      "ts": "2026-10-13T17:49:26",
+      "ts": "2026-10-13T20:50:47",
+      "channel": "mastodon",
+      "item": "card-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-10-13T20:50:44",
+      "channel": "tumblr",
+      "item": "pod-ep03-lie",
+      "url": null
+    },
+    {
+      "ts": "2026-10-13T20:50:42",
+      "channel": "bluesky",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-10-13T20:50:39",
       "channel": "tiktok",
-      "item": "is-angi-worth-it",
+      "item": "money-leaks-torque",
+      "url": null
+    },
+    {
+      "ts": "2026-10-13T20:50:39",
+      "channel": "linkedin",
+      "item": "ad-summit",
+      "url": null
+    },
+    {
+      "ts": "2026-10-13T20:50:38",
+      "channel": "ig",
+      "item": "pod-ep02-system",
       "url": null
     }
   ]

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-10-13T20:50",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz truck payment"
+    },
+    {
       "ts": "2026-10-13T17:49",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: pricing pick two"
-    },
-    {
-      "ts": "2026-09-30T14:20",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: tools burning truck"
     }
   ]
 }
