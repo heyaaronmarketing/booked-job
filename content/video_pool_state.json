@@ -7,12 +7,13 @@
       "pod-ep03-channels",
       "pod-ep03-trap",
       "pod-ep03-lie",
-      "pod-ep02-system"
+      "pod-ep02-system",
+      "pod-ep02-fake"
     ],
-    "last_iso": "2026-10-13T20:50:00",
+    "last_iso": "2026-10-14T08:48:40",
     "day": {
-      "date": "2026-10-13",
-      "count": 2
+      "date": "2026-10-14",
+      "count": 1
     }
   },
   "tiktok": {
@@ -77,12 +78,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-10-13T20:50:00",
+    "last_iso": "2026-10-14T08:48:40",
     "day": {
-      "date": "2026-10-13",
-      "count": 3
+      "date": "2026-10-14",
+      "count": 1
     }
   },
   "linkedin": {
@@ -139,12 +141,13 @@
       "bj-track",
       "ad-arctic",
       "ad-pauls",
-      "ad-summit"
+      "ad-summit",
+      "clip-speed"
     ],
-    "last_iso": "2026-10-13T20:50:00",
+    "last_iso": "2026-10-14T08:48:40",
     "day": {
-      "date": "2026-10-13",
-      "count": 3
+      "date": "2026-10-14",
+      "count": 1
     }
   },
   "facebook": {
@@ -211,12 +214,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-10-13T17:48:49",
+    "last_iso": "2026-10-14T08:48:40",
     "day": {
-      "date": "2026-10-13",
-      "count": 2
+      "date": "2026-10-14",
+      "count": 1
     }
   },
   "pinterest": {
@@ -236,12 +240,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-10-13T20:50:00",
+    "last_iso": "2026-10-14T08:48:40",
     "day": {
-      "date": "2026-10-13",
-      "count": 3
+      "date": "2026-10-14",
+      "count": 1
     }
   },
   "telegram": {
@@ -266,12 +271,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-10-13T20:50:00",
+    "last_iso": "2026-10-14T08:48:40",
     "day": {
-      "date": "2026-10-13",
-      "count": 3
+      "date": "2026-10-14",
+      "count": 1
     }
   }
 }

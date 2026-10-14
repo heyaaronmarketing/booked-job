@@ -2,6 +2,36 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@215poundsonthemoon.bsky.social**: He's a plumber. He has no business being head of the Department of Homeland Security. 
+www.youtube.com/watch?v=DCti...
+  → https://bsky.app/profile/215poundsonthemoon.bsky.social/post/3mxn4cxpwdc2k
+
+- **@riggsthermonucleon.bsky.social**: The stock market is up.
+Congratulations! The economy is good.
+
+Unless you're a worker, renter, small business, borrower, nonprofit, school, plumber or birdhouse guy having a terrible day.
+
+Wall Street
+  → https://bsky.app/profile/riggsthermonucleon.bsky.social/post/3mxrerywk4s2c
+
+- **@brandingnyc.bsky.social**: Need more plumbing leads? Start with where customers are already looking.
+
+SEO can help your business rank locally and reach people searching for a plumber right now.
+
+https://bit.ly/4B5AVtg
+
+#Plumber
+  → https://bsky.app/profile/brandingnyc.bsky.social/post/3mxrrst2c7y2x
+
+- **@brandingtexas.bsky.social**: Need more plumbing leads in Texas? Start where customers are already looking.
+
+
+SEO can help your business rank locally and reach people searching for a plumber right now.
+
+Watch:
+https://bit.ly/4jTkk
+  → https://bsky.app/profile/brandingtexas.bsky.social/post/3mxruvlr2yh2v
+
 - **@alvinifrankil.bsky.social**: Locked out of your home, car, or business? Security Lock Service helps with lock and key problems across Oklahoma City. Choose Locksmith OKC services for lockouts, key duplication, lock repairs, rekey
   → https://bsky.app/profile/alvinifrankil.bsky.social/post/3mxsutxafcc2m
 
@@ -228,37 +258,3 @@ Randolph Scott Bell, REALTOR® · LoKation · SL3247858
 
 https://randolphscottbell.co
   → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxeg4ia36u2y
-
-- **@rsbellrealtor.bsky.social**: Buyers agent in Greenacres, FL: a REALTOR® who is also a licensed general contractor reads the roof, permits and HOA.
-
-Randolph Scott Bell, REALTOR® · LoKation · SL3247858
-
-https://randolphscottbell.c
-  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxeqgooe5z2z
-
-- **@soapoperanews.bsky.social**: Justine had enough—and Nazneen Contractor brought every ounce of emotion to that Sonny showdown.  She was on🔥... thoughts? #GH #GeneralHospital 
-
-soapoperanews.net/performer-of...
-  → https://bsky.app/profile/soapoperanews.bsky.social/post/3mxh2yufpb22q
-
-- **@mayorjacobfrey.bsky.social**: Kitchen upgrade, new porch, or new room? 
-
-4 days.
-
-Roofing upgrades?
-
-1 day.
-
-Replacing a toilet or leaky sink? 
-
-Instantaneous.
-
-We’re cutting red tape and speeding up permits to make it easier to b
-  → https://bsky.app/profile/mayorjacobfrey.bsky.social/post/3mwwewuqbz22f
-
-- **@stylelib.org**: Roofio – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=809284 
-
-#business #construction #corporate #maintenance #renovation #rstheme #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mwymhmw5wf2s

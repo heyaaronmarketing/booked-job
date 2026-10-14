@@ -1,4 +1,65 @@
 {
-  "updated": "2026-10-14T02:33",
-  "posts": []
+  "updated": "2026-10-14T08:53",
+  "posts": [
+    {
+      "ts": "2026-10-14T08:50:46",
+      "channel": "youtube",
+      "item": "bj-wordpress",
+      "url": "https://youtu.be/Kd3ZdhXeH-E"
+    },
+    {
+      "ts": "2026-10-14T08:50:38",
+      "channel": "facebook",
+      "item": "card-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:50:34",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:49:52",
+      "channel": "mastodon",
+      "item": "card-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:49:47",
+      "channel": "tumblr",
+      "item": "pod-ep02-system",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:49:45",
+      "channel": "bluesky",
+      "item": "pod-ep02-onetap",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:49:42",
+      "channel": "linkedin",
+      "item": "clip-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:49:41",
+      "channel": "tiktok",
+      "item": "money-leaks",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:49:40",
+      "channel": "ig",
+      "item": "pod-ep02-fake",
+      "url": null
+    },
+    {
+      "ts": "2026-10-14T08:49:06",
+      "channel": "facebook",
+      "item": "rip-angi-rip",
+      "url": null
+    }
+  ]
 }
