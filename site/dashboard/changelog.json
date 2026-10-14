@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-10-14T13:42",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing pick two"
+    },
+    {
       "ts": "2026-10-14T08:50",
       "kind": "reel",
       "icon": "🎬",
@@ -1193,12 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Stop Designing for Delight, Start Designing for Anxiety Reduction | Rishi Sharma"
-    },
-    {
-      "ts": "2026-10-01T08:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz money leaks"
     }
   ]
 }

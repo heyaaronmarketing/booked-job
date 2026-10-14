@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@canadiancl.bsky.social**: Does Canada Really Have a Productivity Problem?
+
+Canada has a long-standing productivity problem, but that doesn't mean Canadians aren't working hard. We examine why our economy trails the United Stat
+  → https://bsky.app/profile/canadiancl.bsky.social/post/3mxtfg66pas2e
+
 - **@215poundsonthemoon.bsky.social**: He's a plumber. He has no business being head of the Department of Homeland Security. 
 www.youtube.com/watch?v=DCti...
   → https://bsky.app/profile/215poundsonthemoon.bsky.social/post/3mxn4cxpwdc2k
@@ -249,12 +254,3 @@ Are you building
 
  Arranging your transportation in advance can make the journey easier, wh
   → https://bsky.app/profile/sunriselimousine.bsky.social/post/3mxnxkrpavj26
-
-- **@rsbellrealtor.bsky.social**: Buyers Agent Palm Beach Gardens FL.
-
-Buyers agent in Palm Beach Gardens: a REALTOR® and licensed general contractor…
-
-Randolph Scott Bell, REALTOR® · LoKation · SL3247858
-
-https://randolphscottbell.co
-  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxeg4ia36u2y

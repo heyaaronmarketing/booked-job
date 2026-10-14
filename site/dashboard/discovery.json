@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T13:37:25Z",
+  "updated": "2026-10-14T18:30:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -92,6 +92,11 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#RoofingServices",
+        "uses": 7,
+        "link": "https://mastodon.social/tags/RoofingServices"
+      },
+      {
         "tag": "#RoofingServicesTexas",
         "uses": 7,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
@@ -100,11 +105,6 @@
         "tag": "#contractors",
         "uses": 6,
         "link": "https://mastodon.social/tags/contractors"
-      },
-      {
-        "tag": "#RoofingServices",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/RoofingServices"
       },
       {
         "tag": "#plumbingmarketing",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10227,
+      "followers": 10229,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4278,
+      "followers": 4279,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1322,
+      "followers": 1323,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
