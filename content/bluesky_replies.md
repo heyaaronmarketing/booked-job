@@ -2,6 +2,84 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@alvinifrankil.bsky.social**: Locked out of your home, car, or business? Security Lock Service helps with lock and key problems across Oklahoma City. Choose Locksmith OKC services for lockouts, key duplication, lock repairs, rekey
+  → https://bsky.app/profile/alvinifrankil.bsky.social/post/3mxsutxafcc2m
+
+- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
+
+ https://stylelib.org/?p=134193 
+
+#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
+  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
+
+- **@stylelib.org**: RenoWise – Construction  Building WordPress Theme
+
+ https://themes.stylelib.org/?p=4233 
+
+#boldthemes #building #business #construction #contractor #corporate #electrician #handyman #plumber #renovati
+  → https://bsky.app/profile/stylelib.org/post/3mwkym5oxth2x
+
+- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
+
+ https://themes.stylelib.org/?p=22449 
+
+#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
+  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
+
+- **@stylelib.org**: Shapen – Construction Architecture HTML
+
+ https://themes.stylelib.org/?p=16422 
+
+#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
+  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
+
+- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
+
+ https://themes.stylelib.org/?p=28230 
+
+#architecture #builder #building #business #construction #contractor #corporate #creative #electrician #fac
+  → https://bsky.app/profile/stylelib.org/post/3mwr6g4yheq27
+
+- **@caseysseo.bsky.social**: Homeowners search 200 amp panel upgrade Denver and compare before they call. Is your Google Business Profile showing up? 719-639-8238 caseysseo.com #DenverElectrician #LocalSEO
+
+https://youtu.be/W40d5
+  → https://bsky.app/profile/caseysseo.bsky.social/post/3mwrc36yocj2k
+
+- **@stylelib.org**: Hampton – Home Design and Renovation WordPress Theme
+
+ https://themes.stylelib.org/?p=26557 
+
+#axiomthemes #building #business #construction #corporate #electrician #handyman #renovation #services #th
+  → https://bsky.app/profile/stylelib.org/post/3mx3ufknuji2q
+
+- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
+
+ https://stylelib.org/?p=811344 
+
+#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
+  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
+
+- **@stylelib.org**: Constro – Construction Business HTML5 Template
+
+ https://stylelib.org/?p=286501 
+
+#builder #electrician #painting #renovation #sitetemplates #themeforest #architecture #business #building #engineering
+  → https://bsky.app/profile/stylelib.org/post/3mxa4qmym3f2w
+
+- **@internalprofits.bsky.social**: One quiet leak in service-business branding: people can’t pass the name along.
+
+“Some electrician… I think it started with an A.” Recommendation dies.
+
+Keyword domain + vanity number fixes the handoff
+  → https://bsky.app/profile/internalprofits.bsky.social/post/3mxp6wewsx72r
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=192771 
+
+#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
+  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -184,56 +262,3 @@ We’re cutting red tape and speeding up permits to make it easier to b
 
 #business #construction #corporate #maintenance #renovation #rstheme #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3mwymhmw5wf2s
-
-- **@foxydonuts.bsky.social**: Seattle is such a furry town it seems every plumbing/HVAC/electrical etc... business has a furry mascot. And I don't even have pics of the orange roofing lion or pink plumbing cat.
-
-And why is that ro
-  → https://bsky.app/profile/foxydonuts.bsky.social/post/3mxck5zjeus2x
-
-- **@getpeacecall.com**: Don't let missed calls die in voicemail. A good text-back names the business, acknowledges the call, and asks one easy question:
-
-"Hi, it's [Business]. Sorry we missed your call! How can we help? Repl
-  → https://bsky.app/profile/getpeacecall.com/post/3mxeat7fxpq2m
-
-- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business gets found how? Google search. We build SEO websites that rank for local keywords, add AI chatbots that answer questions 24/7, and automate lead follow-ups. 
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mxi6oakanh2g
-
-- **@hypnoscream.bsky.social**: Made four more pop-up mock-ups. How many core memories does that second one awaken?
-
-#digitalart #horror #disney #art #krita #thefoxandthehound #aristocats #wheresmywater #thesimpsons #gravityfalls #m
-  → https://bsky.app/profile/hypnoscream.bsky.social/post/3mxggfpkpxs2z
-
-- **@misserenity.bsky.social**: I run the trucks every day, so why was I paying an agency to show up when someone searches plumber near me? I found Niche Ranker, where the same pieces an agency would sell me are priced for the perso
-  → https://bsky.app/profile/misserenity.bsky.social/post/3mxifn7aqky2q
-
-- **@stylelib.org**: Rebuilto – Construction WordPress Theme
-
- https://stylelib.org/?p=912191 
-
-#constructioncompany #constructor #opalwp #painter #remodeling #renovation #themeforest #wordpress #architecture #business #p
-  → https://bsky.app/profile/stylelib.org/post/3mxkzgocjst2s
-
-- **@jim584.bsky.social**: What kind of answer do you expect from a plumber who got his business from his father and then was elected to the Senate because the voters in Oklahoma loved that he was a moron? It would be wild if h
-  → https://bsky.app/profile/jim584.bsky.social/post/3mxmn4x5mds2e
-
-- **@215poundsonthemoon.bsky.social**: He's a plumber. He has no business being head of the Department of Homeland Security. 
-www.youtube.com/watch?v=DCti...
-  → https://bsky.app/profile/215poundsonthemoon.bsky.social/post/3mxn4cxpwdc2k
-
-- **@rsbellrealtor.bsky.social**: Listing Agent Loxahatchee FL.
-
-Listing agent in Loxahatchee, FL: a REALTOR® who is also a licensed general contractor…
-
-Randolph Scott Bell, REALTOR® · LoKation · SL3247858
-
-https://randolphscottbell.
-  → https://bsky.app/profile/rsbellrealtor.bsky.social/post/3mxfobhwgpt2o
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
