@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @canadiancl.bsky.social: “Does Canada Really Have a Productivity Problem?  Canada has a long-standing productivity p…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/canadiancl.bsky.social/post/3mxtfg66pas2e",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @215poundsonthemoon.bsky.social: “He's a plumber. He has no business being head of the Department of Homeland Security.  www…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/215poundsonthemoon.bsky.social/post/3mxn4cxpwdc2k",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @riggsthermonucleon.bsky.social: “The stock market is up. Congratulations! The economy is good.  Unless you're a worker, ren…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @brandingnyc.bsky.social: “Need more plumbing leads? Start with where customers are already looking.  SEO can help yo…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @brandingtexas.bsky.social: “Need more plumbing leads in Texas? Start where customers are already looking.   SEO can he…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/brandingtexas.bsky.social/post/3mxruvlr2yh2v",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @alvinifrankil.bsky.social: “Locked out of your home, car, or business? Security Lock Service helps with lock and key p…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/alvinifrankil.bsky.social/post/3mxsutxafcc2m",
       "est": "2 min"
     },
     {

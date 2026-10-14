@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@foxydonuts.bsky.social**: Seattle is such a furry town it seems every plumbing/HVAC/electrical etc... business has a furry mascot. And I don't even have pics of the orange roofing lion or pink plumbing cat.
+
+And why is that ro
+  → https://bsky.app/profile/foxydonuts.bsky.social/post/3mxck5zjeus2x
+
+- **@getpeacecall.com**: Don't let missed calls die in voicemail. A good text-back names the business, acknowledges the call, and asks one easy question:
+
+"Hi, it's [Business]. Sorry we missed your call! How can we help? Repl
+  → https://bsky.app/profile/getpeacecall.com/post/3mxeat7fxpq2m
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business gets found how? Google search. We build SEO websites that rank for local keywords, add AI chatbots that answer questions 24/7, and automate lead follow-ups. 
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mxi6oakanh2g
+
 - **@canadiancl.bsky.social**: Does Canada Really Have a Productivity Problem?
 
 Canada has a long-standing productivity problem, but that doesn't mean Canadians aren't working hard. We examine why our economy trails the United Stat
@@ -235,22 +248,3 @@ https://randolphscottbell.com/construction/service-areas/the-acreage/?utm_source
 
 - **@texascontractorseo.bsky.social**: Ongoing investment also opens new revenue channels — after upgrading from a basic SEO package, one client now attracts commercial spray foam projects alongside residential ones, expanding revenue fast
   → https://bsky.app/profile/texascontractorseo.bsky.social/post/3muvesgdj532z
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@sunriselimousine.bsky.social**: Chauffeur Service West Trenton: Comfortable Airport Transportation
-
-
-
-𝗣𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻 𝗮𝗶𝗿𝗽𝗼𝗿𝘁 𝘁𝗿𝗶𝗽 𝗳𝗿𝗼𝗺 𝗪𝗲𝘀𝘁 𝗧𝗿𝗲𝗻𝘁𝗼𝗻, 𝗡𝗲𝘄 𝗝𝗲𝗿𝘀𝗲𝘆?
-
- Arranging your transportation in advance can make the journey easier, wh
-  → https://bsky.app/profile/sunriselimousine.bsky.social/post/3mxnxkrpavj26

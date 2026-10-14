@@ -8,12 +8,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-10-14T08:48:40",
+    "last_iso": "2026-10-14T17:25:26",
     "day": {
       "date": "2026-10-14",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -80,12 +81,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-10-14T13:42:14",
+    "last_iso": "2026-10-14T17:25:26",
     "day": {
       "date": "2026-10-14",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -144,12 +146,13 @@
       "ad-pauls",
       "ad-summit",
       "clip-speed",
-      "clip1-turd"
+      "clip1-turd",
+      "clip3-onestar"
     ],
-    "last_iso": "2026-10-14T13:42:14",
+    "last_iso": "2026-10-14T17:25:26",
     "day": {
       "date": "2026-10-14",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -217,12 +220,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-10-14T08:48:40",
+    "last_iso": "2026-10-14T17:25:26",
     "day": {
       "date": "2026-10-14",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -244,12 +248,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-10-14T13:42:14",
+    "last_iso": "2026-10-14T17:25:26",
     "day": {
       "date": "2026-10-14",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -276,12 +281,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-10-14T13:42:14",
+    "last_iso": "2026-10-14T17:25:26",
     "day": {
       "date": "2026-10-14",
-      "count": 2
+      "count": 3
     }
   }
 }
