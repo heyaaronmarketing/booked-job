@@ -1,33 +1,51 @@
 {
-  "updated": "2026-10-15T13:26",
+  "updated": "2026-10-15T17:24",
   "posts": [
     {
-      "ts": "2026-10-15T13:24:41",
+      "ts": "2026-10-15T17:21:57",
+      "channel": "facebook",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-15T17:21:54",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-10-15T13:24:37",
+      "ts": "2026-10-15T17:21:49",
       "channel": "tumblr",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     },
     {
-      "ts": "2026-10-15T13:24:34",
+      "ts": "2026-10-15T17:21:48",
       "channel": "bluesky",
-      "item": "pod-ep01-speed",
+      "item": "pod-ep01-starter",
       "url": null
     },
     {
-      "ts": "2026-10-15T13:24:31",
+      "ts": "2026-10-15T17:21:45",
       "channel": "linkedin",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
       "url": null
     },
     {
-      "ts": "2026-10-15T13:24:30",
+      "ts": "2026-10-15T17:21:44",
       "channel": "tiktok",
+      "item": "pod-ep03-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-10-15T17:21:43",
+      "channel": "ig",
+      "item": "pod-ep02-howmany",
+      "url": null
+    },
+    {
+      "ts": "2026-10-15T17:21:12",
+      "channel": "facebook",
       "item": "stop-renting-leads",
       "url": null
     }

@@ -2,6 +2,40 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@gucky.bsky.social**: Remember when Mark Hurd got run out of the CEO job at HP because he was using tons of company funds and the corporate jet to have an affair with a junior marketing contractor?
+
+And then Larry Ellison 
+  → https://bsky.app/profile/gucky.bsky.social/post/3mxaklfu6rs27
+
+- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
+
+Click to
+  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
+
+- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
+Financial stability?
+Patron experience?
+Industry standing?
+Ticket sales?
+Education program?
+Marketing?
+Rental client satisfaction?
+Show advance?
+Contractor dep
+  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
+
+- **@g2bizsolutions.bsky.social**: Revenue going up, but your bank balance staying flat?
+
+You might be “busy but broke.”
+
+Unused subscriptions, untracked contractor hours, and wasted marketing spend can quietly eat your profits.
+
+Know 
+  → https://bsky.app/profile/g2bizsolutions.bsky.social/post/3mxooucrl6k2l
+
+- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
+  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
+
 - **@wardamnmegs.bsky.social**: When I was a kid I remember my dad (general contractor) telling me that they painted some juvenile facilities light pink and blue because it was "calming" and even then I remember thinking "but why is
   → https://bsky.app/profile/wardamnmegs.bsky.social/post/3mxwehcmsqs2r
 
@@ -178,36 +212,3 @@ https://bit.ly/4B5AVtg
 
 #Plumber
   → https://bsky.app/profile/brandingnyc.bsky.social/post/3mxrrst2c7y2x
-
-- **@brandingtexas.bsky.social**: Need more plumbing leads in Texas? Start where customers are already looking.
-
-
-SEO can help your business rank locally and reach people searching for a plumber right now.
-
-Watch:
-https://bit.ly/4jTkk
-  → https://bsky.app/profile/brandingtexas.bsky.social/post/3mxruvlr2yh2v
-
-- **@alvinifrankil.bsky.social**: Locked out of your home, car, or business? Security Lock Service helps with lock and key problems across Oklahoma City. Choose Locksmith OKC services for lockouts, key duplication, lock repairs, rekey
-  → https://bsky.app/profile/alvinifrankil.bsky.social/post/3mxsutxafcc2m
-
-- **@stylelib.org**: Renovator – Contractors and Renovation Business WordPress Theme
-
- https://stylelib.org/?p=134193 
-
-#builder #electrician #handyman #mikadothemes #remodeling #renovation #roofing #themeforest #wordpres
-  → https://bsky.app/profile/stylelib.org/post/3mwkk3cj2g42d
-
-- **@stylelib.org**: RenoWise – Construction  Building WordPress Theme
-
- https://themes.stylelib.org/?p=4233 
-
-#boldthemes #building #business #construction #contractor #corporate #electrician #handyman #plumber #renovati
-  → https://bsky.app/profile/stylelib.org/post/3mwkym5oxth2x
-
-- **@stylelib.org**: Boldman – Handyman Renovation Services WordPress Theme + RTL
-
- https://themes.stylelib.org/?p=22449 
-
-#builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
-  → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
