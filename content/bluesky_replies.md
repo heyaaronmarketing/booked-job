@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@wardamnmegs.bsky.social**: When I was a kid I remember my dad (general contractor) telling me that they painted some juvenile facilities light pink and blue because it was "calming" and even then I remember thinking "but why is
+  → https://bsky.app/profile/wardamnmegs.bsky.social/post/3mxwehcmsqs2r
+
+- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
+
+https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
+  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
+
 - **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
 
  https://stylelib.org/?p=927746 
@@ -203,17 +211,3 @@ https://bit.ly/4jTkk
 
 #builder #business #construction #corporate #electrician #freelancer #handyman #industry #maintena
   → https://bsky.app/profile/stylelib.org/post/3mwonx7gvbp27
-
-- **@stylelib.org**: Shapen – Construction Architecture HTML
-
- https://themes.stylelib.org/?p=16422 
-
-#architecture #builder #building #business #construction #corporate #electrician #handyman #painter #plumber #renovatio
-  → https://bsky.app/profile/stylelib.org/post/3mwppi65eqt27
-
-- **@stylelib.org**: Bauer – Construction and Industrial WordPress Theme
-
- https://themes.stylelib.org/?p=28230 
-
-#architecture #builder #building #business #construction #contractor #corporate #creative #electrician #fac
-  → https://bsky.app/profile/stylelib.org/post/3mwr6g4yheq27

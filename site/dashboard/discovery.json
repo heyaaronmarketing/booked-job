@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:20:35Z",
+  "updated": "2026-10-15T18:12:57Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 25,
+        "uses": 26,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,14 +92,14 @@
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#contractors",
+        "uses": 7,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#RoofingServices",
         "uses": 6,
         "link": "https://mastodon.social/tags/RoofingServices"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#RoofingServicesTexas",
@@ -107,14 +107,14 @@
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
       },
       {
+        "tag": "#contractor",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
         "tag": "#plumbingmarketing",
         "uses": 2,
         "link": "https://mastodon.social/tags/plumbingmarketing"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#plumbingtips",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10229,
+      "followers": 10232,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4280,
+      "followers": 4281,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2248,
+      "followers": 2249,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Haunted Plumbing (Runic Press)",
-      "followers": 1065,
+      "followers": 1066,
       "desc": "TTRPG content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) h",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
