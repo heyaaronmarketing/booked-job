@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-10-14T20:25",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing low bid"
+    },
+    {
       "ts": "2026-10-14T17:26",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: biz review timing"
-    },
-    {
-      "ts": "2026-10-01T18:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: pricing diagnostic fee"
     }
   ]
 }

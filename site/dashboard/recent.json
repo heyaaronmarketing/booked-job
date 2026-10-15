@@ -1,51 +1,33 @@
 {
-  "updated": "2026-10-14T17:28",
+  "updated": "2026-10-14T20:26",
   "posts": [
     {
-      "ts": "2026-10-14T17:26:40",
-      "channel": "facebook",
-      "item": "card-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-10-14T17:26:37",
+      "ts": "2026-10-14T20:25:32",
       "channel": "mastodon",
-      "item": "card-rev-roof",
+      "item": "card-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-10-14T17:26:33",
+      "ts": "2026-10-14T20:25:27",
       "channel": "tumblr",
-      "item": "pod-ep02-onetap",
+      "item": "pod-ep02-peak",
       "url": null
     },
     {
-      "ts": "2026-10-14T17:26:30",
+      "ts": "2026-10-14T20:25:26",
       "channel": "bluesky",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-10-14T17:26:28",
+      "ts": "2026-10-14T20:25:23",
       "channel": "linkedin",
-      "item": "clip3-onestar",
+      "item": "is-angi-worth-it",
       "url": null
     },
     {
-      "ts": "2026-10-14T17:26:27",
+      "ts": "2026-10-14T20:25:22",
       "channel": "tiktok",
-      "item": "rip-angi-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-10-14T17:26:26",
-      "channel": "ig",
-      "item": "pod-ep02-onetap",
-      "url": null
-    },
-    {
-      "ts": "2026-10-14T17:25:52",
-      "channel": "facebook",
       "item": "rip-reviews-rip",
       "url": null
     }
