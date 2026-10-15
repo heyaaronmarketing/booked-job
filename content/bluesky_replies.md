@@ -2,6 +2,37 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
+
+ https://stylelib.org/?p=927746 
+
+#renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
+  → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q
+
+- **@stylelib.org**: Konta – Construction and Real Estate Company WordPress Theme
+
+ https://themes.stylelib.org/?p=810426 
+
+#business #construction #corporate #engineering #factory #industry #interior #painter #plumber #r
+  → https://bsky.app/profile/stylelib.org/post/3mxq6ti7jyb2x
+
+- **@digitalplainwork.bsky.social**: Running a heating and cooling business? schema.org has a dedicated HVACBusiness type, and Google prefers the most specific one. Free generator: fill in name, address and hours, copy ready-to-paste JSO
+  → https://bsky.app/profile/digitalplainwork.bsky.social/post/3mxq7cbzbp72o
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=192771 
+
+#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
+  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
+
+- **@stylelib.org**: Pithree – Construction  Building WordPress Theme
+
+ https://themes.stylelib.org/?p=15030 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumbe
+  → https://bsky.app/profile/stylelib.org/post/3mxvn6i357l2x
+
 - **@stylelib.org**: Rebuilto – Construction WordPress Theme
 
  https://stylelib.org/?p=912191 
@@ -186,36 +217,3 @@ https://bit.ly/4jTkk
 
 #architecture #builder #building #business #construction #contractor #corporate #creative #electrician #fac
   → https://bsky.app/profile/stylelib.org/post/3mwr6g4yheq27
-
-- **@caseysseo.bsky.social**: Homeowners search 200 amp panel upgrade Denver and compare before they call. Is your Google Business Profile showing up? 719-639-8238 caseysseo.com #DenverElectrician #LocalSEO
-
-https://youtu.be/W40d5
-  → https://bsky.app/profile/caseysseo.bsky.social/post/3mwrc36yocj2k
-
-- **@stylelib.org**: Hampton – Home Design and Renovation WordPress Theme
-
- https://themes.stylelib.org/?p=26557 
-
-#axiomthemes #building #business #construction #corporate #electrician #handyman #renovation #services #th
-  → https://bsky.app/profile/stylelib.org/post/3mx3ufknuji2q
-
-- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
-
- https://stylelib.org/?p=811344 
-
-#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
-  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
-
-- **@stylelib.org**: Constro – Construction Business HTML5 Template
-
- https://stylelib.org/?p=286501 
-
-#builder #electrician #painting #renovation #sitetemplates #themeforest #architecture #business #building #engineering
-  → https://bsky.app/profile/stylelib.org/post/3mxa4qmym3f2w
-
-- **@internalprofits.bsky.social**: One quiet leak in service-business branding: people can’t pass the name along.
-
-“Some electrician… I think it started with an A.” Recommendation dies.
-
-Keyword domain + vanity number fixes the handoff
-  → https://bsky.app/profile/internalprofits.bsky.social/post/3mxp6wewsx72r

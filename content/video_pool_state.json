@@ -9,12 +9,13 @@
       "pod-ep03-lie",
       "pod-ep02-system",
       "pod-ep02-fake",
-      "pod-ep02-onetap"
+      "pod-ep02-onetap",
+      "pod-ep02-peak"
     ],
-    "last_iso": "2026-10-14T17:25:26",
+    "last_iso": "2026-10-15T08:31:49",
     "day": {
-      "date": "2026-10-14",
-      "count": 2
+      "date": "2026-10-15",
+      "count": 1
     }
   },
   "tiktok": {
@@ -83,12 +84,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-10-14T20:25:21",
+    "last_iso": "2026-10-15T08:31:49",
     "day": {
-      "date": "2026-10-14",
-      "count": 4
+      "date": "2026-10-15",
+      "count": 1
     }
   },
   "linkedin": {
@@ -149,12 +151,13 @@
       "clip-speed",
       "clip1-turd",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-10-14T20:25:21",
+    "last_iso": "2026-10-15T08:31:49",
     "day": {
-      "date": "2026-10-14",
-      "count": 4
+      "date": "2026-10-15",
+      "count": 1
     }
   },
   "facebook": {
@@ -223,12 +226,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-10-14T17:25:26",
+    "last_iso": "2026-10-15T08:31:49",
     "day": {
-      "date": "2026-10-14",
-      "count": 2
+      "date": "2026-10-15",
+      "count": 1
     }
   },
   "pinterest": {
@@ -252,12 +256,13 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-10-14T20:25:21",
+    "last_iso": "2026-10-15T08:31:49",
     "day": {
-      "date": "2026-10-14",
-      "count": 4
+      "date": "2026-10-15",
+      "count": 1
     }
   },
   "telegram": {
@@ -286,12 +291,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-10-14T20:25:21",
+    "last_iso": "2026-10-15T08:31:49",
     "day": {
-      "date": "2026-10-14",
-      "count": 4
+      "date": "2026-10-15",
+      "count": 1
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:19:45Z",
+  "updated": "2026-10-15T13:20:35Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -83,12 +83,12 @@
       },
       {
         "tag": "#hvac",
-        "uses": 15,
+        "uses": 16,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
-        "uses": 9,
+        "uses": 10,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -122,6 +122,11 @@
         "link": "https://mastodon.social/tags/plumbingtips"
       },
       {
+        "tag": "#PlumbingEmergencyInColumbus",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingEmergencyInColumbus"
+      },
+      {
         "tag": "#Roofing_contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/Roofing_contractor"
@@ -130,17 +135,12 @@
         "tag": "#hvacstudent",
         "uses": 0,
         "link": "https://mastodon.social/tags/hvacstudent"
-      },
-      {
-        "tag": "#hvac用膨張タンク",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvac用膨張タンク"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467440,
+        "followers": 467486,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4279,
+      "followers": 4280,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Haunted Plumbing (Runic Press)",
-      "followers": 1064,
+      "followers": 1065,
       "desc": "TTRPG content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) h",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
