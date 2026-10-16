@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kittycoffee.bsky.social**: This is all I hear when those "Canada Strong, skilled trades!" ads run
+
+youtu.be/nQmqVNxo9oA?...
+  → https://bsky.app/profile/kittycoffee.bsky.social/post/3mxxtn22dac2q
+
 - **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
 
  https://themes.stylelib.org/?p=23196 
@@ -223,6 +228,3 @@ Are you building
 
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
