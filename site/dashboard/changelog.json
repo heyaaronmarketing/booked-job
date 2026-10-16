@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-10-16T02:04",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz money leaks"
+    },
+    {
+      "ts": "2026-10-16T02:04",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy rate"
+    },
+    {
       "ts": "2026-10-15T20:13",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: lastguy rate"
-    },
-    {
-      "ts": "2026-10-02T11:27",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: Electricians: 64 to rank"
-    },
-    {
-      "ts": "2026-10-02T11:27",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from 010001a0fc197d81-95ee534d-2982-4497-9dea-86f4c3911b17-000000@bounces.updates.resend.com: Early access, new integrations, and more"
     }
   ]
 }

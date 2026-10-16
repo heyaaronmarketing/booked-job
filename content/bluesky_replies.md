@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=23196 
+
+#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
+  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
+
 - **@caseysseo.bsky.social**: Homeowners search 200 amp panel upgrade Denver and compare before they call. Is your Google Business Profile showing up? 719-639-8238 caseysseo.com #DenverElectrician #LocalSEO
 
 https://youtu.be/W40d5
@@ -219,6 +226,3 @@ Are you building
 
 - **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
   → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
