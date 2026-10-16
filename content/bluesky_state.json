@@ -1,16 +1,17 @@
 {
   "done": [
-    "pricing-pick-two",
-    "lastguy-rate",
-    "pricing-insurance",
-    "pricing-once-not-twice",
     "pricing-diagnostic-fee",
     "pricing-low-bid",
-    "pricing-callback",
-    "pricing-friend-price",
     "lastguy-worst",
     "lastguy-panel",
-    "lastguy-flextape"
+    "pricing-friend-price",
+    "lastguy-flextape",
+    "pricing-once-not-twice",
+    "pricing-insurance",
+    "pricing-callback",
+    "lastguy-rate",
+    "pricing-pick-two",
+    "lastguy-diy"
   ],
-  "last_iso": "2026-10-16T12:33:00"
+  "last_iso": "2026-10-16T16:10:34"
 }

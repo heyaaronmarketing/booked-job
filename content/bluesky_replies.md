@@ -2,6 +2,65 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@foxydonuts.bsky.social**: Seattle is such a furry town it seems every plumbing/HVAC/electrical etc... business has a furry mascot. And I don't even have pics of the orange roofing lion or pink plumbing cat.
+
+And why is that ro
+  → https://bsky.app/profile/foxydonuts.bsky.social/post/3mxck5zjeus2x
+
+- **@getpeacecall.com**: Don't let missed calls die in voicemail. A good text-back names the business, acknowledges the call, and asks one easy question:
+
+"Hi, it's [Business]. Sorry we missed your call! How can we help? Repl
+  → https://bsky.app/profile/getpeacecall.com/post/3mxeat7fxpq2m
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business gets found how? Google search. We build SEO websites that rank for local keywords, add AI chatbots that answer questions 24/7, and automate lead follow-ups. 
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mxi6oakanh2g
+
+- **@stylelib.org**: Roonix – Roofing Services WordPress Theme
+
+ https://stylelib.org/?p=745595 
+
+#painting #renovation #roofing #themeforest #themexriver #wordpress #business #corporate #maintenance #construction
+  → https://bsky.app/profile/stylelib.org/post/3mxyqnhhhw72k
+
 - **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
   → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
 
@@ -157,74 +216,3 @@ Know
 
 - **@wardamnmegs.bsky.social**: When I was a kid I remember my dad (general contractor) telling me that they painted some juvenile facilities light pink and blue because it was "calming" and even then I remember thinking "but why is
   → https://bsky.app/profile/wardamnmegs.bsky.social/post/3mxwehcmsqs2r
-
-- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
-
-https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
-  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
-
-- **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
-
- https://stylelib.org/?p=927746 
-
-#renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
-  → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q
-
-- **@stylelib.org**: Konta – Construction and Real Estate Company WordPress Theme
-
- https://themes.stylelib.org/?p=810426 
-
-#business #construction #corporate #engineering #factory #industry #interior #painter #plumber #r
-  → https://bsky.app/profile/stylelib.org/post/3mxq6ti7jyb2x
-
-- **@digitalplainwork.bsky.social**: Running a heating and cooling business? schema.org has a dedicated HVACBusiness type, and Google prefers the most specific one. Free generator: fill in name, address and hours, copy ready-to-paste JSO
-  → https://bsky.app/profile/digitalplainwork.bsky.social/post/3mxq7cbzbp72o
-
-- **@stylelib.org**: Renovation – Construction Company WordPress Theme
-
- https://stylelib.org/?p=192771 
-
-#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
-  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
-
-- **@stylelib.org**: Pithree – Construction  Building WordPress Theme
-
- https://themes.stylelib.org/?p=15030 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumbe
-  → https://bsky.app/profile/stylelib.org/post/3mxvn6i357l2x
-
-- **@stylelib.org**: Rebuilto – Construction WordPress Theme
-
- https://stylelib.org/?p=912191 
-
-#constructioncompany #constructor #opalwp #painter #remodeling #renovation #themeforest #wordpress #architecture #business #p
-  → https://bsky.app/profile/stylelib.org/post/3mxkzgocjst2s
-
-- **@jim584.bsky.social**: What kind of answer do you expect from a plumber who got his business from his father and then was elected to the Senate because the voters in Oklahoma loved that he was a moron? It would be wild if h
-  → https://bsky.app/profile/jim584.bsky.social/post/3mxmn4x5mds2e
-
-- **@stylelib.org**: Blxo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=809738 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumber #responsiv
-  → https://bsky.app/profile/stylelib.org/post/3mxu6ajfbcl2w
-
-- **@patwoods.bsky.social**: I’ve had two different contractors come out and review why our bathroom pipes freeze in the winter. The guy today gave us helpful information and a thorough review, but it wasn’t exactly good news. Wh
-  → https://bsky.app/profile/patwoods.bsky.social/post/3mxtrmdm5vs2b
-
-- **@themattshelton.bsky.social**: So if I’m reading it correctly, the Marlins are expecting people to pay for a service because of the broadcasters, while continuing to put the same below-average to bad product on the field?
-
-Perfect 
-  → https://bsky.app/profile/themattshelton.bsky.social/post/3mxrvizjrak2v
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
