@@ -1,40 +1,52 @@
 {
-  "updated": "2026-10-16T07:25",
+  "updated": "2026-10-16T12:36",
   "posts": [
     {
-      "ts": "2026-10-16T07:23:06",
-      "channel": "tumblr",
-      "item": "pod-ep01-starter",
-      "url": null
-    },
-    {
-      "ts": "2026-10-16T07:23:05",
-      "channel": "bluesky",
-      "item": "pod-ep01-refunds",
-      "url": null
-    },
-    {
-      "ts": "2026-10-16T07:23:02",
-      "channel": "linkedin",
-      "item": "rip-reviews-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-10-16T07:23:01",
-      "channel": "tiktok",
-      "item": "pod-ep03-exclusive",
-      "url": null
-    },
-    {
-      "ts": "2026-10-16T07:22:59",
-      "channel": "ig",
-      "item": "pod-ep02-invisible",
-      "url": null
-    },
-    {
-      "ts": "2026-10-16T07:22:26",
+      "ts": "2026-10-16T12:33:48",
       "channel": "facebook",
-      "item": "pod-ep03-verdict",
+      "item": "card-cpbj",
+      "url": null
+    },
+    {
+      "ts": "2026-10-16T12:33:43",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-16T12:33:03",
+      "channel": "mastodon",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-10-16T12:32:59",
+      "channel": "tumblr",
+      "item": "pod-ep01-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-10-16T12:32:56",
+      "channel": "bluesky",
+      "item": "pod-ep01-cost",
+      "url": null
+    },
+    {
+      "ts": "2026-10-16T12:32:54",
+      "channel": "linkedin",
+      "item": "rip-speed-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-10-16T12:32:53",
+      "channel": "tiktok",
+      "item": "pod-ep03-channels",
+      "url": null
+    },
+    {
+      "ts": "2026-10-16T12:32:52",
+      "channel": "facebook",
+      "item": "pod-ep03-track",
       "url": null
     }
   ]

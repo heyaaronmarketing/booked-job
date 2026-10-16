@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-10-16T12:33",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy flextape"
+    },
+    {
       "ts": "2026-10-16T07:23",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from bounce+746171.56089b-hello=booked-job.com@discover.pinterest.com: Home Decor"
-    },
-    {
-      "ts": "2026-10-02T16:29",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor porta potty"
     }
   ]
 }

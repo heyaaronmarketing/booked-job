@@ -24,12 +24,13 @@
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-10-16T07:22:01",
+    "last_iso": "2026-10-16T12:32:19",
     "day": {
       "date": "2026-10-16",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -95,22 +96,24 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-10-16T07:22:01",
+    "last_iso": "2026-10-16T12:32:19",
     "day": {
       "date": "2026-10-16",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-10-16T07:22:01",
+    "last_iso": "2026-10-16T12:32:19",
     "day": {
       "date": "2026-10-16",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -139,12 +142,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-10-16T07:22:01",
+    "last_iso": "2026-10-16T12:32:19",
     "day": {
       "date": "2026-10-16",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -178,12 +182,13 @@
       "pod-ep02-invisible",
       "pod-ep01-verdict",
       "pod-ep01-speed",
-      "pod-ep01-starter"
+      "pod-ep01-starter",
+      "pod-ep01-ftc"
     ],
-    "last_iso": "2026-10-16T07:22:01",
+    "last_iso": "2026-10-16T12:32:19",
     "day": {
       "date": "2026-10-16",
-      "count": 1
+      "count": 2
     }
   }
 }

@@ -10,46 +10,33 @@
       "card-rev-paint",
       "card-speed",
       "card-ftc",
-      "card-stars"
+      "card-stars",
+      "card-ai"
     ],
-    "last_iso": "2026-10-15T20:13:37",
+    "last_iso": "2026-10-16T12:33:01",
     "day": {
-      "date": "2026-10-15",
-      "count": 4
+      "date": "2026-10-16",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-10-15T08:33:51",
+    "last_iso": "2026-10-16T12:33:01",
     "day": {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "count": 1
     }
   },
   "facebook": {
     "posted": [
-      "card-cpbj",
-      "card-angi",
-      "card-reviews",
-      "card-rev-plumb",
-      "card-rev-roof",
-      "card-rev-elec",
-      "card-rev-paint",
-      "card-speed",
-      "card-ftc",
-      "card-stars",
-      "card-ai",
-      "card-anon98",
-      "card-missedcall",
-      "card-trade",
-      "carousel-leadsites"
+      "card-cpbj"
     ],
-    "last_iso": "2026-10-15T17:21:51",
+    "last_iso": "2026-10-16T12:33:01",
     "day": {
-      "date": "2026-10-15",
-      "count": 2
+      "date": "2026-10-16",
+      "count": 1
     }
   }
 }

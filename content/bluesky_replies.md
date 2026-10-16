@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
+  → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
+
 - **@kittycoffee.bsky.social**: This is all I hear when those "Canada Strong, skilled trades!" ads run
 
 youtu.be/nQmqVNxo9oA?...
@@ -225,6 +228,3 @@ Conventional builds fail when builders ignore living topography and thermal mass
 
 Are you building 
   → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
-  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
