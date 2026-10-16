@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-16T16:13",
+  "updated": "2026-10-16T18:42",
   "posts": [
     {
-      "ts": "2026-10-16T16:10:39",
+      "ts": "2026-10-16T18:40:55",
       "channel": "mastodon",
-      "item": "card-anon98",
+      "item": "card-missedcall",
       "url": null
     },
     {
-      "ts": "2026-10-16T16:10:33",
+      "ts": "2026-10-16T18:40:51",
       "channel": "tumblr",
-      "item": "pod-ep01-refunds",
+      "item": "pod-ep01-cost",
       "url": null
     },
     {
-      "ts": "2026-10-16T16:10:32",
+      "ts": "2026-10-16T18:40:49",
       "channel": "bluesky",
-      "item": "pod-ep01-wrongnum",
+      "item": "pod-ep01-shared",
       "url": null
     },
     {
-      "ts": "2026-10-16T16:10:29",
+      "ts": "2026-10-16T18:40:46",
       "channel": "tiktok",
-      "item": "pod-ep03-trap",
+      "item": "pod-ep03-lie",
       "url": null
     },
     {
-      "ts": "2026-10-16T16:10:29",
+      "ts": "2026-10-16T18:40:46",
       "channel": "linkedin",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-10-16T16:10:27",
-      "channel": "ig",
-      "item": "pod-ep01-verdict",
+      "ts": "2026-10-16T18:40:45",
+      "channel": "facebook",
+      "item": "pod-ep03-exclusive",
       "url": null
     }
   ]

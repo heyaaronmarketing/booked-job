@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-10-16T18:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy extension cord"
+    },
+    {
+      "ts": "2026-10-16T18:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: ugc before after"
+    },
+    {
       "ts": "2026-10-16T16:10",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: tools lost tape"
-    },
-    {
-      "ts": "2026-10-03T07:29",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy diy"
-    },
-    {
-      "ts": "2026-10-03T01:28",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: tools loyalty"
     }
   ]
 }
