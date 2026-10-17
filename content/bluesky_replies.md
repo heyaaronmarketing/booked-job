@@ -2,6 +2,47 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Hampton – Home Design and Renovation WordPress Theme
+
+ https://themes.stylelib.org/?p=26557 
+
+#axiomthemes #building #business #construction #corporate #electrician #handyman #renovation #services #th
+  → https://bsky.app/profile/stylelib.org/post/3mx3ufknuji2q
+
+- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
+
+ https://stylelib.org/?p=811344 
+
+#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
+  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
+
+- **@stylelib.org**: Constro – Construction Business HTML5 Template
+
+ https://stylelib.org/?p=286501 
+
+#builder #electrician #painting #renovation #sitetemplates #themeforest #architecture #business #building #engineering
+  → https://bsky.app/profile/stylelib.org/post/3mxa4qmym3f2w
+
+- **@internalprofits.bsky.social**: One quiet leak in service-business branding: people can’t pass the name along.
+
+“Some electrician… I think it started with an A.” Recommendation dies.
+
+Keyword domain + vanity number fixes the handoff
+  → https://bsky.app/profile/internalprofits.bsky.social/post/3mxp6wewsx72r
+
+- **@digitalplainwork.bsky.social**: Running a heating and cooling business? schema.org has a dedicated HVACBusiness type, and Google prefers the most specific one. Free generator: fill in name, address and hours, copy ready-to-paste JSO
+  → https://bsky.app/profile/digitalplainwork.bsky.social/post/3mxq7cbzbp72o
+
+- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
+
+https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
+  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
+
+- **@themattshelton.bsky.social**: So if I’m reading it correctly, the Marlins are expecting people to pay for a service because of the broadcasters, while continuing to put the same below-average to bad product on the field?
+
+Perfect 
+  → https://bsky.app/profile/themattshelton.bsky.social/post/3mxrvizjrak2v
+
 - **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
   → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
 
@@ -198,49 +239,3 @@ Skilled Trades Partners · Milwaukee, WI
 
 357 matching in the
   → https://bsky.app/profile/deunemployment.com/post/3mxz5rvhuwt2r
-
-- **@sunriselimousine.bsky.social**: Chauffeur Service West Trenton: Comfortable Airport Transportation
-
-
-
-𝗣𝗹𝗮𝗻𝗻𝗶𝗻𝗴 𝗮𝗻 𝗮𝗶𝗿𝗽𝗼𝗿𝘁 𝘁𝗿𝗶𝗽 𝗳𝗿𝗼𝗺 𝗪𝗲𝘀𝘁 𝗧𝗿𝗲𝗻𝘁𝗼𝗻, 𝗡𝗲𝘄 𝗝𝗲𝗿𝘀𝗲𝘆?
-
- Arranging your transportation in advance can make the journey easier, wh
-  → https://bsky.app/profile/sunriselimousine.bsky.social/post/3mxnxkrpavj26
-
-- **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
-
- https://stylelib.org/?p=927746 
-
-#renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
-  → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q
-
-- **@patwoods.bsky.social**: I’ve had two different contractors come out and review why our bathroom pipes freeze in the winter. The guy today gave us helpful information and a thorough review, but it wasn’t exactly good news. Wh
-  → https://bsky.app/profile/patwoods.bsky.social/post/3mxtrmdm5vs2b
-
-- **@seokhaled1.bsky.social**: general contractor in london
-Your Property Deserves Expertise and Attention to Every Detail.
-Planning to upgrade your home, modernise your interiors, or improve the functionality of your property? Eco
-  → https://bsky.app/profile/seokhaled1.bsky.social/post/3mxxfwugre22i
-
-- **@phxhomeremodeling.bsky.social**: Who is the best remodeling contractor in Laveen?
-
-Look for a contractor who defines the scope before giving you a final construction price. That one step can change the entire project experience.
-
-htt
-  → https://bsky.app/profile/phxhomeremodeling.bsky.social/post/3mxxubmqy272w
-
-- **@stylelib.org**: Konta – Construction and Real Estate Company WordPress Theme
-
- https://themes.stylelib.org/?p=810426 
-
-#business #construction #corporate #engineering #factory #industry #interior #painter #plumber #r
-  → https://bsky.app/profile/stylelib.org/post/3mxq6ti7jyb2x
-
-- **@riggsthermonucleon.bsky.social**: The stock market is up.
-Congratulations! The economy is good.
-
-Unless you're a worker, renter, small business, borrower, nonprofit, school, plumber or birdhouse guy having a terrible day.
-
-Wall Street
-  → https://bsky.app/profile/riggsthermonucleon.bsky.social/post/3mxrerywk4s2c
