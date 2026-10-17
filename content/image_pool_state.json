@@ -1,26 +1,12 @@
 {
   "mastodon": {
     "posted": [
-      "card-cpbj",
-      "card-angi",
-      "card-reviews",
-      "card-rev-plumb",
-      "card-rev-roof",
-      "card-rev-elec",
-      "card-rev-paint",
-      "card-speed",
-      "card-ftc",
-      "card-stars",
-      "card-ai",
-      "card-anon98",
-      "card-missedcall",
-      "card-trade",
-      "carousel-leadsites"
+      "card-cpbj"
     ],
-    "last_iso": "2026-10-17T12:13:50",
+    "last_iso": "2026-10-17T14:29:08",
     "day": {
       "date": "2026-10-17",
-      "count": 2
+      "count": 3
     }
   },
   "ig": {
