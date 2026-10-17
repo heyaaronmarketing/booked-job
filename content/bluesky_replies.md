@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
+  → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=192771 
+
+#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
+  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
+
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=23196 
+
+#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
+  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
+
+- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
+
+ https://themes.stylelib.org/?p=36867 
+
+#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
+
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
 
@@ -220,34 +244,3 @@ Unless you're a worker, renter, small business, borrower, nonprofit, school, plu
 
 Wall Street
   → https://bsky.app/profile/riggsthermonucleon.bsky.social/post/3mxrerywk4s2c
-
-- **@brandingnyc.bsky.social**: Need more plumbing leads? Start with where customers are already looking.
-
-SEO can help your business rank locally and reach people searching for a plumber right now.
-
-https://bit.ly/4B5AVtg
-
-#Plumber
-  → https://bsky.app/profile/brandingnyc.bsky.social/post/3mxrrst2c7y2x
-
-- **@stylelib.org**: Blxo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=809738 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumber #responsiv
-  → https://bsky.app/profile/stylelib.org/post/3mxu6ajfbcl2w
-
-- **@stylelib.org**: Pithree – Construction  Building WordPress Theme
-
- https://themes.stylelib.org/?p=15030 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #industry #plumbe
-  → https://bsky.app/profile/stylelib.org/post/3mxvn6i357l2x
-
-- **@brandingaloha.bsky.social**: Need more plumbing leads in Hawaii? Start where customers are already looking. 🔍🌺
-
-SEO can help your business rank locally and reach people searching for a plumber right now.
-
-Watch:
-https://bit.ly/3U
-  → https://bsky.app/profile/brandingaloha.bsky.social/post/3mxyx3vbddm2j

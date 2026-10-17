@@ -13,12 +13,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-10-16T16:09:22",
+    "last_iso": "2026-10-17T08:50:14",
     "day": {
-      "date": "2026-10-16",
-      "count": 2
+      "date": "2026-10-17",
+      "count": 1
     }
   },
   "tiktok": {
@@ -28,34 +29,37 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-10-16T18:40:16",
+    "last_iso": "2026-10-17T08:50:14",
     "day": {
-      "date": "2026-10-16",
-      "count": 4
+      "date": "2026-10-17",
+      "count": 1
     }
   },
   "linkedin": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-10-16T18:40:16",
+    "last_iso": "2026-10-17T08:50:14",
     "day": {
-      "date": "2026-10-16",
-      "count": 4
+      "date": "2026-10-17",
+      "count": 1
     }
   },
   "facebook": {
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-10-16T18:40:16",
+    "last_iso": "2026-10-17T08:50:14",
     "day": {
-      "date": "2026-10-16",
-      "count": 3
+      "date": "2026-10-17",
+      "count": 1
     }
   },
   "pinterest": {
@@ -87,12 +91,13 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-10-16T18:40:16",
+    "last_iso": "2026-10-17T08:50:14",
     "day": {
-      "date": "2026-10-16",
-      "count": 4
+      "date": "2026-10-17",
+      "count": 1
     }
   },
   "telegram": {
@@ -129,12 +134,13 @@
       "pod-ep01-starter",
       "pod-ep01-ftc",
       "pod-ep01-refunds",
-      "pod-ep01-cost"
+      "pod-ep01-cost",
+      "pod-ep01-wrongnum"
     ],
-    "last_iso": "2026-10-16T18:40:16",
+    "last_iso": "2026-10-17T08:50:14",
     "day": {
-      "date": "2026-10-16",
-      "count": 4
+      "date": "2026-10-17",
+      "count": 1
     }
   }
 }
