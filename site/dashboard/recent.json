@@ -1,40 +1,46 @@
 {
-  "updated": "2026-10-17T14:32",
+  "updated": "2026-10-17T17:26",
   "posts": [
     {
-      "ts": "2026-10-17T14:29:11",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T14:29:07",
-      "channel": "tumblr",
-      "item": "bj-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T14:29:04",
-      "channel": "bluesky",
-      "item": "bj-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T14:29:01",
-      "channel": "linkedin",
-      "item": "pod-ep03-channels",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T14:28:59",
-      "channel": "tiktok",
-      "item": "pod-ep02-onetap",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T14:28:58",
+      "ts": "2026-10-17T17:24:59",
       "channel": "facebook",
+      "item": "card-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-10-17T17:24:54",
+      "channel": "mastodon",
+      "item": "card-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-10-17T17:24:50",
+      "channel": "tumblr",
+      "item": "bj-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-10-17T17:24:48",
+      "channel": "bluesky",
+      "item": "bj-slow",
+      "url": null
+    },
+    {
+      "ts": "2026-10-17T17:24:45",
+      "channel": "linkedin",
       "item": "pod-ep03-trap",
+      "url": null
+    },
+    {
+      "ts": "2026-10-17T17:24:44",
+      "channel": "tiktok",
+      "item": "pod-ep02-peak",
+      "url": null
+    },
+    {
+      "ts": "2026-10-17T17:24:43",
+      "channel": "ig",
+      "item": "pod-ep01-starter",
       "url": null
     }
   ]

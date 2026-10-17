@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-10-17T17:24",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner neighbor"
+    },
+    {
       "ts": "2026-10-17T14:29",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: homeowner quick"
-    },
-    {
-      "ts": "2026-10-04T01:47",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: ba nobody sees"
     }
   ]
 }
