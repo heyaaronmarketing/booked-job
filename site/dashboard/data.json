@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:33",
+  "updated": "2026-10-18T18:01",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1154,
+      "views": 1155,
       "followers": 1
     },
     {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 24,
+      "count": 25,
       "unit": "posts",
       "followers": 287,
       "grade": "A",
@@ -490,7 +490,7 @@
       "status": "live",
       "count": 66,
       "unit": "posts (Buffer)",
-      "stat": "511 reach \u00b7 1 reactions",
+      "stat": "484 reach \u00b7 1 reactions",
       "views": 14,
       "likes": 1,
       "grade": "B",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 4
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 4
       },
       {
         "type": "Long video",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 24
+        "count": 25
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 27
+        "count": 28
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 25
+        "count": 26
       }
     ]
   },
@@ -770,7 +770,7 @@
     }
   ],
   "funnel": {
-    "reach": 35938,
+    "reach": 35941,
     "engagement": 3,
     "audience": 318,
     "cr_clicks": 156
@@ -779,7 +779,7 @@
     "audience": 19,
     "engagement": -7,
     "email": 0,
-    "reach": 378
+    "reach": 381
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1485,
+        "value": 1486,
         "grade": "A"
       },
       {
