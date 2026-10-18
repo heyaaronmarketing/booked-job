@@ -1,34 +1,40 @@
 {
-  "updated": "2026-10-18T13:15",
+  "updated": "2026-10-18T15:47",
   "posts": [
     {
-      "ts": "2026-10-18T13:13:09",
+      "ts": "2026-10-18T15:45:52",
       "channel": "mastodon",
-      "item": "card-rev-roof",
+      "item": "card-rev-elec",
       "url": null
     },
     {
-      "ts": "2026-10-18T13:13:04",
+      "ts": "2026-10-18T15:45:45",
       "channel": "tumblr",
-      "item": "bj-cpbj",
+      "item": "bj-speed",
       "url": null
     },
     {
-      "ts": "2026-10-18T13:13:02",
+      "ts": "2026-10-18T15:45:43",
       "channel": "bluesky",
-      "item": "bj-ftc",
+      "item": "bj-cpl",
       "url": null
     },
     {
-      "ts": "2026-10-18T13:12:58",
+      "ts": "2026-10-18T15:45:39",
       "channel": "linkedin",
+      "item": "pod-ep02-onetap",
+      "url": null
+    },
+    {
+      "ts": "2026-10-18T15:45:38",
+      "channel": "facebook",
       "item": "pod-ep02-fake",
       "url": null
     },
     {
-      "ts": "2026-10-18T13:12:57",
+      "ts": "2026-10-18T15:45:38",
       "channel": "tiktok",
-      "item": "pod-ep01-verdict",
+      "item": "pod-ep01-speed",
       "url": null
     }
   ]
