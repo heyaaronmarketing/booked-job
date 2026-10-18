@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kharnaa.bsky.social**: The small business websites I'd buy from get one dull thing right early. A plumber who names the towns they cover in the first line has my money before the About page.
+
+Which site made you want to buy
+  → https://bsky.app/profile/kharnaa.bsky.social/post/3my5caeehvh2y
+
+- **@smrtcanuck.bsky.social**: Did you ever get your dishwasher? Partly based on your experience, we went and bought one at Kent and picked it up ourselves. The plumber installed it Friday so we're back in business. This is the fir
+  → https://bsky.app/profile/smrtcanuck.bsky.social/post/3my5eyjjwys2h
+
+- **@thetecheng.bsky.social**: Should I amortize my bonus, since its capital?
+
+Also considering the one plumber actually bought out his bosse's business (after a few years of those bonuses) hard to say he was getting fucked over
+  → https://bsky.app/profile/thetecheng.bsky.social/post/3my5qxrfehc2l
+
+- **@global-free-classified-ads.com**: Looking for services, rentals, used cars or work in Houston, TX? Browse local classifieds covering home repairs, real estate, jobs, furniture and business offers. Sellers and service providers can pos
+  → https://bsky.app/profile/global-free-classified-ads.com/post/3my5mroortk2k
+
 - **@stylelib.org**: Hampton – Home Design and Renovation WordPress Theme
 
  https://themes.stylelib.org/?p=26557 
@@ -217,27 +233,3 @@ SEO can help your business rank locally and reach people searching for a plumber
 
 https://www.brandingmia.co
   → https://bsky.app/profile/brandingmiami.bsky.social/post/3mxwewxambm2a
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
-
-https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics3
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Enhance mobile offline up-sync
-
-https://www.cloudpulsebriefs.com/briefs/m365-573241/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxi7cfwqo32y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Modernize the mobile offline foundation
-
-https://www.cloudpulsebriefs.com/briefs/m365-573240/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxidxqm4qy23
-
-- **@operandicat.bsky.social**: How Can AI Service Automation for Small Business Transform Field Technician Dispatch and Diagnostics? — https://technician.dev/knowledge/how_can_ai_service_automation_for_small_business_transform_fiel
-  → https://bsky.app/profile/operandicat.bsky.social/post/3mxx2hmnv2t2g
