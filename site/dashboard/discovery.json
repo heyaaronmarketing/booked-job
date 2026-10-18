@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T10:54:38Z",
+  "updated": "2026-10-18T14:30:03Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,18 +88,18 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 8,
+        "uses": 9,
         "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
+        "tag": "#contractors",
+        "uses": 7,
+        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#RoofingServices",
         "uses": 6,
         "link": "https://mastodon.social/tags/RoofingServices"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#RoofingServicesTexas",
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/plumbingmarketing"
       },
       {
-        "tag": "#ContractorWebsites",
+        "tag": "#roofing",
         "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorWebsites"
+        "link": "https://mastodon.social/tags/roofing"
       }
     ],
     "accounts": [
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1605,
+      "followers": 1606,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1329,
+      "followers": 1330,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
