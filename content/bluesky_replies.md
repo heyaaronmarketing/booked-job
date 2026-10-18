@@ -2,6 +2,67 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@eliteoptions2.bsky.social**: whop.com/checkout/plan_
+
+What's included?
+* 🎙️ Real-Time Trade Alerts (10-20 trades per week) & Live Commentary
+Get all entries and exits as they happen, no delays.
+
+* 🎙️Live Voice Sessions
+Premarket 
+  → https://bsky.app/profile/eliteoptions2.bsky.social/post/3mxzr2pzzvs2o
+
+- **@alvinifrankil.bsky.social**: Locked out of your home, car, or business? Security Lock Service helps with lock and key problems across Oklahoma City. Choose Locksmith OKC services for lockouts, key duplication, lock repairs, rekey
+  → https://bsky.app/profile/alvinifrankil.bsky.social/post/3mxsutxafcc2m
+
+- **@cricketmh.bsky.social**: Hey #CentralPeace-Notley 
+#MLA #ToddLoewen
+
+Typical of UCP Todd has great difficulty separating public service from business opportunity. 
+Trades in dead wild animals. 
+Can’t imagine that impresses hi
+  → https://bsky.app/profile/cricketmh.bsky.social/post/3my24djlgms24
+
+- **@stylelib.org**: Tradesmen – Construction WordPress Theme
+
+ https://stylelib.org/?p=167376 
+
+#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
+  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
+
 - **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
   → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
 
@@ -168,68 +229,3 @@ Cl
 
 - **@missymissyprissy.bsky.social**: www.birdsadvice.com/high-paying-...
   → https://bsky.app/profile/missymissyprissy.bsky.social/post/3my2u5a7kqk27
-
-- **@stylelib.org**: Hampton – Home Design and Renovation WordPress Theme
-
- https://themes.stylelib.org/?p=26557 
-
-#axiomthemes #building #business #construction #corporate #electrician #handyman #renovation #services #th
-  → https://bsky.app/profile/stylelib.org/post/3mx3ufknuji2q
-
-- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
-
- https://stylelib.org/?p=811344 
-
-#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
-  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
-
-- **@stylelib.org**: Constro – Construction Business HTML5 Template
-
- https://stylelib.org/?p=286501 
-
-#builder #electrician #painting #renovation #sitetemplates #themeforest #architecture #business #building #engineering
-  → https://bsky.app/profile/stylelib.org/post/3mxa4qmym3f2w
-
-- **@internalprofits.bsky.social**: One quiet leak in service-business branding: people can’t pass the name along.
-
-“Some electrician… I think it started with an A.” Recommendation dies.
-
-Keyword domain + vanity number fixes the handoff
-  → https://bsky.app/profile/internalprofits.bsky.social/post/3mxp6wewsx72r
-
-- **@digitalplainwork.bsky.social**: Running a heating and cooling business? schema.org has a dedicated HVACBusiness type, and Google prefers the most specific one. Free generator: fill in name, address and hours, copy ready-to-paste JSO
-  → https://bsky.app/profile/digitalplainwork.bsky.social/post/3mxq7cbzbp72o
-
-- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
-
-https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
-  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
-
-- **@themattshelton.bsky.social**: So if I’m reading it correctly, the Marlins are expecting people to pay for a service because of the broadcasters, while continuing to put the same below-average to bad product on the field?
-
-Perfect 
-  → https://bsky.app/profile/themattshelton.bsky.social/post/3mxrvizjrak2v
-
-- **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
-  → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
-
-- **@stylelib.org**: Renovation – Construction Company WordPress Theme
-
- https://stylelib.org/?p=192771 
-
-#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
-  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
-
-- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=23196 
-
-#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
-  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
-
-- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
-
- https://themes.stylelib.org/?p=36867 
-
-#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
-  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x

@@ -1,41 +1,4 @@
 {
-  "updated": "2026-10-17T20:07",
-  "posts": [
-    {
-      "ts": "2026-10-17T20:05:38",
-      "channel": "mastodon",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T20:05:33",
-      "channel": "tumblr",
-      "item": "bj-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T20:05:31",
-      "channel": "bluesky",
-      "item": "bj-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T20:05:26",
-      "channel": "tiktok",
-      "item": "pod-ep02-howmany",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T20:05:26",
-      "channel": "linkedin",
-      "item": "pod-ep03-lie",
-      "url": null
-    },
-    {
-      "ts": "2026-10-17T20:05:25",
-      "channel": "facebook",
-      "item": "pod-ep03-lie",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-18T00:49",
+  "posts": []
 }

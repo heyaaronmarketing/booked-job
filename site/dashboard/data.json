@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:53",
+  "updated": "2026-10-18T00:45",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 895,
+      "views": 1011,
       "followers": 1
     },
     {
@@ -435,12 +435,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 19,
+      "count": 20,
       "unit": "posts",
       "followers": 284,
       "grade": "A",
       "group": "social",
-      "likes": 6
+      "likes": 5
     },
     {
       "name": "Mastodon",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 15
+        "count": 17
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 15
+        "count": 17
       },
       {
         "type": "Long video",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 24
+        "count": 25
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 22
+        "count": 23
       }
     ]
   },
@@ -770,16 +770,16 @@
     }
   ],
   "funnel": {
-    "reach": 35504,
+    "reach": 35722,
     "engagement": 3,
     "audience": 315,
     "cr_clicks": 156
   },
   "trends": {
-    "audience": 20,
+    "audience": 16,
     "engagement": -7,
     "email": 0,
-    "reach": 82
+    "reach": 162
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1475,
+        "value": 1476,
         "grade": "A"
       },
       {
