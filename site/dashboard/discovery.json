@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T23:01:19Z",
+  "updated": "2026-10-19T01:06:50Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,23 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 57,
+        "uses": 50,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 24,
+        "uses": 21,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
-        "uses": 9,
+        "uses": 8,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#contractors",
-        "uses": 7,
-        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#RoofingServices",
@@ -105,6 +100,11 @@
         "tag": "#RoofingServicesTexas",
         "uses": 4,
         "link": "https://mastodon.social/tags/RoofingServicesTexas"
+      },
+      {
+        "tag": "#contractors",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#contractor",
@@ -122,14 +122,14 @@
         "link": "https://mastodon.social/tags/plumbingtime"
       },
       {
-        "tag": "#PlumbingEmergencyInColumbus",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingEmergencyInColumbus"
-      },
-      {
         "tag": "#plumbingmarketing",
         "uses": 1,
         "link": "https://mastodon.social/tags/plumbingmarketing"
+      },
+      {
+        "tag": "#PlumbingEmergencyInColumbus",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/PlumbingEmergencyInColumbus"
       },
       {
         "tag": "#roofing",
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10293,
+      "followers": 10296,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4301,
+      "followers": 4300,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1606,
+      "followers": 1608,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
