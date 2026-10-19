@@ -1,11 +1,12 @@
 {
   "done": [
-    "low-bid",
-    "is-angi-worth-it",
-    "chargeback-trap",
-    "last-guy",
-    "first-to-answer",
     "eight-automations",
-    "519-reviews"
+    "519-reviews",
+    "first-to-answer",
+    "last-guy",
+    "low-bid",
+    "missed-call",
+    "is-angi-worth-it",
+    "chargeback-trap"
   ]
 }
