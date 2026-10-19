@@ -2,6 +2,38 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
+  → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
+
+- **@sendwork.bsky.social**: Ireland's minimum wage is €14.94 from January, and Budget 2027 lifts the employer PRSI threshold to €600 a week.
+
+https://blog.sendwork.com/budget-2027-trade-business-ireland/?utm_source=bluesky&utm_m
+  → https://bsky.app/profile/sendwork.bsky.social/post/3my5orxwjbl2n
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
+
+https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dynamics3
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Enhance mobile offline up-sync
+
+https://www.cloudpulsebriefs.com/briefs/m365-573241/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dynamics365FieldService
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxi7cfwqo32y
+
+- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Modernize the mobile offline foundation
+
+https://www.cloudpulsebriefs.com/briefs/m365-573240/?utm_source=bluesky
+
+#M365 #Microsoft365 #Cloud #Dynamics365FieldService
+  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxidxqm4qy23
+
+- **@operandicat.bsky.social**: How Can AI Service Automation for Small Business Transform Field Technician Dispatch and Diagnostics? — https://technician.dev/knowledge/how_can_ai_service_automation_for_small_business_transform_fiel
+  → https://bsky.app/profile/operandicat.bsky.social/post/3mxx2hmnv2t2g
+
 - **@kharnaa.bsky.social**: The small business websites I'd buy from get one dull thing right early. A plumber who names the towns they cover in the first line has my money before the About page.
 
 Which site made you want to buy
@@ -186,41 +218,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
   → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
-
-You know, a lot of times an owner tells me, “We already had somebody set that up.” 
-  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
-
-- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
-
-Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
-  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
-
-- **@eliteoptions2.bsky.social**: whop.com/checkout/plan_
-
-What's included?
-* 🎙️ Real-Time Trade Alerts (10-20 trades per week) & Live Commentary
-Get all entries and exits as they happen, no delays.
-
-* 🎙️Live Voice Sessions
-Premarket 
-  → https://bsky.app/profile/eliteoptions2.bsky.social/post/3mxzr2pzzvs2o
-
-- **@cricketmh.bsky.social**: Hey #CentralPeace-Notley 
-#MLA #ToddLoewen
-
-Typical of UCP Todd has great difficulty separating public service from business opportunity. 
-Trades in dead wild animals. 
-Can’t imagine that impresses hi
-  → https://bsky.app/profile/cricketmh.bsky.social/post/3my24djlgms24
-
-- **@stylelib.org**: Tradesmen – Construction WordPress Theme
-
- https://stylelib.org/?p=167376 
-
-#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
-  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
