@@ -1,4 +1,65 @@
 {
-  "updated": "2026-10-19T02:43",
-  "posts": []
+  "updated": "2026-10-19T10:47",
+  "posts": [
+    {
+      "ts": "2026-10-19T10:45:29",
+      "channel": "youtube",
+      "item": "bj-first10k",
+      "url": "https://youtu.be/SbhhKEMoi18"
+    },
+    {
+      "ts": "2026-10-19T10:45:24",
+      "channel": "facebook",
+      "item": "card-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:45:20",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:44:45",
+      "channel": "mastodon",
+      "item": "card-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:44:41",
+      "channel": "tumblr",
+      "item": "bj-favor",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:44:40",
+      "channel": "bluesky",
+      "item": "bj-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:44:36",
+      "channel": "linkedin",
+      "item": "pod-ep02-howmany",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:44:34",
+      "channel": "tiktok",
+      "item": "pod-ep01-refunds",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:44:33",
+      "channel": "ig",
+      "item": "pod-ep01-cost",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T10:43:59",
+      "channel": "facebook",
+      "item": "pod-ep02-onetap",
+      "url": null
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T02:43",
+  "generated": "2026-10-19T10:47",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 82,
+        "current": 85,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1038,
+    "social_posts": 1041,
     "followers": 313,
     "engagement": 3,
     "yt_views": 2398,

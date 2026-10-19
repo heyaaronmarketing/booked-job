@@ -2,6 +2,66 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
+  → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
+
+ https://themes.stylelib.org/?p=4205 
+
+#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
+  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
+
+- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
+
+$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
+  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
+
+- **@brandingaloha.bsky.social**: Need more plumbing leads in Hawaii? Start where customers are already looking. 🔍🌺
+
+SEO can help your business rank locally and reach people searching for a plumber right now.
+
+Watch:
+https://bit.ly/3U
+  → https://bsky.app/profile/brandingaloha.bsky.social/post/3mxyx3vbddm2j
+
+- **@stylelib.org**: Tradesmen – Construction WordPress Theme
+
+ https://stylelib.org/?p=167376 
+
+#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
+  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
+
+- **@stylelib.org**: Builta – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=823635 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
+  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
+
+- **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
+
+ https://stylelib.org/?p=927746 
+
+#renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
+  → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q
+
 - **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
   → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
 
@@ -156,65 +216,3 @@ Conventional builds fail when builders ignore living topography and thermal mass
 
 Are you building 
   → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@alvinifrankil.bsky.social**: Locked out of your home, car, or business? Security Lock Service helps with lock and key problems across Oklahoma City. Choose Locksmith OKC services for lockouts, key duplication, lock repairs, rekey
-  → https://bsky.app/profile/alvinifrankil.bsky.social/post/3mxsutxafcc2m
-
-- **@gucky.bsky.social**: Remember when Mark Hurd got run out of the CEO job at HP because he was using tons of company funds and the corporate jet to have an affair with a junior marketing contractor?
-
-And then Larry Ellison 
-  → https://bsky.app/profile/gucky.bsky.social/post/3mxaklfu6rs27
-
-- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
-
-Click to
-  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
-
-- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
-Financial stability?
-Patron experience?
-Industry standing?
-Ticket sales?
-Education program?
-Marketing?
-Rental client satisfaction?
-Show advance?
-Contractor dep
-  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
-
-- **@g2bizsolutions.bsky.social**: Revenue going up, but your bank balance staying flat?
-
-You might be “busy but broke.”
-
-Unused subscriptions, untracked contractor hours, and wasted marketing spend can quietly eat your profits.
-
-Know 
-  → https://bsky.app/profile/g2bizsolutions.bsky.social/post/3mxooucrl6k2l
-
-- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
-  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Aaleest USA Construction Inc (San Jose, CA). Licensed California contractor (general building), based in San Jose, CA. CSLB license 1149176, active when we checked.
-
-htt
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3my6ira5r2l2k
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
