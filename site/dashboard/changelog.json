@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-10-20T15:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy flextape"
+    },
+    {
+      "ts": "2026-10-20T15:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: labor good help"
+    },
+    {
       "ts": "2026-10-20T12:03",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "engage",
       "icon": "💬",
       "text": "📧 Outreach reply from postmaster@cio54818.mail.apollo.io: =?UTF-8?q?New_AI_agents_in_Slack:_How_one_AE_5x=E2=80=99d_reply_rates?="
-    },
-    {
-      "ts": "2026-10-06T15:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: homeowner cash"
-    },
-    {
-      "ts": "2026-10-06T15:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor friday"
     }
   ]
 }

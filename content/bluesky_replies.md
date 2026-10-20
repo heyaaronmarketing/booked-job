@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@ownersrepnyc.bsky.social**: Locked out of your home, car, or business? 🔑 Get back to your day with reliable locksmith services in Coon Rapids, MN! From emergency lockouts and key replacement to lock repairs and security upgrades
+  → https://bsky.app/profile/ownersrepnyc.bsky.social/post/3mydg5v6okc2t
+
 - **@kharnaa.bsky.social**: The small business websites I'd buy from get one dull thing right early. A plumber who names the towns they cover in the first line has my money before the About page.
 
 Which site made you want to buy
@@ -204,8 +207,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 #architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
   → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
-
-- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
-
-$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
-  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
