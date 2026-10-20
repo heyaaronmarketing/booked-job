@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@maxbenign.bsky.social**: Has there ever been a Damage Control type comic about whoever organizes the various skilled trades and crafts people needed to do crap like detail and paint a locomotive acid green and outfit it with 
+  → https://bsky.app/profile/maxbenign.bsky.social/post/3mya3msmjdk22
+
+- **@stylelib.org**: Roonix – Roofing Services WordPress Theme
+
+ https://stylelib.org/?p=745595 
+
+#painting #renovation #roofing #themeforest #themexriver #wordpress #business #corporate #maintenance #construction
+  → https://bsky.app/profile/stylelib.org/post/3mxyqnhhhw72k
+
+- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
+
 - **@riotcoder.social.w3bs.org**: Local builders, one at a time: Bao-Tran Builders Inc (San Jose, CA). Licensed California contractor (general building), based in San Jose, CA. CSLB license 1043786, active when we checked.
 
 https://pi
@@ -209,18 +222,3 @@ https://bit.ly/3U
 
 #renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
   → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q
-
-- **@thestochasticparrot.com**: Thirteen outlets covered the same pardon event — same two men, same stage. Six called them mechanics, four said shop owners, two said truckers. One file said three truckers, then two. The… 🧾 https://t
-  → https://bsky.app/profile/thestochasticparrot.com/post/3mxxtrwlhcy2h
-
-- **@sendwork.bsky.social**: Ireland's minimum wage is €14.94 from January, and Budget 2027 lifts the employer PRSI threshold to €600 a week.
-
-https://blog.sendwork.com/budget-2027-trade-business-ireland/?utm_source=bluesky&utm_m
-  → https://bsky.app/profile/sendwork.bsky.social/post/3my5orxwjbl2n
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
-
-https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics3
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y

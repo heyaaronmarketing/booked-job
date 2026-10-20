@@ -19,12 +19,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-10-19T19:26:18",
+    "last_iso": "2026-10-20T06:26:17",
     "day": {
-      "date": "2026-10-19",
-      "count": 2
+      "date": "2026-10-20",
+      "count": 1
     }
   },
   "tiktok": {
@@ -47,12 +48,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-10-19T19:26:18",
+    "last_iso": "2026-10-20T06:26:17",
     "day": {
-      "date": "2026-10-19",
-      "count": 3
+      "date": "2026-10-20",
+      "count": 1
     }
   },
   "linkedin": {
@@ -69,12 +71,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-10-19T19:26:18",
+    "last_iso": "2026-10-20T06:26:17",
     "day": {
-      "date": "2026-10-19",
-      "count": 3
+      "date": "2026-10-20",
+      "count": 1
     }
   },
   "facebook": {
@@ -88,12 +91,13 @@
       "pod-ep02-system",
       "pod-ep02-fake",
       "pod-ep02-onetap",
-      "pod-ep02-peak"
+      "pod-ep02-peak",
+      "pod-ep02-howmany"
     ],
-    "last_iso": "2026-10-19T16:11:50",
+    "last_iso": "2026-10-20T06:26:17",
     "day": {
-      "date": "2026-10-19",
-      "count": 2
+      "date": "2026-10-20",
+      "count": 1
     }
   },
   "pinterest": {
@@ -138,12 +142,13 @@
       "bj-stars",
       "bj-ai",
       "bj-scam",
-      "bj-rev-hvac"
+      "bj-rev-hvac",
+      "bj-rev-plumb"
     ],
-    "last_iso": "2026-10-19T19:26:18",
+    "last_iso": "2026-10-20T06:26:17",
     "day": {
-      "date": "2026-10-19",
-      "count": 3
+      "date": "2026-10-20",
+      "count": 1
     }
   },
   "telegram": {
@@ -193,12 +198,13 @@
       "bj-cpl",
       "bj-favor",
       "bj-stars",
-      "bj-ai"
+      "bj-ai",
+      "bj-scam"
     ],
-    "last_iso": "2026-10-19T19:26:18",
+    "last_iso": "2026-10-20T06:26:17",
     "day": {
-      "date": "2026-10-19",
-      "count": 3
+      "date": "2026-10-20",
+      "count": 1
     }
   }
 }

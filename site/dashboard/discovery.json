@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T05:55:47Z",
+  "updated": "2026-10-20T11:25:00Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 56,
+        "uses": 58,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -185,7 +185,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 733,
+        "followers": 732,
         "link": "https://mastodon.social/@Noshir"
       }
     ]
@@ -264,7 +264,7 @@
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1179,
+      "followers": 1180,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },
