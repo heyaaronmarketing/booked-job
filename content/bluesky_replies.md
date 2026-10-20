@@ -2,6 +2,22 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kharnaa.bsky.social**: The small business websites I'd buy from get one dull thing right early. A plumber who names the towns they cover in the first line has my money before the About page.
+
+Which site made you want to buy
+  → https://bsky.app/profile/kharnaa.bsky.social/post/3my5caeehvh2y
+
+- **@smrtcanuck.bsky.social**: Did you ever get your dishwasher? Partly based on your experience, we went and bought one at Kent and picked it up ourselves. The plumber installed it Friday so we're back in business. This is the fir
+  → https://bsky.app/profile/smrtcanuck.bsky.social/post/3my5eyjjwys2h
+
+- **@thetecheng.bsky.social**: Should I amortize my bonus, since its capital?
+
+Also considering the one plumber actually bought out his bosse's business (after a few years of those bonuses) hard to say he was getting fucked over
+  → https://bsky.app/profile/thetecheng.bsky.social/post/3my5qxrfehc2l
+
+- **@global-free-classified-ads.com**: Looking for services, rentals, used cars or work in Houston, TX? Browse local classifieds covering home repairs, real estate, jobs, furniture and business offers. Sellers and service providers can pos
+  → https://bsky.app/profile/global-free-classified-ads.com/post/3my5mroortk2k
+
 - **@maxbenign.bsky.social**: Has there ever been a Damage Control type comic about whoever organizes the various skilled trades and crafts people needed to do crap like detail and paint a locomotive acid green and outfit it with 
   → https://bsky.app/profile/maxbenign.bsky.social/post/3mya3msmjdk22
 
@@ -193,32 +209,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 $97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
   → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
-
-- **@brandingaloha.bsky.social**: Need more plumbing leads in Hawaii? Start where customers are already looking. 🔍🌺
-
-SEO can help your business rank locally and reach people searching for a plumber right now.
-
-Watch:
-https://bit.ly/3U
-  → https://bsky.app/profile/brandingaloha.bsky.social/post/3mxyx3vbddm2j
-
-- **@stylelib.org**: Tradesmen – Construction WordPress Theme
-
- https://stylelib.org/?p=167376 
-
-#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
-  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
-
-- **@stylelib.org**: Builta – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=823635 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
-  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
-
-- **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
-
- https://stylelib.org/?p=927746 
-
-#renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
-  → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q

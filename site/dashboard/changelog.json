@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-10-20T12:03",
+      "kind": "engage",
+      "icon": "💬",
+      "text": "📧 Outreach reply from postmaster@cio54818.mail.apollo.io: The future of GTM: one system, not a stack of tools"
+    },
+    {
+      "ts": "2026-10-20T12:02",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: labor ghost"
+    },
+    {
       "ts": "2026-10-20T06:28",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: humor friday"
-    },
-    {
-      "ts": "2026-10-06T10:15",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from postmaster@cio54818.mail.apollo.io: Ends tomorrow: Live agent support"
-    },
-    {
-      "ts": "2026-10-06T10:15",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: The art of not hiding the imperfections | Artilogic in Write A Catalyst"
     }
   ]
 }
