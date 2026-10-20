@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:00:15Z",
+  "updated": "2026-10-20T00:14:47Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 57,
+        "uses": 54,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 22,
+        "uses": 23,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -93,23 +93,18 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 11,
+        "uses": 10,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#contractors",
-        "uses": 7,
+        "uses": 5,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#RoofingServices",
-        "uses": 6,
+        "uses": 3,
         "link": "https://mastodon.social/tags/RoofingServices"
-      },
-      {
-        "tag": "#RoofingServicesTexas",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/RoofingServicesTexas"
       },
       {
         "tag": "#roofing",
@@ -135,12 +130,17 @@
         "tag": "#PlumbingEmergencyInColumbus",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingEmergencyInColumbus"
+      },
+      {
+        "tag": "#ContractorWebsites",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorWebsites"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467646,
+        "followers": 467647,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10307,
+      "followers": 10310,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2239,
+      "followers": 2240,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
@@ -278,7 +278,7 @@
     {
       "handle": "@kegman83.bsky.social",
       "display": "Killdozer Enthusiast. CIA contractor paid with kibble.",
-      "followers": 998,
+      "followers": 997,
       "desc": "Definitely, totally not a member of a state sponsored intelligence agency but thanks for asking. 🇺🇦🇺🇲🇮🇪🦴",
       "link": "https://bsky.app/profile/kegman83.bsky.social"
     },

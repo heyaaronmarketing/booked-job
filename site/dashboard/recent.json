@@ -1,40 +1,46 @@
 {
-  "updated": "2026-10-19T16:14",
+  "updated": "2026-10-19T19:30",
   "posts": [
     {
-      "ts": "2026-10-19T16:12:33",
-      "channel": "mastodon",
-      "item": "card-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-10-19T16:12:28",
-      "channel": "tumblr",
-      "item": "bj-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-10-19T16:12:25",
-      "channel": "bluesky",
-      "item": "bj-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-10-19T16:12:21",
-      "channel": "tiktok",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-10-19T16:12:21",
-      "channel": "linkedin",
-      "item": "pod-ep02-invisible",
-      "url": null
-    },
-    {
-      "ts": "2026-10-19T16:12:20",
+      "ts": "2026-10-19T19:28:13",
       "channel": "facebook",
-      "item": "pod-ep02-peak",
+      "item": "card-rev-paint",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T19:28:09",
+      "channel": "mastodon",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T19:28:05",
+      "channel": "tumblr",
+      "item": "bj-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T19:28:03",
+      "channel": "bluesky",
+      "item": "bj-rev-hvac",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T19:27:59",
+      "channel": "linkedin",
+      "item": "pod-ep01-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T19:27:58",
+      "channel": "tiktok",
+      "item": "pod-ep01-wrongnum",
+      "url": null
+    },
+    {
+      "ts": "2026-10-19T19:27:57",
+      "channel": "ig",
+      "item": "pod-ep01-wrongnum",
       "url": null
     }
   ]

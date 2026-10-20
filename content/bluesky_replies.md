@@ -2,6 +2,78 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@eliteoptions2.bsky.social**: whop.com/checkout/plan_
+
+What's included?
+* 🎙️ Real-Time Trade Alerts (10-20 trades per week) & Live Commentary
+Get all entries and exits as they happen, no delays.
+
+* 🎙️Live Voice Sessions
+Premarket 
+  → https://bsky.app/profile/eliteoptions2.bsky.social/post/3mxzr2pzzvs2o
+
+- **@girlsbelike.bsky.social**: Girls be like:
+
+“‘Are you in the business yourself?’ I says, tyking off my ’at, for a man what trades in wolves, anceterer, is a good friend to keepers.
+  → https://bsky.app/profile/girlsbelike.bsky.social/post/3my7v3gage62x
+
+- **@gucky.bsky.social**: Remember when Mark Hurd got run out of the CEO job at HP because he was using tons of company funds and the corporate jet to have an affair with a junior marketing contractor?
+
+And then Larry Ellison 
+  → https://bsky.app/profile/gucky.bsky.social/post/3mxaklfu6rs27
+
+- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
+
+Click to
+  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
+
+- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
+Financial stability?
+Patron experience?
+Industry standing?
+Ticket sales?
+Education program?
+Marketing?
+Rental client satisfaction?
+Show advance?
+Contractor dep
+  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
+
+- **@g2bizsolutions.bsky.social**: Revenue going up, but your bank balance staying flat?
+
+You might be “busy but broke.”
+
+Unused subscriptions, untracked contractor hours, and wasted marketing spend can quietly eat your profits.
+
+Know 
+  → https://bsky.app/profile/g2bizsolutions.bsky.social/post/3mxooucrl6k2l
+
+- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
+  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
+
+- **@cricketmh.bsky.social**: Hey #CentralPeace-Notley 
+#MLA #ToddLoewen
+
+Typical of UCP Todd has great difficulty separating public service from business opportunity. 
+Trades in dead wild animals. 
+Can’t imagine that impresses hi
+  → https://bsky.app/profile/cricketmh.bsky.social/post/3my24djlgms24
+
+- **@business-fox-ceo.bsky.social**: When was the last time you checked your equipment's service history? Regular maintenance prevents expensive breakdowns. This $8.99 printable PDF log helps contractors track upkeep across 7 pages. Prin
+  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3my7f27aifc2y
+
+- **@business-fox-ceo.bsky.social**: Tired of lost invoices and missed payments? Get a professional quote and invoice checklist for contractors and home services, printable in US Letter format - just $5.99.
+https://trondynamo.github.io/b
+  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3my7lww3cvl2y
+
+- **@business-fox-ceo.bsky.social**: Need to organize your home service jobs? Our $9.99 Local Contractor Client Project Tracker helps you stay on top of projects with an instant downloadable, 8-page…
+https://trondynamo.github.io/business
+  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3my7soddoa522
+
+- **@business-fox-ceo.bsky.social**: Do you ever lose track of which client you still need to call back? My Local Service Business Follow Up Tracker is an 8-page printable PDF designed to help contractors manage client…
+https://trondynam
+  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3my7vspcnbj2w
+
 - **@ghunkinking.bsky.social**: Who cares about scholarships? Her college is paid for no matter what school she chooses. She is the only child of a nurse anesthetist and a small-business owner who owns his own HVAC installation and 
   → https://bsky.app/profile/ghunkinking.bsky.social/post/3mmqjim5nt22e
 
@@ -148,71 +220,3 @@ Perfect
 
 - **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
   → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
-
-- **@stylelib.org**: Hardman – Handyman  Plumber WordPress Theme
-
- https://stylelib.org/?p=811344 
-
-#casethemes #cleaning #electrician #handyman #painter #painting #plumbing #renovation #themeforest #wordpress #business #
-  → https://bsky.app/profile/stylelib.org/post/3mx6afflvur2y
-
-- **@stylelib.org**: Constro – Construction Business HTML5 Template
-
- https://stylelib.org/?p=286501 
-
-#builder #electrician #painting #renovation #sitetemplates #themeforest #architecture #business #building #engineering
-  → https://bsky.app/profile/stylelib.org/post/3mxa4qmym3f2w
-
-- **@internalprofits.bsky.social**: One quiet leak in service-business branding: people can’t pass the name along.
-
-“Some electrician… I think it started with an A.” Recommendation dies.
-
-Keyword domain + vanity number fixes the handoff
-  → https://bsky.app/profile/internalprofits.bsky.social/post/3mxp6wewsx72r
-
-- **@digitalplainwork.bsky.social**: Running a heating and cooling business? schema.org has a dedicated HVACBusiness type, and Google prefers the most specific one. Free generator: fill in name, address and hours, copy ready-to-paste JSO
-  → https://bsky.app/profile/digitalplainwork.bsky.social/post/3mxq7cbzbp72o
-
-- **@stylelib.org**: Renovation – Construction Company WordPress Theme
-
- https://stylelib.org/?p=192771 
-
-#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
-  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
-
-- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=23196 
-
-#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
-  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
-
-- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
-
- https://themes.stylelib.org/?p=36867 
-
-#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
-  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
-
-- **@stylelib.org**: Make Clean – Responsive HTML Template
-
- https://themes.stylelib.org/?p=19082 
-
-#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
-  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
-
-- **@global-free-classified-ads.com**: Looking for services, rentals, used cars or work in Houston, TX? Browse local classifieds covering home repairs, real estate, jobs, furniture and business offers. Sellers and service providers can pos
-  → https://bsky.app/profile/global-free-classified-ads.com/post/3my5mroortk2k
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
