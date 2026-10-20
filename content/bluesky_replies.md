@@ -2,6 +2,82 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Bao-Tran Builders Inc (San Jose, CA). Licensed California contractor (general building), based in San Jose, CA. CSLB license 1043786, active when we checked.
+
+https://pi
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mybndw3tol2k
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
+  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
+
+- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
+  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
+
+- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
+
+Conventional builds fail when builders ignore living topography and thermal mass.
+
+Are you building 
+  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
+
+- **@internalprofits.bsky.social**: One quiet leak in service-business branding: people can’t pass the name along.
+
+“Some electrician… I think it started with an A.” Recommendation dies.
+
+Keyword domain + vanity number fixes the handoff
+  → https://bsky.app/profile/internalprofits.bsky.social/post/3mxp6wewsx72r
+
+- **@digitalplainwork.bsky.social**: Running a heating and cooling business? schema.org has a dedicated HVACBusiness type, and Google prefers the most specific one. Free generator: fill in name, address and hours, copy ready-to-paste JSO
+  → https://bsky.app/profile/digitalplainwork.bsky.social/post/3mxq7cbzbp72o
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=192771 
+
+#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
+  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
+
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=23196 
+
+#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
+  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
+
+- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
+
+ https://themes.stylelib.org/?p=36867 
+
+#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
+
+- **@stylelib.org**: Make Clean – Responsive HTML Template
+
+ https://themes.stylelib.org/?p=19082 
+
+#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
+
 - **@eliteoptions2.bsky.social**: whop.com/checkout/plan_
 
 What's included?
@@ -148,75 +224,3 @@ https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
 
 #M365 #Microsoft365 #Cloud #Dynamics3
   → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Enhance mobile offline up-sync
-
-https://www.cloudpulsebriefs.com/briefs/m365-573241/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxi7cfwqo32y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Modernize the mobile offline foundation
-
-https://www.cloudpulsebriefs.com/briefs/m365-573240/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxidxqm4qy23
-
-- **@operandicat.bsky.social**: How Can AI Service Automation for Small Business Transform Field Technician Dispatch and Diagnostics? — https://technician.dev/knowledge/how_can_ai_service_automation_for_small_business_transform_fiel
-  → https://bsky.app/profile/operandicat.bsky.social/post/3mxx2hmnv2t2g
-
-- **@kharnaa.bsky.social**: The small business websites I'd buy from get one dull thing right early. A plumber who names the towns they cover in the first line has my money before the About page.
-
-Which site made you want to buy
-  → https://bsky.app/profile/kharnaa.bsky.social/post/3my5caeehvh2y
-
-- **@smrtcanuck.bsky.social**: Did you ever get your dishwasher? Partly based on your experience, we went and bought one at Kent and picked it up ourselves. The plumber installed it Friday so we're back in business. This is the fir
-  → https://bsky.app/profile/smrtcanuck.bsky.social/post/3my5eyjjwys2h
-
-- **@thetecheng.bsky.social**: Should I amortize my bonus, since its capital?
-
-Also considering the one plumber actually bought out his bosse's business (after a few years of those bonuses) hard to say he was getting fucked over
-  → https://bsky.app/profile/thetecheng.bsky.social/post/3my5qxrfehc2l
-
-- **@getpinnacleai.bsky.social**: 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝗧𝗶𝘁𝗮𝗻 𝘃𝘀 𝗣𝗶𝗻𝗻𝗮𝗰𝗹𝗲 𝗔𝗶: 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗙𝗶𝘁𝘀 𝗬𝗼𝘂𝗿 𝗧𝗿𝗮𝗱𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀?
-ServiceTitan is built for large field service operations with dedicated admin teams and custo...
-https://getpinnacle.ai/blog/s
-  → https://bsky.app/profile/getpinnacleai.bsky.social/post/3mwvhfodate2m
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later
-
-https://www.cloudpulsebriefs.com/briefs/m365-573239/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dyn
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx6yc3jfy22f
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window
-
-https://www.cloudpulsebriefs.com/briefs/m365-571666/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dyn
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx76ghjbmk23
-
-- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
-
-https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
-  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
-
-- **@themattshelton.bsky.social**: So if I’m reading it correctly, the Marlins are expecting people to pay for a service because of the broadcasters, while continuing to put the same below-average to bad product on the field?
-
-Perfect 
-  → https://bsky.app/profile/themattshelton.bsky.social/post/3mxrvizjrak2v
-
-- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
-  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24
-
-- **@stylelib.org**: Roonix – Roofing Services WordPress Theme
-
- https://stylelib.org/?p=745595 
-
-#painting #renovation #roofing #themeforest #themexriver #wordpress #business #corporate #maintenance #construction
-  → https://bsky.app/profile/stylelib.org/post/3mxyqnhhhw72k
-
-- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
-  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
