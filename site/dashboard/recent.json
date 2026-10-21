@@ -1,4 +1,65 @@
 {
-  "updated": "2026-10-21T05:05",
-  "posts": []
+  "updated": "2026-10-21T10:25",
+  "posts": [
+    {
+      "ts": "2026-10-21T10:23:05",
+      "channel": "youtube",
+      "item": "bj-yelp",
+      "url": "https://youtu.be/bvXiA1jgt_w"
+    },
+    {
+      "ts": "2026-10-21T10:22:58",
+      "channel": "facebook",
+      "item": "card-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:22:55",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:22:18",
+      "channel": "mastodon",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:22:07",
+      "channel": "tumblr",
+      "item": "bj-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:22:05",
+      "channel": "bluesky",
+      "item": "bj-cheapbid",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:22:00",
+      "channel": "linkedin",
+      "item": "pod-ep01-cost",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:21:58",
+      "channel": "tiktok",
+      "item": "bj-slow",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:21:56",
+      "channel": "ig",
+      "item": "bj-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-10-21T10:20:38",
+      "channel": "facebook",
+      "item": "pod-ep01-speed",
+      "url": null
+    }
+  ]
 }

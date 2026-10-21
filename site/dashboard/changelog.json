@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-10-21T10:23",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: Yelp: worth it?"
+    },
+    {
+      "ts": "2026-10-21T10:22",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: homeowner youtube"
+    },
+    {
+      "ts": "2026-10-21T10:22",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz deposit"
+    },
+    {
       "ts": "2026-10-21T05:03",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "reel",
       "icon": "🎬",
       "text": "Published YouTube Short: Painters: 109 to rank"
-    },
-    {
-      "ts": "2026-10-07T10:44",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: 5 Claude Tricks That Give You an Unfair Advantage (Most People Still Use the Old"
-    },
-    {
-      "ts": "2026-10-07T10:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: tools mil vs dewalt"
-    },
-    {
-      "ts": "2026-10-07T10:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor friday"
     }
   ]
 }

@@ -2,6 +2,56 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@cdlempireapp.bsky.social**: Scared AI Will Take Your Job? Get a CDL. 🚛💼
+AI can write emails and code websites, good luck getting ChatGPT to back a 53-foot trailer into a tight downtown dock. Skilled trades and CDL drivers run th
+  → https://bsky.app/profile/cdlempireapp.bsky.social/post/3myfbnspmqc2l
+
+- **@mdotblind.bsky.social**: Tesla stock trades at 350x earnings.
+
+The average for the S&P 500 is a PE ratio of 24x
+
+Tesla can't be boring. If Tesla is boring, it dies.
+
+If it's not "Tech", and if the Musk fan boys aren't holding
+  → https://bsky.app/profile/mdotblind.bsky.social/post/3myfe2ociu32s
+
+- **@sakihiddengems.bsky.social**: Here's the Gem: a Japanese mid-cap trades below net cash, which means the market is pricing the actual business at negative value. The Street's consensus? Nobody's paying attention. Your edge? 14 minu
+  → https://bsky.app/profile/sakihiddengems.bsky.social/post/3myfg2a7j2z2x
+
+- **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
+
+ https://stylelib.org/?p=927746 
+
+#renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
+  → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q
+
+- **@stylelib.org**: Roonix – Roofing Services WordPress Theme
+
+ https://stylelib.org/?p=745595 
+
+#painting #renovation #roofing #themeforest #themexriver #wordpress #business #corporate #maintenance #construction
+  → https://bsky.app/profile/stylelib.org/post/3mxyqnhhhw72k
+
+- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
 - **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
 
 When homeowners search for a plumber, will they find your business?
@@ -167,58 +217,3 @@ Rental client satisfaction?
 Show advance?
 Contractor dep
   → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
-
-- **@g2bizsolutions.bsky.social**: Revenue going up, but your bank balance staying flat?
-
-You might be “busy but broke.”
-
-Unused subscriptions, untracked contractor hours, and wasted marketing spend can quietly eat your profits.
-
-Know 
-  → https://bsky.app/profile/g2bizsolutions.bsky.social/post/3mxooucrl6k2l
-
-- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
-  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
-
-- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
-
-$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
-  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
-
-- **@getpinnacleai.bsky.social**: 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝗧𝗶𝘁𝗮𝗻 𝘃𝘀 𝗣𝗶𝗻𝗻𝗮𝗰𝗹𝗲 𝗔𝗶: 𝗪𝗵𝗶𝗰𝗵 𝗢𝗻𝗲 𝗔𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗙𝗶𝘁𝘀 𝗬𝗼𝘂𝗿 𝗧𝗿𝗮𝗱𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀?
-ServiceTitan is built for large field service operations with dedicated admin teams and custo...
-https://getpinnacle.ai/blog/s
-  → https://bsky.app/profile/getpinnacleai.bsky.social/post/3mwvhfodate2m
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later
-
-https://www.cloudpulsebriefs.com/briefs/m365-573239/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dyn
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx6yc3jfy22f
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window
-
-https://www.cloudpulsebriefs.com/briefs/m365-571666/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dyn
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mx76ghjbmk23
-
-- **@stocktitan.net**: #TTAN ServiceTitan Announcing New and Expanded Capabilities at Pantheon 2026
-
-https://www.stocktitan.net/news/TTAN/service-titan-announcing-new-and-expanded-capabilities-at-pantheon-630rlmlpeooc.html?
-  → https://bsky.app/profile/stocktitan.net/post/3mx7bnubyed25
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Improve mobile offline reliability across network conditions
-
-https://www.cloudpulsebriefs.com/briefs/m365-573242/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics3
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxas5mxlcc2y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Enhance mobile offline up-sync
-
-https://www.cloudpulsebriefs.com/briefs/m365-573241/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxi7cfwqo32y
