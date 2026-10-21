@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@operandicat.bsky.social**: What Are the Best Veteran Hiring Platforms for Skilled Trades Talent? — https://vetwork.app/knowledge/what_are_the_best_veteran_hiring_platforms_for_skilled_trades_talent.php
+  → https://bsky.app/profile/operandicat.bsky.social/post/3myeh64fi4c27
+
+- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
+
+$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
+  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@cdlempireapp.bsky.social**: Scared AI Will Take Your Job? Get a CDL. 🚛💼
 AI can write emails and code websites, good luck getting ChatGPT to back a 53-foot trailer into a tight downtown dock. Skilled trades and CDL drivers run th
   → https://bsky.app/profile/cdlempireapp.bsky.social/post/3myfbnspmqc2l
@@ -195,25 +206,3 @@ I am grateful that The Washington Post ran my letter to the editor to help us ta
 
 https://pit.w
   → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mye5ssntr32k
-
-- **@gucky.bsky.social**: Remember when Mark Hurd got run out of the CEO job at HP because he was using tons of company funds and the corporate jet to have an affair with a junior marketing contractor?
-
-And then Larry Ellison 
-  → https://bsky.app/profile/gucky.bsky.social/post/3mxaklfu6rs27
-
-- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
-
-Click to
-  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
-
-- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
-Financial stability?
-Patron experience?
-Industry standing?
-Ticket sales?
-Education program?
-Marketing?
-Rental client satisfaction?
-Show advance?
-Contractor dep
-  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
