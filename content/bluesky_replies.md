@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@pvansickle.bsky.social**: JD Vance says he hasn’t seen evidence Trump is enriching himself. I brought receipts.
+
+First, the stock trades. Then there’s crypto. How about suspicious bets on the Iran war? Or the family business. 
+  → https://bsky.app/profile/pvansickle.bsky.social/post/3myfj55mfms2x
+
 - **@operandicat.bsky.social**: What Are the Best Veteran Hiring Platforms for Skilled Trades Talent? — https://vetwork.app/knowledge/what_are_the_best_veteran_hiring_platforms_for_skilled_trades_talent.php
   → https://bsky.app/profile/operandicat.bsky.social/post/3myeh64fi4c27
 
@@ -201,8 +206,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 - **@drssroka.bsky.social**: “How should we talk to children after school shootings?”
 I am grateful that The Washington Post ran my letter to the editor to help us talk to children about the traumatic shooting at Silver Rail Elem
   → https://bsky.app/profile/drssroka.bsky.social/post/3myebfqgvg22s
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Blurr Construction (Milpitas, CA). Licensed California contractor (general building), based in Milpitas, CA. CSLB license 1086892, active when we checked.
-
-https://pit.w
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mye5ssntr32k

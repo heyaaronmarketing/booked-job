@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T20:04:22Z",
+  "updated": "2026-10-21T23:14:59Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 52,
+        "uses": 56,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 25,
+        "uses": 30,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -107,6 +107,11 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#smallbusinessowners",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/smallbusinessowners"
+      },
+      {
         "tag": "#RoofingServices",
         "uses": 2,
         "link": "https://mastodon.social/tags/RoofingServices"
@@ -115,11 +120,6 @@
         "tag": "#contractorlife",
         "uses": 2,
         "link": "https://mastodon.social/tags/contractorlife"
-      },
-      {
-        "tag": "#smallbusinessowners",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
         "tag": "#plumbingtime",
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23552,
+        "followers": 23553,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1608,
+      "followers": 1607,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1332,
+      "followers": 1331,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
