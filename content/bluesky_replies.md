@@ -2,6 +2,33 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
+
+When homeowners search for a plumber, will they find your business?
+
+📲 Ready to improve your online visibility? 
+
+Visit cosmarketingagency.com/pl
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mydgfnht2g2d
+
+- **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
+Didn’t he inherit the business from his father?  Like all of these grifters
+  → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l
+
+- **@stylelib.org**: Tradesmen – Construction WordPress Theme
+
+ https://stylelib.org/?p=167376 
+
+#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
+  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
+
+- **@stylelib.org**: Builta – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=823635 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
+  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
+
 - **@cricketmh.bsky.social**: Hey #CentralPeace-Notley 
 #MLA #ToddLoewen
 
@@ -195,21 +222,3 @@ https://www.cloudpulsebriefs.com/briefs/m365-573241/?utm_source=bluesky
 
 #M365 #Microsoft365 #Cloud #Dynamics365FieldService
   → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxi7cfwqo32y
-
-- **@jonnybottles.bsky.social**: Dynamics 365 Field Service: Modernize the mobile offline foundation
-
-https://www.cloudpulsebriefs.com/briefs/m365-573240/?utm_source=bluesky
-
-#M365 #Microsoft365 #Cloud #Dynamics365FieldService
-  → https://bsky.app/profile/jonnybottles.bsky.social/post/3mxidxqm4qy23
-
-- **@themattshelton.bsky.social**: So if I’m reading it correctly, the Marlins are expecting people to pay for a service because of the broadcasters, while continuing to put the same below-average to bad product on the field?
-
-Perfect 
-  → https://bsky.app/profile/themattshelton.bsky.social/post/3mxrvizjrak2v
-
-- **@operandicat.bsky.social**: How Can AI Service Automation for Small Business Transform Field Technician Dispatch and Diagnostics? — https://technician.dev/knowledge/how_can_ai_service_automation_for_small_business_transform_fiel
-  → https://bsky.app/profile/operandicat.bsky.social/post/3mxx2hmnv2t2g
-
-- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
-  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24

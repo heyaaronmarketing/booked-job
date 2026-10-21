@@ -1,19 +1,22 @@
 {
   "linkedin": [
+    "pricing-pick-two",
     "pricing-low-bid",
-    "ugc-before-after",
-    "lastguy-rate",
-    "lastguy-panel",
-    "lastguy-diy",
-    "lastguy-worst",
-    "pricing-insurance",
-    "ba-credit",
     "pricing-callback",
-    "pricing-diagnostic-fee",
+    "ba-credit",
     "lastguy-flextape",
-    "pricing-once-not-twice",
     "pricing-friend-price",
-    "pricing-pick-two"
+    "ugc-before-after",
+    "lastguy-panel",
+    "pricing-insurance",
+    "homeowner-drain",
+    "lastguy-diy",
+    "pricing-diagnostic-fee",
+    "lastguy-worst",
+    "homeowner-lie",
+    "lastguy-rate",
+    "homeowner-quick",
+    "pricing-once-not-twice"
   ],
   "tiktok": [
     "chargeback-trap",
