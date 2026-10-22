@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T23:14:59Z",
+  "updated": "2026-10-22T04:30:50Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,27 +78,27 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 56,
+        "uses": 52,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 30,
+        "uses": 28,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#contractor",
-        "uses": 12,
+        "uses": 10,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#plumbing",
-        "uses": 8,
+        "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#contractors",
-        "uses": 7,
+        "uses": 6,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
@@ -107,19 +107,19 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
+        "tag": "#RoofingServices",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/RoofingServices"
+      },
+      {
         "tag": "#smallbusinessowners",
         "uses": 3,
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
-        "tag": "#RoofingServices",
+        "tag": "#ContractorOperations",
         "uses": 2,
-        "link": "https://mastodon.social/tags/RoofingServices"
-      },
-      {
-        "tag": "#contractorlife",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractorlife"
+        "link": "https://mastodon.social/tags/ContractorOperations"
       },
       {
         "tag": "#plumbingtime",
@@ -127,20 +127,20 @@
         "link": "https://mastodon.social/tags/plumbingtime"
       },
       {
-        "tag": "#PlumbingEmergencyInColumbus",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingEmergencyInColumbus"
-      },
-      {
         "tag": "#RoofingCare",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingCare"
+      },
+      {
+        "tag": "#RoofingProjects",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/RoofingProjects"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467736,
+        "followers": 467735,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2344,
+        "followers": 2343,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4311,
+      "followers": 4310,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },

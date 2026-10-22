@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @pvansickle.bsky.social: “JD Vance says he hasn’t seen evidence Trump is enriching himself. I brought receipts.  Fir…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/pvansickle.bsky.social/post/3myfj55mfms2x",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @operandicat.bsky.social: “What Are the Best Veteran Hiring Platforms for Skilled Trades Talent? — https://vetwork.ap…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/operandicat.bsky.social/post/3myeh64fi4c27",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @curriergrowth.bsky.social: “Electricians: people search \"panel upgrade\" or \"EV charger install.\" Profile only says \"El…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @refigman.bsky.social: “As a small business owner, white male, a college education, skilled in the trades, more th…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @cdlempireapp.bsky.social: “Scared AI Will Take Your Job? Get a CDL. 🚛💼 AI can write emails and code websites, good lu…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/cdlempireapp.bsky.social/post/3myfbnspmqc2l",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @mdotblind.bsky.social: “Tesla stock trades at 350x earnings.  The average for the S&P 500 is a PE ratio of 24x  Te…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/mdotblind.bsky.social/post/3myfe2ociu32s",
       "est": "2 min"
     },
     {
