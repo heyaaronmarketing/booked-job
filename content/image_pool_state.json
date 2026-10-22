@@ -2,21 +2,22 @@
   "mastodon": {
     "posted": [
       "card-cpbj",
-      "card-angi"
+      "card-angi",
+      "card-reviews"
     ],
-    "last_iso": "2026-10-21T18:27:44",
+    "last_iso": "2026-10-22T10:22:19",
     "day": {
-      "date": "2026-10-21",
-      "count": 3
+      "date": "2026-10-22",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-10-21T10:22:09",
+    "last_iso": "2026-10-22T10:22:19",
     "day": {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "count": 1
     }
   },
@@ -31,12 +32,13 @@
       "card-rev-paint",
       "card-speed",
       "card-ftc",
-      "card-stars"
+      "card-stars",
+      "card-ai"
     ],
-    "last_iso": "2026-10-21T18:27:44",
+    "last_iso": "2026-10-22T10:22:19",
     "day": {
-      "date": "2026-10-21",
-      "count": 2
+      "date": "2026-10-22",
+      "count": 1
     }
   }
 }
