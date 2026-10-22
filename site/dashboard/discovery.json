@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:09:41Z",
+  "updated": "2026-10-22T19:59:13Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 52,
+        "uses": 56,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -92,24 +92,29 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#contractors",
+        "uses": 9,
+        "link": "https://mastodon.social/tags/contractors"
+      },
+      {
         "tag": "#plumbing",
         "uses": 7,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
-        "tag": "#contractors",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/contractors"
-      },
-      {
         "tag": "#roofing",
-        "uses": 4,
+        "uses": 5,
         "link": "https://mastodon.social/tags/roofing"
       },
       {
         "tag": "#RoofingServices",
-        "uses": 3,
+        "uses": 4,
         "link": "https://mastodon.social/tags/RoofingServices"
+      },
+      {
+        "tag": "#roofingcontractor",
+        "uses": 3,
+        "link": "https://mastodon.social/tags/roofingcontractor"
       },
       {
         "tag": "#smallbusinessowners",
@@ -130,17 +135,12 @@
         "tag": "#RoofingCare",
         "uses": 1,
         "link": "https://mastodon.social/tags/RoofingCare"
-      },
-      {
-        "tag": "#RoofingProjects",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/RoofingProjects"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467826,
+        "followers": 467827,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10328,
+      "followers": 10329,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4314,
+      "followers": 4316,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -257,14 +257,14 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1331,
+      "followers": 1332,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1181,
+      "followers": 1180,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },

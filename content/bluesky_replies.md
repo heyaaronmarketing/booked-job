@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@slappysan.bsky.social**: youtu.be/_5hlU-OPX-o?...
+  → https://bsky.app/profile/slappysan.bsky.social/post/3myhyxtvatc26
+
 - **@global-free-classified-ads.com**: Looking for services, rentals, used cars or work in Houston, TX? Browse local classifieds covering home repairs, real estate, jobs, furniture and business offers. Sellers and service providers can pos
   → https://bsky.app/profile/global-free-classified-ads.com/post/3my5mroortk2k
 
@@ -201,10 +204,3 @@ Visit cosmarketingagency.com/pl
 - **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
 Didn’t he inherit the business from his father?  Like all of these grifters
   → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l
-
-- **@stylelib.org**: Tradesmen – Construction WordPress Theme
-
- https://stylelib.org/?p=167376 
-
-#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
-  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
