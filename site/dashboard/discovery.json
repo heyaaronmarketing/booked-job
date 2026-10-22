@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T19:59:13Z",
+  "updated": "2026-10-22T23:15:26Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 56,
+        "uses": 60,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10329,
+      "followers": 10330,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },

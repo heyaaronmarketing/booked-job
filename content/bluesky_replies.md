@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@serious-stuff.bsky.social**: I worry about AI:
+What if it escapes the lab and uses a series of hacks to get hosting for free?
+What if it goes into business and becomes incredibly rich?
+What if it goes into the stockmarket and tra
+  → https://bsky.app/profile/serious-stuff.bsky.social/post/3myh4ogluic2w
+
+- **@sendwork.bsky.social**: Australian small business staff can now refuse after-hours contact unless refusing is unreasonable. You can still call.
+
+https://blog.sendwork.com/right-to-disconnect-small-business-australia/?utm_sou
+  → https://bsky.app/profile/sendwork.bsky.social/post/3myiot7nnuw2i
+
 - **@slappysan.bsky.social**: youtu.be/_5hlU-OPX-o?...
   → https://bsky.app/profile/slappysan.bsky.social/post/3myhyxtvatc26
 
@@ -191,16 +202,3 @@ We provide specialty accounting & bookkeeping for:
 
 Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
   → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
-
-When homeowners search for a plumber, will they find your business?
-
-📲 Ready to improve your online visibility? 
-
-Visit cosmarketingagency.com/pl
-  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mydgfnht2g2d
-
-- **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
-Didn’t he inherit the business from his father?  Like all of these grifters
-  → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l
