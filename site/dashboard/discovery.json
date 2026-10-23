@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T23:15:26Z",
+  "updated": "2026-10-23T04:35:54Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 60,
+        "uses": 42,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 28,
+        "uses": 24,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -98,7 +98,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 7,
+        "uses": 6,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 36026,
+        "followers": 36027,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7222,
+        "followers": 7221,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -185,7 +185,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 732,
+        "followers": 733,
         "link": "https://mastodon.social/@Noshir"
       }
     ]
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2250,
+      "followers": 2249,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1332,
+      "followers": 1333,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },
