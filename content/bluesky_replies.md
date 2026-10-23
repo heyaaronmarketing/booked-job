@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
+
+- **@aivatarconsulting.bsky.social**: Free 60-second roast of one number in your trades business: how long your last unanswered inquiry waited. You send it, we read it back plainly, no business named, no video without your yes. The fix we
+  → https://bsky.app/profile/aivatarconsulting.bsky.social/post/3myjkj7qtnh2l
+
+- **@hollynightprints.bsky.social**: Trades and sole traders: before the Christmas rush, make sure someone who finds you can see what you do, where, and how to call you within one screen.
+
+No website yet? One-page mobile site, built for 
+  → https://bsky.app/profile/hollynightprints.bsky.social/post/3myjuhuj6b226
+
 - **@serious-stuff.bsky.social**: I worry about AI:
 What if it escapes the lab and uses a series of hacks to get hosting for free?
 What if it goes into business and becomes incredibly rich?
@@ -185,20 +196,3 @@ If it's not "Tech", and if the Musk fan boys aren't holding
 
 - **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
   → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
