@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:57:18Z",
+  "updated": "2026-10-23T15:32:38Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 43,
+        "uses": 44,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#contractors",
-        "uses": 9,
+        "uses": 10,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
@@ -127,20 +127,20 @@
         "link": "https://mastodon.social/tags/ContractorOperations"
       },
       {
-        "tag": "#plumbingtime",
+        "tag": "#HVACShutdownChemicalLeak",
         "uses": 1,
-        "link": "https://mastodon.social/tags/plumbingtime"
+        "link": "https://mastodon.social/tags/HVACShutdownChemicalLeak"
       },
       {
-        "tag": "#RoofingCare",
+        "tag": "#HVACBusiness",
         "uses": 1,
-        "link": "https://mastodon.social/tags/RoofingCare"
+        "link": "https://mastodon.social/tags/HVACBusiness"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467827,
+        "followers": 467828,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7221,
+        "followers": 7226,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10332,
+      "followers": 10334,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1607,
+      "followers": 1608,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Haunted Plumbing (Runic Press)",
-      "followers": 1067,
+      "followers": 1068,
       "desc": "TTRPG content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) h",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
