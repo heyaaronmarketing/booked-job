@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T15:32:38Z",
+  "updated": "2026-10-23T19:17:23Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -83,7 +83,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 25,
+        "uses": 26,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -122,6 +122,11 @@
         "link": "https://mastodon.social/tags/smallbusinessowners"
       },
       {
+        "tag": "#HVACBusiness",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/HVACBusiness"
+      },
+      {
         "tag": "#ContractorOperations",
         "uses": 2,
         "link": "https://mastodon.social/tags/ContractorOperations"
@@ -130,11 +135,6 @@
         "tag": "#HVACShutdownChemicalLeak",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACShutdownChemicalLeak"
-      },
-      {
-        "tag": "#HVACBusiness",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/HVACBusiness"
       }
     ],
     "accounts": [
@@ -150,7 +150,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 36027,
+        "followers": 36026,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10334,
+      "followers": 10342,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4316,
+      "followers": 4317,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1180,
+      "followers": 1181,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },
