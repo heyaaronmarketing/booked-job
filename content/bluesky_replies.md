@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@publicnewsservice.bsky.social**: Skilled trades workers earn 31% more than other non-college grads, per ACTE, yet only 1 in 4 guidance counselors recommends #apprenticeships. Jobs for the Future says #Ohio's 30,000 apprentices are a 
+  → https://bsky.app/profile/publicnewsservice.bsky.social/post/3myiy33y54r2r
+
 - **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
   → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
 
@@ -193,6 +196,3 @@ If it's not "Tech", and if the Musk fan boys aren't holding
 
 #painting #renovation #roofing #themeforest #themexriver #wordpress #business #corporate #maintenance #construction
   → https://bsky.app/profile/stylelib.org/post/3mxyqnhhhw72k
-
-- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
-  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
