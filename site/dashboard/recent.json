@@ -1,52 +1,28 @@
 {
-  "updated": "2026-10-23T18:18",
+  "updated": "2026-10-23T20:36",
   "posts": [
     {
-      "ts": "2026-10-23T18:17:01",
-      "channel": "facebook",
-      "item": "card-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-10-23T18:16:58",
+      "ts": "2026-10-23T20:33:47",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-10-23T18:16:53",
+      "ts": "2026-10-23T20:33:42",
       "channel": "tumblr",
-      "item": "bj-stormchaser",
+      "item": "bj-freecheck",
       "url": null
     },
     {
-      "ts": "2026-10-23T18:16:51",
+      "ts": "2026-10-23T20:33:40",
       "channel": "bluesky",
-      "item": "bj-fakemaps",
+      "item": "bj-agency12k",
       "url": null
     },
     {
-      "ts": "2026-10-23T18:16:47",
-      "channel": "linkedin",
-      "item": "bj-speed",
-      "url": null
-    },
-    {
-      "ts": "2026-10-23T18:16:46",
+      "ts": "2026-10-23T20:33:35",
       "channel": "tiktok",
-      "item": "bj-scam",
-      "url": null
-    },
-    {
-      "ts": "2026-10-23T18:16:44",
-      "channel": "ig",
-      "item": "bj-ftc",
-      "url": null
-    },
-    {
-      "ts": "2026-10-23T18:16:05",
-      "channel": "facebook",
-      "item": "pod-ep01-wrongnum",
+      "item": "bj-rev-hvac",
       "url": null
     }
   ]

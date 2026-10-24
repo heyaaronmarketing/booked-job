@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: DiVittorio Construction, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 745350, active when we checked.
+
+htt
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myl33u6w3d2k
+
 - **@publicnewsservice.bsky.social**: Skilled trades workers earn 31% more than other non-college grads, per ACTE, yet only 1 in 4 guidance counselors recommends #apprenticeships. Jobs for the Future says #Ohio's 30,000 apprentices are a 
   → https://bsky.app/profile/publicnewsservice.bsky.social/post/3myiy33y54r2r
 
@@ -189,10 +194,3 @@ If it's not "Tech", and if the Musk fan boys aren't holding
 
 #renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
   → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q
-
-- **@stylelib.org**: Roonix – Roofing Services WordPress Theme
-
- https://stylelib.org/?p=745595 
-
-#painting #renovation #roofing #themeforest #themexriver #wordpress #business #corporate #maintenance #construction
-  → https://bsky.app/profile/stylelib.org/post/3mxyqnhhhw72k
