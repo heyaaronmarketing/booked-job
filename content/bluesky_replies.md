@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@soapoperaspy.bsky.social**: ICYMI: General Hospital Spoilers: Drew’s Dangerous Seduction – Will Justine Fall for His Lies?
+  → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mykmpqyqdc2a
+
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: ENE Smarthome Inc (San Jose, CA). Licensed California contractor (electrical, general building), based in San Jose, CA. CSLB license 1077798, active when we checked.
+
+ht
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mylp7lobbd2k
+
 - **@riotcoder.social.w3bs.org**: Local builders, one at a time: DiVittorio Construction, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 745350, active when we checked.
 
 htt
@@ -184,13 +192,3 @@ Tesla can't be boring. If Tesla is boring, it dies.
 
 If it's not "Tech", and if the Musk fan boys aren't holding
   → https://bsky.app/profile/mdotblind.bsky.social/post/3myfe2ociu32s
-
-- **@sakihiddengems.bsky.social**: Here's the Gem: a Japanese mid-cap trades below net cash, which means the market is pricing the actual business at negative value. The Street's consensus? Nobody's paying attention. Your edge? 14 minu
-  → https://bsky.app/profile/sakihiddengems.bsky.social/post/3myfg2a7j2z2x
-
-- **@stylelib.org**: Floens – Tiling  Flooring Services WordPress Theme
-
- https://stylelib.org/?p=927746 
-
-#renovation #roofing #themeforest #wordpress #business #plumber #interior #corporate #construction
-  → https://bsky.app/profile/stylelib.org/post/3mxpqcmywo62q

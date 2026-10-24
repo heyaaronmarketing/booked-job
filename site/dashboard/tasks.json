@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "daily": [
     {
       "id": "fb-share",
@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @riotcoder.social.w3bs.org: “Local builders, one at a time: DiVittorio Construction, Inc. (Campbell, CA). Licensed Cali…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myl33u6w3d2k",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @publicnewsservice.bsky.social: “Skilled trades workers earn 31% more than other non-college grads, per ACTE, yet only 1 in…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/publicnewsservice.bsky.social/post/3myiy33y54r2r",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @themusiccomau.bsky.social: “OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @aivatarconsulting.bsky.social: “Free 60-second roast of one number in your trades business: how long your last unanswered …”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @hollynightprints.bsky.social: “Trades and sole traders: before the Christmas rush, make sure someone who finds you can se…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/hollynightprints.bsky.social/post/3myjuhuj6b226",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @serious-stuff.bsky.social: “I worry about AI: What if it escapes the lab and uses a series of hacks to get hosting for…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/serious-stuff.bsky.social/post/3myh4ogluic2w",
       "est": "2 min"
     },
     {

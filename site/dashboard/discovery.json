@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T01:32:19Z",
+  "updated": "2026-10-24T07:11:58Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 41,
+        "uses": 44,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -140,13 +140,8 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 467877,
+        "followers": 467878,
         "link": "https://flipboard.com/@BusinessInsider"
-      },
-      {
-        "handle": "@home_garden_and_diy@threads.net",
-        "followers": 103031,
-        "link": "https://threads.net/@home_garden_and_diy/"
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
@@ -154,8 +149,13 @@
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
+        "handle": "@officialhomeofhorror@threads.net",
+        "followers": 33182,
+        "link": "https://threads.net/@officialhomeofhorror/"
+      },
+      {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23564,
+        "followers": 23565,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10378,
+      "followers": 10403,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1608,
+      "followers": 1610,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@nakedvampire.bsky.social",
       "display": "Naked handyman Nottingham ✂️🇬🇧",
-      "followers": 1334,
+      "followers": 1336,
       "desc": "Nottingham nudist, circumcised",
       "link": "https://bsky.app/profile/nakedvampire.bsky.social"
     },

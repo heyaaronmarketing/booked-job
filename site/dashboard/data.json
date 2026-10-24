@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:32",
+  "updated": "2026-10-24T02:11",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -383,7 +383,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2708,
+      "views": 2649,
       "followers": 19,
       "likes": 2
     },
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "posts",
       "followers": 295,
       "grade": "A",
@@ -490,9 +490,9 @@
       "status": "live",
       "count": 50,
       "unit": "posts (Buffer)",
-      "stat": "828 reach \u00b7 0 reactions",
-      "views": 16,
-      "likes": 0,
+      "stat": "879 reach \u00b7 1 reactions",
+      "views": 21,
+      "likes": 1,
       "grade": "B",
       "group": "social"
     },
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 19
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 17
+        "count": 19
       },
       {
         "type": "Long video",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 46
+        "count": 47
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 44
+        "count": 45
       }
     ]
   },
@@ -770,16 +770,16 @@
     }
   ],
   "funnel": {
-    "reach": 36241,
+    "reach": 36185,
     "engagement": 2,
     "audience": 325,
     "cr_clicks": 163
   },
   "trends": {
-    "audience": 15,
-    "engagement": -2,
+    "audience": 10,
+    "engagement": -1,
     "email": 0,
-    "reach": 596
+    "reach": 681
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1499,
+        "value": 1500,
         "grade": "A"
       },
       {
