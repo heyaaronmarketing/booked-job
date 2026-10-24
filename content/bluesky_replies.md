@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mithutech.bsky.social**: Budget-Friendly CCTV Camera Dealer in Durgapur: Affordable Security Solutions for Homes, Shops, Offices and Industries
+
+Looking for a budget-friendly CCTV camera dealer in Durgapur? Choosing the right
+  → https://bsky.app/profile/mithutech.bsky.social/post/3mynaz4o6rr27
+
+- **@randydeal.bsky.social**: I am looking for other influencers to help bring our content to people. Got a half hour per day? Message me and let's see what we can do to work together 
+
+Seomasters.online
+  → https://bsky.app/profile/randydeal.bsky.social/post/3mynebyybfs25
+
+- **@stylelib.org**: Renew – Renovation WordPress Theme
+
+ https://stylelib.org/?p=191989 
+
+#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
+  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
+
+- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
+  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
+
 - **@woodlandhillsca.bsky.social**: Locksmith Encino, CA | Trusted Local Locksmiths
 
 Looking for a trusted locksmith in Encino, CA? Woodland Locksmith provides dependable residential, commercial, and automotive locksmith services with h
@@ -160,32 +180,3 @@ Perfect
 
 - **@operandicat.bsky.social**: How Can AI Service Automation for Small Business Transform Field Technician Dispatch and Diagnostics? — https://technician.dev/knowledge/how_can_ai_service_automation_for_small_business_transform_fiel
   → https://bsky.app/profile/operandicat.bsky.social/post/3mxx2hmnv2t2g
-
-- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
-  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24
-
-- **@citizenptnewsco.bsky.social**: The Public Service Company of Colorado is revolutionizing energy delivery with innovative NPAs while tackling the complexities of implementation—could this be the future of electrification? 
-
-Click to
-  → https://bsky.app/profile/citizenptnewsco.bsky.social/post/3mxalcw6nvr2u
-
-- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
-Financial stability?
-Patron experience?
-Industry standing?
-Ticket sales?
-Education program?
-Marketing?
-Rental client satisfaction?
-Show advance?
-Contractor dep
-  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
-
-- **@g2bizsolutions.bsky.social**: Revenue going up, but your bank balance staying flat?
-
-You might be “busy but broke.”
-
-Unused subscriptions, untracked contractor hours, and wasted marketing spend can quietly eat your profits.
-
-Know 
-  → https://bsky.app/profile/g2bizsolutions.bsky.social/post/3mxooucrl6k2l
