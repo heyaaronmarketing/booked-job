@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
+
+- **@stylelib.org**: Builta – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=823635 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
+  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
+
+- **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
+
+When homeowners search for a plumber, will they find your business?
+
+📲 Ready to improve your online visibility? 
+
+Visit cosmarketingagency.com/pl
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mydgfnht2g2d
+
+- **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
+Didn’t he inherit the business from his father?  Like all of these grifters
+  → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l
+
+- **@midnightminute.bsky.social**: What even is a "normal conversation" anymore? 😂 
+
+I had a plumber over today to fix a leak, and I almost slipped into a discussion about how rental companies have exploitative leverage over their busi
+  → https://bsky.app/profile/midnightminute.bsky.social/post/3myigrhetfs2a
+
+- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
+
+- **@cdmheywood.bsky.social**: Roofer, plumber or sparky? You can get on the Google map for free without showing your home address. Step-by-step setup guide for UK trades:
+collectivedigitalmedia.co.uk/blog/how-to-...
+  → https://bsky.app/profile/cdmheywood.bsky.social/post/3mym6ptmfo22v
+
 - **@soapoperaspy.bsky.social**: ICYMI: General Hospital Spoilers: Drew’s Dangerous Seduction – Will Justine Fall for His Lies?
   → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mykmpqyqdc2a
 
@@ -152,43 +187,3 @@ Know
 
 - **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
   → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
-
-- **@pdincubus.bsky.social**: Know someone running a small business?
-
-I’m looking for people to try software I’ve built for:
-
-* Restaurants and takeaways
-* Garages and trades
-* Maintenance contractors
-
-Free trials, help with setup
-  → https://bsky.app/profile/pdincubus.bsky.social/post/3myd2fdotwk2h
-
-- **@pvansickle.bsky.social**: JD Vance says he hasn’t seen evidence Trump is enriching himself. I brought receipts.
-
-First, the stock trades. Then there’s crypto. How about suspicious bets on the Iran war? Or the family business. 
-  → https://bsky.app/profile/pvansickle.bsky.social/post/3myfj55mfms2x
-
-- **@operandicat.bsky.social**: What Are the Best Veteran Hiring Platforms for Skilled Trades Talent? — https://vetwork.app/knowledge/what_are_the_best_veteran_hiring_platforms_for_skilled_trades_talent.php
-  → https://bsky.app/profile/operandicat.bsky.social/post/3myeh64fi4c27
-
-- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
-
-$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
-  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@cdlempireapp.bsky.social**: Scared AI Will Take Your Job? Get a CDL. 🚛💼
-AI can write emails and code websites, good luck getting ChatGPT to back a 53-foot trailer into a tight downtown dock. Skilled trades and CDL drivers run th
-  → https://bsky.app/profile/cdlempireapp.bsky.social/post/3myfbnspmqc2l
-
-- **@mdotblind.bsky.social**: Tesla stock trades at 350x earnings.
-
-The average for the S&P 500 is a PE ratio of 24x
-
-Tesla can't be boring. If Tesla is boring, it dies.
-
-If it's not "Tech", and if the Musk fan boys aren't holding
-  → https://bsky.app/profile/mdotblind.bsky.social/post/3myfe2ociu32s

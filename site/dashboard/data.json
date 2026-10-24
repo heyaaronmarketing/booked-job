@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T02:11",
+  "updated": "2026-10-24T07:37",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -394,7 +394,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1376,
+      "views": 1411,
       "followers": 1
     },
     {
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 52,
+      "count": 53,
       "unit": "posts",
       "followers": 295,
       "grade": "A",
@@ -488,7 +488,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 50,
+      "count": 52,
       "unit": "posts (Buffer)",
       "stat": "879 reach \u00b7 1 reactions",
       "views": 21,
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 19
+        "count": 2
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 19
+        "count": 2
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 38
+        "count": 40
       },
       {
         "type": "Documents",
@@ -664,7 +664,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 52
+        "count": 53
       },
       {
         "type": "Video",
@@ -770,7 +770,7 @@
     }
   ],
   "funnel": {
-    "reach": 36185,
+    "reach": 36261,
     "engagement": 2,
     "audience": 325,
     "cr_clicks": 163
@@ -779,7 +779,7 @@
     "audience": 10,
     "engagement": -1,
     "email": 0,
-    "reach": 681
+    "reach": 757
   },
   "mafia": {
     "metrics": [
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1500,
+        "value": 1503,
         "grade": "A"
       },
       {
