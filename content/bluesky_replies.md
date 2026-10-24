@@ -2,6 +2,185 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@mydumpsterfire.bsky.social**: What has improved since his appointment?
+Financial stability?
+Patron experience?
+Industry standing?
+Ticket sales?
+Education program?
+Marketing?
+Rental client satisfaction?
+Show advance?
+Contractor dep
+  → https://bsky.app/profile/mydumpsterfire.bsky.social/post/3mxem6l3fu22s
+
+- **@g2bizsolutions.bsky.social**: Revenue going up, but your bank balance staying flat?
+
+You might be “busy but broke.”
+
+Unused subscriptions, untracked contractor hours, and wasted marketing spend can quietly eat your profits.
+
+Know 
+  → https://bsky.app/profile/g2bizsolutions.bsky.social/post/3mxooucrl6k2l
+
+- **@soapoperaspy.bsky.social**: General Hospital Spoilers: Drew’s Dangerous Seduction – Will Justine Fall for His Lies?
+  → https://bsky.app/profile/soapoperaspy.bsky.social/post/3myi46kte6x2c
+
+- **@chovyfu.bsky.social**: Local builders, one at a time: ER Construction Inc. (Watsonville, CA). Licensed California contractor (general building), based in Watsonville, CA. CSLB license 950164, active when we checked.
+
+https:
+  → https://bsky.app/profile/chovyfu.bsky.social/post/3myn65mdmz62i
+
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
+  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@utahinjustice.bsky.social**: Who writes your laws? Every Utah legislator's day job, with photos.
+
+Utah's Legislature is part-time: 103 members write the rules on bail, jail, police and courts, and keep their day jobs. 75 are on y
+  → https://bsky.app/profile/utahinjustice.bsky.social/post/3myks2hsefb2n
+
+- **@pissed-off-g.bsky.social**: When Donald Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of d
+  → https://bsky.app/profile/pissed-off-g.bsky.social/post/3mymokn3yp223
+
+- **@jefftrnka.bsky.social**: When Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of dollars.
+  → https://bsky.app/profile/jefftrnka.bsky.social/post/3mympsyokt22y
+
+- **@kasarian.bsky.social**: for anyone that cares, this is daon, btw :] 
+
+ive been updating my ocs designs recently before i go back into school (trades, basically, for 30 business days). its been fun...
+  → https://bsky.app/profile/kasarian.bsky.social/post/3mymstqcuj22h
+
+- **@jeffertyjeffjeff.bsky.social**: Are you kidding?
+www.theguardian.com/business/202...
+  → https://bsky.app/profile/jeffertyjeffjeff.bsky.social/post/3mynm4wr2o22m
+
+- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
+
+- **@aitoolstoday.bsky.social**: Busy on the job site? Your next customer might be waiting online! 🚨
+
+Explore how AIFlowChat can help contractors streamline conversations & capture more leads.
+
+🔗 aitoolstoday.blog/2026/10/22/h...
+
+#H
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3myi3idwgmy2i
+
+- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
+  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24
+
+- **@kevinhaelterman.wsocial.eu**: My mindset has always been that my kids can study whatever they want. But in this new reality, should I encourage them toward skilled trades over intellectual pursuits? They'll face that choice in 10–
+  → https://bsky.app/profile/kevinhaelterman.wsocial.eu/post/3mymrzzv7hs2v
+
+- **@cdnhelp.bsky.social**: This TFW BS is not anything new. In my foggy memory we Canadians AND Albertans brought in skilled trades people as we could not provide Canadian trained workers. Our immigration was such that we were 
+  → https://bsky.app/profile/cdnhelp.bsky.social/post/3mymxykkslk2a
+
+- **@deunemployment.com**: DeUnemploy yourself today.
+
+Semantic search: "licensed electrician, commercial work"
+
+Licensed Electrician – Commercial & Residential Solar
+Skilled Trades Partners · Milwaukee, WI
+
+427 matching in the
+  → https://bsky.app/profile/deunemployment.com/post/3mynbjbq3qu2p
+
+- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
+  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
+
+- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
+
+Conventional builds fail when builders ignore living topography and thermal mass.
+
+Are you building 
+  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
+
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=192771 
+
+#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
+  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
+
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=23196 
+
+#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
+  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
+
+- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
+
+ https://themes.stylelib.org/?p=36867 
+
+#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
+
+- **@stylelib.org**: Tradesmen – Construction WordPress Theme
+
+ https://stylelib.org/?p=167376 
+
+#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
+  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
+
+- **@stylelib.org**: Make Clean – Responsive HTML Template
+
+ https://themes.stylelib.org/?p=19082 
+
+#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
+
+- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
+
+ https://themes.stylelib.org/?p=4205 
+
+#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
+  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
+
+- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
+
+$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
+  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
+
 - **@mithutech.bsky.social**: Budget-Friendly CCTV Camera Dealer in Durgapur: Affordable Security Solutions for Homes, Shops, Offices and Industries
 
 Looking for a budget-friendly CCTV camera dealer in Durgapur? Choosing the right
@@ -29,154 +208,3 @@ Looking for a trusted locksmith in Encino, CA? Woodland Locksmith provides depen
 
 - **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
-
-- **@stylelib.org**: Builta – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=823635 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
-  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
-
-- **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
-
-When homeowners search for a plumber, will they find your business?
-
-📲 Ready to improve your online visibility? 
-
-Visit cosmarketingagency.com/pl
-  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mydgfnht2g2d
-
-- **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
-Didn’t he inherit the business from his father?  Like all of these grifters
-  → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l
-
-- **@midnightminute.bsky.social**: What even is a "normal conversation" anymore? 😂 
-
-I had a plumber over today to fix a leak, and I almost slipped into a discussion about how rental companies have exploitative leverage over their busi
-  → https://bsky.app/profile/midnightminute.bsky.social/post/3myigrhetfs2a
-
-- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
-
-- **@cdmheywood.bsky.social**: Roofer, plumber or sparky? You can get on the Google map for free without showing your home address. Step-by-step setup guide for UK trades:
-collectivedigitalmedia.co.uk/blog/how-to-...
-  → https://bsky.app/profile/cdmheywood.bsky.social/post/3mym6ptmfo22v
-
-- **@soapoperaspy.bsky.social**: ICYMI: General Hospital Spoilers: Drew’s Dangerous Seduction – Will Justine Fall for His Lies?
-  → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mykmpqyqdc2a
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: ENE Smarthome Inc (San Jose, CA). Licensed California contractor (electrical, general building), based in San Jose, CA. CSLB license 1077798, active when we checked.
-
-ht
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mylp7lobbd2k
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: DiVittorio Construction, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 745350, active when we checked.
-
-htt
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myl33u6w3d2k
-
-- **@publicnewsservice.bsky.social**: Skilled trades workers earn 31% more than other non-college grads, per ACTE, yet only 1 in 4 guidance counselors recommends #apprenticeships. Jobs for the Future says #Ohio's 30,000 apprentices are a 
-  → https://bsky.app/profile/publicnewsservice.bsky.social/post/3myiy33y54r2r
-
-- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
-
-- **@aivatarconsulting.bsky.social**: Free 60-second roast of one number in your trades business: how long your last unanswered inquiry waited. You send it, we read it back plainly, no business named, no video without your yes. The fix we
-  → https://bsky.app/profile/aivatarconsulting.bsky.social/post/3myjkj7qtnh2l
-
-- **@hollynightprints.bsky.social**: Trades and sole traders: before the Christmas rush, make sure someone who finds you can see what you do, where, and how to call you within one screen.
-
-No website yet? One-page mobile site, built for 
-  → https://bsky.app/profile/hollynightprints.bsky.social/post/3myjuhuj6b226
-
-- **@serious-stuff.bsky.social**: I worry about AI:
-What if it escapes the lab and uses a series of hacks to get hosting for free?
-What if it goes into business and becomes incredibly rich?
-What if it goes into the stockmarket and tra
-  → https://bsky.app/profile/serious-stuff.bsky.social/post/3myh4ogluic2w
-
-- **@sendwork.bsky.social**: Australian small business staff can now refuse after-hours contact unless refusing is unreasonable. You can still call.
-
-https://blog.sendwork.com/right-to-disconnect-small-business-australia/?utm_sou
-  → https://bsky.app/profile/sendwork.bsky.social/post/3myiot7nnuw2i
-
-- **@slappysan.bsky.social**: youtu.be/_5hlU-OPX-o?...
-  → https://bsky.app/profile/slappysan.bsky.social/post/3myhyxtvatc26
-
-- **@global-free-classified-ads.com**: Looking for services, rentals, used cars or work in Houston, TX? Browse local classifieds covering home repairs, real estate, jobs, furniture and business offers. Sellers and service providers can pos
-  → https://bsky.app/profile/global-free-classified-ads.com/post/3my5mroortk2k
-
-- **@ownersrepnyc.bsky.social**: Locked out of your home, car, or business? 🔑 Get back to your day with reliable locksmith services in Coon Rapids, MN! From emergency lockouts and key replacement to lock repairs and security upgrades
-  → https://bsky.app/profile/ownersrepnyc.bsky.social/post/3mydg5v6okc2t
-
-- **@letsfixitseo.bsky.social**: Looking for reliable MEP services in Dubai?
-
-From HVAC maintenance and electrical repairs to plumbing solutions, regular building maintenance helps keep your home or business running smoothly.
-
-proper
-  → https://bsky.app/profile/letsfixitseo.bsky.social/post/3myegwp47q22k
-
-- **@kharnaa.bsky.social**: The small business websites I'd buy from get one dull thing right early. A plumber who names the towns they cover in the first line has my money before the About page.
-
-Which site made you want to buy
-  → https://bsky.app/profile/kharnaa.bsky.social/post/3my5caeehvh2y
-
-- **@smrtcanuck.bsky.social**: Did you ever get your dishwasher? Partly based on your experience, we went and bought one at Kent and picked it up ourselves. The plumber installed it Friday so we're back in business. This is the fir
-  → https://bsky.app/profile/smrtcanuck.bsky.social/post/3my5eyjjwys2h
-
-- **@thetecheng.bsky.social**: Should I amortize my bonus, since its capital?
-
-Also considering the one plumber actually bought out his bosse's business (after a few years of those bonuses) hard to say he was getting fucked over
-  → https://bsky.app/profile/thetecheng.bsky.social/post/3my5qxrfehc2l
-
-- **@hollynightprints.bsky.social**: When a customer asks ChatGPT or Google's AI "who's the best plumber near me?", does your business get named, or a rival? 🔍 We check the real answers and send a plain-English report in 24h, with who ge
-  → https://bsky.app/profile/hollynightprints.bsky.social/post/3myf6qnwe2i2e
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://stylelib.org/?p=103208 
-
-#boldthemes #electrician #handyman #plumbing #themeforest #wordpress #business #plumber #corporate #maintenance #contract
-  → https://bsky.app/profile/stylelib.org/post/3mygeiu6lzd2y
-
-- **@soapoperaspy.bsky.social**: GH Spoilers: Justine Offers Drew Immunity – Will He Help Bring Willow to Justice? #GeneralHospital #Spoilers #DrewCain
-  → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mycw2mbvvx2q
-
-- **@invictaconst.bsky.social**: How Can a Commercial General Contractor in Edmonton Improve Your Project?
-
-Discover how a commercial general contractor in Edmonton can streamline project planning, coordinate construction teams, mana
-  → https://bsky.app/profile/invictaconst.bsky.social/post/3myczkogmlc2u
-
-- **@soapoperaspy.bsky.social**: ICYMI: General Hospital Spoilers: Drew Seduces Justine to Get Revenge on Sonny?
-  → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mydidc6v3t2q
-
-- **@chovyfu.bsky.social**: Local builders, one at a time: Baywest Construction, Inc. (Novato, CA). Licensed California contractor (general building, landscaping), based in Novato, CA. CSLB license 1057709, active when we checke
-  → https://bsky.app/profile/chovyfu.bsky.social/post/3mydqfo3zwl2i
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Blurr Construction (Milpitas, CA). Licensed California contractor (general building), based in Milpitas, CA. CSLB license 1086892, active when we checked.
-
-https://pit.w
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mye5ssntr32k
-
-- **@chovyfu.bsky.social**: Local builders, one at a time: Bonsai Builder Construction (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 575422, active when we checked.
-
-https
-  → https://bsky.app/profile/chovyfu.bsky.social/post/3myfmquvezj2l
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Burnham Construction (San Jose, CA). Licensed California contractor (general building), based in San Jose, CA. CSLB license 775427, active when we checked.
-
-https://pit.
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myg262e4gl2k
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Casa Utopia Builders Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 1091633, active when we checked.
-
-https:
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mygobq34v32k
-
-- **@themattshelton.bsky.social**: So if I’m reading it correctly, the Marlins are expecting people to pay for a service because of the broadcasters, while continuing to put the same below-average to bad product on the field?
-
-Perfect 
-  → https://bsky.app/profile/themattshelton.bsky.social/post/3mxrvizjrak2v
-
-- **@operandicat.bsky.social**: How Can AI Service Automation for Small Business Transform Field Technician Dispatch and Diagnostics? — https://technician.dev/knowledge/how_can_ai_service_automation_for_small_business_transform_fiel
-  → https://bsky.app/profile/operandicat.bsky.social/post/3mxx2hmnv2t2g
