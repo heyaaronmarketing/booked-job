@@ -1,47 +1,4 @@
 {
-  "updated": "2026-10-24T20:05",
-  "posts": [
-    {
-      "ts": "2026-10-24T20:04:16",
-      "channel": "facebook",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-10-24T20:03:57",
-      "channel": "mastodon",
-      "item": "card-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-10-24T20:03:53",
-      "channel": "tumblr",
-      "item": "bj-track",
-      "url": null
-    },
-    {
-      "ts": "2026-10-24T20:03:51",
-      "channel": "bluesky",
-      "item": "ad-pauls",
-      "url": null
-    },
-    {
-      "ts": "2026-10-24T20:03:48",
-      "channel": "linkedin",
-      "item": "bj-ai",
-      "url": null
-    },
-    {
-      "ts": "2026-10-24T20:03:47",
-      "channel": "tiktok",
-      "item": "bj-cheapbid",
-      "url": null
-    },
-    {
-      "ts": "2026-10-24T20:03:46",
-      "channel": "facebook",
-      "item": "bj-reviews",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-25T01:02",
+  "posts": []
 }

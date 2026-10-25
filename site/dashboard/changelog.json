@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-10-25T01:00",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: homeowner son"
+    },
+    {
+      "ts": "2026-10-25T01:00",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing insurance"
+    },
+    {
       "ts": "2026-10-24T20:03",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: biz fire customer"
-    },
-    {
-      "ts": "2026-10-10T15:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy caulk"
-    },
-    {
-      "ts": "2026-10-10T10:29",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+1823144-8c1c-hello=booked-job.com@email.medium.com: Change Data Capture (CDC) for Data Engineers | Vu Trinh in Data Engineer Things"
     }
   ]
 }

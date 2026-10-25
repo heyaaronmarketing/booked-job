@@ -2,6 +2,63 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Renovation – Construction Company WordPress Theme
+
+ https://stylelib.org/?p=192771 
+
+#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
+  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
+
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=23196 
+
+#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
+  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
+
+- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
+
+ https://themes.stylelib.org/?p=36867 
+
+#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
+
+- **@stylelib.org**: Tradesmen – Construction WordPress Theme
+
+ https://stylelib.org/?p=167376 
+
+#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
+  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
+
+- **@stylelib.org**: Make Clean – Responsive HTML Template
+
+ https://themes.stylelib.org/?p=19082 
+
+#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
+
+- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
+
+ https://themes.stylelib.org/?p=4205 
+
+#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
+  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
+
+- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
+
+$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
+  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
+
+- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
+  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
+
+- **@stylelib.org**: Renew – Renovation WordPress Theme
+
+ https://stylelib.org/?p=191989 
+
+#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
+  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
+
 - **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
 
 When homeowners search for a plumber, will they find your business?
@@ -153,46 +210,3 @@ Utah's Legislature is part-time: 103 members write the rules on bail, jail, poli
 
 - **@pissed-off-g.bsky.social**: When Donald Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of d
   → https://bsky.app/profile/pissed-off-g.bsky.social/post/3mymokn3yp223
-
-- **@jefftrnka.bsky.social**: When Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of dollars.
-  → https://bsky.app/profile/jefftrnka.bsky.social/post/3mympsyokt22y
-
-- **@kasarian.bsky.social**: for anyone that cares, this is daon, btw :] 
-
-ive been updating my ocs designs recently before i go back into school (trades, basically, for 30 business days). its been fun...
-  → https://bsky.app/profile/kasarian.bsky.social/post/3mymstqcuj22h
-
-- **@jeffertyjeffjeff.bsky.social**: Are you kidding?
-www.theguardian.com/business/202...
-  → https://bsky.app/profile/jeffertyjeffjeff.bsky.social/post/3mynm4wr2o22m
-
-- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
-  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
-
-- **@aitoolstoday.bsky.social**: Busy on the job site? Your next customer might be waiting online! 🚨
-
-Explore how AIFlowChat can help contractors streamline conversations & capture more leads.
-
-🔗 aitoolstoday.blog/2026/10/22/h...
-
-#H
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3myi3idwgmy2i
-
-- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
-  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24
-
-- **@kevinhaelterman.wsocial.eu**: My mindset has always been that my kids can study whatever they want. But in this new reality, should I encourage them toward skilled trades over intellectual pursuits? They'll face that choice in 10–
-  → https://bsky.app/profile/kevinhaelterman.wsocial.eu/post/3mymrzzv7hs2v
-
-- **@cdnhelp.bsky.social**: This TFW BS is not anything new. In my foggy memory we Canadians AND Albertans brought in skilled trades people as we could not provide Canadian trained workers. Our immigration was such that we were 
-  → https://bsky.app/profile/cdnhelp.bsky.social/post/3mymxykkslk2a
-
-- **@deunemployment.com**: DeUnemploy yourself today.
-
-Semantic search: "licensed electrician, commercial work"
-
-Licensed Electrician – Commercial & Residential Solar
-Skilled Trades Partners · Milwaukee, WI
-
-427 matching in the
-  → https://bsky.app/profile/deunemployment.com/post/3mynbjbq3qu2p
