@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:57:18Z",
+  "updated": "2026-10-25T21:40:35Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -98,7 +98,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 4,
+        "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -132,9 +132,9 @@
         "link": "https://mastodon.social/tags/HVACShutdownChemicalLeak"
       },
       {
-        "tag": "#RoofingCare",
+        "tag": "#PlumbingRepairs",
         "uses": 1,
-        "link": "https://mastodon.social/tags/RoofingCare"
+        "link": "https://mastodon.social/tags/PlumbingRepairs"
       }
     ],
     "accounts": [
@@ -145,7 +145,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 36025,
+        "followers": 36026,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2249,
+      "followers": 2250,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
