@@ -2,6 +2,79 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
+
+When homeowners search for a plumber, will they find your business?
+
+📲 Ready to improve your online visibility? 
+
+Visit cosmarketingagency.com/pl
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mydgfnht2g2d
+
+- **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
+Didn’t he inherit the business from his father?  Like all of these grifters
+  → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l
+
+- **@hollynightprints.bsky.social**: When a customer asks ChatGPT or Google's AI "who's the best plumber near me?", does your business get named, or a rival? 🔍 We check the real answers and send a plain-English report in 24h, with who ge
+  → https://bsky.app/profile/hollynightprints.bsky.social/post/3myf6qnwe2i2e
+
+- **@midnightminute.bsky.social**: What even is a "normal conversation" anymore? 😂 
+
+I had a plumber over today to fix a leak, and I almost slipped into a discussion about how rental companies have exploitative leverage over their busi
+  → https://bsky.app/profile/midnightminute.bsky.social/post/3myigrhetfs2a
+
+- **@ownersrepnyc.bsky.social**: Locked out of your home, car, or business? 🔑 Get back to your day with reliable locksmith services in Coon Rapids, MN! From emergency lockouts and key replacement to lock repairs and security upgrades
+  → https://bsky.app/profile/ownersrepnyc.bsky.social/post/3mydg5v6okc2t
+
+- **@letsfixitseo.bsky.social**: Looking for reliable MEP services in Dubai?
+
+From HVAC maintenance and electrical repairs to plumbing solutions, regular building maintenance helps keep your home or business running smoothly.
+
+proper
+  → https://bsky.app/profile/letsfixitseo.bsky.social/post/3myegwp47q22k
+
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Casa Utopia Builders Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 1091633, active when we checked.
+
+https:
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mygobq34v32k
+
+- **@soapoperaspy.bsky.social**: ICYMI: General Hospital Spoilers: Drew’s Dangerous Seduction – Will Justine Fall for His Lies?
+  → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mykmpqyqdc2a
+
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: DiVittorio Construction, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 745350, active when we checked.
+
+htt
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myl33u6w3d2k
+
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: ENE Smarthome Inc (San Jose, CA). Licensed California contractor (electrical, general building), based in San Jose, CA. CSLB license 1077798, active when we checked.
+
+ht
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mylp7lobbd2k
+
+- **@cdmheywood.bsky.social**: Roofer, plumber or sparky? You can get on the Google map for free without showing your home address. Step-by-step setup guide for UK trades:
+collectivedigitalmedia.co.uk/blog/how-to-...
+  → https://bsky.app/profile/cdmheywood.bsky.social/post/3mym6ptmfo22v
+
+- **@stylelib.org**: Builta – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=823635 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
+  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://stylelib.org/?p=103208 
+
+#boldthemes #electrician #handyman #plumbing #themeforest #wordpress #business #plumber #corporate #maintenance #contract
+  → https://bsky.app/profile/stylelib.org/post/3mygeiu6lzd2y
+
+- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
+
+- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
+
 - **@mydumpsterfire.bsky.social**: What has improved since his appointment?
 Financial stability?
 Patron experience?
@@ -123,88 +196,3 @@ Skilled Trades Partners · Milwaukee, WI
 
 427 matching in the
   → https://bsky.app/profile/deunemployment.com/post/3mynbjbq3qu2p
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@stylelib.org**: Renovation – Construction Company WordPress Theme
-
- https://stylelib.org/?p=192771 
-
-#builder #electrician #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #architect #archit
-  → https://bsky.app/profile/stylelib.org/post/3mxsrjxl2im2y
-
-- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=23196 
-
-#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
-  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
-
-- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
-
- https://themes.stylelib.org/?p=36867 
-
-#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
-  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
-
-- **@stylelib.org**: Tradesmen – Construction WordPress Theme
-
- https://stylelib.org/?p=167376 
-
-#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
-  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
-
-- **@stylelib.org**: Make Clean – Responsive HTML Template
-
- https://themes.stylelib.org/?p=19082 
-
-#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
-  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
-
-- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
-
- https://themes.stylelib.org/?p=4205 
-
-#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
-  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
-
-- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
-
-$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
-  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
-
-- **@mithutech.bsky.social**: Budget-Friendly CCTV Camera Dealer in Durgapur: Affordable Security Solutions for Homes, Shops, Offices and Industries
-
-Looking for a budget-friendly CCTV camera dealer in Durgapur? Choosing the right
-  → https://bsky.app/profile/mithutech.bsky.social/post/3mynaz4o6rr27
-
-- **@randydeal.bsky.social**: I am looking for other influencers to help bring our content to people. Got a half hour per day? Message me and let's see what we can do to work together 
-
-Seomasters.online
-  → https://bsky.app/profile/randydeal.bsky.social/post/3mynebyybfs25
-
-- **@stylelib.org**: Renew – Renovation WordPress Theme
-
- https://stylelib.org/?p=191989 
-
-#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
-  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
-
-- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
-  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
-
-- **@woodlandhillsca.bsky.social**: Locksmith Encino, CA | Trusted Local Locksmiths
-
-Looking for a trusted locksmith in Encino, CA? Woodland Locksmith provides dependable residential, commercial, and automotive locksmith services with h
-  → https://bsky.app/profile/woodlandhillsca.bsky.social/post/3mygxzbp2c22o
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
