@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
+
+- **@aitoolstoday.bsky.social**: Busy on the job site? Your next customer might be waiting online! 🚨
+
+Explore how AIFlowChat can help contractors streamline conversations & capture more leads.
+
+🔗 aitoolstoday.blog/2026/10/22/h...
+
+#H
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3myi3idwgmy2i
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
+
 - **@jefftrnka.bsky.social**: When Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of dollars.
   → https://bsky.app/profile/jefftrnka.bsky.social/post/3mympsyokt22y
 
@@ -198,16 +213,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
   → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
-
-You know, a lot of times an owner tells me, “We already had somebody set that up.” 
-  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
-
-- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
-
-Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
-  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
-
-- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
-  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
