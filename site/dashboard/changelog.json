@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-10-25T14:09",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing diagnostic fee"
+    },
+    {
       "ts": "2026-10-25T11:14",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: homeowner son"
-    },
-    {
-      "ts": "2026-10-11T00:37",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz gbp stale"
     }
   ]
 }

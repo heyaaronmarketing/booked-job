@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@rysannikov.bsky.social**: I recently had a great chat with my friend Pablo Brum for his Polo Cyber podcast. We touched on Russia, politics, law enforcement in general, and cyber threats, inuding AI and third-party risk. Still 
+  → https://bsky.app/profile/rysannikov.bsky.social/post/3mypmoponzk2g
+
+- **@augustjpollak.bsky.social**: I don’t like having a military in general but if we’re going to have one, the idea that it is actually a debate over whether or not critical military infrastructure should be controlled by a private c
+  → https://bsky.app/profile/augustjpollak.bsky.social/post/3myps46q6ic2k
+
+- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
+  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24
+
 - **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
   → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
 
@@ -202,14 +211,3 @@ We provide specialty accounting & bookkeeping for:
 → HVAC companies & contractors
 → Realtors & home service busi
   → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
