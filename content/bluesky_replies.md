@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jefftrnka.bsky.social**: When Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of dollars.
+  → https://bsky.app/profile/jefftrnka.bsky.social/post/3mympsyokt22y
+
+- **@kasarian.bsky.social**: for anyone that cares, this is daon, btw :] 
+
+ive been updating my ocs designs recently before i go back into school (trades, basically, for 30 business days). its been fun...
+  → https://bsky.app/profile/kasarian.bsky.social/post/3mymstqcuj22h
+
+- **@jeffertyjeffjeff.bsky.social**: Are you kidding?
+www.theguardian.com/business/202...
+  → https://bsky.app/profile/jeffertyjeffjeff.bsky.social/post/3mynm4wr2o22m
+
 - **@stylelib.org**: Renovation – Construction Company WordPress Theme
 
  https://stylelib.org/?p=192771 
@@ -199,14 +211,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 - **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
   → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@utahinjustice.bsky.social**: Who writes your laws? Every Utah legislator's day job, with photos.
-
-Utah's Legislature is part-time: 103 members write the rules on bail, jail, police and courts, and keep their day jobs. 75 are on y
-  → https://bsky.app/profile/utahinjustice.bsky.social/post/3myks2hsefb2n
-
-- **@pissed-off-g.bsky.social**: When Donald Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of d
-  → https://bsky.app/profile/pissed-off-g.bsky.social/post/3mymokn3yp223

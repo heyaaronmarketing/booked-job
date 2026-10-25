@@ -1,4 +1,41 @@
 {
-  "updated": "2026-10-25T01:02",
-  "posts": []
+  "updated": "2026-10-25T06:20",
+  "posts": [
+    {
+      "ts": "2026-10-25T06:17:46",
+      "channel": "tumblr",
+      "item": "ad-arctic",
+      "url": null
+    },
+    {
+      "ts": "2026-10-25T06:17:44",
+      "channel": "bluesky",
+      "item": "ad-summit",
+      "url": null
+    },
+    {
+      "ts": "2026-10-25T06:17:42",
+      "channel": "linkedin",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-10-25T06:17:41",
+      "channel": "tiktok",
+      "item": "bj-wordpress",
+      "url": null
+    },
+    {
+      "ts": "2026-10-25T06:17:40",
+      "channel": "ig",
+      "item": "bj-stars",
+      "url": null
+    },
+    {
+      "ts": "2026-10-25T06:17:06",
+      "channel": "facebook",
+      "item": "bj-trade",
+      "url": null
+    }
+  ]
 }
