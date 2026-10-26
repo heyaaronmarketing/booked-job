@@ -82,12 +82,13 @@
       "bj-wordpress",
       "bj-first10k",
       "bj-yelp",
-      "bj-anon98"
+      "bj-anon98",
+      "bj-missedcall"
     ],
-    "last_iso": "2026-10-25T16:52:50",
+    "last_iso": "2026-10-25T19:21:12",
     "day": {
       "date": "2026-10-25",
-      "count": 4
+      "count": 5
     }
   },
   "linkedin": {
@@ -126,12 +127,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-10-25T16:52:50",
+    "last_iso": "2026-10-25T19:21:12",
     "day": {
       "date": "2026-10-25",
-      "count": 4
+      "count": 5
     }
   },
   "facebook": {
@@ -159,12 +161,13 @@
       "bj-angi",
       "bj-reviews",
       "bj-trade",
-      "bj-slow"
+      "bj-slow",
+      "bj-cpbj"
     ],
-    "last_iso": "2026-10-25T14:08:28",
+    "last_iso": "2026-10-25T19:21:12",
     "day": {
       "date": "2026-10-25",
-      "count": 2
+      "count": 3
     }
   },
   "pinterest": {
@@ -232,12 +235,13 @@
       "ad-summit",
       "clip-porno2",
       "clip-porno3",
-      "clip-speed"
+      "clip-speed",
+      "clip1-turd"
     ],
-    "last_iso": "2026-10-25T16:52:50",
+    "last_iso": "2026-10-25T19:21:12",
     "day": {
       "date": "2026-10-25",
-      "count": 4
+      "count": 5
     }
   },
   "telegram": {
@@ -310,12 +314,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-speed"
+      "clip-speed",
+      "clip1-turd"
     ],
-    "last_iso": "2026-10-25T16:52:50",
+    "last_iso": "2026-10-25T19:21:12",
     "day": {
       "date": "2026-10-25",
-      "count": 4
+      "count": 5
     }
   }
 }
