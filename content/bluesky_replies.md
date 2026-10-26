@@ -2,6 +2,59 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
+
+ https://themes.stylelib.org/?p=23196 
+
+#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
+  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
+
+- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
+
+ https://themes.stylelib.org/?p=36867 
+
+#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
+  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
+
+- **@stylelib.org**: Tradesmen – Construction WordPress Theme
+
+ https://stylelib.org/?p=167376 
+
+#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
+  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
+
+- **@stylelib.org**: Make Clean – Responsive HTML Template
+
+ https://themes.stylelib.org/?p=19082 
+
+#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
+
+- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
+
+ https://themes.stylelib.org/?p=4205 
+
+#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
+  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
+
+- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
+
+$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
+  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
+
+- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
+
+🎥 Watch the full video: youtu.be/f8UlH6B8rsc
+
+🌐 Learn more: cosmarketingagency.com/cleaning-ser...
+.
+.
+#CleaningCompanyMarketing
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
+
+- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
+  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24
+
 - **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
   → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
 
@@ -157,39 +210,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 Utah's Legislature is part-time: 103 members write the rules on bail, jail, police and courts, and keep their day jobs. 75 are on y
   → https://bsky.app/profile/utahinjustice.bsky.social/post/3myks2hsefb2n
-
-- **@pissed-off-g.bsky.social**: When Donald Trump ran for office in 2016, he promised to restore ethics in government. Since then, he has refused to divest from his business interests and has increased his net worth by billions of d
-  → https://bsky.app/profile/pissed-off-g.bsky.social/post/3mymokn3yp223
-
-- **@suggestedby.ai**: Being on Google isn't enough. For many trades AI cites sector directories and booking platforms first. Missing there? It cites the competitor who isn't.
-
-https://suggestedby.ai/en/blog/what-ai-citatio
-  → https://bsky.app/profile/suggestedby.ai/post/3myphjkvc2p2m
-
-- **@stage32.bsky.social**: What’s the one habit that sets you up for success in this business?
-
-Stage 32 CEO RB Botto says it comes down to knowledge: read the trades, keep connecting, and never stop learning, even outside your
-  → https://bsky.app/profile/stage32.bsky.social/post/3mypvgtgip322
-
-- **@kevinhaelterman.wsocial.eu**: My mindset has always been that my kids can study whatever they want. But in this new reality, should I encourage them toward skilled trades over intellectual pursuits? They'll face that choice in 10–
-  → https://bsky.app/profile/kevinhaelterman.wsocial.eu/post/3mymrzzv7hs2v
-
-- **@cdnhelp.bsky.social**: This TFW BS is not anything new. In my foggy memory we Canadians AND Albertans brought in skilled trades people as we could not provide Canadian trained workers. Our immigration was such that we were 
-  → https://bsky.app/profile/cdnhelp.bsky.social/post/3mymxykkslk2a
-
-- **@deunemployment.com**: DeUnemploy yourself today.
-
-Semantic search: "licensed electrician, commercial work"
-
-Licensed Electrician – Commercial & Residential Solar
-Skilled Trades Partners · Milwaukee, WI
-
-427 matching in the
-  → https://bsky.app/profile/deunemployment.com/post/3mynbjbq3qu2p
-
-- **@clubseventwo.bsky.social**: What?
-youtube.com/shorts/avZjm...
-  → https://bsky.app/profile/clubseventwo.bsky.social/post/3mypnwqq42s2k
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
