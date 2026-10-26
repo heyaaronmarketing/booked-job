@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
+
+- **@aitoolstoday.bsky.social**: Busy on the job site? Your next customer might be waiting online! 🚨
+
+Explore how AIFlowChat can help contractors streamline conversations & capture more leads.
+
+🔗 aitoolstoday.blog/2026/10/22/h...
+
+#H
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3myi3idwgmy2i
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
+
+- **@stylelib.org**: Renew – Renovation WordPress Theme
+
+ https://stylelib.org/?p=191989 
+
+#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
+  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
+
 - **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
 
 When homeowners search for a plumber, will they find your business?
@@ -171,26 +193,3 @@ youtube.com/shorts/avZjm...
 
 - **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
   → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
-
-🎥 Watch the full video: youtu.be/f8UlH6B8rsc
-
-🌐 Learn more: cosmarketingagency.com/cleaning-ser...
-.
-.
-#CleaningCompanyMarketing
-  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
-
-- **@rysannikov.bsky.social**: I recently had a great chat with my friend Pablo Brum for his Polo Cyber podcast. We touched on Russia, politics, law enforcement in general, and cyber threats, inuding AI and third-party risk. Still 
-  → https://bsky.app/profile/rysannikov.bsky.social/post/3mypmoponzk2g
