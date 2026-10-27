@@ -2,6 +2,32 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@cdmheywood.bsky.social**: Roofer, plumber or sparky? You can get on the Google map for free without showing your home address. Step-by-step setup guide for UK trades:
+collectivedigitalmedia.co.uk/blog/how-to-...
+  → https://bsky.app/profile/cdmheywood.bsky.social/post/3mym6ptmfo22v
+
+- **@mithutech.bsky.social**: Budget-Friendly CCTV Camera Dealer in Durgapur: Affordable Security Solutions for Homes, Shops, Offices and Industries
+
+Looking for a budget-friendly CCTV camera dealer in Durgapur? Choosing the right
+  → https://bsky.app/profile/mithutech.bsky.social/post/3mynaz4o6rr27
+
+- **@randydeal.bsky.social**: I am looking for other influencers to help bring our content to people. Got a half hour per day? Message me and let's see what we can do to work together 
+
+Seomasters.online
+  → https://bsky.app/profile/randydeal.bsky.social/post/3mynebyybfs25
+
+- **@veduis.bsky.social**: Running a service business from home? Hiding your address breaks standard local SEO advice. How to rank in the map pack without risking a suspension: https://veduis.com/blog/service-area-business-seo-
+  → https://bsky.app/profile/veduis.bsky.social/post/3mypzjja7qn2z
+
+- **@business-fox-ceo.bsky.social**: When did you last service your water heater? Get a custom 12-month home maintenance schedule and systems manual as a professional PDF for $41.99. #HomeMaintenance #LandlordTips #Homeownership
+https://
+  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3myup3ywrod2y
+
+- **@mithutech.bsky.social**: Budget-Friendly CCTV Camera Seller in Durgapur – Best CCTV Cameras, Installation & Security Solutions by Mithu Tech Group – 2026
+
+Looking for a budget-friendly CCTV camera seller in Durgapur? Mithu Te
+  → https://bsky.app/profile/mithutech.bsky.social/post/3myutvfp2in27
+
 - **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
 
 Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
@@ -158,38 +184,3 @@ $97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
 
 - **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
   → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24
-
-- **@carterenterprise.bsky.social**: Read as a business count, the row count gives a clean, wrong sentence: Perplexity named 30 roofing businesses in Dallas in September. 27 answers named a business, and they named 45 distinct businesses
-  → https://bsky.app/profile/carterenterprise.bsky.social/post/3my3ylchkqc2n
-
-- **@aitoolstoday.bsky.social**: Busy on the job site? Your next customer might be waiting online! 🚨
-
-Explore how AIFlowChat can help contractors streamline conversations & capture more leads.
-
-🔗 aitoolstoday.blog/2026/10/22/h...
-
-#H
-  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3myi3idwgmy2i
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
-
-- **@stylelib.org**: Renew – Renovation WordPress Theme
-
- https://stylelib.org/?p=191989 
-
-#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
-  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
-
-- **@cosmarketingagency.bsky.social**: Plumbing SEO: Stand Out and Get More Service Calls 🔧📍
-
-When homeowners search for a plumber, will they find your business?
-
-📲 Ready to improve your online visibility? 
-
-Visit cosmarketingagency.com/pl
-  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mydgfnht2g2d
-
-- **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
-Didn’t he inherit the business from his father?  Like all of these grifters
-  → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l

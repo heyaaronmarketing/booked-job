@@ -90,12 +90,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-10-27T11:39:38",
+    "last_iso": "2026-10-27T16:25:16",
     "day": {
       "date": "2026-10-27",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -139,12 +140,13 @@
       "bj-rev-paint",
       "bj-cheapbid",
       "bj-wordpress",
-      "bj-first10k"
+      "bj-first10k",
+      "bj-yelp"
     ],
-    "last_iso": "2026-10-27T11:39:38",
+    "last_iso": "2026-10-27T16:25:16",
     "day": {
       "date": "2026-10-27",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -254,12 +256,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-10-27T11:39:38",
+    "last_iso": "2026-10-27T16:25:16",
     "day": {
       "date": "2026-10-27",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -337,12 +340,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-10-27T11:39:38",
+    "last_iso": "2026-10-27T16:25:16",
     "day": {
       "date": "2026-10-27",
-      "count": 1
+      "count": 2
     }
   }
 }
