@@ -2,6 +2,30 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
+  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
+
 - **@patriotchemical.bsky.social**: Stop the Clog Before It Starts!
 
 Grease buildup is a kitchen’s silent troublemaker. The right grease trap treatment chemicals break down fats, oils, and grease before they harden into costly blockages
@@ -169,29 +193,3 @@ Visit cosmarketingagency.com/pl
 - **@oreored.bsky.social**: I am pretty sure he is not even a plumber. 
 Didn’t he inherit the business from his father?  Like all of these grifters
   → https://bsky.app/profile/oreored.bsky.social/post/3mydjphllhc2l
-
-- **@hollynightprints.bsky.social**: When a customer asks ChatGPT or Google's AI "who's the best plumber near me?", does your business get named, or a rival? 🔍 We check the real answers and send a plain-English report in 24h, with who ge
-  → https://bsky.app/profile/hollynightprints.bsky.social/post/3myf6qnwe2i2e
-
-- **@midnightminute.bsky.social**: What even is a "normal conversation" anymore? 😂 
-
-I had a plumber over today to fix a leak, and I almost slipped into a discussion about how rental companies have exploitative leverage over their busi
-  → https://bsky.app/profile/midnightminute.bsky.social/post/3myigrhetfs2a
-
-- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
-  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@soapoperaspy.bsky.social**: ICYMI: General Hospital Spoilers: Drew’s Dangerous Seduction – Will Justine Fall for His Lies?
-  → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mykmpqyqdc2a

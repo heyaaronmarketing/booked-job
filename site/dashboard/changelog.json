@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "ts": "2026-10-27T11:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing diagnostic fee"
+    },
+    {
+      "ts": "2026-10-27T11:40",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: ba credit"
+    },
+    {
+      "ts": "2026-10-27T11:28",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
+    },
+    {
       "ts": "2026-10-27T05:26",
       "kind": "site",
       "icon": "🌐",
@@ -1181,24 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: ugc before after"
-    },
-    {
-      "ts": "2026-10-13T04:21",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: guy safety"
-    },
-    {
-      "ts": "2026-10-12T20:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy diy"
-    },
-    {
-      "ts": "2026-10-12T20:18",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy flextape"
     }
   ]
 }

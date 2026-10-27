@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @patriotchemical.bsky.social: “Stop the Clog Before It Starts!  Grease buildup is a kitchen’s silent troublemaker. The ri…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/patriotchemical.bsky.social/post/3mytiyg6g6s2x",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @bsky.scrapers.lat: “Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on bu…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @anvitam.bsky.social: “Packing three generations into one giant concrete mega-mansion leads to conflict and zero …”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @rysannikov.bsky.social: “I recently had a great chat with my friend Pablo Brum for his Polo Cyber podcast. We touch…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @augustjpollak.bsky.social: “I don’t like having a military in general but if we’re going to have one, the idea that it…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/augustjpollak.bsky.social/post/3myps46q6ic2k",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @riotcoder.social.w3bs.org: “Local builders, one at a time: J S Miller Construction Inc. (JS Miller) (San Jose, CA). Li…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myqq5gzkod2k",
       "est": "2 min"
     },
     {
