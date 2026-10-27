@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@nbc4i.com**: Some Columbus City School students are getting a unique head start in the skilled trades industry. https://nbc4i.co/4i36Gf6?utm_medium=social&utm_source=bluesky_
+  → https://bsky.app/profile/nbc4i.com/post/3mysvid4xmf2k
+
 - **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
 
  https://themes.stylelib.org/?p=23196 
@@ -205,8 +208,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 - **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
   → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
-
-- **@utahinjustice.bsky.social**: Who writes your laws? Every Utah legislator's day job, with photos.
-
-Utah's Legislature is part-time: 103 members write the rules on bail, jail, police and courts, and keep their day jobs. 75 are on y
-  → https://bsky.app/profile/utahinjustice.bsky.social/post/3myks2hsefb2n
