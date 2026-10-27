@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@patriotchemical.bsky.social**: Stop the Clog Before It Starts!
+
+Grease buildup is a kitchen’s silent troublemaker. The right grease trap treatment chemicals break down fats, oils, and grease before they harden into costly blockages
+  → https://bsky.app/profile/patriotchemical.bsky.social/post/3mytiyg6g6s2x
+
 - **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
   → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
 
@@ -190,8 +195,3 @@ We provide specialty accounting & bookkeeping for:
 
 - **@soapoperaspy.bsky.social**: ICYMI: General Hospital Spoilers: Drew’s Dangerous Seduction – Will Justine Fall for His Lies?
   → https://bsky.app/profile/soapoperaspy.bsky.social/post/3mykmpqyqdc2a
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: DiVittorio Construction, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 745350, active when we checked.
-
-htt
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myl33u6w3d2k
