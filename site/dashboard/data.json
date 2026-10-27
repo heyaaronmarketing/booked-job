@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T18:46",
+  "updated": "2026-10-26T23:51",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 642
+    "media": 643
   },
   "email": {
     "subscribers": 7
@@ -435,7 +435,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 10,
+      "count": 11,
       "unit": "posts",
       "followers": 298,
       "grade": "A",
@@ -488,9 +488,9 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 67,
+      "count": 68,
       "unit": "posts (Buffer)",
-      "stat": "895 reach \u00b7 1 reactions",
+      "stat": "898 reach \u00b7 1 reactions",
       "views": 27,
       "likes": 1,
       "grade": "B",
@@ -547,7 +547,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Polls",
@@ -577,7 +577,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Long video",
@@ -623,7 +623,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 55
+        "count": 56
       },
       {
         "type": "Documents",
@@ -633,7 +633,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 38
+        "count": 39
       },
       {
         "type": "Articles",
@@ -664,12 +664,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 10
+        "count": 11
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 59
+        "count": 60
       }
     ],
     "Mastodon": [
@@ -728,7 +728,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 57
+        "count": 58
       }
     ]
   },
@@ -795,7 +795,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1475,
+        "value": 1477,
         "grade": "A"
       },
       {
