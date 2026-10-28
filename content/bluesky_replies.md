@@ -2,6 +2,47 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
+  → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
+
+- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
+  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@aitoolstoday.bsky.social**: Busy on the job site? Your next customer might be waiting online! 🚨
+
+Explore how AIFlowChat can help contractors streamline conversations & capture more leads.
+
+🔗 aitoolstoday.blog/2026/10/22/h...
+
+#H
+  → https://bsky.app/profile/aitoolstoday.bsky.social/post/3myi3idwgmy2i
+
+- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
+
+- **@stylelib.org**: Renew – Renovation WordPress Theme
+
+ https://stylelib.org/?p=191989 
+
+#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
+  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
+
+- **@citizenptnewsin.bsky.social**: Sheffield Planning Commission just recommended a new gated campus for contractors—will it meet the community's needs or spark more concerns? 
+
+Click to read more!
+
+#ShelbyvilleCityShelbyCounty #IN #Ci
+  → https://bsky.app/profile/citizenptnewsin.bsky.social/post/3myv6c64wgq2x
+
 - **@cdmheywood.bsky.social**: Roofer, plumber or sparky? You can get on the Google map for free without showing your home address. Step-by-step setup guide for UK trades:
 collectivedigitalmedia.co.uk/blog/how-to-...
   → https://bsky.app/profile/cdmheywood.bsky.social/post/3mym6ptmfo22v
@@ -138,49 +179,3 @@ youtube.com/shorts/avZjm...
 
 #architecture #builder #building #business #construction #contractor #corporate #electrician #handym
   → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
-
-- **@stylelib.org**: Clengo – Cleaning Company WordPress Theme
-
- https://themes.stylelib.org/?p=36867 
-
-#business #contractor #corporate #electrician #elementor #handyman #maintenance #painter #plumber #themeforest #wordp
-  → https://bsky.app/profile/stylelib.org/post/3mxyayq6ahf2x
-
-- **@stylelib.org**: Tradesmen – Construction WordPress Theme
-
- https://stylelib.org/?p=167376 
-
-#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
-  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
-
-- **@stylelib.org**: Make Clean – Responsive HTML Template
-
- https://themes.stylelib.org/?p=19082 
-
-#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
-  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
-
-- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
-
- https://themes.stylelib.org/?p=4205 
-
-#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
-  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
-
-- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
-
-$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
-  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
-
-- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
-
-🎥 Watch the full video: youtu.be/f8UlH6B8rsc
-
-🌐 Learn more: cosmarketingagency.com/cleaning-ser...
-.
-.
-#CleaningCompanyMarketing
-  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
-
-- **@andrewkilger.bsky.social**: I always thought business degrees were a scam because how can you possibly teach someone how to run a business in *any* field they might encounter? That and the fact that MBAs were seen as one of the 
-  → https://bsky.app/profile/andrewkilger.bsky.social/post/3my5pnli3xc24

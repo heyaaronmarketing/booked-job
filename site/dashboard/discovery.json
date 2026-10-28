@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T21:13:57Z",
+  "updated": "2026-10-28T01:11:47Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,18 +78,18 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 31,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
-        "tag": "#hvac",
-        "uses": 17,
-        "link": "https://mastodon.social/tags/hvac"
+        "tag": "#contractors",
+        "uses": 10,
+        "link": "https://mastodon.social/tags/contractors"
       },
       {
-        "tag": "#contractors",
-        "uses": 12,
-        "link": "https://mastodon.social/tags/contractors"
+        "tag": "#hvac",
+        "uses": 9,
+        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#roofing",
@@ -105,16 +105,6 @@
         "tag": "#plumbing",
         "uses": 2,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#roofingcontractor",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/roofingcontractor"
-      },
-      {
-        "tag": "#RoofingServices",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/RoofingServices"
       },
       {
         "tag": "#handyman",
@@ -135,6 +125,16 @@
         "tag": "#PlumbingRepairs",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingRepairs"
+      },
+      {
+        "tag": "#roofingcontractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/roofingcontractor"
+      },
+      {
+        "tag": "#RoofingServices",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/RoofingServices"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23595,
+        "followers": 23599,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8491,
+        "followers": 8492,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10673,
+      "followers": 10679,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -208,7 +208,7 @@
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3824,
+      "followers": 3825,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
@@ -222,14 +222,14 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2243,
+      "followers": 2241,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1859,
+      "followers": 1857,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -243,14 +243,14 @@
     {
       "handle": "@roofing11.bsky.social",
       "display": "Barbara",
-      "followers": 1472,
+      "followers": 1470,
       "desc": "Retired Lead Emergency Service Dispatcher in Texas. Hate the state, love the City. True Blue especially now.",
       "link": "https://bsky.app/profile/roofing11.bsky.social"
     },
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1412,
+      "followers": 1410,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Haunted Plumbing (Runic Press)",
-      "followers": 1068,
+      "followers": 1067,
       "desc": "TTRPG content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) h",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
@@ -285,7 +285,7 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 856,
+      "followers": 858,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     }
