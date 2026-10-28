@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hewer-of-code.bsky.social**: Can someone please explain why I'm getting bad vibes from the Canadian and Ontario government push for skilled trades?
+  → https://bsky.app/profile/hewer-of-code.bsky.social/post/3myx3tau7cs2z
+
+- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
+
+🎥 Watch the full video: youtu.be/f8UlH6B8rsc
+
+🌐 Learn more: cosmarketingagency.com/cleaning-ser...
+.
+.
+#CleaningCompanyMarketing
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
+
 - **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
   → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
 
@@ -169,13 +182,3 @@ youtube.com/shorts/avZjm...
 
 - **@13abc.com**: BIG STORY: The need for jobs like electricians, plumbers and carpenters is growing, and a new report is shedding light on just how severe the shortage is. So what’s being done to close the gap? >> htt
   → https://bsky.app/profile/13abc.com/post/3myt5bbydnw2d
-
-- **@nbc4i.com**: Some Columbus City School students are getting a unique head start in the skilled trades industry. https://nbc4i.co/4i36Gf6?utm_medium=social&utm_source=bluesky_
-  → https://bsky.app/profile/nbc4i.com/post/3mysvid4xmf2k
-
-- **@stylelib.org**: Konstructo – Construction and Architecture WordPress Theme
-
- https://themes.stylelib.org/?p=23196 
-
-#architecture #builder #building #business #construction #contractor #corporate #electrician #handym
-  → https://bsky.app/profile/stylelib.org/post/3mxxmuxxtum25
