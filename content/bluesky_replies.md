@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
+
+ https://themes.stylelib.org/?p=16710 
+
+#builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
+  → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
+
+- **@suggestedby.ai**: For call-out work AI looks for three things: emergency wording in a heading, a named service area and a stated response time. Missing one? It names someone else.
+
+https://suggestedby.ai/en/blog/how-ai
+  → https://bsky.app/profile/suggestedby.ai/post/3mywja5xrbb2j
+
+- **@ckkcassociates.bsky.social**: When I've had a leak and nobody picked up, I didn't leave a voicemail. I called the next plumber.
+
+Customers who can't wait shop for the first one who answers.
+
+What happens when someone calls your bu
+  → https://bsky.app/profile/ckkcassociates.bsky.social/post/3mywxmzg2tr2w
+
+- **@joebuildssystems.bsky.social**: Selling AI services to a plumber? Don't pitch the AI. Local business owners buy fixes, not AI: pitch the revenue leak, like the thousands of dollars a month they can lose in missed calls. #AIServices 
+  → https://bsky.app/profile/joebuildssystems.bsky.social/post/3mywzfee4is2q
+
 - **@hewer-of-code.bsky.social**: Can someone please explain why I'm getting bad vibes from the Canadian and Ontario government push for skilled trades?
   → https://bsky.app/profile/hewer-of-code.bsky.social/post/3myx3tau7cs2z
 
@@ -165,20 +187,3 @@ https://trondynamo.
 
 www.intellinode.ai/
   → https://bsky.app/profile/gijutsunote.bsky.social/post/3myshuf736k22
-
-- **@stylelib.org**: Condo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824267 
-
-#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
-  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
-
-- **@clubseventwo.bsky.social**: What?
-youtube.com/shorts/avZjm...
-  → https://bsky.app/profile/clubseventwo.bsky.social/post/3mypnwqq42s2k
-
-- **@porcellato.bsky.social**: Idaho's skilled trades are expected to boom. Can North Idaho keep up? https://ift.tt/jSVkH3f
-  → https://bsky.app/profile/porcellato.bsky.social/post/3myrbguuqbb2l
-
-- **@13abc.com**: BIG STORY: The need for jobs like electricians, plumbers and carpenters is growing, and a new report is shedding light on just how severe the shortage is. So what’s being done to close the gap? >> htt
-  → https://bsky.app/profile/13abc.com/post/3myt5bbydnw2d

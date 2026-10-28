@@ -95,12 +95,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-10-28T11:09:11",
+    "last_iso": "2026-10-28T16:10:01",
     "day": {
       "date": "2026-10-28",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -147,12 +148,13 @@
       "bj-first10k",
       "bj-yelp",
       "bj-anon98",
-      "bj-missedcall"
+      "bj-missedcall",
+      "bj-stormchaser"
     ],
-    "last_iso": "2026-10-28T11:09:11",
+    "last_iso": "2026-10-28T16:10:01",
     "day": {
       "date": "2026-10-28",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -186,12 +188,13 @@
       "bj-ftc",
       "bj-cpl",
       "bj-favor",
-      "bj-stars"
+      "bj-stars",
+      "bj-ai"
     ],
-    "last_iso": "2026-10-28T11:09:11",
+    "last_iso": "2026-10-28T16:10:01",
     "day": {
       "date": "2026-10-28",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -267,12 +270,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-10-28T11:09:11",
+    "last_iso": "2026-10-28T16:10:01",
     "day": {
       "date": "2026-10-28",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -353,12 +357,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-10-28T11:09:11",
+    "last_iso": "2026-10-28T16:10:01",
     "day": {
       "date": "2026-10-28",
-      "count": 1
+      "count": 2
     }
   }
 }
