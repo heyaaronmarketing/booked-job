@@ -1,13 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-07-19",
-      "audience": 49,
-      "engagement": 4,
-      "email": 7,
-      "reach": 41383
-    },
-    {
       "date": "2026-07-20",
       "audience": 50,
       "engagement": 5,
@@ -629,6 +622,13 @@
       "engagement": 2,
       "email": 7,
       "reach": 36246
+    },
+    {
+      "date": "2026-10-28",
+      "audience": 331,
+      "engagement": 3,
+      "email": 7,
+      "reach": 36192
     }
   ]
 }
