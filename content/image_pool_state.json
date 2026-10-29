@@ -10,21 +10,22 @@
       "card-rev-paint",
       "card-speed",
       "card-ftc",
-      "card-stars"
+      "card-stars",
+      "card-ai"
     ],
-    "last_iso": "2026-10-28T20:00:10",
+    "last_iso": "2026-10-29T09:20:58",
     "day": {
-      "date": "2026-10-28",
-      "count": 3
+      "date": "2026-10-29",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-10-28T11:10:29",
+    "last_iso": "2026-10-29T09:20:58",
     "day": {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "count": 1
     }
   },
@@ -37,12 +38,13 @@
       "card-rev-roof",
       "card-rev-elec",
       "card-rev-paint",
-      "card-speed"
+      "card-speed",
+      "card-ftc"
     ],
-    "last_iso": "2026-10-28T20:00:10",
+    "last_iso": "2026-10-29T09:20:58",
     "day": {
-      "date": "2026-10-28",
-      "count": 2
+      "date": "2026-10-29",
+      "count": 1
     }
   }
 }

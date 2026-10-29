@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@permitkite.bsky.social**: I run PermitKite, and I started a Bluesky starter pack for Metro Atlanta builders & trades: roofers, remodelers, flooring pros, plus the ATLsky and #construction feeds.
+
+Run a local trade business? Re
+  → https://bsky.app/profile/permitkite.bsky.social/post/3mywzkuoiwb2l
+
+- **@deep500.com**: $TER: Strong Fundamentals, Peak-Cycle Valuation
+
+Latest score 73.8/100, down 5.8 after its latest report
+2-yr score 68.2 - rank #28 of the S&P 500 (Top 10%)
+AI lean: Cautiously Bullish
+
+Analysis, not 
+  → https://bsky.app/profile/deep500.com/post/3myxblvp3gt2r
+
 - **@wrestleknownothing.bsky.social**: 500K? 250K? 50K???
 
 These are the definition of de minimus for a multi-billionaire. 
@@ -184,11 +198,3 @@ Our professional team of seven contractors brings dependable project management 
 
 https://suggestedby.ai/en/blog/what-ai-citatio
   → https://bsky.app/profile/suggestedby.ai/post/3myphjkvc2p2m
-
-- **@stage32.bsky.social**: What’s the one habit that sets you up for success in this business?
-
-Stage 32 CEO RB Botto says it comes down to knowledge: read the trades, keep connecting, and never stop learning, even outside your
-  → https://bsky.app/profile/stage32.bsky.social/post/3mypvgtgip322
-
-- **@getpeacecall.com**: For a trades business I'd start it on after-hours and overflow, not the main line. The part I'd test hardest is quoting from docs: callers want a price before anyone has seen the job, so it's safer to
-  → https://bsky.app/profile/getpeacecall.com/post/3mysr3qrs3r2y
