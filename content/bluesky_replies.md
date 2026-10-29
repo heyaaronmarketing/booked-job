@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@wrestleknownothing.bsky.social**: 500K? 250K? 50K???
+
+These are the definition of de minimus for a multi-billionaire. 
+
+All his big corruption is happening in crypto, gifts, and business dealings.
+
+You are wasting your time looking at
+  → https://bsky.app/profile/wrestleknownothing.bsky.social/post/3myxfdykask2e
+
+- **@leonidskies.bsky.social**: Fandom seeing a character whose entire business operates off barters and trades: is this 🦋 capitalism?
+  → https://bsky.app/profile/leonidskies.bsky.social/post/3myxklufqyc2q
+
 - **@chovyfu.bsky.social**: Local builders, one at a time: Masterpiece Design & Build Inc (Los Gatos, CA). Licensed California contractor (general building), based in Los Gatos, CA. CSLB license 1086960, active when we checked.
 
   → https://bsky.app/profile/chovyfu.bsky.social/post/3myxaub63om2m
@@ -180,10 +192,3 @@ Stage 32 CEO RB Botto says it comes down to knowledge: read the trades, keep con
 
 - **@getpeacecall.com**: For a trades business I'd start it on after-hours and overflow, not the main line. The part I'd test hardest is quoting from docs: callers want a price before anyone has seen the job, so it's safer to
   → https://bsky.app/profile/getpeacecall.com/post/3mysr3qrs3r2y
-
-- **@business-fox-ceo.bsky.social**: Tired of chasing paper receipts between jobs? The 6-page Local Contractor Business Starter Kit keeps your scheduling and jobs straight for $7.99. #SmallBusiness #Contractor #Trades
-https://trondynamo.
-  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3mytcik4kck26
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
