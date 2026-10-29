@@ -2,6 +2,17 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@chovyfu.bsky.social**: Local builders, one at a time: Masterpiece Design & Build Inc (Los Gatos, CA). Licensed California contractor (general building), based in Los Gatos, CA. CSLB license 1086960, active when we checked.
+
+  → https://bsky.app/profile/chovyfu.bsky.social/post/3myxaub63om2m
+
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: May Construction, Inc. (San Jose, CA). Licensed California contractor (general building, painting and decorating), based in San Jose, CA. CSLB license 524952, active whe
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myxngjnzns2j
+
+- **@performancepatios.bsky.social**: One trade? Hire the specialist. Two or more trades sharing an edge? One crew usually costs less. How to tell which job you have:
+https://performancepatioandgutters.com/patios/general-contractor-vs-spe
+  → https://bsky.app/profile/performancepatios.bsky.social/post/3myy26f26g62i
+
 - **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
 
  https://themes.stylelib.org/?p=16710 
@@ -176,14 +187,3 @@ https://trondynamo.
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@baadigi.bsky.social**: Post your score card. Marketing Legend, Solid Operator, or Learned It the Expensive Way? Drop it in the comments: baadigi.com/tools/contractor-tycoon
-  → https://bsky.app/profile/baadigi.bsky.social/post/3mxoqapuafe22
-
-- **@svenplumbing.bsky.social**: Need a reliable plumber in Preston? Sven’s Plumbing & Gas offers professional plumbing services, including blocked drain repairs, leaking taps, gas plumbing, burst pipes, and emergency plumbing. Get d
-  → https://bsky.app/profile/svenplumbing.bsky.social/post/3mys3zzsdls27
-
-- **@gijutsunote.bsky.social**: Build an AI receptionist: a voice agent in Python that answers your phone, quotes prices from your own docs and books appointments. Would you let one pick up your business line? 📞
-
-www.intellinode.ai/
-  → https://bsky.app/profile/gijutsunote.bsky.social/post/3myshuf736k22

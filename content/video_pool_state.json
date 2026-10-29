@@ -36,12 +36,13 @@
       "bj-rev-hvac",
       "bj-rev-plumb",
       "bj-rev-roof",
-      "bj-rev-elec"
+      "bj-rev-elec",
+      "bj-rev-paint"
     ],
-    "last_iso": "2026-10-28T11:09:11",
+    "last_iso": "2026-10-28T19:59:23",
     "day": {
       "date": "2026-10-28",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -96,12 +97,13 @@
       "bj-reviews50",
       "bj-gbp",
       "bj-track",
-      "ad-arctic"
+      "ad-arctic",
+      "ad-pauls"
     ],
-    "last_iso": "2026-10-28T16:10:01",
+    "last_iso": "2026-10-28T19:59:23",
     "day": {
       "date": "2026-10-28",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -149,12 +151,13 @@
       "bj-yelp",
       "bj-anon98",
       "bj-missedcall",
-      "bj-stormchaser"
+      "bj-stormchaser",
+      "bj-freecheck"
     ],
-    "last_iso": "2026-10-28T16:10:01",
+    "last_iso": "2026-10-28T19:59:23",
     "day": {
       "date": "2026-10-28",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -271,12 +274,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-10-28T16:10:01",
+    "last_iso": "2026-10-28T19:59:23",
     "day": {
       "date": "2026-10-28",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -358,12 +362,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-10-28T16:10:01",
+    "last_iso": "2026-10-28T19:59:23",
     "day": {
       "date": "2026-10-28",
-      "count": 2
+      "count": 3
     }
   }
 }
