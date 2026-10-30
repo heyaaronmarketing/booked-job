@@ -38,12 +38,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-10-29T09:19:46",
+    "last_iso": "2026-10-29T20:00:25",
     "day": {
       "date": "2026-10-29",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -101,12 +102,13 @@
       "ad-arctic",
       "ad-pauls",
       "ad-summit",
-      "clip-porno2"
+      "clip-porno2",
+      "clip-porno3"
     ],
-    "last_iso": "2026-10-29T15:25:15",
+    "last_iso": "2026-10-29T20:00:25",
     "day": {
       "date": "2026-10-29",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -157,12 +159,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-10-29T15:25:15",
+    "last_iso": "2026-10-29T20:00:25",
     "day": {
       "date": "2026-10-29",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -217,12 +220,13 @@
   },
   "bluesky": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-10-29T15:25:15",
+    "last_iso": "2026-10-29T20:00:25",
     "day": {
       "date": "2026-10-29",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -242,12 +246,13 @@
   },
   "tumblr": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-10-29T15:25:15",
+    "last_iso": "2026-10-29T20:00:25",
     "day": {
       "date": "2026-10-29",
-      "count": 2
+      "count": 3
     }
   }
 }

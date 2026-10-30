@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bellwhitworth.bsky.social**: Right? I might have a word with the general contractor and let him know this is unacceptable
+  → https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m
+
 - **@permitkite.bsky.social**: I run PermitKite, and I started a Bluesky starter pack for Metro Atlanta builders & trades: roofers, remodelers, flooring pros, plus the ATLsky and #construction feeds.
 
 Run a local trade business? Re
@@ -193,8 +196,3 @@ Are you building
 
 Our professional team of seven contractors brings dependable project management to residential and commercial work. We’re a
   → https://bsky.app/profile/estarcontractor.bsky.social/post/3mys3vbg2op2w
-
-- **@suggestedby.ai**: Being on Google isn't enough. For many trades AI cites sector directories and booking platforms first. Missing there? It cites the competitor who isn't.
-
-https://suggestedby.ai/en/blog/what-ai-citatio
-  → https://bsky.app/profile/suggestedby.ai/post/3myphjkvc2p2m
