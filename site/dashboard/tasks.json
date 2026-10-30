@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @refigman.bsky.social: “As a small business owner, white male, a college education, skilled in the trades, more th…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @bellwhitworth.bsky.social: “Right? I might have a word with the general contractor and let him know this is unacceptab…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @permitkite.bsky.social: “I run PermitKite, and I started a Bluesky starter pack for Metro Atlanta builders & trades…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @deep500.com: “$TER: Strong Fundamentals, Peak-Cycle Valuation  Latest score 73.8/100, down 5.8 after its…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @wrestleknownothing.bsky.social: “500K? 250K? 50K???  These are the definition of de minimus for a multi-billionaire.   All …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/wrestleknownothing.bsky.social/post/3myxfdykask2e",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @leonidskies.bsky.social: “Fandom seeing a character whose entire business operates off barters and trades: is this 🦋…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/leonidskies.bsky.social/post/3myxklufqyc2q",
       "est": "2 min"
     },
     {

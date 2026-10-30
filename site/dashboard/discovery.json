@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:00:19Z",
+  "updated": "2026-10-30T14:00:56Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 25,
+        "uses": 26,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#contractors",
-        "uses": 11,
+        "uses": 12,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
@@ -98,7 +98,7 @@
       },
       {
         "tag": "#HandymanPlusVan",
-        "uses": 3,
+        "uses": 4,
         "link": "https://mastodon.social/tags/HandymanPlusVan"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 468131,
+        "followers": 468216,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23620,
+        "followers": 23621,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -170,12 +170,12 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7228,
+        "followers": 7229,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2343,
+        "followers": 2344,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4330,
+      "followers": 4329,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -264,9 +264,16 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Haunted Plumbing (Runic Press)",
-      "followers": 1071,
+      "followers": 1072,
       "desc": "TTRPG content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) h",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
+    },
+    {
+      "handle": "@john-is-naked.bsky.social",
+      "display": "Handyman John",
+      "followers": 999,
+      "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
+      "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
     {
       "handle": "@kegman83.bsky.social",
@@ -274,13 +281,6 @@
       "followers": 998,
       "desc": "Definitely, totally not a member of a state sponsored intelligence agency but thanks for asking. 🇺🇦🇺🇲🇮🇪🦴",
       "link": "https://bsky.app/profile/kegman83.bsky.social"
-    },
-    {
-      "handle": "@john-is-naked.bsky.social",
-      "display": "Handyman John",
-      "followers": 960,
-      "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
-      "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
     {
       "handle": "@kirtolson.bsky.social",

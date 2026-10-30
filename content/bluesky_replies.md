@@ -2,6 +2,59 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Tradesmen – Construction WordPress Theme
+
+ https://stylelib.org/?p=167376 
+
+#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
+  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
+
+- **@stylelib.org**: Make Clean – Responsive HTML Template
+
+ https://themes.stylelib.org/?p=19082 
+
+#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
+  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
+
+- **@stylelib.org**: Builta – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=823635 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
+  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
+
+- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
+
+ https://themes.stylelib.org/?p=4205 
+
+#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
+  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
+
+- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
+
+$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
+  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
+
+- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
+
+ https://stylelib.org/?p=103208 
+
+#boldthemes #electrician #handyman #plumbing #themeforest #wordpress #business #plumber #corporate #maintenance #contract
+  → https://bsky.app/profile/stylelib.org/post/3mygeiu6lzd2y
+
+- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
+
+- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
+
+- **@stylelib.org**: Condo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=824267 
+
+#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
+  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -157,40 +210,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
   → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
-
-You know, a lot of times an owner tells me, “We already had somebody set that up.” 
-  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
-
-- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
-
-Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
-  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
-
-- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
-  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
-
-- **@patriotchemical.bsky.social**: Stop the Clog Before It Starts!
-
-Grease buildup is a kitchen’s silent troublemaker. The right grease trap treatment chemicals break down fats, oils, and grease before they harden into costly blockages
-  → https://bsky.app/profile/patriotchemical.bsky.social/post/3mytiyg6g6s2x
-
-- **@bsky.scrapers.lat**: Need Nevada contractor license data? Our NSCB Leads Scraper extracts structured info on business details, license IDs, and contact info. Ideal for real estate pros and compliance teams. #DataExtractio
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mwu6nwudd22b
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@rysannikov.bsky.social**: I recently had a great chat with my friend Pablo Brum for his Polo Cyber podcast. We touched on Russia, politics, law enforcement in general, and cyber threats, inuding AI and third-party risk. Still 
-  → https://bsky.app/profile/rysannikov.bsky.social/post/3mypmoponzk2g
-
-- **@augustjpollak.bsky.social**: I don’t like having a military in general but if we’re going to have one, the idea that it is actually a debate over whether or not critical military infrastructure should be controlled by a private c
-  → https://bsky.app/profile/augustjpollak.bsky.social/post/3myps46q6ic2k
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: J S Miller Construction Inc. (JS Miller) (San Jose, CA). Licensed California contractor (general building), based in San Jose, CA. CSLB license 899728, active when we ch
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myqq5gzkod2k
