@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:00:56Z",
+  "updated": "2026-10-30T19:12:18Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -107,9 +107,9 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#HVACBusiness",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/HVACBusiness"
+        "tag": "#ContractorOperations",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/ContractorOperations"
       },
       {
         "tag": "#PlumbingRepairs",
@@ -117,14 +117,14 @@
         "link": "https://mastodon.social/tags/PlumbingRepairs"
       },
       {
+        "tag": "#roofingcontractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/roofingcontractor"
+      },
+      {
         "tag": "#contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#ContractorOperations",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorOperations"
       },
       {
         "tag": "#ContractorWebsite",
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7229,
+        "followers": 7230,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10708,
+      "followers": 10710,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4329,
+      "followers": 4330,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 999,
+      "followers": 1042,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
