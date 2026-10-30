@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T00:49:08Z",
+  "updated": "2026-10-30T07:00:19Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 3,
+        "uses": 4,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 468130,
+        "followers": 468131,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23619,
+        "followers": 23620,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -185,7 +185,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 735,
+        "followers": 734,
         "link": "https://mastodon.social/@Noshir"
       }
     ]
@@ -278,7 +278,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 907,
+      "followers": 960,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },

@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
 - **@bellwhitworth.bsky.social**: Right? I might have a word with the general contractor and let him know this is unacceptable
   → https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m
 
@@ -191,8 +194,3 @@ Are you building
 
 - **@riotcoder.social.w3bs.org**: Local builders, one at a time: J S Miller Construction Inc. (JS Miller) (San Jose, CA). Licensed California contractor (general building), based in San Jose, CA. CSLB license 899728, active when we ch
   → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3myqq5gzkod2k
-
-- **@estarcontractor.bsky.social**: Who’s managing the moving parts of your South Florida construction project?
-
-Our professional team of seven contractors brings dependable project management to residential and commercial work. We’re a
-  → https://bsky.app/profile/estarcontractor.bsky.social/post/3mys3vbg2op2w
