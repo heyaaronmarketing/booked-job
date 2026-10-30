@@ -40,12 +40,13 @@
       "bj-rev-paint",
       "bj-cheapbid",
       "bj-wordpress",
-      "bj-first10k"
+      "bj-first10k",
+      "bj-yelp"
     ],
-    "last_iso": "2026-10-30T09:12:36",
+    "last_iso": "2026-10-30T18:49:54",
     "day": {
       "date": "2026-10-30",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -106,12 +107,13 @@
       "clip-porno2",
       "clip-porno3",
       "clip-speed",
-      "clip1-turd"
+      "clip1-turd",
+      "clip2-game"
     ],
-    "last_iso": "2026-10-30T14:23:40",
+    "last_iso": "2026-10-30T18:49:54",
     "day": {
       "date": "2026-10-30",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -165,12 +167,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-10-30T14:23:40",
+    "last_iso": "2026-10-30T18:49:54",
     "day": {
       "date": "2026-10-30",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -230,12 +233,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-10-30T14:23:40",
+    "last_iso": "2026-10-30T18:49:54",
     "day": {
       "date": "2026-10-30",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -258,12 +262,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-10-30T14:23:40",
+    "last_iso": "2026-10-30T18:49:54",
     "day": {
       "date": "2026-10-30",
-      "count": 2
+      "count": 3
     }
   }
 }

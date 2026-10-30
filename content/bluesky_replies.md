@@ -2,6 +2,45 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: R Twyns Construction Inc (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 896811, active when we checked.
+
+https://
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mz4oefwwdc24
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
+  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
+
+- **@business-fox-ceo.bsky.social**: How do you map out your service jobs each week? The Undated Weekly Service Business Scheduler gives you a 7-page print-at-home US Letter PDF for $8.99. #SmallBusiness #BusinessOwner #Scheduler
+https:/
+  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3myw3edixe322
+
+- **@narutou745103.bsky.social**: Locked Out in San Marcos? Don’t Panic!
+
+Stuck outside your home, car, or business? Fast, trusted locksmith help is just a call away. No stress, no delays, just quick, reliable service when you need it
+  → https://bsky.app/profile/narutou745103.bsky.social/post/3mywagazvsc23
+
+- **@narutou745103.bsky.social**: Locked Out? Not on Our Watch.
+
+Your business never sleeps, and neither do we. Our Commercial Locksmith team in Dallas, TX delivers fast response, rock-solid security, and 24/7 reliability,emergency lo
+  → https://bsky.app/profile/narutou745103.bsky.social/post/3mywbrxbmms23
+
+- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
+
+Conventional builds fail when builders ignore living topography and thermal mass.
+
+Are you building 
+  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
+
 - **@stylelib.org**: Tradesmen – Construction WordPress Theme
 
  https://stylelib.org/?p=167376 
@@ -177,36 +216,3 @@ Click to read more!
 - **@cdmheywood.bsky.social**: Roofer, plumber or sparky? You can get on the Google map for free without showing your home address. Step-by-step setup guide for UK trades:
 collectivedigitalmedia.co.uk/blog/how-to-...
   → https://bsky.app/profile/cdmheywood.bsky.social/post/3mym6ptmfo22v
-
-- **@mithutech.bsky.social**: Budget-Friendly CCTV Camera Dealer in Durgapur: Affordable Security Solutions for Homes, Shops, Offices and Industries
-
-Looking for a budget-friendly CCTV camera dealer in Durgapur? Choosing the right
-  → https://bsky.app/profile/mithutech.bsky.social/post/3mynaz4o6rr27
-
-- **@randydeal.bsky.social**: I am looking for other influencers to help bring our content to people. Got a half hour per day? Message me and let's see what we can do to work together 
-
-Seomasters.online
-  → https://bsky.app/profile/randydeal.bsky.social/post/3mynebyybfs25
-
-- **@veduis.bsky.social**: Running a service business from home? Hiding your address breaks standard local SEO advice. How to rank in the map pack without risking a suspension: https://veduis.com/blog/service-area-business-seo-
-  → https://bsky.app/profile/veduis.bsky.social/post/3mypzjja7qn2z
-
-- **@business-fox-ceo.bsky.social**: When did you last service your water heater? Get a custom 12-month home maintenance schedule and systems manual as a professional PDF for $41.99. #HomeMaintenance #LandlordTips #Homeownership
-https://
-  → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3myup3ywrod2y
-
-- **@mithutech.bsky.social**: Budget-Friendly CCTV Camera Seller in Durgapur – Best CCTV Cameras, Installation & Security Solutions by Mithu Tech Group – 2026
-
-Looking for a budget-friendly CCTV camera seller in Durgapur? Mithu Te
-  → https://bsky.app/profile/mithutech.bsky.social/post/3myutvfp2in27
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
