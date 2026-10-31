@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@tickerix.com**: Researching a stock? Start with the business.
+
+Tickerix brings together plain-English grades, financial history and valuation checks—so you can see what deserves a closer look.
+
+Start with Microsoft. 
+  → https://bsky.app/profile/tickerix.com/post/3myzvpnscts22
+
+- **@chikocfm.bsky.social**: No2. What Are You Chasing?| It is such a hard struggle when you have had a solid career or business and had to give it up because of #chronicillness. It can feel completely overwhelming to work out wh
+  → https://bsky.app/profile/chikocfm.bsky.social/post/3mz6sdxxfyc2j
+
 - **@lpl.ca**: Teens! Wish you could find out what different careers are really like? 🎓
 
 Hear from post-secondary students and working professionals at Ed Talks.
@@ -212,13 +222,3 @@ Explore how AIFlowChat can help contractors streamline conversations & capture m
 
 #H
   → https://bsky.app/profile/aitoolstoday.bsky.social/post/3myi3idwgmy2i
-
-- **@websitebuilders.bsky.social**: Your roofing/landscaping/junk removal business gets found by 3 people a month on Google. Should be 30. We build SEO websites + AI chatbots that answer calls 24/7 + automations that turn leads into app
-  → https://bsky.app/profile/websitebuilders.bsky.social/post/3mylf754xfb2w
-
-- **@stylelib.org**: Renew – Renovation WordPress Theme
-
- https://stylelib.org/?p=191989 
-
-#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
-  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26

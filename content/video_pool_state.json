@@ -110,12 +110,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-10-31T07:13:32",
+    "last_iso": "2026-10-31T12:50:40",
     "day": {
       "date": "2026-10-31",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -171,12 +172,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-10-31T07:13:32",
+    "last_iso": "2026-10-31T12:50:40",
     "day": {
       "date": "2026-10-31",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -216,12 +218,13 @@
       "bj-rev-hvac",
       "bj-rev-plumb",
       "bj-rev-roof",
-      "bj-rev-elec"
+      "bj-rev-elec",
+      "bj-rev-paint"
     ],
-    "last_iso": "2026-10-31T07:13:32",
+    "last_iso": "2026-10-31T12:50:40",
     "day": {
       "date": "2026-10-31",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -239,12 +242,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-10-31T07:13:32",
+    "last_iso": "2026-10-31T12:50:40",
     "day": {
       "date": "2026-10-31",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -269,12 +273,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-10-31T07:13:32",
+    "last_iso": "2026-10-31T12:50:40",
     "day": {
       "date": "2026-10-31",
-      "count": 1
+      "count": 2
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T12:12:27Z",
+  "updated": "2026-10-31T17:39:21Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 23,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -107,11 +107,6 @@
         "link": "https://mastodon.social/tags/roofing"
       },
       {
-        "tag": "#ContractorOperations",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/ContractorOperations"
-      },
-      {
         "tag": "#PlumbingRepairs",
         "uses": 1,
         "link": "https://mastodon.social/tags/PlumbingRepairs"
@@ -135,12 +130,17 @@
         "tag": "#contractoraccountability",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractoraccountability"
+      },
+      {
+        "tag": "#ContractorstoWatch",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorstoWatch"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 468216,
+        "followers": 468310,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23630,
+        "followers": 23631,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8492,
+        "followers": 8493,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -194,21 +194,21 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10721,
+      "followers": 10728,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4334,
+      "followers": 4333,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3824,
+      "followers": 3825,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
@@ -222,14 +222,14 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2242,
+      "followers": 2243,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1861,
+      "followers": 1862,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1119,
+      "followers": 1145,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
