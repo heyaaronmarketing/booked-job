@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T05:24:23Z",
+  "updated": "2026-10-31T12:12:27Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -88,18 +88,18 @@
       },
       {
         "tag": "#hvac",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
+      },
+      {
+        "tag": "#HandymanPlusVan",
+        "uses": 5,
+        "link": "https://mastodon.social/tags/HandymanPlusVan"
       },
       {
         "tag": "#plumbing",
         "uses": 4,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#HandymanPlusVan",
-        "uses": 4,
-        "link": "https://mastodon.social/tags/HandymanPlusVan"
       },
       {
         "tag": "#roofing",
@@ -170,7 +170,7 @@
       },
       {
         "handle": "@BusinessPunk@flipboard.com",
-        "followers": 7230,
+        "followers": 7231,
         "link": "https://flipboard.com/@BusinessPunk"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10715,
+      "followers": 10721,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4333,
+      "followers": 4334,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2250,
+      "followers": 2251,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -264,7 +264,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1098,
+      "followers": 1119,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },

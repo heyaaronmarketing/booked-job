@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@lpl.ca**: Teens! Wish you could find out what different careers are really like? 🎓
+
+Hear from post-secondary students and working professionals at Ed Talks.
+
+📅 Saturday, November 7, 1–4pm
+📍 Central Library
+  → https://bsky.app/profile/lpl.ca/post/3mz3tqrzbd62t
+
 - **@toproofingolneymd.bsky.social**: Top Roofing Company Olney
 NOVA Exteriors
 5568 General Washington Dr Ste A-208A, Alexandria, VA 22312, United States
@@ -214,10 +222,3 @@ Explore how AIFlowChat can help contractors streamline conversations & capture m
 
 #electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
   → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
-
-- **@citizenptnewsin.bsky.social**: Sheffield Planning Commission just recommended a new gated campus for contractors—will it meet the community's needs or spark more concerns? 
-
-Click to read more!
-
-#ShelbyvilleCityShelbyCounty #IN #Ci
-  → https://bsky.app/profile/citizenptnewsin.bsky.social/post/3myv6c64wgq2x
