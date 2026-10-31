@@ -1,47 +1,4 @@
 {
-  "updated": "2026-10-30T18:53",
-  "posts": [
-    {
-      "ts": "2026-10-30T18:50:44",
-      "channel": "facebook",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-10-30T18:50:40",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-10-30T18:50:35",
-      "channel": "tumblr",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-10-30T18:50:33",
-      "channel": "bluesky",
-      "item": "pod-ep03-trap",
-      "url": null
-    },
-    {
-      "ts": "2026-10-30T18:50:30",
-      "channel": "linkedin",
-      "item": "ad-arctic",
-      "url": null
-    },
-    {
-      "ts": "2026-10-30T18:50:29",
-      "channel": "tiktok",
-      "item": "clip2-game",
-      "url": null
-    },
-    {
-      "ts": "2026-10-30T18:50:27",
-      "channel": "ig",
-      "item": "bj-yelp",
-      "url": null
-    }
-  ]
+  "updated": "2026-10-31T00:28",
+  "posts": []
 }

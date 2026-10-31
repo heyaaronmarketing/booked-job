@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@toproofingolneymd.bsky.social**: Top Roofing Company Olney
+NOVA Exteriors
+5568 General Washington Dr Ste A-208A, Alexandria, VA 22312, United States
++17033221500
+www.novaexteriors.com/olney-roofin...
+maps.app.goo.gl/1eDbcf9H1kLc...
+L
+  → https://bsky.app/profile/toproofingolneymd.bsky.social/post/3mz362c6fr22x
+
 - **@riotcoder.social.w3bs.org**: Local builders, one at a time: R Twyns Construction Inc (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 896811, active when we checked.
 
 https://
@@ -212,7 +221,3 @@ Click to read more!
 
 #ShelbyvilleCityShelbyCounty #IN #Ci
   → https://bsky.app/profile/citizenptnewsin.bsky.social/post/3myv6c64wgq2x
-
-- **@cdmheywood.bsky.social**: Roofer, plumber or sparky? You can get on the Google map for free without showing your home address. Step-by-step setup guide for UK trades:
-collectivedigitalmedia.co.uk/blog/how-to-...
-  → https://bsky.app/profile/cdmheywood.bsky.social/post/3mym6ptmfo22v

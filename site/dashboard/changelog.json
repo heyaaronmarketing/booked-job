@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-10-31T00:26",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: labor ghost"
+    },
+    {
+      "ts": "2026-10-31T00:26",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: tools borrowed"
+    },
+    {
       "ts": "2026-10-30T18:50",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: biz chasing invoices"
-    },
-    {
-      "ts": "2026-10-16T07:23",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy panel"
-    },
-    {
-      "ts": "2026-10-16T02:04",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz money leaks"
     }
   ]
 }

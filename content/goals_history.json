@@ -1,17 +1,5 @@
 [
   {
-    "date": "2026-07-03",
-    "articles": 72,
-    "reels": 6,
-    "social_posts": 270,
-    "followers": 9,
-    "engagement": 13,
-    "yt_views": 94,
-    "yt_shorts": 14,
-    "email_subs": 5,
-    "traffic": 0
-  },
-  {
     "date": "2026-07-04",
     "articles": 76,
     "reels": 7,
@@ -1432,6 +1420,18 @@
     "articles": 142,
     "reels": 51,
     "social_posts": 1070,
+    "followers": 330,
+    "engagement": 2,
+    "yt_views": 2506,
+    "yt_shorts": 66,
+    "email_subs": 7,
+    "traffic": 0
+  },
+  {
+    "date": "2026-10-31",
+    "articles": 142,
+    "reels": 51,
+    "social_posts": 1072,
     "followers": 330,
     "engagement": 2,
     "yt_views": 2506,
