@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-10-31T16:37",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: biz review timing"
+    },
+    {
+      "ts": "2026-10-31T16:37",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: guy measures"
+    },
+    {
       "ts": "2026-10-31T12:51",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: ba credit"
-    },
-    {
-      "ts": "2026-10-16T18:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy extension cord"
-    },
-    {
-      "ts": "2026-10-16T18:40",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: ugc before after"
     }
   ]
 }
