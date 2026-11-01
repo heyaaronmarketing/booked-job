@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@c-a-m-i-l-l-e.bsky.social**: Judges, watchdog groups & Democrats have asked Trump & his family to answer ?s about their business deals, stock trades, money raised & gifts received..
+
+Letters drew denials & silence. Democrats, as 
+  → https://bsky.app/profile/c-a-m-i-l-l-e.bsky.social/post/3mzb5rjxk422k
+
 - **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
 
 An Adelaide electrician asked me that. Then admitted the website was ordinary.
@@ -202,8 +207,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 - **@business-fox-ceo.bsky.social**: How do you map out your service jobs each week? The Undated Weekly Service Business Scheduler gives you a 7-page print-at-home US Letter PDF for $8.99. #SmallBusiness #BusinessOwner #Scheduler
 https:/
   → https://bsky.app/profile/business-fox-ceo.bsky.social/post/3myw3edixe322
-
-- **@narutou745103.bsky.social**: Locked Out in San Marcos? Don’t Panic!
-
-Stuck outside your home, car, or business? Fast, trusted locksmith help is just a call away. No stress, no delays, just quick, reliable service when you need it
-  → https://bsky.app/profile/narutou745103.bsky.social/post/3mywagazvsc23

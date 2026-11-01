@@ -1,34 +1,52 @@
 {
-  "updated": "2026-11-01T13:45",
+  "updated": "2026-11-01T17:45",
   "posts": [
     {
-      "ts": "2026-11-01T13:43:47",
+      "ts": "2026-11-01T17:43:13",
+      "channel": "facebook",
+      "item": "card-cpbj",
+      "url": null
+    },
+    {
+      "ts": "2026-11-01T17:43:10",
       "channel": "mastodon",
-      "item": "card-rev-elec",
+      "item": "card-rev-paint",
       "url": null
     },
     {
-      "ts": "2026-11-01T13:43:43",
+      "ts": "2026-11-01T17:43:06",
       "channel": "tumblr",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-11-01T13:43:41",
+      "ts": "2026-11-01T17:43:05",
       "channel": "bluesky",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-11-01T13:43:38",
+      "ts": "2026-11-01T17:43:03",
       "channel": "linkedin",
-      "item": "is-angi-worth-it",
+      "item": "money-leaks-torque",
       "url": null
     },
     {
-      "ts": "2026-11-01T13:43:37",
+      "ts": "2026-11-01T17:43:02",
       "channel": "tiktok",
-      "item": "rip-angi-rip",
+      "item": "rip-reviews-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-11-01T17:43:01",
+      "channel": "ig",
+      "item": "bj-freecheck",
+      "url": null
+    },
+    {
+      "ts": "2026-11-01T17:41:57",
+      "channel": "facebook",
+      "item": "bj-first10k",
       "url": null
     }
   ]
