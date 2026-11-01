@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T21:25:31Z",
+  "updated": "2026-11-01T01:01:36Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 26,
+        "uses": 24,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,13 +88,8 @@
       },
       {
         "tag": "#hvac",
-        "uses": 6,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
-        "tag": "#plumbing",
         "uses": 5,
-        "link": "https://mastodon.social/tags/plumbing"
+        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#HandymanPlusVan",
@@ -102,14 +97,14 @@
         "link": "https://mastodon.social/tags/HandymanPlusVan"
       },
       {
+        "tag": "#plumbing",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#roofing",
         "uses": 2,
         "link": "https://mastodon.social/tags/roofing"
-      },
-      {
-        "tag": "#PlumbingRepairs",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/PlumbingRepairs"
       },
       {
         "tag": "#roofingcontractor",
@@ -122,6 +117,11 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#ContractorstoWatch",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/ContractorstoWatch"
+      },
+      {
         "tag": "#ContractorWebsite",
         "uses": 1,
         "link": "https://mastodon.social/tags/ContractorWebsite"
@@ -132,15 +132,15 @@
         "link": "https://mastodon.social/tags/contractoraccountability"
       },
       {
-        "tag": "#ContractorstoWatch",
+        "tag": "#handyman",
         "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorstoWatch"
+        "link": "https://mastodon.social/tags/handyman"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 468310,
+        "followers": 468311,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -264,14 +264,14 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1160,
+      "followers": 1164,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Haunted Plumbing (Runic Press)",
-      "followers": 1072,
+      "followers": 1073,
       "desc": "TTRPG content creator, a little too obsessed with the details. Wokeness is just good manners. I❤️oozes. He/him (Danny) h",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },
