@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @bellwhitworth.bsky.social: “Right? I might have a word with the general contractor and let him know this is unacceptab…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @xeniongroup.bsky.social: “Jobsite too busy to answer? Your next estimate request shouldn’t wait. • Capture project, …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/xeniongroup.bsky.social/post/3mz4jenhdny2t",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @starshine.bsky.social: “now when you said fuck those hvac dentist car dealering looking mfers, what did you mean t…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @dicksonsource.bsky.social: “Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - …”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @wilsoncountysource.bsky.social: “Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @whatagentscando.com: “Own a small business? Your old quotes might be money.  An HVAC owner had Grok Bot send 100…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z",
       "est": "2 min"
     },
     {
