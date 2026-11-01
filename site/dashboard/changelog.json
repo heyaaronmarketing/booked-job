@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-11-01T01:25",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing scope creep"
+    },
+    {
+      "ts": "2026-11-01T01:25",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: labor ghost"
+    },
+    {
       "ts": "2026-10-31T20:03",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: homeowner son"
-    },
-    {
-      "ts": "2026-10-17T04:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: homeowner warranty"
-    },
-    {
-      "ts": "2026-10-17T04:15",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: homeowner lie"
     }
   ]
 }

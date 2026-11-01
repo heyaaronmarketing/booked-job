@@ -1,47 +1,4 @@
 {
-  "updated": "2026-10-31T20:05",
-  "posts": [
-    {
-      "ts": "2026-10-31T20:03:25",
-      "channel": "facebook",
-      "item": "card-trade",
-      "url": null
-    },
-    {
-      "ts": "2026-10-31T20:03:21",
-      "channel": "mastodon",
-      "item": "card-rev-plumb",
-      "url": null
-    },
-    {
-      "ts": "2026-10-31T20:03:18",
-      "channel": "tumblr",
-      "item": "pod-ep02-onetap",
-      "url": null
-    },
-    {
-      "ts": "2026-10-31T20:03:16",
-      "channel": "bluesky",
-      "item": "pod-ep02-onetap",
-      "url": null
-    },
-    {
-      "ts": "2026-10-31T20:03:13",
-      "channel": "linkedin",
-      "item": "clip1-turd",
-      "url": null
-    },
-    {
-      "ts": "2026-10-31T20:03:12",
-      "channel": "facebook",
-      "item": "bj-cheapbid",
-      "url": null
-    },
-    {
-      "ts": "2026-10-31T20:03:12",
-      "channel": "tiktok",
-      "item": "money-leaks",
-      "url": null
-    }
-  ]
+  "updated": "2026-11-01T01:28",
+  "posts": []
 }

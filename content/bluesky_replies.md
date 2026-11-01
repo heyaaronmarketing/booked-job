@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bellwhitworth.bsky.social**: Right? I might have a word with the general contractor and let him know this is unacceptable
+  → https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m
+
 - **@xeniongroup.bsky.social**: Jobsite too busy to answer? Your next estimate request shouldn’t wait.
 • Capture project, location & timing
 • Set honest expectations
@@ -201,10 +204,3 @@ Are you building
 
 #builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
   → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
-
-- **@stylelib.org**: Make Clean – Responsive HTML Template
-
- https://themes.stylelib.org/?p=19082 
-
-#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
-  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
