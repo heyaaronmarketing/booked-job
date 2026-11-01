@@ -2,6 +2,28 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
+
+An Adelaide electrician asked me that. Then admitted the website was ordinary.
+
+His business wasn't on the map. His site sat on page two.
+
+
+  → https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
+
+🎥 Watch the full video: youtu.be/f8UlH6B8rsc
+
+🌐 Learn more: cosmarketingagency.com/cleaning-ser...
+.
+.
+#CleaningCompanyMarketing
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
+
 - **@bellwhitworth.bsky.social**: Right? I might have a word with the general contractor and let him know this is unacceptable
   → https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m
 
@@ -185,22 +207,3 @@ https:/
 
 Stuck outside your home, car, or business? Fast, trusted locksmith help is just a call away. No stress, no delays, just quick, reliable service when you need it
   → https://bsky.app/profile/narutou745103.bsky.social/post/3mywagazvsc23
-
-- **@narutou745103.bsky.social**: Locked Out? Not on Our Watch.
-
-Your business never sleeps, and neither do we. Our Commercial Locksmith team in Dallas, TX delivers fast response, rock-solid security, and 24/7 reliability,emergency lo
-  → https://bsky.app/profile/narutou745103.bsky.social/post/3mywbrxbmms23
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@stylelib.org**: Tradesmen – Construction WordPress Theme
-
- https://stylelib.org/?p=167376 
-
-#builder #electrician #elementor #handyman #painter #progressionstudios #remodeling #themeforest #wordpress #business #plumb
-  → https://bsky.app/profile/stylelib.org/post/3my4tfoc5bg25
