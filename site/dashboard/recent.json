@@ -1,64 +1,52 @@
 {
-  "updated": "2026-11-02T09:55",
+  "updated": "2026-11-02T17:41",
   "posts": [
     {
-      "ts": "2026-11-02T09:52:24",
-      "channel": "youtube",
-      "item": "bj-freecheck",
-      "url": "https://youtu.be/4CgekRIG6rE"
-    },
-    {
-      "ts": "2026-11-02T09:52:19",
+      "ts": "2026-11-02T17:38:58",
       "channel": "facebook",
-      "item": "card-angi",
+      "item": "card-reviews",
       "url": null
     },
     {
-      "ts": "2026-11-02T09:52:15",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-02T09:51:41",
+      "ts": "2026-11-02T17:38:54",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-11-02T09:51:37",
+      "ts": "2026-11-02T17:38:50",
       "channel": "tumblr",
-      "item": "pod-ep01-verdict",
+      "item": "pod-ep01-speed",
       "url": null
     },
     {
-      "ts": "2026-11-02T09:51:35",
+      "ts": "2026-11-02T17:38:47",
       "channel": "bluesky",
-      "item": "pod-ep01-verdict",
+      "item": "pod-ep01-speed",
       "url": null
     },
     {
-      "ts": "2026-11-02T09:51:32",
+      "ts": "2026-11-02T17:38:44",
       "channel": "linkedin",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
       "url": null
     },
     {
-      "ts": "2026-11-02T09:51:31",
+      "ts": "2026-11-02T17:38:43",
       "channel": "tiktok",
-      "item": "rip-speed-rip",
+      "item": "stop-renting-leads",
       "url": null
     },
     {
-      "ts": "2026-11-02T09:51:29",
+      "ts": "2026-11-02T17:38:42",
       "channel": "ig",
-      "item": "bj-fakemaps",
+      "item": "bj-agency12k",
       "url": null
     },
     {
-      "ts": "2026-11-02T09:50:27",
+      "ts": "2026-11-02T17:38:01",
       "channel": "facebook",
-      "item": "bj-yelp",
+      "item": "bj-anon98",
       "url": null
     }
   ]

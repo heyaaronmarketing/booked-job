@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bldrwrk.bsky.social**: Denver roofing permits by week this fall: 22 the week of Aug 10, 50 the week of Sep 14, 36 the week of Oct 12. Source-backed ZIP totals and public business names where the city supplies them: https://
+  → https://bsky.app/profile/bldrwrk.bsky.social/post/3myzhsezwfa2n
+
 - **@stylelib.org**: Builderry – Construction and Building WordPress Theme
 
  https://stylelib.org/?p=164678 
@@ -221,10 +224,3 @@ His business wasn't on the map. His site sat on page two.
 
 - **@bellwhitworth.bsky.social**: Right? I might have a word with the general contractor and let him know this is unacceptable
   → https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m
-
-- **@xeniongroup.bsky.social**: Jobsite too busy to answer? Your next estimate request shouldn’t wait.
-• Capture project, location & timing
-• Set honest expectations
-• Give every inquiry a real next step
-Read: https://marketingblog.
-  → https://bsky.app/profile/xeniongroup.bsky.social/post/3mz4jenhdny2t
