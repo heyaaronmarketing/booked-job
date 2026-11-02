@@ -2,6 +2,41 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
+
+ https://stylelib.org/?p=164678 
+
+#buildingcompany #themeforest #webgeniuslab #wordpress #architecture #business #plumber #company #corporate #in
+  → https://bsky.app/profile/stylelib.org/post/3mzdikzoz7m2d
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
+  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
+
+- **@stylelib.org**: Renew – Renovation WordPress Theme
+
+ https://stylelib.org/?p=191989 
+
+#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
+  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
+
+- **@gimsresults.bsky.social**: One job this week.
+
+Search what you do plus your town, like a customer. "electrician Mount Barker". "dentist Ipswich".
+
+On the map? Check your number and hours.
+Missing? Claim your free Google Busines
+  → https://bsky.app/profile/gimsresults.bsky.social/post/3mzd73tfe3f2y
+
 - **@collinwoodard.bsky.social**: oh so being a moderately successful car blogger isn't "typical"???
   → https://bsky.app/profile/collinwoodard.bsky.social/post/3mrugjgmnhc2n
 
@@ -193,27 +228,3 @@ His business wasn't on the map. His site sat on page two.
 • Give every inquiry a real next step
 Read: https://marketingblog.
   → https://bsky.app/profile/xeniongroup.bsky.social/post/3mz4jenhdny2t
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@whatagentscando.com**: Own a small business? Your old quotes might be money.
-
-An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
-  → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
-
-- **@svenplumbing.bsky.social**: Need a reliable plumber in Preston? Sven’s Plumbing & Gas offers professional plumbing services, including blocked drain repairs, leaking taps, gas plumbing, burst pipes, and emergency plumbing. Get d
-  → https://bsky.app/profile/svenplumbing.bsky.social/post/3mys3zzsdls27
-
-- **@gijutsunote.bsky.social**: Build an AI receptionist: a voice agent in Python that answers your phone, quotes prices from your own docs and books appointments. Would you let one pick up your business line? 📞
-
-www.intellinode.ai/
-  → https://bsky.app/profile/gijutsunote.bsky.social/post/3myshuf736k22

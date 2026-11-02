@@ -1,4 +1,65 @@
 {
-  "updated": "2026-11-01T23:53",
-  "posts": []
+  "updated": "2026-11-02T09:55",
+  "posts": [
+    {
+      "ts": "2026-11-02T09:52:24",
+      "channel": "youtube",
+      "item": "bj-freecheck",
+      "url": "https://youtu.be/4CgekRIG6rE"
+    },
+    {
+      "ts": "2026-11-02T09:52:19",
+      "channel": "facebook",
+      "item": "card-angi",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:52:15",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:51:41",
+      "channel": "mastodon",
+      "item": "card-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:51:37",
+      "channel": "tumblr",
+      "item": "pod-ep01-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:51:35",
+      "channel": "bluesky",
+      "item": "pod-ep01-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:51:32",
+      "channel": "linkedin",
+      "item": "money-leaks",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:51:31",
+      "channel": "tiktok",
+      "item": "rip-speed-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:51:29",
+      "channel": "ig",
+      "item": "bj-fakemaps",
+      "url": null
+    },
+    {
+      "ts": "2026-11-02T09:50:27",
+      "channel": "facebook",
+      "item": "bj-yelp",
+      "url": null
+    }
+  ]
 }
