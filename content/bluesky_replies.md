@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzfo5cbznh2k
+
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzfvftinpa2z
+
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzfyr7o7742w
+
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzg44gtwxj25
+
 - **@xeniongroup.bsky.social**: Jobsite too busy to answer? Your next estimate request shouldn’t wait.
 • Capture project, location & timing
 • Set honest expectations
@@ -197,23 +217,3 @@ https://randolphscottbell.com/construction/new-home-construction/west-palm-beach
 
 General information, not insurance or legal advice.
   → https://bsky.app/profile/subcovered.com/post/3mzbeijxsz22m
-
-- **@chovyfu.bsky.social**: Local builders, one at a time: Skye Builders Inc (San Carlos, CA). Licensed California contractor (general building), based in San Carlos, CA. CSLB license 837117, active when we checked.
-
-https://pit
-  → https://bsky.app/profile/chovyfu.bsky.social/post/3mzbfaegn3o27
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Such Home Enhancements, Inc. (San Carlos, CA). Licensed California contractor (general building, painting and decorating, tile (ceramic and mosaic)), based in San… CSLB 
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mzbsnjahb224
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Tooscon Construction LLC (Los Gatos, CA). Licensed California contractor (general building), based in Los Gatos, CA. CSLB license 1069525, active when we checked.
-
-https
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3mzcgraexrc24
-
-- **@anvitam.bsky.social**: Packing three generations into one giant concrete mega-mansion leads to conflict and zero privacy.
-
-Conventional builds fail when builders ignore living topography and thermal mass.
-
-Are you building 
-  → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
