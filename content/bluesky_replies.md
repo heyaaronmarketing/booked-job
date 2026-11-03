@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@xeniongroup.bsky.social**: Jobsite too busy to answer? Your next estimate request shouldn’t wait.
+• Capture project, location & timing
+• Set honest expectations
+• Give every inquiry a real next step
+Read: https://marketingblog.
+  → https://bsky.app/profile/xeniongroup.bsky.social/post/3mz4jenhdny2t
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@whatagentscando.com**: Own a small business? Your old quotes might be money.
+
+An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
+  → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
+
 - **@bldrwrk.bsky.social**: Denver roofing permits by week this fall: 22 the week of Aug 10, 50 the week of Sep 14, 36 the week of Oct 12. Source-backed ZIP totals and public business names where the city supplies them: https://
   → https://bsky.app/profile/bldrwrk.bsky.social/post/3myzhsezwfa2n
 
@@ -194,33 +217,3 @@ Conventional builds fail when builders ignore living topography and thermal mass
 
 Are you building 
   → https://bsky.app/profile/anvitam.bsky.social/post/3mxowaoahm727
-
-- **@c-a-m-i-l-l-e.bsky.social**: Judges, watchdog groups & Democrats have asked Trump & his family to answer ?s about their business deals, stock trades, money raised & gifts received..
-
-Letters drew denials & silence. Democrats, as 
-  → https://bsky.app/profile/c-a-m-i-l-l-e.bsky.social/post/3mzb5rjxk422k
-
-- **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
-
-An Adelaide electrician asked me that. Then admitted the website was ordinary.
-
-His business wasn't on the map. His site sat on page two.
-
-
-  → https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
-
-🎥 Watch the full video: youtu.be/f8UlH6B8rsc
-
-🌐 Learn more: cosmarketingagency.com/cleaning-ser...
-.
-.
-#CleaningCompanyMarketing
-  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
-
-- **@bellwhitworth.bsky.social**: Right? I might have a word with the general contractor and let him know this is unacceptable
-  → https://bsky.app/profile/bellwhitworth.bsky.social/post/3myzlalqvsc2m
