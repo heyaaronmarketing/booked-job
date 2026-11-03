@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-11-03T15:07",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: pricing diagnostic fee"
+    },
+    {
+      "ts": "2026-11-03T15:07",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: lastguy extension cord"
+    },
+    {
       "ts": "2026-11-03T09:13",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: pricing once not twice"
-    },
-    {
-      "ts": "2026-10-19T16:12",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: tools burning truck"
-    },
-    {
-      "ts": "2026-10-19T10:45",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: Your first $10K in marketing"
     }
   ]
 }

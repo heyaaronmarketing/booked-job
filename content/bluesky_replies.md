@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@salesladders.bsky.social**: Milk. Trash out Tuesday. Call the plumber. Nobody calls it a system until it's gone. What's the sticky note in your business?
+
+SalesLadder™ Secrets Ebook + Diagnostic Kit, US$7 → go.salesladdersecrets
+  → https://bsky.app/profile/salesladders.bsky.social/post/3mzgi6dblps2s
+
 - **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
@@ -212,8 +217,3 @@ Skilled Trades Partners · Milwaukee, WI
 
 https://randolphscottbell.com/construction/new-home-construction/west-palm-beach/?utm_sourc
   → https://bsky.app/profile/randolphscottbell.bsky.social/post/3mzbca5da2p2j
-
-- **@subcovered.com**: How long to keep certificates, and why: subcovered.com/guide/how-lo...
-
-General information, not insurance or legal advice.
-  → https://bsky.app/profile/subcovered.com/post/3mzbeijxsz22m
