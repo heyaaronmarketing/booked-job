@@ -1,64 +1,40 @@
 {
-  "updated": "2026-11-04T11:23",
+  "updated": "2026-11-04T17:47",
   "posts": [
     {
-      "ts": "2026-11-04T11:21:04",
-      "channel": "youtube",
-      "item": "bj-fakemaps",
-      "url": "https://youtu.be/yMVDXvuGtxM"
-    },
-    {
-      "ts": "2026-11-04T11:20:58",
-      "channel": "facebook",
-      "item": "card-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-11-04T11:20:55",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-04T11:20:24",
+      "ts": "2026-11-04T17:46:03",
       "channel": "mastodon",
-      "item": "card-missedcall",
+      "item": "card-trade",
       "url": null
     },
     {
-      "ts": "2026-11-04T11:20:18",
+      "ts": "2026-11-04T17:45:58",
       "channel": "tumblr",
-      "item": "pod-ep01-cost",
+      "item": "pod-ep01-wrongnum",
       "url": null
     },
     {
-      "ts": "2026-11-04T11:20:16",
+      "ts": "2026-11-04T17:45:57",
       "channel": "bluesky",
-      "item": "pod-ep01-cost",
+      "item": "pod-ep01-wrongnum",
       "url": null
     },
     {
-      "ts": "2026-11-04T11:20:14",
+      "ts": "2026-11-04T17:45:55",
       "channel": "linkedin",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-11-04T11:20:13",
+      "ts": "2026-11-04T17:45:54",
       "channel": "tiktok",
-      "item": "pod-ep03-channels",
+      "item": "pod-ep03-trap",
       "url": null
     },
     {
-      "ts": "2026-11-04T11:20:11",
-      "channel": "ig",
-      "item": "bj-track",
-      "url": null
-    },
-    {
-      "ts": "2026-11-04T11:19:32",
+      "ts": "2026-11-04T17:45:53",
       "channel": "facebook",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     }
   ]
