@@ -49,24 +49,26 @@
       "bj-fakemaps",
       "bj-agency12k",
       "bj-reviews50",
-      "bj-gbp"
+      "bj-gbp",
+      "bj-track"
     ],
-    "last_iso": "2026-11-03T19:25:43",
+    "last_iso": "2026-11-04T11:18:59",
     "day": {
-      "date": "2026-11-03",
-      "count": 2
+      "date": "2026-11-04",
+      "count": 1
     }
   },
   "tiktok": {
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-11-03T19:25:43",
+    "last_iso": "2026-11-04T11:18:59",
     "day": {
-      "date": "2026-11-03",
-      "count": 3
+      "date": "2026-11-04",
+      "count": 1
     }
   },
   "linkedin": {
@@ -133,12 +135,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-11-03T19:25:43",
+    "last_iso": "2026-11-04T11:18:59",
     "day": {
-      "date": "2026-11-03",
-      "count": 3
+      "date": "2026-11-04",
+      "count": 1
     }
   },
   "facebook": {
@@ -186,12 +189,13 @@
       "bj-yelp",
       "bj-anon98",
       "bj-missedcall",
-      "bj-stormchaser"
+      "bj-stormchaser",
+      "bj-freecheck"
     ],
-    "last_iso": "2026-11-03T15:06:45",
+    "last_iso": "2026-11-04T11:18:59",
     "day": {
-      "date": "2026-11-03",
-      "count": 2
+      "date": "2026-11-04",
+      "count": 1
     }
   },
   "pinterest": {
@@ -220,12 +224,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-11-03T19:25:43",
+    "last_iso": "2026-11-04T11:18:59",
     "day": {
-      "date": "2026-11-03",
-      "count": 3
+      "date": "2026-11-04",
+      "count": 1
     }
   },
   "telegram": {
@@ -261,12 +266,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-11-03T19:25:43",
+    "last_iso": "2026-11-04T11:18:59",
     "day": {
-      "date": "2026-11-03",
-      "count": 3
+      "date": "2026-11-04",
+      "count": 1
     }
   }
 }

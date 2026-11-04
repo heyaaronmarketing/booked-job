@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:59:54Z",
+  "updated": "2026-11-04T17:07:41Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,12 +88,12 @@
       },
       {
         "tag": "#HandymanPlusVan",
-        "uses": 6,
+        "uses": 7,
         "link": "https://mastodon.social/tags/HandymanPlusVan"
       },
       {
         "tag": "#hvac",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23634,
+        "followers": 23635,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10816,
+      "followers": 10820,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -257,14 +257,14 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1384,
+      "followers": 1391,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
     {
       "handle": "@girdley.bsky.social",
       "display": "Michael Girdley",
-      "followers": 1180,
+      "followers": 1181,
       "desc": "I share 25 years of direct business knowledge and life advice. $100M (and counting) HoldCo owner. Fireworks, software, s",
       "link": "https://bsky.app/profile/girdley.bsky.social"
     },

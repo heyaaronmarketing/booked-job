@@ -2,6 +2,33 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@johnnyhermoso.bsky.social**: My home-based business is Aisle 7, and I price it accordingly: one smile per customer, luxury rates. Is that aspirational, or just good customer service?
+  → https://bsky.app/profile/johnnyhermoso.bsky.social/post/3mzg4fnlp2s27
+
+- **@seoarcade.bsky.social**: I interview SMB owners, Saas founders, SEO professionals, home service business owners. 
+
+With thousands of monthly downloads and 26k+ social and youtube views… what would be a good higher tier sponso
+  → https://bsky.app/profile/seoarcade.bsky.social/post/3mzg4tg7zys2l
+
+- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
+
+🎥 Watch the full video: youtu.be/f8UlH6B8rsc
+
+🌐 Learn more: cosmarketingagency.com/cleaning-ser...
+.
+.
+#CleaningCompanyMarketing
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
+
+- **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
+
+An Adelaide electrician asked me that. Then admitted the website was ordinary.
+
+His business wasn't on the map. His site sat on page two.
+
+
+  → https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f
+
 - **@salesladders.bsky.social**: Milk. Trash out Tuesday. Call the plumber. Nobody calls it a system until it's gone. What's the sticky note in your business?
 
 SalesLadder™ Secrets Ebook + Diagnostic Kit, US$7 → go.salesladdersecrets
@@ -192,28 +219,3 @@ Bonus points if you sometimes accept trades
 
 ive been trying to find an artist near me for a while, i really want 
   → https://bsky.app/profile/raevi10.com/post/3mzc7rjwb322x
-
-- **@narutou745103.bsky.social**: Locked Out in San Marcos? Don’t Panic!
-
-Stuck outside your home, car, or business? Fast, trusted locksmith help is just a call away. No stress, no delays, just quick, reliable service when you need it
-  → https://bsky.app/profile/narutou745103.bsky.social/post/3mywagazvsc23
-
-- **@narutou745103.bsky.social**: Locked Out? Not on Our Watch.
-
-Your business never sleeps, and neither do we. Our Commercial Locksmith team in Dallas, TX delivers fast response, rock-solid security, and 24/7 reliability,emergency lo
-  → https://bsky.app/profile/narutou745103.bsky.social/post/3mywbrxbmms23
-
-- **@deunemployment.com**: DeUnemploy yourself today.
-
-Semantic search: "licensed electrician, commercial work"
-
-Licensed Electrician – Commercial & Residential Solar
-Skilled Trades Partners · Milwaukee, WI
-
-446 matching in the
-  → https://bsky.app/profile/deunemployment.com/post/3mzbimceexf2p
-
-- **@randolphscottbell.bsky.social**: New home construction in West Palm Beach, FL, by a state-certified general contractor. Save this for later.
-
-https://randolphscottbell.com/construction/new-home-construction/west-palm-beach/?utm_sourc
-  → https://bsky.app/profile/randolphscottbell.bsky.social/post/3mzbca5da2p2j
