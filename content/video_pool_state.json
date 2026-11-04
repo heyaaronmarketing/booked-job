@@ -48,23 +48,25 @@
       "bj-freecheck",
       "bj-fakemaps",
       "bj-agency12k",
-      "bj-reviews50"
+      "bj-reviews50",
+      "bj-gbp"
     ],
-    "last_iso": "2026-11-03T09:11:39",
+    "last_iso": "2026-11-03T19:25:43",
     "day": {
       "date": "2026-11-03",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
     "posted": [
       "pod-ep03-verdict",
-      "pod-ep03-track"
+      "pod-ep03-track",
+      "pod-ep03-exclusive"
     ],
-    "last_iso": "2026-11-03T15:06:45",
+    "last_iso": "2026-11-03T19:25:43",
     "day": {
       "date": "2026-11-03",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -130,12 +132,13 @@
       "money-leaks",
       "explainer-lesson-01",
       "rip-angi-rip",
-      "rip-reviews-rip"
+      "rip-reviews-rip",
+      "rip-speed-rip"
     ],
-    "last_iso": "2026-11-03T15:06:45",
+    "last_iso": "2026-11-03T19:25:43",
     "day": {
       "date": "2026-11-03",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -216,12 +219,13 @@
       "pod-ep01-verdict",
       "pod-ep01-speed",
       "pod-ep01-starter",
-      "pod-ep01-ftc"
+      "pod-ep01-ftc",
+      "pod-ep01-refunds"
     ],
-    "last_iso": "2026-11-03T15:06:45",
+    "last_iso": "2026-11-03T19:25:43",
     "day": {
       "date": "2026-11-03",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -256,12 +260,13 @@
       "pod-ep01-verdict",
       "pod-ep01-speed",
       "pod-ep01-starter",
-      "pod-ep01-ftc"
+      "pod-ep01-ftc",
+      "pod-ep01-refunds"
     ],
-    "last_iso": "2026-11-03T15:06:45",
+    "last_iso": "2026-11-03T19:25:43",
     "day": {
       "date": "2026-11-03",
-      "count": 2
+      "count": 3
     }
   }
 }
