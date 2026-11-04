@@ -1,47 +1,4 @@
 {
-  "updated": "2026-11-03T19:29",
-  "posts": [
-    {
-      "ts": "2026-11-03T19:26:40",
-      "channel": "facebook",
-      "item": "card-rev-roof",
-      "url": null
-    },
-    {
-      "ts": "2026-11-03T19:26:35",
-      "channel": "mastodon",
-      "item": "card-anon98",
-      "url": null
-    },
-    {
-      "ts": "2026-11-03T19:26:31",
-      "channel": "tumblr",
-      "item": "pod-ep01-refunds",
-      "url": null
-    },
-    {
-      "ts": "2026-11-03T19:26:30",
-      "channel": "bluesky",
-      "item": "pod-ep01-refunds",
-      "url": null
-    },
-    {
-      "ts": "2026-11-03T19:26:27",
-      "channel": "tiktok",
-      "item": "pod-ep03-exclusive",
-      "url": null
-    },
-    {
-      "ts": "2026-11-03T19:26:27",
-      "channel": "linkedin",
-      "item": "rip-speed-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-11-03T19:26:25",
-      "channel": "ig",
-      "item": "bj-gbp",
-      "url": null
-    }
-  ]
+  "updated": "2026-11-04T03:04",
+  "posts": []
 }
