@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@blaksheepcreative.bsky.social**: Contractor Leads: Which to Buy, Which to Own, and How to Keep Them
+
+https://blaksheepcreative.com/digital-marketing/contractor-leads/?utm_source=bluesky&utm_medium=social&utm_campaign=blog
+  → https://bsky.app/profile/blaksheepcreative.bsky.social/post/3mzgba5ib422o
+
 - **@johnnyhermoso.bsky.social**: My home-based business is Aisle 7, and I price it accordingly: one smile per customer, luxury rates. Is that aspirational, or just good customer service?
   → https://bsky.app/profile/johnnyhermoso.bsky.social/post/3mzg4fnlp2s27
 
@@ -212,10 +217,3 @@ $97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
 
 #builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
   → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
-
-- **@raevi10.com**: ⚠️Is there any furry tattoo artists that live within a couple hours of eastern PA?⚠️
-
-Bonus points if you sometimes accept trades
-
-ive been trying to find an artist near me for a while, i really want 
-  → https://bsky.app/profile/raevi10.com/post/3mzc7rjwb322x
