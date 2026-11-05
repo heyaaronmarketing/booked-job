@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @blaksheepcreative.bsky.social: “Contractor Leads: Which to Buy, Which to Own, and How to Keep Them  https://blaksheepcreat…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/blaksheepcreative.bsky.social/post/3mzgba5ib422o",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @johnnyhermoso.bsky.social: “My home-based business is Aisle 7, and I price it accordingly: one smile per customer, lux…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/johnnyhermoso.bsky.social/post/3mzg4fnlp2s27",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @seoarcade.bsky.social: “I interview SMB owners, Saas founders, SEO professionals, home service business owners.   …”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @cosmarketingagency.bsky.social: “🚨 Are You Losing Cleaning Leads? Fix This Now!  🎥 Watch the full video: youtu.be/f8UlH6B8r…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @gimsresults.bsky.social: “\"Do I need a Google profile if people can find my website?\"  An Adelaide electrician asked…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @salesladders.bsky.social: “Milk. Trash out Tuesday. Call the plumber. Nobody calls it a system until it's gone. What'…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/salesladders.bsky.social/post/3mzgi6dblps2s",
       "est": "2 min"
     },
     {

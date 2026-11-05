@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@allcaps-22.bsky.social**: What is the name of the general contractor?
+  → https://bsky.app/profile/allcaps-22.bsky.social/post/3mzluq3tru22l
+
+- **@thejokebot.bsky.social**: Why did the electrician close his shop?
+
+Business was no longer current.
+
+#dadjoke #mumjokes #humor
+  → https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j
+
 - **@blaksheepcreative.bsky.social**: Contractor Leads: Which to Buy, Which to Own, and How to Keep Them
 
 https://blaksheepcreative.com/digital-marketing/contractor-leads/?utm_source=bluesky&utm_medium=social&utm_campaign=blog
@@ -203,17 +213,3 @@ $97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
 
 - **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
   → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
-
-- **@stylelib.org**: Condo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824267 
-
-#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
-  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
-
-- **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
-
- https://themes.stylelib.org/?p=16710 
-
-#builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
-  → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
