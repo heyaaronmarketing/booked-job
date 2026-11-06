@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@teamtreysta.bsky.social**: Still using an outdated business phone system? It's time for an upgrade! TREYSTA's VoIP solutions help your team stay connected in the office, at home, or on the go, with dependable local support.
+
+ww
+  → https://bsky.app/profile/teamtreysta.bsky.social/post/3mzl67xovzk2v
+
+- **@growreviews.bsky.social**: Before calling a home service business, customers often want proof that others had a good experience. Your reviews can answer that question before your team ever picks up the phone. What proof do cust
+  → https://bsky.app/profile/growreviews.bsky.social/post/3mznkvntbdy2b
+
 - **@datadrivendigitals.bsky.social**: AI search may make the introduction, but your booking flow still has to finish the job.
 
 For eligible home-service firms, test the profile match, mobile form, team alert and source tag before a custom
@@ -198,13 +206,3 @@ Customers who can't wait shop for the first one who answers.
 
 What happens when someone calls your bu
   → https://bsky.app/profile/ckkcassociates.bsky.social/post/3mywxmzg2tr2w
-
-- **@joebuildssystems.bsky.social**: Selling AI services to a plumber? Don't pitch the AI. Local business owners buy fixes, not AI: pitch the revenue leak, like the thousands of dollars a month they can lose in missed calls. #AIServices 
-  → https://bsky.app/profile/joebuildssystems.bsky.social/post/3mywzfee4is2q
-
-- **@stylelib.org**: TileMax – Tiling, Flooring WordPress Theme
-
- https://themes.stylelib.org/?p=32351 
-
-#business #construction #corporate #designthemes #plumber #renovation #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mzasjblrof2z
