@@ -52,12 +52,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-11-05T20:16:45",
+    "last_iso": "2026-11-06T12:39:00",
     "day": {
-      "date": "2026-11-05",
-      "count": 2
+      "date": "2026-11-06",
+      "count": 1
     }
   },
   "tiktok": {
@@ -69,12 +70,13 @@
       "pod-ep03-trap",
       "pod-ep03-lie",
       "pod-ep02-system",
-      "pod-ep02-fake"
+      "pod-ep02-fake",
+      "pod-ep02-onetap"
     ],
-    "last_iso": "2026-11-05T20:16:45",
+    "last_iso": "2026-11-06T12:39:00",
     "day": {
-      "date": "2026-11-05",
-      "count": 3
+      "date": "2026-11-06",
+      "count": 1
     }
   },
   "linkedin": {
@@ -82,12 +84,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-11-05T20:16:45",
+    "last_iso": "2026-11-06T12:39:00",
     "day": {
-      "date": "2026-11-05",
-      "count": 3
+      "date": "2026-11-06",
+      "count": 1
     }
   },
   "facebook": {
@@ -139,12 +142,13 @@
       "bj-freecheck",
       "bj-fakemaps",
       "bj-agency12k",
-      "bj-reviews50"
+      "bj-reviews50",
+      "bj-gbp"
     ],
-    "last_iso": "2026-11-05T16:07:21",
+    "last_iso": "2026-11-06T12:39:00",
     "day": {
-      "date": "2026-11-05",
-      "count": 2
+      "date": "2026-11-06",
+      "count": 1
     }
   },
   "pinterest": {
@@ -178,12 +182,13 @@
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
       "bj-angi",
-      "bj-reviews"
+      "bj-reviews",
+      "bj-trade"
     ],
-    "last_iso": "2026-11-05T20:16:45",
+    "last_iso": "2026-11-06T12:39:00",
     "day": {
-      "date": "2026-11-05",
-      "count": 3
+      "date": "2026-11-06",
+      "count": 1
     }
   },
   "telegram": {
@@ -224,12 +229,13 @@
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
       "bj-angi",
-      "bj-reviews"
+      "bj-reviews",
+      "bj-trade"
     ],
-    "last_iso": "2026-11-05T20:16:45",
+    "last_iso": "2026-11-06T12:39:00",
     "day": {
-      "date": "2026-11-05",
-      "count": 3
+      "date": "2026-11-06",
+      "count": 1
     }
   }
 }

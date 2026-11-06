@@ -2,6 +2,14 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@datadrivendigitals.bsky.social**: AI search may make the introduction, but your booking flow still has to finish the job.
+
+For eligible home-service firms, test the profile match, mobile form, team alert and source tag before a custom
+  → https://bsky.app/profile/datadrivendigitals.bsky.social/post/3mznxo3douv2s
+
+- **@dreamfuturestech.bsky.social**: Notice a drop in night-time leads for your Pompano Beach roofing or HVAC business? Check your form timestamps against your evening traffic. If people are on your site after hours but never reach out, 
+  → https://bsky.app/profile/dreamfuturestech.bsky.social/post/3mziqwrfyb42n
+
 - **@moanv.bsky.social**: Search your own trade in Perth and everyone but you shows up on Google Maps? Nine times out of ten it's an unclaimed Google Business Profile. Ten-minute free fix on the blog.
 👉 moanv.com
   → https://bsky.app/profile/moanv.bsky.social/post/3mzlm4xxxad2p
@@ -200,11 +208,3 @@ What happens when someone calls your bu
 
 #business #construction #corporate #designthemes #plumber #renovation #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3mzasjblrof2z
-
-- **@bisk.sureis.sexy**: to be fair my mate is a certified gas fitter and plumber with his own gas fitting and plumbing business so i think it's on him?
-  → https://bsky.app/profile/bisk.sureis.sexy/post/3mzbsmvmglc24
-
-- **@jindoprompt.bsky.social**: It's scary how ChatGPT and Gemini are changing how people find plumbers online. My business isn't showing up, and I'm worried I'm losing customers.
-
-Why AI can't find your business: https://jindopromp
-  → https://bsky.app/profile/jindoprompt.bsky.social/post/3mzcatsgc4u2r
