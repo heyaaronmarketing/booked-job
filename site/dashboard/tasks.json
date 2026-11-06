@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @allcaps-22.bsky.social: “What is the name of the general contractor?…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/allcaps-22.bsky.social/post/3mzluq3tru22l",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @thejokebot.bsky.social: “Why did the electrician close his shop?  Business was no longer current.  #dadjoke #mumjok…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @blaksheepcreative.bsky.social: “Contractor Leads: Which to Buy, Which to Own, and How to Keep Them  https://blaksheepcreat…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/blaksheepcreative.bsky.social/post/3mzgba5ib422o",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @johnnyhermoso.bsky.social: “My home-based business is Aisle 7, and I price it accordingly: one smile per customer, lux…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @seoarcade.bsky.social: “I interview SMB owners, Saas founders, SEO professionals, home service business owners.   …”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/seoarcade.bsky.social/post/3mzg4tg7zys2l",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @cosmarketingagency.bsky.social: “🚨 Are You Losing Cleaning Leads? Fix This Now!  🎥 Watch the full video: youtu.be/f8UlH6B8r…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @gimsresults.bsky.social: “\"Do I need a Google profile if people can find my website?\"  An Adelaide electrician asked…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f",
       "est": "2 min"
     },
     {

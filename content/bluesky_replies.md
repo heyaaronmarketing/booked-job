@@ -2,6 +2,31 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@auraassistant.bsky.social**: Who answered your business phone last night after 7 PM?
+
+Aura 360 can answer when your crew can't and log the details in your CRM.
+
+Free 1-minute Missed Opportunity Calculator: auraassistant.com #Roof
+  → https://bsky.app/profile/auraassistant.bsky.social/post/3mzkzvpfwqs2m
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@stylelib.org**: Elevate – Construction Building  Renovation HTML Template
+
+ https://stylelib.org/?p=870011 
+
+#builder #factory #handyman #reacthemes #renovation #sitetemplates #themeforest #architecture #business #pl
+  → https://bsky.app/profile/stylelib.org/post/3mz3tsywitz2d
+
+- **@barskin.bsky.social**: Do you remember 2008's "Joe the plumber?" He stopped Obama to ask him about his company and his taxes. Actually, his name wasn't Joe, he wasn't a plumber, and he didn't have a business. He became a he
+  → https://bsky.app/profile/barskin.bsky.social/post/3mz47krwflk2t
+
+- **@yezico.bsky.social**: Plumbers, electricians, cleaners: your site's job is getting the phone to ring. Put tap-to-call at the top, list your service area, show real job photos. A Yezico sample:
+yezico.com/sample-plumb...
+Do
+  → https://bsky.app/profile/yezico.bsky.social/post/3mz6zcvdf6k27
+
 - **@allcaps-22.bsky.social**: What is the name of the general contractor?
   → https://bsky.app/profile/allcaps-22.bsky.social/post/3mzluq3tru22l
 
@@ -188,28 +213,3 @@ Why AI can't find your business: https://jindopromp
 
 #architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
   → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
-
-- **@stylelib.org**: Construct Press – Construction and Renovation HTML Template
-
- https://themes.stylelib.org/?p=4205 
-
-#architect #business #construction #constructor #contractor #corporate #electrician #handyman #indus
-  → https://bsky.app/profile/stylelib.org/post/3my6njdbnn42y
-
-- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
-
-$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
-  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://stylelib.org/?p=103208 
-
-#boldthemes #electrician #handyman #plumbing #themeforest #wordpress #business #plumber #corporate #maintenance #contract
-  → https://bsky.app/profile/stylelib.org/post/3mygeiu6lzd2y
-
-- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
-
-- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
