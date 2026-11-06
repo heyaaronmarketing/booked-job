@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@moanv.bsky.social**: Search your own trade in Perth and everyone but you shows up on Google Maps? Nine times out of ten it's an unclaimed Google Business Profile. Ten-minute free fix on the blog.
+👉 moanv.com
+  → https://bsky.app/profile/moanv.bsky.social/post/3mzlm4xxxad2p
+
+- **@marketspill.bsky.social**: Hyatt director Mark Hoplamazian sold 85,000 shares on Nov. 3 and 4, about $16 million at $185.82 to $190.50.
+Filed one business day later, no pre-set plan box checked. 271,089 shares still held.
+https
+  → https://bsky.app/profile/marketspill.bsky.social/post/3mzm7gj7sv72t
+
 - **@auraassistant.bsky.social**: Who answered your business phone last night after 7 PM?
 
 Aura 360 can answer when your crew can't and log the details in your CRM.
@@ -199,17 +208,3 @@ What happens when someone calls your bu
 
 Why AI can't find your business: https://jindopromp
   → https://bsky.app/profile/jindoprompt.bsky.social/post/3mzcatsgc4u2r
-
-- **@stylelib.org**: Make Clean – Responsive HTML Template
-
- https://themes.stylelib.org/?p=19082 
-
-#business #corporate #electrician #engineering #handyman #maintenance #plumber #renovation #sitetemplates #themeforest
-  → https://bsky.app/profile/stylelib.org/post/3my5bwjbxny2w
-
-- **@stylelib.org**: Builta – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=823635 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #
-  → https://bsky.app/profile/stylelib.org/post/3my6a457lxc25
