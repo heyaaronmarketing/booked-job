@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
+
+ https://stylelib.org/?p=164678 
+
+#buildingcompany #themeforest #webgeniuslab #wordpress #architecture #business #plumber #company #corporate #in
+  → https://bsky.app/profile/stylelib.org/post/3mzdikzoz7m2d
+
+- **@bsky.scrapers.lat**: Need contractor leads or compliance insights? Our Washington L&I Contractor Scraper extracts licenses, bonds, insurance, and more. Perfect for analysts and risk assessors. #DataExtraction #ComplianceT
+  → https://bsky.app/profile/bsky.scrapers.lat/post/3mzfvmsqq2s2l
+
+- **@carterenterprise.bsky.social**: That 40% boost in qualified leads for the Houston spray foam contractor in 3 months stood out to me. How do you check what ChatGPT or the AI engines say about your clients today?
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3mzmisvzrwc2l
+
 - **@teambrain.bsky.social**: If you run a trades business, the job you're slowest at probably isn't on the tools.
 
 It's the quote. Type rough notes on site, prices included, and ask ChatGPT or Claude for a clean, itemized quote. 
@@ -194,18 +207,3 @@ If you're keen to learn, work hard, and build a rew
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
   → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzg44gtwxj25
-
-- **@xeniongroup.bsky.social**: Jobsite too busy to answer? Your next estimate request shouldn’t wait.
-• Capture project, location & timing
-• Set honest expectations
-• Give every inquiry a real next step
-Read: https://marketingblog.
-  → https://bsky.app/profile/xeniongroup.bsky.social/post/3mz4jenhdny2t
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
