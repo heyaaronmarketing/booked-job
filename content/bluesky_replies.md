@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@teambrain.bsky.social**: If you run a trades business, the job you're slowest at probably isn't on the tools.
+
+It's the quote. Type rough notes on site, prices included, and ask ChatGPT or Claude for a clean, itemized quote. 
+  → https://bsky.app/profile/teambrain.bsky.social/post/3mznuejvohf2l
+
 - **@premarcu.bsky.social**: Built an invoice-reading agent for a Vienna trades business.
 
 The model took an afternoon. The rest was exceptions: a missing tax number, a page scanned at an angle.
@@ -204,6 +209,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
   → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
