@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mznnj5e32m2y
+
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzo2wdxjvq2n
+
 - **@teamtreysta.bsky.social**: Still using an outdated business phone system? It's time for an upgrade! TREYSTA's VoIP solutions help your team stay connected in the office, at home, or on the go, with dependable local support.
 
 ww
@@ -194,15 +204,3 @@ We provide specialty accounting & bookkeeping for:
 → HVAC companies & contractors
 → Realtors & home service busi
   → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@suggestedby.ai**: For call-out work AI looks for three things: emergency wording in a heading, a named service area and a stated response time. Missing one? It names someone else.
-
-https://suggestedby.ai/en/blog/how-ai
-  → https://bsky.app/profile/suggestedby.ai/post/3mywja5xrbb2j
-
-- **@ckkcassociates.bsky.social**: When I've had a leak and nobody picked up, I didn't leave a voicemail. I called the next plumber.
-
-Customers who can't wait shop for the first one who answers.
-
-What happens when someone calls your bu
-  → https://bsky.app/profile/ckkcassociates.bsky.social/post/3mywxmzg2tr2w
