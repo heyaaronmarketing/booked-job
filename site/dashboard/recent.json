@@ -1,58 +1,34 @@
 {
-  "updated": "2026-11-08T09:17",
+  "updated": "2026-11-08T13:46",
   "posts": [
     {
-      "ts": "2026-11-08T09:14:51",
-      "channel": "facebook",
-      "item": "card-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-11-08T09:14:49",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-08T09:14:08",
+      "ts": "2026-11-08T13:43:53",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-11-08T09:14:03",
+      "ts": "2026-11-08T13:43:48",
       "channel": "tumblr",
-      "item": "bj-favor",
+      "item": "bj-stars",
       "url": null
     },
     {
-      "ts": "2026-11-08T09:14:01",
+      "ts": "2026-11-08T13:43:45",
       "channel": "bluesky",
-      "item": "bj-favor",
+      "item": "bj-stars",
       "url": null
     },
     {
-      "ts": "2026-11-08T09:13:57",
-      "channel": "tiktok",
-      "item": "pod-ep01-starter",
-      "url": null
-    },
-    {
-      "ts": "2026-11-08T09:13:57",
+      "ts": "2026-11-08T13:43:42",
       "channel": "linkedin",
-      "item": "pod-ep02-howmany",
+      "item": "pod-ep02-invisible",
       "url": null
     },
     {
-      "ts": "2026-11-08T09:13:55",
-      "channel": "ig",
-      "item": "clip1-turd",
-      "url": null
-    },
-    {
-      "ts": "2026-11-08T09:13:14",
-      "channel": "facebook",
-      "item": "ad-summit",
+      "ts": "2026-11-08T13:43:41",
+      "channel": "tiktok",
+      "item": "pod-ep01-ftc",
       "url": null
     }
   ]
