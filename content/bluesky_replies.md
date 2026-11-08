@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@articleweblog.bsky.social**: Old trades, new cafes: Can Jalan Besar keep its charm?
+
+Business owners, residents and experts say its mix of old trades and new cafes is the draw. Source link
+  → https://bsky.app/profile/articleweblog.bsky.social/post/3mzrlmzzeun2y
+
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
 
@@ -196,6 +201,3 @@ Free 1-minute Missed Opportunity Calculator: auraassistant.com #Roof
 yezico.com/sample-plumb...
 Do
   → https://bsky.app/profile/yezico.bsky.social/post/3mz6zcvdf6k27
-
-- **@allcaps-22.bsky.social**: What is the name of the general contractor?
-  → https://bsky.app/profile/allcaps-22.bsky.social/post/3mzluq3tru22l
