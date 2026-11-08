@@ -1,34 +1,52 @@
 {
-  "updated": "2026-11-08T13:46",
+  "updated": "2026-11-08T17:54",
   "posts": [
     {
-      "ts": "2026-11-08T13:43:53",
+      "ts": "2026-11-08T17:52:10",
+      "channel": "facebook",
+      "item": "card-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-11-08T17:52:06",
       "channel": "mastodon",
-      "item": "card-stars",
+      "item": "card-ai",
       "url": null
     },
     {
-      "ts": "2026-11-08T13:43:48",
+      "ts": "2026-11-08T17:52:02",
       "channel": "tumblr",
-      "item": "bj-stars",
+      "item": "bj-ai",
       "url": null
     },
     {
-      "ts": "2026-11-08T13:43:45",
+      "ts": "2026-11-08T17:52:00",
       "channel": "bluesky",
-      "item": "bj-stars",
+      "item": "bj-ai",
       "url": null
     },
     {
-      "ts": "2026-11-08T13:43:42",
+      "ts": "2026-11-08T17:51:56",
       "channel": "linkedin",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     },
     {
-      "ts": "2026-11-08T13:43:41",
+      "ts": "2026-11-08T17:51:55",
       "channel": "tiktok",
-      "item": "pod-ep01-ftc",
+      "item": "pod-ep01-refunds",
+      "url": null
+    },
+    {
+      "ts": "2026-11-08T17:51:54",
+      "channel": "ig",
+      "item": "clip2-game",
+      "url": null
+    },
+    {
+      "ts": "2026-11-08T17:50:35",
+      "channel": "facebook",
+      "item": "clip-porno2",
       "url": null
     }
   ]

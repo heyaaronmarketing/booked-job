@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:32:14Z",
+  "updated": "2026-11-08T23:38:56Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,17 +78,17 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 31,
+        "uses": 33,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 8,
+        "uses": 9,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
-        "uses": 6,
+        "uses": 8,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -122,6 +122,11 @@
         "link": "https://mastodon.social/tags/contractoraccountability"
       },
       {
+        "tag": "#handyman",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/handyman"
+      },
+      {
         "tag": "#HVACAutomation",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACAutomation"
@@ -130,17 +135,12 @@
         "tag": "#HVACShutdownChemicalLeak",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACShutdownChemicalLeak"
-      },
-      {
-        "tag": "#hvacnewsbriefs",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/hvacnewsbriefs"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 468551,
+        "followers": 468552,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23621,
+        "followers": 23623,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2344,
+        "followers": 2345,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10826,
+      "followers": 10828,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4361,
+      "followers": 4362,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1863,
+      "followers": 1864,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1638,
+      "followers": 1645,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
@@ -271,7 +271,7 @@
     {
       "handle": "@dndwithplumbing.bsky.social",
       "display": "Dungeons With Plumbing (Runic Press)",
-      "followers": 1074,
+      "followers": 1075,
       "desc": "TTRPG content creator (Danny), a little too obsessed with the details. Part of the Runic Press collective. Wokeness is j",
       "link": "https://bsky.app/profile/dndwithplumbing.bsky.social"
     },

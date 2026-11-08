@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-11-08T17:52",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: humor gas station"
+    },
+    {
+      "ts": "2026-11-08T17:52",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing callback"
+    },
+    {
       "ts": "2026-11-08T13:43",
       "kind": "engage",
       "icon": "💬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: biz truck payment"
-    },
-    {
-      "ts": "2026-10-24T07:39",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: lastguy caulk"
-    },
-    {
-      "ts": "2026-10-24T07:39",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing scope creep"
     }
   ]
 }

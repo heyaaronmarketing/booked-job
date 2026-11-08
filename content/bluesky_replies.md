@@ -2,6 +2,25 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@salesladders.bsky.social**: Milk. Trash out Tuesday. Call the plumber. Nobody calls it a system until it's gone. What's the sticky note in your business?
+
+SalesLadder™ Secrets Ebook + Diagnostic Kit, US$7 → go.salesladdersecrets
+  → https://bsky.app/profile/salesladders.bsky.social/post/3mzgi6dblps2s
+
+- **@kazwan.bsky.social**: ChatGPT Plumber Visibility - What It Checks Before Naming a Business: Guide
+
+Profit Acuity's new guide explains why ChatGPT may skip plumbing companies for...
+
+https://ohsem.me/2026/11/chatgpt-plumber
+  → https://bsky.app/profile/kazwan.bsky.social/post/3mzsyk7jmmw2t
+
+- **@stylelib.org**: Make Clean – Responsive HTML Template
+
+ https://stylelib.org/?p=285565 
+
+#cleaning #cleaningcompany #electrician #handyman #plumbing #remodeling #renovation #sitetemplates #themeforest #business #plum
+  → https://bsky.app/profile/stylelib.org/post/3mztjk56iri2z
+
 - **@articleweblog.bsky.social**: Old trades, new cafes: Can Jalan Besar keep its charm?
 
 Business owners, residents and experts say its mix of old trades and new cafes is the draw. Source link
@@ -186,18 +205,3 @@ Free 1-minute Missed Opportunity Calculator: auraassistant.com #Roof
 
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@stylelib.org**: Elevate – Construction Building  Renovation HTML Template
-
- https://stylelib.org/?p=870011 
-
-#builder #factory #handyman #reacthemes #renovation #sitetemplates #themeforest #architecture #business #pl
-  → https://bsky.app/profile/stylelib.org/post/3mz3tsywitz2d
-
-- **@barskin.bsky.social**: Do you remember 2008's "Joe the plumber?" He stopped Obama to ask him about his company and his taxes. Actually, his name wasn't Joe, he wasn't a plumber, and he didn't have a business. He became a he
-  → https://bsky.app/profile/barskin.bsky.social/post/3mz47krwflk2t
-
-- **@yezico.bsky.social**: Plumbers, electricians, cleaners: your site's job is getting the phone to ring. Put tap-to-call at the top, list your service area, show real job photos. A Yezico sample:
-yezico.com/sample-plumb...
-Do
-  → https://bsky.app/profile/yezico.bsky.social/post/3mz6zcvdf6k27
