@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-11-08T01:12",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued engagement to LinkedIn: lastguy caulk"
+    },
+    {
+      "ts": "2026-11-08T01:12",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing low bid"
+    },
+    {
       "ts": "2026-11-07T18:40",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: biz money leaks"
-    },
-    {
-      "ts": "2026-10-23T18:16",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: tools lost tape"
-    },
-    {
-      "ts": "2026-10-23T14:29",
-      "kind": "engage",
-      "icon": "💬",
-      "text": "📧 Outreach reply from bounces+108678471-7343-hello=booked-job.com@em7172.mail.medium.com: How a decade-old feature request made it to Medium"
     }
   ]
 }
