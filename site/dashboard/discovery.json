@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T20:48:48Z",
+  "updated": "2026-11-08T00:26:26Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,38 +78,33 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 9,
+        "uses": 8,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#plumbing",
-        "uses": 7,
+        "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#contractors",
-        "uses": 6,
+        "uses": 4,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#HandymanPlusVan",
-        "uses": 4,
+        "uses": 3,
         "link": "https://mastodon.social/tags/HandymanPlusVan"
       },
       {
         "tag": "#smallbusinessowners",
         "uses": 2,
         "link": "https://mastodon.social/tags/smallbusinessowners"
-      },
-      {
-        "tag": "#HVACAutomation",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/HVACAutomation"
       },
       {
         "tag": "#roofing_materials",
@@ -127,14 +122,19 @@
         "link": "https://mastodon.social/tags/contractoraccountability"
       },
       {
-        "tag": "#handymanLimits",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/handymanLimits"
+        "tag": "#HVACAutomation",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACAutomation"
       },
       {
         "tag": "#HVACShutdownChemicalLeak",
         "uses": 0,
         "link": "https://mastodon.social/tags/HVACShutdownChemicalLeak"
+      },
+      {
+        "tag": "#hvacnewsbriefs",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/hvacnewsbriefs"
       }
     ],
     "accounts": [
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23610,
+        "followers": 23617,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10826,
+      "followers": 10828,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -243,7 +243,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1545,
+      "followers": 1574,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },

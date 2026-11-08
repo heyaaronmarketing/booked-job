@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Renew – Renovation WordPress Theme
+
+ https://stylelib.org/?p=191989 
+
+#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
+  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
+
+- **@gimsresults.bsky.social**: One job this week.
+
+Search what you do plus your town, like a customer. "electrician Mount Barker". "dentist Ipswich".
+
+On the map? Check your number and hours.
+Missing? Claim your free Google Busines
+  → https://bsky.app/profile/gimsresults.bsky.social/post/3mzd73tfe3f2y
+
 - **@stylelib.org**: Builderry – Construction and Building WordPress Theme
 
  https://stylelib.org/?p=164678 
@@ -197,13 +212,3 @@ If you're keen to learn, work hard, and build a rew
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
   → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzfvftinpa2z
-
-- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
-Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
-If you're keen to learn, work hard, and build a rew
-  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzfyr7o7742w
-
-- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
-Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
-If you're keen to learn, work hard, and build a rew
-  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzg44gtwxj25

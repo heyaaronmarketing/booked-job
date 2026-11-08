@@ -7,12 +7,13 @@
       "card-rev-plumb",
       "card-rev-roof",
       "card-rev-elec",
-      "card-rev-paint"
+      "card-rev-paint",
+      "card-speed"
     ],
-    "last_iso": "2026-11-07T15:00:55",
+    "last_iso": "2026-11-07T18:40:34",
     "day": {
       "date": "2026-11-07",
-      "count": 2
+      "count": 3
     }
   },
   "ig": {
@@ -37,12 +38,13 @@
       "card-speed",
       "card-ftc",
       "card-stars",
-      "card-ai"
+      "card-ai",
+      "card-anon98"
     ],
-    "last_iso": "2026-11-07T10:32:50",
+    "last_iso": "2026-11-07T18:40:34",
     "day": {
       "date": "2026-11-07",
-      "count": 1
+      "count": 2
     }
   }
 }
