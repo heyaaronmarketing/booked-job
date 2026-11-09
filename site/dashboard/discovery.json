@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T23:38:56Z",
+  "updated": "2026-11-09T06:04:23Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,27 +78,27 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 33,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
-        "tag": "#hvac",
-        "uses": 9,
-        "link": "https://mastodon.social/tags/hvac"
-      },
-      {
         "tag": "#plumbing",
-        "uses": 8,
+        "uses": 10,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
+        "tag": "#hvac",
+        "uses": 8,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#contractors",
-        "uses": 4,
+        "uses": 3,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#HandymanPlusVan",
-        "uses": 3,
+        "uses": 2,
         "link": "https://mastodon.social/tags/HandymanPlusVan"
       },
       {
@@ -117,9 +117,9 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
-        "tag": "#contractoraccountability",
+        "tag": "#contractoresdirectos",
         "uses": 1,
-        "link": "https://mastodon.social/tags/contractoraccountability"
+        "link": "https://mastodon.social/tags/contractoresdirectos"
       },
       {
         "tag": "#handyman",
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 468552,
+        "followers": 468742,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -222,7 +222,7 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2243,
+      "followers": 2244,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1645,
+      "followers": 1655,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
@@ -257,7 +257,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1411,
+      "followers": 1410,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },

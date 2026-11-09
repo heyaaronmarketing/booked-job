@@ -2,6 +2,29 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bomcascanada.bsky.social**: 2026 T4/T4A prep: CRA filing is on time by March 1, 2027 under the weekend rule. Reconcile payroll and review contractor slips. General information, not tax advice.
+bomcas.ca
+bomcas.com #T4 #T4A #BOMC
+  → https://bsky.app/profile/bomcascanada.bsky.social/post/3mzojreqmms2p
+
+- **@shopgirl24.bsky.social**: Investigate the boards that Trump has appointed himself to. How much is he making on the side from contractors? Is he the General Contractor of the ball room drawing a fee? Kickbacks, how much and fro
+  → https://bsky.app/profile/shopgirl24.bsky.social/post/3mzq34sqlhk2p
+
+- **@lhalljd.bsky.social**: So Grunley Construction Company is taking steps without notice from authorities to begin work? That's what was represented to the court. grunley.com
+  → https://bsky.app/profile/lhalljd.bsky.social/post/3mzq5ibmhlk2r
+
+- **@xeniongroup.bsky.social**: Jobsite too busy to answer? Your next estimate request shouldn’t wait.
+• Capture project, location & timing
+• Set honest expectations
+• Give every inquiry a real next step
+Read: https://marketingblog.
+  → https://bsky.app/profile/xeniongroup.bsky.social/post/3mz4jenhdny2t
+
+- **@blaksheepcreative.bsky.social**: Contractor Leads: Which to Buy, Which to Own, and How to Keep Them
+
+https://blaksheepcreative.com/digital-marketing/contractor-leads/?utm_source=bluesky&utm_medium=social&utm_campaign=blog
+  → https://bsky.app/profile/blaksheepcreative.bsky.social/post/3mzgba5ib422o
+
 - **@salesladders.bsky.social**: Milk. Trash out Tuesday. Call the plumber. Nobody calls it a system until it's gone. What's the sticky note in your business?
 
 SalesLadder™ Secrets Ebook + Diagnostic Kit, US$7 → go.salesladdersecrets
@@ -183,25 +206,3 @@ ww
 
 For eligible home-service firms, test the profile match, mobile form, team alert and source tag before a custom
   → https://bsky.app/profile/datadrivendigitals.bsky.social/post/3mznxo3douv2s
-
-- **@dreamfuturestech.bsky.social**: Notice a drop in night-time leads for your Pompano Beach roofing or HVAC business? Check your form timestamps against your evening traffic. If people are on your site after hours but never reach out, 
-  → https://bsky.app/profile/dreamfuturestech.bsky.social/post/3mziqwrfyb42n
-
-- **@moanv.bsky.social**: Search your own trade in Perth and everyone but you shows up on Google Maps? Nine times out of ten it's an unclaimed Google Business Profile. Ten-minute free fix on the blog.
-👉 moanv.com
-  → https://bsky.app/profile/moanv.bsky.social/post/3mzlm4xxxad2p
-
-- **@marketspill.bsky.social**: Hyatt director Mark Hoplamazian sold 85,000 shares on Nov. 3 and 4, about $16 million at $185.82 to $190.50.
-Filed one business day later, no pre-set plan box checked. 271,089 shares still held.
-https
-  → https://bsky.app/profile/marketspill.bsky.social/post/3mzm7gj7sv72t
-
-- **@auraassistant.bsky.social**: Who answered your business phone last night after 7 PM?
-
-Aura 360 can answer when your crew can't and log the details in your CRM.
-
-Free 1-minute Missed Opportunity Calculator: auraassistant.com #Roof
-  → https://bsky.app/profile/auraassistant.bsky.social/post/3mzkzvpfwqs2m
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
