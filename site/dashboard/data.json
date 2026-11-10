@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:48",
+  "updated": "2026-11-10T02:18",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -177,9 +177,9 @@
       "days": 28
     },
     "cloudflare": {
-      "pageviews_daily": 758,
-      "pageviews_weekly": 6428,
-      "pageviews_monthly": 7012
+      "pageviews_daily": 700,
+      "pageviews_weekly": 5971,
+      "pageviews_monthly": 7169
     },
     "total_clicks": 0,
     "total_impressions": 19,
@@ -204,7 +204,7 @@
     },
     "linkedin": {
       "name": "Booked Job",
-      "posts": 76,
+      "posts": 75,
       "views": 41,
       "reactions": 2,
       "comments": 1,
@@ -441,7 +441,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2116,
+      "views": 1879,
       "followers": 19,
       "likes": 2
     },
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1476,
+      "views": 1409,
       "followers": 1
     },
     {
@@ -495,7 +495,7 @@
       "status": "live",
       "count": 9,
       "unit": "posts",
-      "followers": 339,
+      "followers": 340,
       "grade": "A",
       "group": "social",
       "likes": 14
@@ -548,7 +548,7 @@
       "status": "live",
       "count": 68,
       "unit": "posts (Buffer)",
-      "stat": "1161 reach \u00b7 2 reactions",
+      "stat": "1160 reach \u00b7 2 reactions",
       "views": 41,
       "likes": 2,
       "grade": "B",
@@ -828,16 +828,16 @@
     }
   ],
   "funnel": {
-    "reach": 36047,
+    "reach": 35679,
     "engagement": 2,
-    "audience": 369,
+    "audience": 370,
     "cr_clicks": 187
   },
   "trends": {
-    "audience": 32,
+    "audience": 33,
     "engagement": 0,
     "email": 0,
-    "reach": -152
+    "reach": -520
   },
   "mafia": {
     "metrics": [
@@ -863,7 +863,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 369,
+        "value": 370,
         "grade": "B"
       },
       {
@@ -873,6 +873,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 369 audience and 187 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 370 audience and 187 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

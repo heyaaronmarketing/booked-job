@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T18:28",
+  "generated": "2026-11-10T02:23",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 12,
+        "current": 1,
         "target": 22,
         "status": "red",
         "needs": null
@@ -43,19 +43,19 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": null,
+        "current": 700,
         "target": 40,
-        "status": "nodata",
-        "needs": "analytics"
+        "status": "green",
+        "needs": null
       },
       {
         "key": "yt_shorts",
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 0,
+        "current": 16,
         "target": 150,
         "status": "red",
         "needs": null
@@ -105,9 +105,9 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 28,
+        "current": 21,
         "target": 120,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -125,10 +125,10 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": null,
+        "current": 5971,
         "target": 300,
-        "status": "nodata",
-        "needs": "analytics"
+        "status": "green",
+        "needs": null
       }
     ],
     "monthly": [
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 118,
+        "current": 119,
         "target": 600,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 296,
+        "current": 297,
         "target": 600,
         "status": "red",
         "needs": null
@@ -207,10 +207,10 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": null,
+        "current": 30396,
         "target": 1500,
-        "status": "nodata",
-        "needs": "analytics"
+        "status": "green",
+        "needs": null
       }
     ]
   },
@@ -222,8 +222,8 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1074,
-    "followers": 362,
+    "social_posts": 1075,
+    "followers": 363,
     "engagement": 2,
     "yt_views": 2521,
     "yt_shorts": 69,
@@ -248,19 +248,14 @@
       "prompt": "Run another branch-series workflow batch and stage it to drip 2/day."
     },
     {
-      "title": "\ud83c\udf10 Website traffic isn't tracked yet",
-      "why": "No Cloudflare token connected, so traffic goals show no data.",
-      "prompt": "Set up Cloudflare analytics: create a CF API token (Zone \u2192 Analytics \u2192 Read) and grab the booked-job.com Zone ID, then add them to secrets/cloudflare.env so traffic feeds the Goals page."
-    },
-    {
       "title": "\ud83d\udcdd Articles behind this week",
       "why": "0/14 \u2014 14 short of pace.",
       "prompt": "We're behind on articles this week (0/14). Run a content workflow batch (staged)."
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "0/150 \u2014 150 short of pace.",
-      "prompt": "We're behind on social posts this week (0/150). Refill the social queues / add more variant cards."
+      "why": "16/150 \u2014 134 short of pace.",
+      "prompt": "We're behind on social posts this week (16/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83c\udfac Reels behind this week",

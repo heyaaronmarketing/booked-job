@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@premarcu.bsky.social**: Rebuilt a quote-drafting flow for a small trades business.
+
+V1 wrote clean professional quotes. The owner rewrote every one.
+
+So I fed it his own past emails and had it copy his phrasing, not mine.
+
+A
+  → https://bsky.app/profile/premarcu.bsky.social/post/3mzuhohmb6x26
+
 - **@bomcascanada.bsky.social**: 2026 T4/T4A prep: CRA filing is on time by March 1, 2027 under the weekend rule. Reconcile payroll and review contractor slips. General information, not tax advice.
 bomcas.ca
 bomcas.com #T4 #T4A #BOMC
@@ -198,11 +210,3 @@ If you're keen to learn, work hard, and build a rew
 
 ww
   → https://bsky.app/profile/teamtreysta.bsky.social/post/3mzl67xovzk2v
-
-- **@growreviews.bsky.social**: Before calling a home service business, customers often want proof that others had a good experience. Your reviews can answer that question before your team ever picks up the phone. What proof do cust
-  → https://bsky.app/profile/growreviews.bsky.social/post/3mznkvntbdy2b
-
-- **@datadrivendigitals.bsky.social**: AI search may make the introduction, but your booking flow still has to finish the job.
-
-For eligible home-service firms, test the profile match, mobile form, team alert and source tag before a custom
-  → https://bsky.app/profile/datadrivendigitals.bsky.social/post/3mznxo3douv2s
