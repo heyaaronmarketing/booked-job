@@ -100,6 +100,15 @@ export default {
       }
     }
 
+    // Muse "research done" ping — public, no auth. Records a flag in KV and shows a
+    // friendly confirmation page. The real build trigger is the research EMAIL in the
+    // inbox; this is Muse's done-button plus a signal the research watcher polls.
+    if (url.pathname === "/ready") {
+      try { if (env.CR_KV) await env.CR_KV.put("muse_ready", JSON.stringify({ ts: new Date().toISOString(), ref: url.searchParams.get("ref") || "" })); } catch (e) {}
+      return new Response(`<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Got it — thanks</title><style>html{height:100%}body{margin:0;min-height:100%;display:grid;place-items:center;background:#0e2235;color:#e4ecf5;font:17px/1.6 -apple-system,system-ui,sans-serif;text-align:center;padding:24px}.c{max-width:440px}h1{font-size:2.1rem;margin:0 0 10px;letter-spacing:-.01em}.m{font-family:ui-monospace,monospace;color:#8aa4c1;font-size:.82rem;letter-spacing:.06em;text-transform:uppercase;margin-top:20px}.k{color:#ff6a45}</style><div class=c><h1>Got it &#9989;</h1><p>Thanks &mdash; your research is logged. We'll take it from here and start building.</p><p>You can close this tab.</p><div class=m>Booked Job &middot; <span class=k>research received</span></div></div>`,
+        { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store" } });
+    }
+
     // Story reader for the weekly strategist (gated, same key as /ops/inbox).
     if (url.pathname === "/ops/stories") {
       if (!env.INBOX_KEY || url.searchParams.get("key") !== env.INBOX_KEY) {
