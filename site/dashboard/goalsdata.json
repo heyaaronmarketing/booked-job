@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T10:20",
+  "generated": "2026-11-09T18:28",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 8,
+        "current": 12,
         "target": 22,
         "status": "red",
         "needs": null
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 0,
+        "current": 1,
         "target": 1,
-        "status": "red",
+        "status": "green",
         "needs": null
       }
     ],
@@ -95,7 +95,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 1,
+        "current": 2,
         "target": 7,
         "status": "green",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 26,
+        "current": 28,
         "target": 120,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 114,
+        "current": 118,
         "target": 600,
         "status": "red",
         "needs": null
@@ -167,7 +167,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 37,
+        "current": 38,
         "target": 30,
         "status": "green",
         "needs": null
@@ -177,7 +177,7 @@
         "cat": "Video",
         "icon": "\u25b6\ufe0f",
         "label": "YouTube views",
-        "current": 1363,
+        "current": 1373,
         "target": 10000,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 294,
+        "current": 296,
         "target": 600,
         "status": "red",
         "needs": null
@@ -222,11 +222,11 @@
   "counters": {
     "articles": 142,
     "reels": 51,
-    "social_posts": 1070,
-    "followers": 360,
+    "social_posts": 1074,
+    "followers": 362,
     "engagement": 2,
-    "yt_views": 2511,
-    "yt_shorts": 68,
+    "yt_views": 2521,
+    "yt_shorts": 69,
     "email_subs": 7,
     "traffic": 0
   },
