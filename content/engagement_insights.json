@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-10T10:58",
+  "generated": "2026-11-10T16:18",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 3413,
+      "views": 3381,
       "engagements": 2,
       "er": 0.06
     },
@@ -123,18 +123,6 @@
   "bottom": [
     {
       "channel": "FB Reels",
-      "id": "1160719160236592",
-      "caption": "If a marketing company guarantees you #1 on Google \u2014 hang up. Google says nobody can promise that. Guaranteed rankings is the tell.\n\n\ud83d\udc47 Got a",
-      "views": 32,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-10-29"
-    },
-    {
-      "channel": "FB Reels",
       "id": "1499996788644961",
       "caption": "HVAC \u2014 you need 519 Google reviews to rank #1. The guy beating you just asked every customer. Start asking.\n\n\ud83d\udc47 HVAC pros \u2014 how many reviews ",
       "views": 215,
@@ -210,6 +198,18 @@
       "id": "29179696934987655",
       "caption": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the ",
       "views": 256,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-01"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1833531587764247",
+      "caption": "Don't hand it to an agency. Fix your Google profile (free), get 50 reviews (free), then put money into Local Service Ads. Foundation first, ",
+      "views": 26,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

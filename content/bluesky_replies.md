@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzxus7t6hl2h
+
 - **@keraladayz.bsky.social**: Nedumbassery Airport Pickup and Drop Cab 
 Looking for a reliable Nedumbassery Airport Pickup and Drop Cab?( keraladayz.com/airport-taxi/)  Whether you are travelling for business, planning a family ho
   → https://bsky.app/profile/keraladayz.bsky.social/post/3mzwrpry7n22o
@@ -202,10 +207,3 @@ $97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
 
 Why AI can't find your business: https://jindopromp
   → https://bsky.app/profile/jindoprompt.bsky.social/post/3mzcatsgc4u2r
-
-- **@stylelib.org**: Darna – Building  Construction WordPress Theme
-
- https://stylelib.org/?p=199274 
-
-#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #responsive #contr
-  → https://bsky.app/profile/stylelib.org/post/3mzpdgnddjs25
