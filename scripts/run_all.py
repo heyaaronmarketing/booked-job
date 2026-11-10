@@ -17,17 +17,21 @@ LOG = os.path.join(ROOT, "content", "run_all.log")
 # order: fresh stats -> build -> publish -> syndicate -> visual formats -> engage -> drip -> review
 AGENTS = [
     ("fetch_stats.py", []),
+    ("engagement_tracker.py", []),   # measure ER per post → engagement_insights.json (self-improvement signal)
     ("discover_communities.py", []), ("build_tasks.py", []), ("newsletter_build.py", []),
     ("publisher.py", []), ("ig_runner.py", []),
     ("reel_runner.py", []), ("reel_story_runner.py", []), ("story_runner.py", []),
     ("video_pool_runner.py", []),
     ("blogger_runner.py", []), ("tumblr_runner.py", []), ("telegraph_runner.py", []), ("github_pages_runner.py", []),
     ("bluesky_runner.py", []), ("mastodon_runner.py", []), ("threads_runner.py", []),
-    ("buffer_runner.py", []), ("buffer_tiktok_runner.py", []),
-    ("buffer_carousel_runner.py", []), ("buffer_tiktok_carousel_runner.py", []),
+    # ("buffer_runner.py", []),  # KILLED 2026-11-09 (Aaron: cut LinkedIn — 76 posts/30d, 2 reactions)
+    ("buffer_tiktok_runner.py", []),
+    # ("buffer_carousel_runner.py", []),  # KILLED 2026-11-09 (Aaron: cut LinkedIn docs)
+    ("buffer_tiktok_carousel_runner.py", []),
     ("fb_carousel_runner.py", []), ("ig_carousel_runner.py", []),
     ("image_pool_runner.py", []),
-    ("pinterest_buffer_runner.py", []), ("email_drip_runner.py", []),
+    # ("pinterest_buffer_runner.py", []),  # KILLED 2026-11-09 (Aaron: kill Pinterest — 0 engagement, broken pipeline)
+    ("email_drip_runner.py", []),
     # ("backlink_outreach.py", []),  # PAUSED 2026-09-10 (Aaron: stop email outreach) — sender OFF
     ("outreach_inbox.py", []),      # surface replies to hello@booked-job.com (read-only; sends nothing)
     # ("outreach_reply.py", []),    # PAUSED 2026-09-10 (Aaron: stop email outreach) — autonomous replier OFF
