@@ -133,10 +133,21 @@ function renderSearch(d){
     .sort((a,b)=>(b.clicks||0)-(a.clicks||0)).slice(0,8);
   const q=allq.length?allq.map(x=>`<div class="adrow"><span class="k">${x.query}</span><span>${x.clicks||0} clk · ${x.impressions||0} imp${x.position?' · #'+x.position:''}</span></div>`).join('')
     :'<div class="adrow"><span class="k">No query data yet (new domain — impressions land first)</span><span>—</span></div>';
+  const cf=s.cloudflare||null;
+  const cfRow=(cf&&!cf.error)?`<div class="adrow"><span class="k">Cloudflare pageviews</span><span>${cf.pageviews_daily||0}/day · ${cf.pageviews_weekly||0}/wk · ${cf.pageviews_monthly||0}/mo <span style="color:#8b9098">(zone-level, incl. bots)</span></span></div>`:'';
+  // Buffer-routed channels (TikTok / LinkedIn / Pinterest) — engagement reality check
+  const buf=d.buffer||null; let bufPanel='';
+  if(buf&&!buf.error){
+    const rows=Object.entries(buf).map(([svc,m])=>{
+      const dead=(m.posts>10&&(m.reactions+m.comments)===0);
+      return `<div class="adrow"><span class="k">${svc.charAt(0).toUpperCase()+svc.slice(1)}${dead?' <span style="color:#fca5a5">⚠ flatlined</span>':''}</span><span>${m.posts} posts · ${m.views} views · ${m.reactions+m.comments} eng${m.engagement_rate?' · '+m.engagement_rate+'%':''}</span></div>`;
+    }).join('');
+    bufPanel=`<div class="panel" style="margin-top:14px"><div class="eyebrow">📣 Buffer channels — last 30 days</div>${rows||'<div class="adrow"><span class="k">No channels</span><span>—</span></div>'}</div>`;
+  }
   el.innerHTML=`<div class="panel"><div class="eyebrow">🔎 Organic search (SEO) — last 28 days</div>
     <div style="display:flex;align-items:baseline;gap:10px;margin:6px 0"><div style="font-family:Anton,sans-serif;font-size:42px;color:#FF6A00">${s.total_clicks||0}</div><div style="color:#8b9098">clicks · ${s.total_impressions||0} impressions</div></div>
-    ${eng('Google',s.google)}${eng('Bing',s.bing)}
-    <div class="eyebrow" style="font-size:11px;margin:12px 0 6px">Top queries</div>${q}</div>`;
+    ${eng('Google',s.google)}${eng('Bing',s.bing)}${cfRow}
+    <div class="eyebrow" style="font-size:11px;margin:12px 0 6px">Top queries</div>${q}</div>${bufPanel}`;
 }
 function renderAds(d){
   const a=(d&&d.ads)||null;

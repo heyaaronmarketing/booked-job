@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T18:12",
+  "updated": "2026-11-09T19:48",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 683
+    "media": 684
   },
   "email": {
     "subscribers": 7
@@ -149,9 +149,67 @@
     "top_sources": []
   },
   "search": {
+    "google": {
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 5.6,
+      "top_queries": [
+        {
+          "query": "booked",
+          "clicks": 0,
+          "impressions": 3,
+          "position": 3.7
+        },
+        {
+          "query": "life coach in onalaska",
+          "clicks": 0,
+          "impressions": 1,
+          "position": 11
+        },
+        {
+          "query": "onalaska life coach",
+          "clicks": 0,
+          "impressions": 1,
+          "position": 1
+        }
+      ],
+      "days": 28
+    },
+    "cloudflare": {
+      "pageviews_daily": 758,
+      "pageviews_weekly": 6428,
+      "pageviews_monthly": 7012
+    },
     "total_clicks": 0,
-    "total_impressions": 0,
-    "configured": false
+    "total_impressions": 19,
+    "configured": true
+  },
+  "buffer": {
+    "pinterest": {
+      "name": "bookedjob",
+      "posts": 0,
+      "views": 0,
+      "reactions": 0,
+      "comments": 0,
+      "engagement_rate": 0
+    },
+    "tiktok": {
+      "name": "bookedjob",
+      "posts": 97,
+      "views": 132,
+      "reactions": 0,
+      "comments": 0,
+      "engagement_rate": 0
+    },
+    "linkedin": {
+      "name": "Booked Job",
+      "posts": 76,
+      "views": 41,
+      "reactions": 2,
+      "comments": 1,
+      "engagement_rate": 0.46
+    }
   },
   "agents": [
     {
@@ -394,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1474,
+      "views": 1476,
       "followers": 1
     },
     {
@@ -435,7 +493,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 8,
+      "count": 9,
       "unit": "posts",
       "followers": 339,
       "grade": "A",
@@ -488,7 +546,7 @@
     {
       "name": "LinkedIn",
       "status": "live",
-      "count": 65,
+      "count": 68,
       "unit": "posts (Buffer)",
       "stat": "1161 reach \u00b7 2 reactions",
       "views": 41,
@@ -547,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Polls",
@@ -577,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 12
+        "count": 14
       },
       {
         "type": "Long video",
@@ -623,7 +681,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 53
+        "count": 56
       },
       {
         "type": "Documents",
@@ -633,7 +691,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 14
+        "count": 15
       },
       {
         "type": "Articles",
@@ -664,12 +722,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 8
+        "count": 9
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 32
+        "count": 33
       }
     ],
     "Mastodon": [
@@ -728,7 +786,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 32
+        "count": 33
       }
     ]
   },
@@ -770,16 +828,16 @@
     }
   ],
   "funnel": {
-    "reach": 36043,
+    "reach": 36047,
     "engagement": 2,
     "audience": 369,
     "cr_clicks": 187
   },
   "trends": {
-    "audience": 28,
+    "audience": 32,
     "engagement": 0,
     "email": 0,
-    "reach": -295
+    "reach": -152
   },
   "mafia": {
     "metrics": [
@@ -795,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1476,
+        "value": 1480,
         "grade": "A"
       },
       {

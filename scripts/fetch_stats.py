@@ -65,6 +65,29 @@ def _search_stats():
     return out
 
 
+def _buffer_stats():
+    """Per-channel engagement for Buffer-routed channels (TikTok/LinkedIn/Pinterest).
+    Buffer's aggregated metrics only return ~30 days reliably. None when not configured."""
+    try:
+        sys.path.insert(0, HERE); b = __import__("buffer_publish")
+        if not b.env():
+            return None
+        out = {}
+        for c in b.channels():
+            if c.get("isDisconnected"):
+                continue
+            m = b.metrics([c["id"]], 30)
+            out[c["service"]] = {
+                "name": c.get("displayName", c["service"]),
+                "posts": m.get("postCount", 0), "views": m.get("views", 0),
+                "reactions": m.get("reactions", 0), "comments": m.get("comments", 0),
+                "engagement_rate": m.get("engagementRate", 0),
+            }
+        return out or None
+    except Exception as e:
+        return {"error": str(e)[:120]}
+
+
 def get(path, params, tok):
     params["access_token"] = tok
     try:
@@ -684,6 +707,7 @@ def main():
         "email": {"subscribers": email_subs},
         "signups": {**_signup_stats(), "total": email_subs, "pct": round(100 * email_subs / GOAL_SIGNUPS, 1)},
         "search": _search_stats(),
+        "buffer": _buffer_stats(),
         "agents": enumerate_agents(),
         "channels": chs,
         "coverage": coverage(),
