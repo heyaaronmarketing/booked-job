@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@keraladayz.bsky.social**: Nedumbassery Airport Pickup and Drop Cab 
+Looking for a reliable Nedumbassery Airport Pickup and Drop Cab?( keraladayz.com/airport-taxi/)  Whether you are travelling for business, planning a family ho
+  → https://bsky.app/profile/keraladayz.bsky.social/post/3mzwrpry7n22o
+
+- **@yezico.bsky.social**: Plumbers, electricians, cleaners: your site's job is getting the phone to ring. Put tap-to-call at the top, list your service area, show real job photos. A Yezico sample:
+yezico.com/sample-plumb...
+Do
+  → https://bsky.app/profile/yezico.bsky.social/post/3mz6zcvdf6k27
+
+- **@suggestedby.ai**: First frost, boiler off, phone ringing. AI looks for emergency wording in a heading, a named area and a response time. Is yours on the page?
+
+https://suggestedby.ai/en/blog/how-ai-assistants-judge-whe
+  → https://bsky.app/profile/suggestedby.ai/post/3mzuicmbqur2y
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -195,18 +209,3 @@ Why AI can't find your business: https://jindopromp
 
 #constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #responsive #contr
   → https://bsky.app/profile/stylelib.org/post/3mzpdgnddjs25
-
-- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
-Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
-If you're keen to learn, work hard, and build a rew
-  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mznnj5e32m2y
-
-- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
-Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
-If you're keen to learn, work hard, and build a rew
-  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3mzo2wdxjvq2n
-
-- **@teamtreysta.bsky.social**: Still using an outdated business phone system? It's time for an upgrade! TREYSTA's VoIP solutions help your team stay connected in the office, at home, or on the go, with dependable local support.
-
-ww
-  → https://bsky.app/profile/teamtreysta.bsky.social/post/3mzl67xovzk2v

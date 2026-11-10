@@ -13,32 +13,34 @@
       "card-stars",
       "card-ai",
       "card-anon98",
-      "card-missedcall"
+      "card-missedcall",
+      "card-trade"
     ],
-    "last_iso": "2026-11-09T18:26:11",
+    "last_iso": "2026-11-10T11:12:24",
     "day": {
-      "date": "2026-11-09",
-      "count": 2
+      "date": "2026-11-10",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-11-09T10:17:33",
+    "last_iso": "2026-11-10T11:12:24",
     "day": {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "count": 1
     }
   },
   "facebook": {
     "posted": [
-      "card-cpbj"
+      "card-cpbj",
+      "card-angi"
     ],
-    "last_iso": "2026-11-09T18:26:11",
+    "last_iso": "2026-11-10T11:12:24",
     "day": {
-      "date": "2026-11-09",
-      "count": 2
+      "date": "2026-11-10",
+      "count": 1
     }
   }
 }
