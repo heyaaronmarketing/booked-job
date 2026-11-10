@@ -1,6 +1,251 @@
 {
   "days": [
     {
+      "date": "2026-06-27",
+      "audience": 9,
+      "engagement": 2,
+      "email": 5,
+      "reach": 0
+    },
+    {
+      "date": "2026-06-28",
+      "audience": 9,
+      "engagement": 2,
+      "email": 5,
+      "reach": 0
+    },
+    {
+      "date": "2026-06-29",
+      "audience": 10,
+      "engagement": 2,
+      "email": 5,
+      "reach": 0
+    },
+    {
+      "date": "2026-06-30",
+      "audience": 10,
+      "engagement": 8,
+      "email": 5,
+      "reach": 0
+    },
+    {
+      "date": "2026-07-01",
+      "audience": 12,
+      "engagement": 10,
+      "email": 5,
+      "reach": 13264
+    },
+    {
+      "date": "2026-07-02",
+      "audience": 13,
+      "engagement": 12,
+      "email": 5,
+      "reach": 14620
+    },
+    {
+      "date": "2026-07-03",
+      "audience": 14,
+      "engagement": 13,
+      "email": 5,
+      "reach": 18601
+    },
+    {
+      "date": "2026-07-04",
+      "audience": 14,
+      "engagement": 16,
+      "email": 5,
+      "reach": 20819
+    },
+    {
+      "date": "2026-07-05",
+      "audience": 18,
+      "engagement": 20,
+      "email": 5,
+      "reach": 23202
+    },
+    {
+      "date": "2026-07-06",
+      "audience": 19,
+      "engagement": 22,
+      "email": 5,
+      "reach": 25749
+    },
+    {
+      "date": "2026-07-07",
+      "audience": 19,
+      "engagement": 18,
+      "email": 5,
+      "reach": 27787
+    },
+    {
+      "date": "2026-07-08",
+      "audience": 20,
+      "engagement": 19,
+      "email": 5,
+      "reach": 29879
+    },
+    {
+      "date": "2026-07-09",
+      "audience": 20,
+      "engagement": 19,
+      "email": 5,
+      "reach": 31800
+    },
+    {
+      "date": "2026-07-10",
+      "audience": 23,
+      "engagement": 16,
+      "email": 5,
+      "reach": 33538
+    },
+    {
+      "date": "2026-07-11",
+      "audience": 26,
+      "engagement": 14,
+      "email": 5,
+      "reach": 34198
+    },
+    {
+      "date": "2026-07-12",
+      "audience": 26,
+      "engagement": 14,
+      "email": 5,
+      "reach": 36816
+    },
+    {
+      "date": "2026-07-13",
+      "audience": 30,
+      "engagement": 13,
+      "email": 7,
+      "reach": 37746
+    },
+    {
+      "date": "2026-07-14",
+      "audience": 32,
+      "engagement": 10,
+      "email": 7,
+      "reach": 38098
+    },
+    {
+      "date": "2026-07-15",
+      "audience": 38,
+      "engagement": 6,
+      "email": 7,
+      "reach": 38463
+    },
+    {
+      "date": "2026-07-16",
+      "audience": 41,
+      "engagement": 5,
+      "email": 7,
+      "reach": 38762
+    },
+    {
+      "date": "2026-07-17",
+      "audience": 45,
+      "engagement": 6,
+      "email": 7,
+      "reach": 39335
+    },
+    {
+      "date": "2026-07-18",
+      "audience": 48,
+      "engagement": 6,
+      "email": 7,
+      "reach": 40543
+    },
+    {
+      "date": "2026-07-19",
+      "audience": 49,
+      "engagement": 4,
+      "email": 7,
+      "reach": 41383
+    },
+    {
+      "date": "2026-07-20",
+      "audience": 50,
+      "engagement": 5,
+      "email": 7,
+      "reach": 41778
+    },
+    {
+      "date": "2026-07-21",
+      "audience": 52,
+      "engagement": 4,
+      "email": 7,
+      "reach": 42345
+    },
+    {
+      "date": "2026-07-22",
+      "audience": 54,
+      "engagement": 4,
+      "email": 7,
+      "reach": 42861
+    },
+    {
+      "date": "2026-07-23",
+      "audience": 59,
+      "engagement": 4,
+      "email": 7,
+      "reach": 43391
+    },
+    {
+      "date": "2026-07-24",
+      "audience": 63,
+      "engagement": 7,
+      "email": 7,
+      "reach": 43572
+    },
+    {
+      "date": "2026-07-25",
+      "audience": 67,
+      "engagement": 10,
+      "email": 7,
+      "reach": 44164
+    },
+    {
+      "date": "2026-07-26",
+      "audience": 69,
+      "engagement": 8,
+      "email": 7,
+      "reach": 44626
+    },
+    {
+      "date": "2026-07-27",
+      "audience": 71,
+      "engagement": 8,
+      "email": 7,
+      "reach": 44793
+    },
+    {
+      "date": "2026-07-28",
+      "audience": 73,
+      "engagement": 8,
+      "email": 7,
+      "reach": 44955
+    },
+    {
+      "date": "2026-07-29",
+      "audience": 72,
+      "engagement": 7,
+      "email": 7,
+      "reach": 45285
+    },
+    {
+      "date": "2026-07-30",
+      "audience": 76,
+      "engagement": 4,
+      "email": 7,
+      "reach": 45918
+    },
+    {
+      "date": "2026-07-31",
+      "audience": 76,
+      "engagement": 1,
+      "email": 7,
+      "reach": 45179
+    },
+    {
       "date": "2026-08-01",
       "audience": 81,
       "engagement": 2,
@@ -208,427 +453,21 @@
       "audience": 204,
       "engagement": 4,
       "email": 7,
-      "reach": 35581
-    },
-    {
-      "date": "2026-09-11",
-      "audience": 209,
-      "engagement": 4,
-      "email": 7,
-      "reach": 35535
-    },
-    {
-      "date": "2026-09-12",
-      "audience": 211,
-      "engagement": 4,
-      "email": 7,
-      "reach": 35126
-    },
-    {
-      "date": "2026-09-13",
-      "audience": 215,
-      "engagement": 5,
-      "email": 7,
-      "reach": 35215
-    },
-    {
-      "date": "2026-09-14",
-      "audience": 220,
-      "engagement": 7,
-      "email": 7,
-      "reach": 35134
-    },
-    {
-      "date": "2026-09-15",
-      "audience": 224,
-      "engagement": 8,
-      "email": 7,
-      "reach": 35217
-    },
-    {
-      "date": "2026-09-16",
-      "audience": 224,
-      "engagement": 8,
-      "email": 7,
-      "reach": 35336
+      "reach": 35579
     },
     {
       "date": "2026-09-17",
-      "audience": 227,
+      "audience": 225,
       "engagement": 8,
       "email": 7,
-      "reach": 35373
-    },
-    {
-      "date": "2026-09-18",
-      "audience": 228,
-      "engagement": 7,
-      "email": 7,
-      "reach": 35297
-    },
-    {
-      "date": "2026-09-19",
-      "audience": 234,
-      "engagement": 6,
-      "email": 7,
-      "reach": 35282
-    },
-    {
-      "date": "2026-09-20",
-      "audience": 237,
-      "engagement": 6,
-      "email": 7,
-      "reach": 35237
-    },
-    {
-      "date": "2026-09-21",
-      "audience": 240,
-      "engagement": 8,
-      "email": 7,
-      "reach": 35144
-    },
-    {
-      "date": "2026-09-22",
-      "audience": 243,
-      "engagement": 7,
-      "email": 7,
-      "reach": 35209
-    },
-    {
-      "date": "2026-09-23",
-      "audience": 246,
-      "engagement": 6,
-      "email": 7,
-      "reach": 35133
-    },
-    {
-      "date": "2026-09-24",
-      "audience": 250,
-      "engagement": 6,
-      "email": 7,
-      "reach": 35070
-    },
-    {
-      "date": "2026-09-25",
-      "audience": 254,
-      "engagement": 4,
-      "email": 7,
-      "reach": 35078
-    },
-    {
-      "date": "2026-09-26",
-      "audience": 254,
-      "engagement": 4,
-      "email": 7,
-      "reach": 35331
-    },
-    {
-      "date": "2026-09-27",
-      "audience": 257,
-      "engagement": 3,
-      "email": 7,
-      "reach": 35251
-    },
-    {
-      "date": "2026-09-28",
-      "audience": 260,
-      "engagement": 3,
-      "email": 7,
-      "reach": 35255
-    },
-    {
-      "date": "2026-09-29",
-      "audience": 263,
-      "engagement": 5,
-      "email": 7,
-      "reach": 35164
-    },
-    {
-      "date": "2026-09-30",
-      "audience": 264,
-      "engagement": 5,
-      "email": 7,
-      "reach": 35326
-    },
-    {
-      "date": "2026-10-01",
-      "audience": 270,
-      "engagement": 6,
-      "email": 7,
-      "reach": 35401
-    },
-    {
-      "date": "2026-10-02",
-      "audience": 273,
-      "engagement": 9,
-      "email": 7,
-      "reach": 35442
-    },
-    {
-      "date": "2026-10-03",
-      "audience": 275,
-      "engagement": 8,
-      "email": 7,
-      "reach": 35463
-    },
-    {
-      "date": "2026-10-04",
-      "audience": 279,
-      "engagement": 9,
-      "email": 7,
-      "reach": 35486
-    },
-    {
-      "date": "2026-10-05",
-      "audience": 282,
-      "engagement": 10,
-      "email": 7,
-      "reach": 35436
-    },
-    {
-      "date": "2026-10-06",
-      "audience": 285,
-      "engagement": 9,
-      "email": 7,
-      "reach": 35341
-    },
-    {
-      "date": "2026-10-07",
-      "audience": 285,
-      "engagement": 10,
-      "email": 7,
-      "reach": 32876
-    },
-    {
-      "date": "2026-10-08",
-      "audience": 295,
-      "engagement": 10,
-      "email": 7,
-      "reach": 35423
-    },
-    {
-      "date": "2026-10-09",
-      "audience": 294,
-      "engagement": 10,
-      "email": 7,
-      "reach": 35427
-    },
-    {
-      "date": "2026-10-10",
-      "audience": 295,
-      "engagement": 10,
-      "email": 7,
-      "reach": 35422
-    },
-    {
-      "date": "2026-10-11",
-      "audience": 299,
-      "engagement": 10,
-      "email": 7,
-      "reach": 35560
-    },
-    {
-      "date": "2026-10-12",
-      "audience": 300,
-      "engagement": 8,
-      "email": 7,
-      "reach": 35740
-    },
-    {
-      "date": "2026-10-13",
-      "audience": 303,
-      "engagement": 9,
-      "email": 7,
-      "reach": 35760
-    },
-    {
-      "date": "2026-10-14",
-      "audience": 305,
-      "engagement": 5,
-      "email": 7,
-      "reach": 35676
-    },
-    {
-      "date": "2026-10-15",
-      "audience": 307,
-      "engagement": 4,
-      "email": 7,
-      "reach": 35653
-    },
-    {
-      "date": "2026-10-16",
-      "audience": 310,
-      "engagement": 4,
-      "email": 7,
-      "reach": 35645
-    },
-    {
-      "date": "2026-10-17",
-      "audience": 315,
-      "engagement": 3,
-      "email": 7,
-      "reach": 35504
-    },
-    {
-      "date": "2026-10-18",
-      "audience": 319,
-      "engagement": 3,
-      "email": 7,
-      "reach": 35944
-    },
-    {
-      "date": "2026-10-19",
-      "audience": 322,
-      "engagement": 3,
-      "email": 7,
-      "reach": 36015
-    },
-    {
-      "date": "2026-10-20",
-      "audience": 320,
-      "engagement": 2,
-      "email": 7,
-      "reach": 35940
-    },
-    {
-      "date": "2026-10-21",
-      "audience": 321,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36130
-    },
-    {
-      "date": "2026-10-22",
-      "audience": 322,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36189
-    },
-    {
-      "date": "2026-10-23",
-      "audience": 325,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36241
-    },
-    {
-      "date": "2026-10-24",
-      "audience": 326,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36417
-    },
-    {
-      "date": "2026-10-25",
-      "audience": 326,
-      "engagement": 1,
-      "email": 7,
-      "reach": 36344
-    },
-    {
-      "date": "2026-10-26",
-      "audience": 328,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36234
-    },
-    {
-      "date": "2026-10-27",
-      "audience": 331,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36246
-    },
-    {
-      "date": "2026-10-28",
-      "audience": 332,
-      "engagement": 3,
-      "email": 7,
-      "reach": 36327
-    },
-    {
-      "date": "2026-10-29",
-      "audience": 335,
-      "engagement": 3,
-      "email": 7,
-      "reach": 36174
+      "reach": 35325
     },
     {
       "date": "2026-10-30",
       "audience": 337,
       "engagement": 2,
       "email": 7,
-      "reach": 36203
-    },
-    {
-      "date": "2026-10-31",
-      "audience": 337,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36135
-    },
-    {
-      "date": "2026-11-01",
-      "audience": 339,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36283
-    },
-    {
-      "date": "2026-11-02",
-      "audience": 341,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36338
-    },
-    {
-      "date": "2026-11-03",
-      "audience": 349,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36265
-    },
-    {
-      "date": "2026-11-04",
-      "audience": 355,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36448
-    },
-    {
-      "date": "2026-11-05",
-      "audience": 358,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36442
-    },
-    {
-      "date": "2026-11-06",
-      "audience": 361,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36429
-    },
-    {
-      "date": "2026-11-07",
-      "audience": 360,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36241
-    },
-    {
-      "date": "2026-11-08",
-      "audience": 363,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36338
-    },
-    {
-      "date": "2026-11-09",
-      "audience": 369,
-      "engagement": 2,
-      "email": 7,
-      "reach": 36043
+      "reach": 36199
     }
   ]
 }

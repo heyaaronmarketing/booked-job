@@ -1,0 +1,44 @@
+{
+  "slug": "ai-receptionist-for-plumbers",
+  "title_tag": "AI Receptionist for Plumbers",
+  "title": "AI Receptionist for Plumbers: Worth It, or Just Answer the <em>Damn Phone</em>?",
+  "meta": "Is an AI receptionist worth it for a plumbing business? The honest math vs. missed-call text-back, a live answering service, and just picking up. Real owner quotes.",
+  "date": "2026-11-10",
+  "sec": "Inspection",
+  "filing": {"Field Report": "№ 014", "Subject": "AI Receptionist", "Filed for": "Plumbers", "Status": "Reviewed"},
+  "dek": "Some SaaS bro in a vest sold you a robot that answers your phone like it's hosting a podcast. Before you hand your livelihood to a chatbot, here's the honest math.",
+  "verdict_stamp": "Verdict —<br>Skip the robot",
+  "verdict_text": "For most one- and two-truck shops, an AI receptionist is a <b>$300-a-month answer to a $30 fucking problem.</b> Catch your calls first. Buy the robot last — if ever.",
+  "blocks": [
+    {"type":"prose","no":"01 — The problem is real","h":"You're bleeding jobs you already paid for","lede":true,
+     "html":"<p>A plumber who can't answer the phone loses work. One owner on a two-man crew counted <b>47 missed calls in 30 days</b> — nobody's free to pick up when you're both under a sink. Every one is a homeowner who said \"fuck it\" and called the next guy.</p><p>That part's real. Where it turns to bullshit is what people sell you to fix it.</p>"},
+    {"type":"bs","no":"02 — The bullshit detector","h":"The stat every vendor quotes, and nobody can source",
+     "intro_html":"<p>You'll see this on every AI-phone landing page on Earth. We went looking for where it came from:</p>",
+     "label":"Unverified","claim":"\"85% of callers who hit voicemail never call back.\"",
+     "small":"One vendor credits Forbes. Another PATLive. A third an outfit called Aira. Every one points at a different source and the trail dead-ends. Probably directionally true — but anyone quoting it to the decimal is blowing smoke up your ass to sell a subscription.",
+     "outro_html":"<p>A number you can trust, from a real survey: <b>41% hang up after 1–2 minutes on hold</b>, and <b>21% immediately dial a competitor.</b> <span class=\"src\">— CallRail 2025</span> You just need to answer the fucking phone.</p>"},
+    {"type":"notes","no":"03 — Field notes","h":"What real owners actually say",
+     "notes":[
+       {"text":"Anything that grabs the name and number and texts it to me works. I'll call back in five minutes. I don't need it to book anything.","who":"[PLACEHOLDER — real quote from Muse]","tag":"ALTERNATIVE"},
+       {"text":"I'd avoid a business that uses an AI receptionist. The second I realize I'm talking to a bot, I hang up.","who":"[PLACEHOLDER — real quote from Muse]","tag":"FAIL"}],
+     "src_note":"Placeholders until Muse's verbatim quotes + permalinks land — the engine drops them straight in."},
+    {"type":"estimate","no":"04 — The estimate","h":"Your four options, cheapest to dumbest","caption":"Itemized · call capture",
+     "rows":[
+       {"item":"Just answer it","rec":true,"cost":"$0","buy":"Yes","buy_class":"yes","note":"A booked job's worth $300–800. Miss it, it's the next plumber's. If you can pick up — pick up, you cheap bastard."},
+       {"item":"Missed-call text-back","rec":true,"cost":"~$30/mo","buy":"Yes","buy_class":"yes","note":"Auto-text fires back while you're under a sink. ~80% of the value for 5% of the cost. For most shops, the whole answer."},
+       {"item":"Live human service","sub":"AnswerForce · Ruby","cost":"~$300–600/mo","buy":"Maybe","buy_class":"yes","note":"Real judgment, won't hallucinate a 2 a.m. appointment. Worth it once you're missing genuine after-hours jobs."},
+       {"item":"AI receptionist","sub":"Goodcall · Rosie","cost":"~$50–300/mo +min","buy":"Last","buy_class":"no","note":"Fine for 'are you open.' Shits the bed on anything weird — and plumbing is 90% weird. Not your front line."}]},
+    {"type":"ops","no":"05 — The order of operations","h":"So should you buy one?",
+     "intro_html":"<p>Missing 5+ real-job calls a week? You're leaving <b>$1,000+/mo on the floor.</b> Fix it in this order:</p>",
+     "steps":["<b>Turn on missed-call text-back ($30).</b> Today. It kills most of the problem.","<b>Add a live human service</b> once you're missing real after-hours money.","<b>Consider AI dead last</b>, overflow only — test it on your own weird-ass calls first."],
+     "outro_html":"<p style=\"margin-bottom:0\">Don't drop $200 on a robot to fix what a $30 text already handles.</p>"}
+  ],
+  "workorder": {"h":"We'll wire up your whole call-capture stack","p":"Missed-call text-back, booking, follow-up — set up and working, so no call turns into a job for some other asshole. No monthly games.","price":"$500"},
+  "affiliates": [
+    {"k":"<b>Missed-call text-back</b> — the $30 fix","href":"https://aaron.chat","cta":"Inspect &#8594;"},
+    {"k":"<b>AnswerForce / Ruby</b> — live humans","href":"https://aaron.chat","cta":"Compare &#8594;"},
+    {"k":"<b>Goodcall / Rosie</b> — AI for overflow","href":"https://aaron.chat","cta":"Reviews &#8594;"}],
+  "faq": [
+    {"q":"Is an AI receptionist worth it for a small plumbing business?","a":"For most one- or two-truck shops, no — not first. Missed-call text-back (~$30/mo) recovers most of the lost calls for a fraction of the cost. AI makes sense later, for after-hours overflow only."},
+    {"q":"What's the cheapest way to stop missing calls?","a":"Missed-call text-back: when a call goes unanswered, an automatic text fires to the caller. It runs about $30/month and catches roughly 80% of the value of a full answering service."}]
+}

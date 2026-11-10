@@ -24,7 +24,9 @@ def env():
         l = l.strip()
         if "=" in l and not l.startswith("#"):
             k, v = l.split("=", 1); e[k.strip()] = v.strip()
-    return e if e.get("CLOUDFLARE_API_TOKEN") and e.get("CLOUDFLARE_ZONE_ID") else None
+    # Prefer a dedicated Analytics:Read token; fall back to the deploy token.
+    e["_CF_TOKEN"] = e.get("CLOUDFLARE_ANALYTICS_TOKEN") or e.get("CLOUDFLARE_API_TOKEN")
+    return e if e.get("_CF_TOKEN") and e.get("CLOUDFLARE_ZONE_ID") else None
 
 
 def daily_pageviews(days=35):
@@ -38,7 +40,7 @@ def daily_pageviews(days=35):
          "dimensions{date} sum{pageViews}}}}}")
     body = json.dumps({"query": q, "variables": {"zone": e["CLOUDFLARE_ZONE_ID"], "since": since}}).encode()
     req = urllib.request.Request("https://api.cloudflare.com/client/v4/graphql", data=body, method="POST",
-                                 headers={"Authorization": f"Bearer {e['CLOUDFLARE_API_TOKEN']}", "Content-Type": "application/json"})
+                                 headers={"Authorization": f"Bearer {e['_CF_TOKEN']}", "Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=30) as r:
         d = json.loads(r.read())
     if d.get("errors"):

@@ -27,3 +27,4 @@ secrets/fal.env
 content/course/.clip_cache/
 .wrangler/
 .claude/
+site/reviews/

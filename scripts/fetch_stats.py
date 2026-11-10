@@ -47,10 +47,21 @@ def _search_stats():
                 out[name] = s
         except Exception as e:
             out[name] = {"error": str(e)[:120]}
+    # Cloudflare zone-level pageviews (real site traffic, no beacon needed).
+    try:
+        sys.path.insert(0, HERE); cf = __import__("cf_analytics")
+        import datetime as _dt
+        month_start = _dt.date.today().replace(day=1).isoformat()
+        w = cf.windows(month_start)
+        if w is not None:
+            out["cloudflare"] = {"pageviews_daily": w["daily"], "pageviews_weekly": w["weekly"],
+                                 "pageviews_monthly": w["monthly"]}
+    except Exception as e:
+        out["cloudflare"] = {"error": str(e)[:120]}
     tot_c = sum(v.get("clicks", 0) for v in out.values() if isinstance(v, dict) and "clicks" in v)
     tot_i = sum(v.get("impressions", 0) for v in out.values() if isinstance(v, dict) and "impressions" in v)
     out["total_clicks"] = tot_c; out["total_impressions"] = tot_i
-    out["configured"] = any(k in out for k in ("google", "bing"))
+    out["configured"] = any(k in out for k in ("google", "bing", "cloudflare"))
     return out
 
 

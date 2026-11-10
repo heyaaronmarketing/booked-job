@@ -101,7 +101,7 @@ def render(a):
 {{"@type":"ListItem","position":2,"name":"Blog","item":"https://booked-job.com/blog/"}},
 {{"@type":"ListItem","position":3,"name":{json.dumps(plain_h1)},"item":"{url}"}}]}},
 {{"@type":"FAQPage","mainEntity":[{faq_ld}]}}]}}
-</script></head><body>
+</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-FR77BS4NW5"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FR77BS4NW5');</script></head><body>
 <header><div class="nav">
   <a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>
   <a class="cta" href="https://www.facebook.com/bookedjob" target="_blank" rel="noopener">Follow</a>
