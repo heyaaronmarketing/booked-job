@@ -1,47 +1,4 @@
 {
-  "updated": "2026-11-10T20:48",
-  "posts": [
-    {
-      "ts": "2026-11-10T20:46:25",
-      "channel": "facebook",
-      "item": "card-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-11-10T20:46:21",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-11-10T20:46:18",
-      "channel": "tumblr",
-      "item": "bj-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-11-10T20:46:17",
-      "channel": "bluesky",
-      "item": "bj-rev-elec",
-      "url": null
-    },
-    {
-      "ts": "2026-11-10T20:46:13",
-      "channel": "linkedin",
-      "item": "pod-ep01-cost",
-      "url": null
-    },
-    {
-      "ts": "2026-11-10T20:46:12",
-      "channel": "tiktok",
-      "item": "bj-reviews",
-      "url": null
-    },
-    {
-      "ts": "2026-11-10T20:46:10",
-      "channel": "ig",
-      "item": "money-leaks",
-      "url": null
-    }
-  ]
+  "updated": "2026-11-11T04:47",
+  "posts": []
 }
