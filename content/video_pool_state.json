@@ -61,12 +61,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-11-10T11:11:02",
+    "last_iso": "2026-11-10T20:45:23",
     "day": {
       "date": "2026-11-10",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -91,12 +92,13 @@
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
       "pod-ep01-shared",
-      "bj-angi"
+      "bj-angi",
+      "bj-reviews"
     ],
-    "last_iso": "2026-11-10T16:29:47",
+    "last_iso": "2026-11-10T20:45:23",
     "day": {
       "date": "2026-11-10",
-      "count": 2
+      "count": 3
     }
   },
   "linkedin": {
@@ -117,12 +119,13 @@
       "pod-ep01-speed",
       "pod-ep01-starter",
       "pod-ep01-ftc",
-      "pod-ep01-refunds"
+      "pod-ep01-refunds",
+      "pod-ep01-cost"
     ],
-    "last_iso": "2026-11-10T16:29:47",
+    "last_iso": "2026-11-10T20:45:23",
     "day": {
       "date": "2026-11-10",
-      "count": 2
+      "count": 3
     }
   },
   "facebook": {
@@ -236,12 +239,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-11-10T16:29:47",
+    "last_iso": "2026-11-10T20:45:23",
     "day": {
       "date": "2026-11-10",
-      "count": 2
+      "count": 3
     }
   },
   "telegram": {
@@ -295,12 +299,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-11-10T16:29:47",
+    "last_iso": "2026-11-10T20:45:23",
     "day": {
       "date": "2026-11-10",
-      "count": 2
+      "count": 3
     }
   }
 }
