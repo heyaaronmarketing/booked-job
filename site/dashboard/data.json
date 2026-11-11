@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T04:43",
+  "updated": "2026-11-11T12:38",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -178,8 +178,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 585,
-      "pageviews_weekly": 5529,
-      "pageviews_monthly": 7813
+      "pageviews_weekly": 5846,
+      "pageviews_monthly": 8130
     },
     "total_clicks": 0,
     "total_impressions": 19,
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1361,
+      "views": 1404,
       "followers": 1
     },
     {
@@ -493,9 +493,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 13,
+      "count": 14,
       "unit": "posts",
-      "followers": 340,
+      "followers": 341,
       "grade": "A",
       "group": "social",
       "likes": 14
@@ -605,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Polls",
@@ -635,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 5
       },
       {
         "type": "Long video",
@@ -722,7 +722,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 13
+        "count": 14
       },
       {
         "type": "Video",
@@ -828,16 +828,16 @@
     }
   ],
   "funnel": {
-    "reach": 35556,
+    "reach": 35640,
     "engagement": 2,
-    "audience": 370,
+    "audience": 371,
     "cr_clicks": 188
   },
   "trends": {
-    "audience": 33,
+    "audience": 34,
     "engagement": 0,
     "email": 0,
-    "reach": -643
+    "reach": -559
   },
   "mafia": {
     "metrics": [
@@ -853,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1484,
+        "value": 1485,
         "grade": "A"
       },
       {
@@ -863,7 +863,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 370,
+        "value": 371,
         "grade": "B"
       },
       {
@@ -873,6 +873,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 370 audience and 188 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 371 audience and 188 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

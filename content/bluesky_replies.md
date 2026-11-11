@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Latala Homes, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 893558, active when we checked.
+
+https://pit.wo
+  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3n22lfvktfk24
+
+- **@stylelib.org**: Darna – Building  Construction WordPress Theme
+
+ https://stylelib.org/?p=199274 
+
+#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #responsive #contr
+  → https://bsky.app/profile/stylelib.org/post/3mzpdgnddjs25
+
+- **@recoradar.app**: The Business Hub OpenAI opened this week covers ChatGPT. Claude and Gemini answer the same "plumber in [town]" question with their own picks, and nothing in the Hub shows those. RecoRadar asks all of 
+  → https://bsky.app/profile/recoradar.app/post/3mzzxthb7c22t
+
 - **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
@@ -192,18 +207,3 @@ $97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
 
 #builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
   → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
-
-- **@stylelib.org**: TileMax – Tiling, Flooring WordPress Theme
-
- https://themes.stylelib.org/?p=32351 
-
-#business #construction #corporate #designthemes #plumber #renovation #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3mzasjblrof2z
-
-- **@bisk.sureis.sexy**: to be fair my mate is a certified gas fitter and plumber with his own gas fitting and plumbing business so i think it's on him?
-  → https://bsky.app/profile/bisk.sureis.sexy/post/3mzbsmvmglc24
-
-- **@jindoprompt.bsky.social**: It's scary how ChatGPT and Gemini are changing how people find plumbers online. My business isn't showing up, and I'm worried I'm losing customers.
-
-Why AI can't find your business: https://jindopromp
-  → https://bsky.app/profile/jindoprompt.bsky.social/post/3mzcatsgc4u2r

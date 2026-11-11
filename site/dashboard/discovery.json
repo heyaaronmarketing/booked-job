@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T10:44:00Z",
+  "updated": "2026-11-11T18:38:13Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 28,
+        "uses": 29,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -88,7 +88,7 @@
       },
       {
         "tag": "#hvac",
-        "uses": 6,
+        "uses": 8,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -112,9 +112,19 @@
         "link": "https://mastodon.social/tags/RoofingServices"
       },
       {
+        "tag": "#Roofing_company_Fort_Worth_TX",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/Roofing_company_Fort_Worth_TX"
+      },
+      {
         "tag": "#Electricians",
         "uses": 1,
         "link": "https://mastodon.social/tags/Electricians"
+      },
+      {
+        "tag": "#contractor",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#contractoresdirectos",
@@ -125,22 +135,12 @@
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
-      },
-      {
-        "tag": "#smallbusinessowners",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/smallbusinessowners"
-      },
-      {
-        "tag": "#HVACAutomation",
-        "uses": 0,
-        "link": "https://mastodon.social/tags/HVACAutomation"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 468745,
+        "followers": 468902,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23643,
+        "followers": 23648,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10833,
+      "followers": 10832,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4369,
+      "followers": 4374,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,21 +229,21 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1867,
+      "followers": 1868,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1713,
+      "followers": 1720,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1617,
+      "followers": 1618,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },
