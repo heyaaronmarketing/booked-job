@@ -49,7 +49,18 @@ def serp(keyword):
 
 
 def main():
+    import sys
     today = dt.date.today().isoformat()
+    # Weekly self-gate: this costs DataForSEO per sweep, so when called from the hourly
+    # run_all it only actually runs if the last snapshot is 7+ days old. --force overrides.
+    if "--force" not in sys.argv and os.path.exists(STORE):
+        try:
+            hist0 = json.load(open(STORE))
+            last = max(hist0) if hist0 else None
+            if last and (dt.date.today() - dt.date.fromisoformat(last)).days < 7:
+                print(f"skip: last rank sweep {last} (<7 days). --force to override."); return
+        except Exception:
+            pass
     rows, cost = {}, 0.0
     for kw, slug in TARGETS.items():
         try:
