@@ -1,0 +1,58 @@
+{
+  "slug": "workiz-review",
+  "title_tag": "Workiz Review (2026): Pricing, Pros & Who It's For",
+  "title": "Workiz: Built for the <em>Phone-Driven</em> Trades",
+  "meta": "Honest Workiz review for 2026: real pricing, the built-in VoIP phone system that sets it apart, and why it fits locksmiths, garage-door, and appliance-repair shops better than flat-rate HVAC or plumbing.",
+  "date": "2026-11-12",
+  "sec": "Field Test",
+  "filing": { "Field Report": "№ 025", "Subject": "Workiz", "Filed for": "On-demand trades", "Status": "Reviewed" },
+  "dek": "Workiz has one thing Jobber and Housecall Pro don't: a built-in phone system with call tracking. If your business lives and dies on inbound calls — locksmith, garage door, appliance repair, junk removal — that's a real edge. If you quote flat-rate HVAC or plumbing jobs, it's the wrong tool. Here's the honest split.",
+  "verdict_stamp": "Verdict —<br>Great for call-heavy trades",
+  "verdict_text": "<b>Right tool, specific shop.</b> Workiz's built-in VoIP, call tracking, and dispatch make it a genuinely strong pick for <b>phone-driven, on-demand trades</b> (locksmith, garage door, appliance repair, junk removal). But it's <b>weaker on flat-rate pricing, estimating, and reporting</b>, so HVAC, plumbing, and general contractors who need a price book are usually better on Jobber or Housecall Pro. Pricing is also less transparent — confirm it before you commit.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "The one feature that sells it", "lede": true,
+      "html": "<p>Most field-service software makes you bolt on a phone system. Workiz <b>builds one in</b> &mdash; VoIP, call recording, and call tracking tied to your jobs. For a shop where every job starts with an inbound call and speed-to-answer wins the work, that's not a gimmick; it's the whole point. Reviewers consistently praise the mobile app, fast onboarding, and on-demand dispatch. It's rated solidly (Capterra ~4.4/5).</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "What it costs", "caption": "Workiz (sources conflict — verify on their site)",
+      "rows": [
+        { "item": "Free / Lite", "sub": "up to 2 users", "cost": "$0", "buy": "Test it", "buy_class": "yes", "rec": true, "note": "Real way to try the call tracking." },
+        { "item": "Paid tiers", "sub": "~5 users; reports vary widely", "cost": "~$65–$325/mo", "buy": "Maybe", "buy_class": "mid", "note": "Figures differ a lot by source — get a quote." },
+        { "item": "Built-in phone add-on", "cost": "~$19/user or ~$100/mo", "buy": "—", "note": "The VoIP is the draw; price it in." },
+        { "item": "Jobber (base comparison)", "sub": "Connect, 5 users", "cost": "~$99/mo", "buy": "Cheaper", "buy_class": "mid", "note": "Jobber undercuts base price if you don't need the phone." }
+      ]
+    },
+    {
+      "type": "bs", "h": "Where it's the wrong tool",
+      "label": "Fair warning",
+      "claim": "“All-in-one software for every field service business.”",
+      "small": "Not every one. Reviewers flag <b>basic estimating/quoting</b>, <b>limited reporting on lower tiers</b>, and that it's <b>not ideal for HVAC or plumbing shops that need flat-rate price books.</b> And pricing transparency is weak — user limits and add-on fees aren't clearly published. If you need a price book and strong reports, look at Jobber or Housecall Pro first."
+    },
+    {
+      "type": "notes", "no": "03", "h": "The honest read",
+      "intro_html": "<p>Loved by the right trade, wrong fit for others:</p>",
+      "notes": [
+        { "tag": "Best for", "text": "Phone-driven on-demand trades — locksmith, garage door, appliance repair, junk removal. The built-in VoIP and call tracking are the real advantage.", "who": "2026 reviews", "url": "https://fieldserviceguide.com/workiz/" },
+        { "tag": "Skip if", "text": "You're HVAC/plumbing/GC needing flat-rate pricing, deep estimating, or strong reporting — Jobber or Housecall Pro fit better.", "who": "2026 comparisons", "url": "https://www.g2.com/compare/housecall-pro-vs-workiz" }
+      ],
+      "src_note": "Sources: Workiz pricing (figures vary by source); Capterra (~4.4/5, 200+ reviews); 2026 comparisons. Confirm current pricing with the vendor."
+    }
+  ],
+  "workorder": {
+    "h": "We'll match the software to your actual trade",
+    "p": "Phone-driven shop or flat-rate shop, we'll pick the right platform — Workiz, Jobber, Housecall Pro — wire it up, and connect it to a site and call-capture that send you work.",
+    "price": "$500"
+  },
+  "ledger_note": "Links are affiliate links — we may earn a commission at no cost to you. It never changes the verdict; we told you exactly which trade each tool fits.",
+  "affiliates": [
+    { "k": "<b>Workiz</b> — best for call-heavy on-demand trades", "href": "https://www.workiz.com", "cta": "Try Workiz &#8594;" },
+    { "k": "<b>Flat-rate HVAC/plumbing?</b> See Jobber vs Housecall", "href": "https://booked-job.com/reviews/jobber-vs-housecall-pro/", "cta": "Compare &#8594;" },
+    { "k": "<b>Want it set up for you?</b>", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is Workiz worth it in 2026?", "a": "For phone-driven, on-demand trades — locksmiths, garage-door, appliance-repair, junk-removal — yes. Its built-in VoIP phone system and call tracking are a real advantage those shops won't get from Jobber or Housecall Pro. For HVAC, plumbing, or general contractors who need flat-rate pricing and strong reporting, it's usually the wrong fit." },
+    { "q": "How much does Workiz cost?", "a": "Sources disagree: there's a free/Lite tier for up to 2 users, with paid plans reported anywhere from ~$65 to ~$325/mo depending on the source and user count, plus a built-in phone add-on (~$19/user or ~$100/mo). Pricing transparency is weak — get a written quote before committing." },
+    { "q": "Workiz vs Jobber vs Housecall Pro?", "a": "Workiz wins on built-in phone/VoIP and on-demand dispatch for call-heavy trades. Jobber is cheaper and cleaner for most small shops. Housecall Pro offers the most breadth and financing. Pick by your trade: phone-driven → Workiz; flat-rate → Jobber or Housecall Pro." }
+  ]
+}

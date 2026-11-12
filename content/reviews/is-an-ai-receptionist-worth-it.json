@@ -1,0 +1,69 @@
+{
+  "slug": "is-an-ai-receptionist-worth-it",
+  "title_tag": "Is an AI Receptionist Worth It? (2026, Honest)",
+  "title": "AI Receptionists: Real Tech, <em>Real Failure Modes</em>",
+  "meta": "Is an AI receptionist worth it for a small business in 2026? An honest, data-backed look: what they do well, the documented failure modes (phantom bookings, hallucinated info), what they cost, and who should actually use one.",
+  "date": "2026-11-11",
+  "sec": "Inspection",
+  "filing": { "Field Report": "№ 019", "Subject": "AI Receptionists", "Filed for": "Small businesses", "Status": "Reviewed" },
+  "dek": "We're not here to tell you AI is evil and you should hide from it. Plenty of people search for this — the tech is real and improving. We're here to tell you the truth: for a one- or two-truck shop, today's AI receptionist fails in specific, documented ways that quietly cost you jobs. Here's exactly when it's worth it and when it isn't.",
+  "verdict_stamp": "Verdict —<br>Not yet (small shops)",
+  "verdict_text": "<b>Depends on your volume.</b> For a high-call-volume operation that genuinely cannot staff the phones, a well-configured AI receptionist beats voicemail. For most small shops, it's a <b>$300-a-month way to fail quietly</b> &mdash; booking jobs that don't exist, inventing answers, and losing leads you never hear about. The cheaper, more reliable fix is missed-call text-back plus a human who calls back fast.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "What they're actually good at", "lede": true,
+      "html": "<p>Credit where it's due: a modern AI voice agent can answer 24/7, take basic info, send a text, and handle a simple, scripted “what are your hours” call better than a voicemail box nobody checks. If the alternative is a missed call that goes nowhere, even an imperfect bot catches more than silence. That's the real case, and it's why people search for these. The problem isn't that AI can't answer a phone &mdash; it's what happens the moment the call goes off-script.</p>"
+    },
+    {
+      "type": "bs", "h": "The claim that gets shops in trouble",
+      "label": "Rejected",
+      "claim": "“Never miss a call. Never miss a job. It just works.”",
+      "small": "The documented failure modes say otherwise. The most damaging one has a name: a <b>phantom booking</b> &mdash; the bot confidently tells the customer they're booked, but nothing ever hits your calendar. Nobody shows. The customer's gone, and you never even knew they called. That's not a rare glitch; it's the single most-cited failure of these systems."
+    },
+    {
+      "type": "notes", "no": "02", "h": "The documented failure modes",
+      "intro_html": "<p>These aren't our opinions &mdash; they're the failure patterns reliability and liability write-ups keep flagging:</p>",
+      "notes": [
+        { "tag": "Phantom booking", "text": "The AI says you're booked; nothing is written to the calendar. Reliability guides call it the most damaging failure, because the caller heard a confirmation and stops looking.", "who": "AI-receptionist reliability guides", "url": "https://www.kaicalls.com/guides/ai-receptionist-reliability" },
+        { "tag": "Hallucination", "text": "A poorly grounded agent invents prices, availability, or policies with total confidence — and the business can be held to what the bot said.", "who": "Documented failure scenarios", "url": "https://botphonic.ai/ai-receptionist-failure-scenarios/" },
+        { "tag": "The legal precedent", "text": "Air Canada's chatbot invented a refund policy; a tribunal ruled the company was responsible for its AI and had to honor it.", "who": "Moffatt v. Air Canada, 2024", "url": "https://www.cbsnews.com/news/aircanada-chatbot-discount-customer/" }
+      ],
+      "src_note": "Sources: AI-receptionist reliability/liability write-ups; Moffatt v. Air Canada (BC Civil Resolution Tribunal, 2024). Watch our device-fail reels to see these play out."
+    },
+    {
+      "type": "estimate", "no": "03", "h": "The ruthless math", "caption": "AI receptionist vs. the boring fix",
+      "rows": [
+        { "item": "AI receptionist", "sub": "typical small-business plans", "cost": "~$150–$400/mo", "buy": "Careful", "buy_class": "mid", "note": "Only if you truly can't staff the phone AND you test it hard." },
+        { "item": "One phantom-booked job", "cost": "the whole job", "buy": "No", "buy_class": "no", "note": "One silent miss can cost more than a year of the boring fix." },
+        { "item": "Missed-call text-back + fast human callback", "cost": "~$30/mo", "buy": "Yes", "buy_class": "yes", "rec": true, "note": "Catches the call, never hallucinates, never phantom-books." }
+      ]
+    },
+    {
+      "type": "ops", "no": "04", "h": "Who it's for — and who should skip it",
+      "intro_html": "<p>Be honest about which shop you are:</p>",
+      "steps": [
+        "SKIP IT if you're a 1–2 truck shop. Your lost-job cost per phantom booking is too high and your call volume doesn't need it. Do missed-call text-back + fast callback instead.",
+        "MAYBE if you're high-volume and genuinely can't staff phones. Then pick a hybrid that escalates to a human, and test every booking end-to-end before you trust it.",
+        "IF YOU RUN ONE ANYWAY: confirm bookings actually land on your calendar, cap what it's allowed to promise, and check it weekly. Treat it like a new hire you don't trust yet.",
+        "ALWAYS: a real person should be able to call every lead back fast. Speed-to-lead beats any bot."
+      ]
+    }
+  ],
+  "workorder": {
+    "h": "We'll set up call capture that doesn't hallucinate",
+    "p": "Missed-call text-back, fast-response booking, and a real human in the loop — so every lead gets caught and called back, and nothing gets phantom-booked into a calendar that doesn't exist.",
+    "price": "$500"
+  },
+  "ledger_note": "If you insist on an AI receptionist, these are the less-bad options (hybrids that escalate to a human). Some are affiliate links — we may earn a commission, it never changes the verdict, and we still think most small shops should spend $30, not $300.",
+  "affiliates": [
+    { "k": "<b>A real human answers every lead</b> — our actual pick", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" },
+    { "k": "<b>If you must: Smith.ai</b> — the least-bad (human-backed)", "href": "https://booked-job.com/reviews/smith-ai-review/", "cta": "Our review &#8594;" },
+    { "k": "<b>Cheapest entry: Rosie</b> — $49, answering only", "href": "https://booked-job.com/reviews/rosie-ai-review/", "cta": "Our review &#8594;" },
+    { "k": "<b>Easy to build: Goodcall</b> — but no SMS / no porting", "href": "https://booked-job.com/reviews/goodcall-review/", "cta": "Our review &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is an AI receptionist worth it for a small business?", "a": "For most one- and two-truck shops, no — not first. Today's AI receptionists fail in documented ways (phantom bookings, hallucinated prices and availability) that quietly cost you jobs you never hear about. Missed-call text-back plus a human who calls back fast is cheaper and more reliable. High-volume operations that genuinely can't staff phones can make a hybrid (with human escalation) work, if they test it hard." },
+    { "q": "What is a phantom booking?", "a": "It's when an AI receptionist tells the caller they're booked, but nothing actually gets written to your calendar. The customer thinks they have an appointment, nobody shows, and the business never knows it happened. Reliability guides call it the most damaging AI-receptionist failure." },
+    { "q": "Can I be held responsible for what an AI receptionist says?", "a": "Yes. In Moffatt v. Air Canada (2024), a tribunal ruled a company was responsible for the refund policy its chatbot invented and had to honor it. If your bot promises a price, a time, or a discount, you can be on the hook for it." }
+  ]
+}

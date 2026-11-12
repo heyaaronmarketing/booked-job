@@ -1,0 +1,57 @@
+{
+  "slug": "rosie-ai-review",
+  "title_tag": "Rosie AI Review (2026): Worth $49/mo? Honest Take",
+  "title": "Rosie: The <em>$49</em> AI That Answers (and Not Much More)",
+  "meta": "Honest Rosie AI answering service review for 2026: real pricing ($49/$149/$299), what the $49 tier does and doesn't include (booking needs Scale), the warm voice, and who it actually fits.",
+  "date": "2026-11-12",
+  "sec": "Field Test",
+  "filing": { "Field Report": "№ 023", "Subject": "Rosie AI", "Filed for": "Small businesses", "Status": "Reviewed" },
+  "dek": "Rosie is the cheap-seats AI receptionist — $49 to answer your phone with a warm-sounding voice. Fair price, real limits: booking doesn't turn on until you pay triple, it's voice-only, and you bring your own phone system. Here's who it actually fits.",
+  "verdict_stamp": "Verdict —<br>Cheapest honest entry",
+  "verdict_text": "<b>Fine for simple answering.</b> At $49/mo Rosie is the lowest-risk way to put a decent-sounding AI on your line — if all you need is “take a message, give hours.” But <b>appointment booking only kicks in at the $149 Scale tier</b>, it's voice-only (no web chat), and you supply your own phone number. For a shop that mostly needs messages captured, it's honest value. For real booking, price the Scale tier, not the headline.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "What $49 actually buys", "lede": true,
+      "html": "<p>Rosie answers your phone 24/7 with a voice reviewers consistently call <b>warmer than most competitors</b>, takes messages, and texts you the details &mdash; starting at <b>$49/mo for 250 minutes</b>. There's a free app on iOS and Android. It's a genuinely low entry point, and it doesn't pretend to be an enterprise platform. The honest catch is what's <em>not</em> in the $49 plan.</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "What it really costs", "caption": "Rosie AI plans",
+      "rows": [
+        { "item": "Starter", "sub": "250 min — answering only", "cost": "$49/mo", "buy": "Maybe", "buy_class": "mid", "rec": true, "note": "Good if you just need messages captured." },
+        { "item": "Scale", "sub": "1,000 min — adds booking, transfers, texts-in-call", "cost": "$149/mo", "buy": "If booking", "buy_class": "mid", "note": "This is the real price if you want appointments booked." },
+        { "item": "Growth", "sub": "2,000 min", "cost": "$299/mo", "buy": "Higher volume", "buy_class": "mid", "note": "Only at real call volume." },
+        { "item": "Missed-call text-back (own leads)", "cost": "~$30/mo", "buy": "First", "buy_class": "yes", "note": "Cheaper, and it never phantom-books." }
+      ]
+    },
+    {
+      "type": "bs", "h": "The headline-vs-reality",
+      "label": "Fair warning",
+      "claim": "“Book appointments from $49.”",
+      "small": "Not at $49. <b>Appointment booking only turns on at the $149 Scale tier.</b> Rosie is also voice-only (no website chat) and <b>doesn't provide a phone system</b> — you bring your own number. None of that is dishonest; just don't budget the $49 plan and expect booked jobs."
+    },
+    {
+      "type": "notes", "no": "03", "h": "The honest read",
+      "intro_html": "<p>Reviews are still thin, so weigh this accordingly:</p>",
+      "notes": [
+        { "tag": "The good", "text": "Accessible price and a noticeably warmer voice than Goodcall; the free mobile app is a nice touch for small teams that mainly need answering.", "who": "Comparison reviews, 2026", "url": "https://www.cloudtalk.io/blog/rosie-ai-answering-service-pricing/" },
+        { "tag": "The caveat", "text": "Voice-only, bring-your-own-phone, and booking gated to the Scale tier. Review volume is still low.", "who": "2026 comparisons", "url": "https://contractortoolstack.com/software/rosie/" }
+      ],
+      "src_note": "Sources: Rosie pricing; 2026 AI-receptionist comparisons. Verify current tiers on the vendor site."
+    }
+  ],
+  "workorder": {
+    "h": "We'll catch your calls without the per-tier upsell",
+    "p": "Missed-call text-back, fast-response booking, and a human in the loop — set up and working, so you're not paying $149 to unlock the feature you actually needed.",
+    "price": "$500"
+  },
+  "ledger_note": "The Rosie link is an affiliate link — we may earn a commission at no cost to you. It never changes the verdict; we told you the $49 plan doesn't book appointments.",
+  "affiliates": [
+    { "k": "<b>Rosie</b> — cheapest way to test an AI line", "href": "https://heyrosie.com", "cta": "Look at it &#8594;" },
+    { "k": "<b>Want booking that works?</b> — the honest fix", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is Rosie AI worth $49 a month?", "a": "For a shop that just needs its phone answered and messages captured, yes — it's the cheapest honest entry and the voice is warm. But the $49 Starter tier doesn't include appointment booking (that's the $149 Scale tier), it's voice-only, and you bring your own phone number. Budget the Scale tier if you actually want jobs booked." },
+    { "q": "Does Rosie book appointments?", "a": "Only on the Scale plan ($149/mo) and up. The $49 Starter plan is answering and messages only." },
+    { "q": "Rosie vs Goodcall?", "a": "Rosie tends to give more minutes per dollar and a warmer voice, which suits most small service businesses. Goodcall's per-unique-caller pricing can be better for long or repeat calls. Both are entry-level; neither replaces fixing your own fast call response." }
+  ]
+}

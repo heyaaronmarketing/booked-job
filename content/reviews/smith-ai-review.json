@@ -1,0 +1,58 @@
+{
+  "slug": "smith-ai-review",
+  "title_tag": "Smith.ai Review (2026): Honest Pricing & Is It Worth It?",
+  "title": "Smith.ai: The AI Receptionist <em>With a Human Net</em>",
+  "meta": "Honest Smith.ai review for 2026: real pricing (AI tiers + human virtual receptionist), why the human backup makes it the most reliable of the bunch, and the per-call cost creep to watch before you sign.",
+  "date": "2026-11-12",
+  "sec": "Field Test",
+  "filing": { "Field Report": "№ 022", "Subject": "Smith.ai", "Filed for": "Small businesses", "Status": "Reviewed" },
+  "dek": "If you're going to run an AI receptionist at all, this is the one that fails least — because it's a hybrid: AI answers, real humans catch what the bot drops. That reliability is also what makes the bill unpredictable. Here's the honest read before you hand it your phone.",
+  "verdict_stamp": "Verdict —<br>The least-bad bot",
+  "verdict_text": "<b>If you must run AI, run this one.</b> Smith.ai's human-backed hybrid is the most reliable of the AI receptionists — real agents escalate when the AI's out of its depth, so you get far fewer phantom bookings. The catch is <b>per-call billing</b>: transfers (~$3 each), add-ons, and spam calls make the monthly bill hard to predict. Still cheaper than a bad AI losing you a $9k job — but pricier than the boring $30 fix.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "Why the human net matters", "lede": true,
+      "html": "<p>Most AI receptionists fail the same way: the moment a call goes off-script, the bot invents an answer or confirms a booking that never lands. Smith.ai's design hedges that &mdash; it's a <b>hybrid</b>. The AI handles the routine; <b>real humans take over</b> when it gets complicated. That single feature is why it earns the highest ratings in the category (G2 ~4.8, Capterra ~4.8, Trustpilot ~4.3) and why, if you're set on AI, it's the honest pick. It's not magic &mdash; it just doesn't leave a robot alone with your money.</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "What it really costs", "caption": "Smith.ai (per-call billing — figures reported, verify on their site)",
+      "rows": [
+        { "item": "AI Receptionist — free tier", "sub": "25 calls/mo", "cost": "$0", "buy": "Test it", "buy_class": "yes", "rec": true, "note": "Genuinely low-risk way to try it on your real calls." },
+        { "item": "AI Pro", "sub": "~75 calls/mo", "cost": "~$150/mo", "buy": "Maybe", "buy_class": "mid", "note": "Overage ~$2–$3/call; transfers ~$3 each." },
+        { "item": "Human virtual receptionist", "sub": "30–300 calls", "cost": "~$300–$2,100/mo", "buy": "Big callers", "buy_class": "mid", "note": "~$7–$10/call — real humans, real cost." },
+        { "item": "Missed-call text-back (own leads)", "cost": "~$30/mo", "buy": "First", "buy_class": "yes", "note": "Do this before you pay per call for anything." }
+      ]
+    },
+    {
+      "type": "bs", "h": "The line in the bill",
+      "label": "Watch it",
+      "claim": "“Never miss a call, one simple plan.”",
+      "small": "It's <b>per-call billing</b>, not one flat plan. AI-to-human transfers add ~$3 each, booking and follow-up texts are billed per call, and a wave of spam calls can quietly run up your month. Reviewers' top complaint is exactly this: the bill is hard to predict. One reported a $2,500 upfront payment for a six-month contract — read the terms before you sign."
+    },
+    {
+      "type": "notes", "no": "03", "h": "What users say",
+      "intro_html": "<p>The split is consistent &mdash; well-liked, with one recurring gripe:</p>",
+      "notes": [
+        { "tag": "The win", "text": "The human backup makes it reliable, and the free tier is a real, low-risk way to test it on your actual calls.", "who": "User reviews, G2 (~4.8/5)", "url": "https://www.g2.com/products/smith-ai/reviews" },
+        { "tag": "The gripe", "text": "Per-call billing makes the monthly cost unpredictable; surprise $3 transfers and spam calls inflate it, and receptionist quality can be hit or miss.", "who": "User reviews, Trustpilot / G2", "url": "https://www.trustpilot.com/review/smith.ai" }
+      ],
+      "src_note": "Sources: smith.ai pricing; G2, Capterra, Trustpilot. Third-party figures vary — confirm current tiers before budgeting."
+    }
+  ],
+  "workorder": {
+    "h": "We'll set up call capture that doesn't gamble on a bot",
+    "p": "Missed-call text-back, fast-response booking, and a real human in the loop — so every lead gets caught and called back fast, without per-call surprises on your statement.",
+    "price": "$500"
+  },
+  "ledger_note": "The Smith.ai link is an affiliate link — we may earn a commission at no cost to you. It never changes the verdict; we still think most small shops should start with the $30 fix, and test Smith.ai free before paying a cent.",
+  "affiliates": [
+    { "k": "<b>Smith.ai</b> — test it free (25 calls)", "href": "https://smith.ai", "cta": "Try it free &#8594;" },
+    { "k": "<b>Should you even use AI?</b> — read the verdict", "href": "https://booked-job.com/reviews/is-an-ai-receptionist-worth-it/", "cta": "Read it &#8594;" },
+    { "k": "<b>Want a human answering your leads?</b>", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is Smith.ai worth it in 2026?", "a": "Of the AI receptionists, it's the most reliable because it's a hybrid — real humans escalate when the AI is out of its depth, so you get far fewer phantom bookings. It's worth testing (there's a free 25-call tier). The main downside is per-call billing, which makes the monthly cost unpredictable. Most small shops should still fix their own call response first." },
+    { "q": "How much does Smith.ai cost?", "a": "The AI Receptionist has a free tier (25 calls/mo), then paid tiers around $150+ with per-call overage (~$2–$3) and ~$3 per AI-to-human transfer. The human virtual receptionist runs roughly $300–$2,100/mo at $7–$10 per call. Confirm current pricing on smith.ai." },
+    { "q": "Is Smith.ai better than a pure AI receptionist?", "a": "For reliability, yes — the human backup catches the off-script calls that cause phantom bookings and hallucinated answers in AI-only tools. You pay for that reliability through per-call billing, so watch transfer fees and spam-call volume." }
+  ]
+}

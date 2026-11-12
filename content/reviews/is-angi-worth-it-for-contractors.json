@@ -1,0 +1,68 @@
+{
+  "slug": "is-angi-worth-it-for-contractors",
+  "title_tag": "Is Angi Worth It for Contractors? (2026, Honest)",
+  "title": "Angi Leads: Worth It, or a <em>Bidding War Against Yourself?</em>",
+  "meta": "Is Angi (Angi Leads) worth it for contractors in 2026? The honest math: shared leads, billed-on-send, a card they renew without asking — and what the FTC already found. Plus what to do instead.",
+  "date": "2026-11-11",
+  "sec": "Inspection",
+  "filing": { "Field Report": "№ 015", "Subject": "Angi Leads", "Filed for": "Contractors", "Status": "Reviewed" },
+  "dek": "They sell you \"high-quality, ready-to-hire\" leads. What you buy is the same homeowner's phone number, sold to four other shops, billed the second it lands whether you ever connect or not. We read the math so you don't have to learn it at $85 a pop.",
+  "verdict_stamp": "Verdict —<br>Mostly no",
+  "verdict_text": "For most one- and two-truck shops, <b>no.</b> Angi's own policy bills standard leads the moment they're sent &mdash; answered or not &mdash; and sells them shared. The company behind it (HomeAdvisor) already paid the FTC to settle claims it misrepresented lead quality. If you must test it, cap it hard and track close rate like a hawk. The cheaper win is owning your own leads.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "You're not buying a job. You're buying a race.", "lede": true,
+      "html": "<p>Angi &mdash; the old Angie's List / HomeAdvisor empire &mdash; sells <b>shared leads</b>. The same homeowner request goes to several contractors at once, and you're charged for the connection, not the outcome. Angi doesn't publish a price list; it says lead cost depends on the task, your market, and how the homeowner asked for quotes. Contractors report anywhere from <b>$15 to $85+ per lead</b>, with roofing and other big-ticket trades climbing past <b>$350</b>. You pay that to be one of several phones ringing for the same job.</p>"
+    },
+    {
+      "type": "bs", "h": "The claim vs. the fine print",
+      "label": "Rejected",
+      "claim": "“High-quality leads from homeowners ready to hire.”",
+      "small": "Angi's own help center: <b>standard leads are billed as soon as they're sent, whether or not you respond.</b> “Opportunities” are opt-in, but standard leads aren't. So a wrong number, a tire-kicker, or a homeowner who already hired someone still bills you &mdash; and the FTC says the parent company crossed a line doing exactly this kind of thing."
+    },
+    {
+      "type": "notes", "no": "02", "h": "What contractors actually report",
+      "intro_html": "<p>We don't invent quotes. These are the documented, recurring patterns across public review platforms &mdash; the same three complaints, over and over:</p>",
+      "notes": [
+        { "tag": "Lead quality", "text": "One job out of about 30 leads in three months. The rest were shared, dead, or never answered.", "who": "Contractor reviews, Angi", "url": "https://www.trustpilot.com/review/angi.com" },
+        { "tag": "Billing", "text": "They renewed my lead plan without permission and charged the card on file. Standard leads bill whether you respond or not.", "who": "BBB complaint pattern, Angi", "url": "https://www.bbb.org/us/in/indianapolis/profile/contractor-referral/angi-0382-3041007" },
+        { "tag": "The regulator", "text": "HomeAdvisor paid up to $7.2 million to settle FTC charges that it sold leads it described as high-quality that were often not — including leads that were not for the service the pro offered, or not in their area.", "who": "FTC press release, 2023", "url": "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-takes-action-against-homeadvisor-cheating-service-providers-seeking-leads" }
+      ],
+      "src_note": "Sources: FTC (ftc.gov), Angi help center, Trustpilot (37,000+ reviews), BBB (Angi is not BBB-accredited; thousands of complaints on file)."
+    },
+    {
+      "type": "estimate", "no": "03", "h": "The ruthless math", "caption": "What a month of Angi really costs",
+      "rows": [
+        { "item": "Standard shared lead", "sub": "sold to several pros; billed on send", "cost": "$15–$85+", "buy": "Careful", "buy_class": "mid", "note": "You're paying to race strangers to the bottom." },
+        { "item": "Big-ticket lead (roofing, etc.)", "cost": "$350+", "buy": "No", "buy_class": "no", "note": "One dead $350 lead wipes a week of margin." },
+        { "item": "Leads to win one job", "sub": "contractor-reported close rates", "cost": "~20–30 leads", "buy": "—", "note": "Do your own math before you spend a dollar." },
+        { "item": "Missed-call text-back (own leads)", "cost": "~$30/mo", "buy": "Yes", "buy_class": "yes", "rec": true, "note": "Catch the leads you already paid to generate, instead of renting someone else's." }
+      ]
+    },
+    {
+      "type": "ops", "no": "04", "h": "What to do instead (for way less than $85 a lead)",
+      "intro_html": "<p>The leads you already earn &mdash; your truck, your sign, your past customers, your Google profile &mdash; are cheaper and warmer than anything Angi sells. Plug the holes there first:</p>",
+      "steps": [
+        "Answer the phone fast. Speed-to-lead beats lead volume &mdash; the first shop to respond usually wins the job.",
+        "Turn on missed-call text-back (~$30/mo). Every missed call gets an instant “Sorry we missed you &mdash; want a quote?” so the lead doesn't call the next guy.",
+        "Ask every finished customer for a Google review. Reviews rank you in the map pack, where the leads are free.",
+        "If you test a lead service at all: set a hard monthly cap, track close rate per source, and kill it the month the math stops working."
+      ],
+      "outro_html": "<p>None of that rents you out to a platform that bills you on send and renews without asking.</p>"
+    }
+  ],
+  "workorder": {
+    "h": "We'll set up your own lead system &mdash; so you stop renting Angi's",
+    "p": "Missed-call text-back, fast-response booking, review requests, and a site that actually converts &mdash; set up and working, so the leads you already pay to generate don't leak to the next contractor.",
+    "price": "$500"
+  },
+  "affiliates": [
+    { "k": "<b>A real human answers your leads</b> &mdash; not a bidding war", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" },
+    { "k": "<b>Missed-call text-back</b> &mdash; the ~$30 fix", "href": "https://aaron.chat", "cta": "Set it up &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is Angi worth it for contractors in 2026?", "a": "For most one- and two-truck shops, no. Angi sells shared leads and bills standard leads the moment they're sent, whether you respond or not, so your cost-per-job is far higher than the per-lead price suggests. Larger shops with a dedicated salesperson who can call every lead in seconds sometimes make the math work. Everyone else is usually better off catching their own leads with fast response and missed-call text-back." },
+    { "q": "Does Angi charge you if you don't respond to a lead?", "a": "Yes. Per Angi's own help center, standard leads are billed as soon as they're sent, whether or not you respond. Only opt-in “Opportunities” are charged solely when you accept them." },
+    { "q": "Did Angi or HomeAdvisor get fined?", "a": "HomeAdvisor (Angi's parent) agreed in 2023 to pay the FTC up to $7.2 million to settle charges that it sold contractors leads it misrepresented as high-quality — including leads that weren't for the pro's service or weren't in their area." }
+  ]
+}

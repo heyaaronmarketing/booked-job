@@ -1,0 +1,57 @@
+{
+  "slug": "goodcall-review",
+  "title_tag": "Goodcall Review (2026): Pricing, Pros & Cons",
+  "title": "Goodcall: Easy to Build, <em>Priced by the Caller</em>",
+  "meta": "Honest Goodcall review for 2026: real pricing ($79/mo, billed per unique caller), the genuinely easy drag-and-drop call flow builder, and the real limits (no number porting, no SMS, limited voices).",
+  "date": "2026-11-12",
+  "sec": "Field Test",
+  "filing": { "Field Report": "№ 024", "Subject": "Goodcall", "Filed for": "Small businesses", "Status": "Reviewed" },
+  "dek": "Goodcall's pitch is simplicity — a drag-and-drop call-flow builder a non-techie can actually use, at $79/mo. The fine print: it's priced per unique caller (not per minute), you can't port your number, and there's no SMS. Here's who that math works for.",
+  "verdict_stamp": "Verdict —<br>Easy, with real limits",
+  "verdict_text": "<b>Decent if your calls are long or repeat.</b> Goodcall is the easiest of these to set up yourself, and <b>per-unique-caller billing with unlimited minutes</b> is a genuine win when callers talk a while or call back often. But <b>no number porting</b> (you use their number), <b>no SMS</b>, and limited voices are real constraints, and its user rating runs lower than Rosie's. Good for simple, long-call lines; not a full front desk.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "Where it's genuinely good", "lede": true,
+      "html": "<p>Two real strengths. First, the <b>drag-and-drop call-flow builder</b> is usable by a non-technical owner &mdash; you can map out “press 1 for a quote” without a developer. Second, pricing is <b>per unique caller with unlimited minutes</b> ($79/mo, ~100 unique callers on Starter), so a long or repeat call doesn't cost extra. For a shop whose calls run long, that model beats per-minute billing.</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "What it really costs", "caption": "Goodcall pricing (per unique caller)",
+      "rows": [
+        { "item": "Starter", "sub": "~100 unique callers/mo, unlimited minutes", "cost": "$79/mo", "buy": "Maybe", "buy_class": "mid", "rec": true, "note": "Good for low-volume, long-call lines." },
+        { "item": "Extra unique callers", "cost": "~$0.50–$0.79 each", "buy": "—", "note": "Watch this if your call volume is spiky." },
+        { "item": "Multi-location", "cost": "per agent — adds up", "buy": "Careful", "buy_class": "no", "note": "Per-agent pricing gets expensive across locations." },
+        { "item": "Missed-call text-back (own leads)", "cost": "~$30/mo", "buy": "First", "buy_class": "yes", "note": "And it does the SMS Goodcall won't." }
+      ]
+    },
+    {
+      "type": "bs", "h": "The three catches",
+      "label": "Fair warning",
+      "claim": "“Your 24/7 AI phone agent, set up in minutes.”",
+      "small": "Setup really is easy — but: <b>no number porting</b> (you have to use a Goodcall number, so you're changing the number on your truck and website), <b>no SMS</b> (it can't text a lead back), and <b>limited voice options</b>. For a lot of service shops, “can't keep my number and can't text” is a dealbreaker."
+    },
+    {
+      "type": "notes", "no": "03", "h": "The honest read",
+      "intro_html": "<p>Easy to run, but the limits and the rating temper it:</p>",
+      "notes": [
+        { "tag": "The good", "text": "The non-technical call-flow builder and unlimited-minutes-per-caller model are real advantages for long or repeat calls.", "who": "2026 comparisons", "url": "https://workflowstackai.com/blog/ai-receptionist-comparison-2026" },
+        { "tag": "The limits", "text": "No number porting, no SMS, limited voices, and a lower user rating (~3.2) than Rosie in contractor-focused reviews.", "who": "Contractor reviews, 2026", "url": "https://contractortoolstack.com/software/rosie/" }
+      ],
+      "src_note": "Sources: 2026 AI-receptionist comparisons and pricing pages. Confirm current terms with the vendor."
+    }
+  ],
+  "workorder": {
+    "h": "We'll set up a line that keeps your number and texts back",
+    "p": "Missed-call text-back (yes, actual SMS), fast-response booking, and a human in the loop — on the number already on your truck, so you don't rebuild your whole phone presence around a tool's limits.",
+    "price": "$500"
+  },
+  "ledger_note": "The Goodcall link is an affiliate link — we may earn a commission at no cost to you. It never changes the verdict; we flagged the no-porting / no-SMS catches up front.",
+  "affiliates": [
+    { "k": "<b>Goodcall</b> — easiest to build yourself", "href": "https://www.goodcall.com", "cta": "Look at it &#8594;" },
+    { "k": "<b>Need to keep your number + text back?</b>", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "How much does Goodcall cost?", "a": "Starter is about $79/mo for roughly 100 unique callers with unlimited minutes; extra unique callers run ~$0.50–$0.79 each. It's priced per unique caller rather than per minute, which favors long or repeat calls. Multi-location setups get pricier because pricing is also per agent." },
+    { "q": "What are Goodcall's biggest limitations?", "a": "Three come up repeatedly: no number porting (you must use a Goodcall number), no SMS (it can't text a lead back), and limited voice options. For many service businesses, not being able to keep your existing number or text customers is a dealbreaker." },
+    { "q": "Goodcall or Rosie?", "a": "Goodcall is easier to build and its per-caller/unlimited-minutes model suits long or repeat calls. Rosie is cheaper to start, has a warmer voice, and gives more minutes per dollar for simple answering. Neither replaces fast human call response for a small shop." }
+  ]
+}

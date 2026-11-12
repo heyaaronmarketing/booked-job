@@ -1,0 +1,58 @@
+{
+  "slug": "jobber-review",
+  "title_tag": "Jobber Review (2026): Honest Pricing, Pros & Cons",
+  "title": "Jobber: The Best <em>First</em> Software for a Small Shop",
+  "meta": "Honest Jobber review for contractors in 2026: real pricing (Core to Plus), what it does well (quoting, scheduling, invoicing, CRM), where it costs you (per-user fees, gated features), and who should actually buy it.",
+  "date": "2026-11-11",
+  "sec": "Field Test",
+  "filing": { "Field Report": "№ 017", "Subject": "Jobber", "Filed for": "Small contractors", "Status": "Reviewed" },
+  "dek": "Not every tool sold to you is a scam. Jobber is the one most small shops should actually run — quote, schedule, invoice, and get paid from one app your crew can use without a training weekend. Here's the honest cost and the catch.",
+  "verdict_stamp": "Verdict —<br>Buy it (small shops)",
+  "verdict_text": "For a solo-to-mid crew, <b>yes.</b> Jobber is the cleanest all-in-one for quoting, scheduling, invoicing, and CRM, it's genuinely easy, and it scores high on user satisfaction. The catch: extra users run ~$29/mo each and some features are gated to pricier tiers, so price the plan for the crew you have. Start on the free trial, not the top plan.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "What you actually get", "lede": true,
+      "html": "<p>Jobber is a field-service operating system for home-service businesses: <b>quoting, scheduling and dispatch, invoicing, payments, and a client CRM</b>, in one web + mobile app. It replaces the clipboard, the text-message schedule, and the “I'll invoice you later” that never happens. For a one-to-fifteen-person shop it's the most common honest answer to “what software should I use?” &mdash; and it's a real tool, not a lead mill renting you your own customers.</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "What it actually costs", "caption": "Jobber plans (month-to-month; annual saves ~25–40%)",
+      "rows": [
+        { "item": "Core — 1 user", "sub": "quote, schedule, invoice, CRM", "cost": "~$29–$49/mo", "buy": "Yes", "buy_class": "yes", "rec": true, "note": "Where most solo operators should start." },
+        { "item": "Connect — up to 5", "sub": "+ automated follow-ups, QuickBooks", "cost": "~$99–$139/mo", "buy": "Yes", "buy_class": "yes", "note": "The sweet spot for a small crew." },
+        { "item": "Grow — up to 10", "sub": "+ job costing, two-way texting", "cost": "~$149–$199/mo", "buy": "Maybe", "buy_class": "mid", "note": "Buy it when the features pay for themselves, not before." },
+        { "item": "Plus — up to 15", "cost": "~$399–$499/mo", "buy": "Later", "buy_class": "mid", "note": "Only once you're clearly outgrowing Grow." },
+        { "item": "Each extra user", "cost": "~$29/mo", "buy": "—", "note": "The line that quietly grows your bill." }
+      ]
+    },
+    {
+      "type": "bs", "h": "The honest catch",
+      "label": "Fair warning",
+      "claim": "“One simple plan for your whole business.”",
+      "small": "Not quite. <b>Extra users are ~$29/mo each</b>, and some things (like GPS tracking) sit on higher tiers even for one user. The gap between month-to-month and annual pricing is wide, so pay annual once you're sure. None of this is dishonest &mdash; it's just how the bill grows. Price the plan for the crew you actually have."
+    },
+    {
+      "type": "notes", "no": "03", "h": "What users say",
+      "intro_html": "<p>Across the big review platforms, the pattern is consistent and mostly positive:</p>",
+      "notes": [
+        { "tag": "The win", "text": "Easy enough that the crew actually uses it, and it gets you paid faster — quoting to invoicing in one place.", "who": "User reviews, G2 / Capterra", "url": "https://www.g2.com/products/jobber/reviews" },
+        { "tag": "The gripe", "text": "QuickBooks sync can be finicky, and it slows down on larger, complex recurring setups.", "who": "User reviews", "url": "https://www.g2.com/products/jobber/reviews" }
+      ],
+      "src_note": "Sources: getjobber.com/pricing; G2 and Capterra reviews. Prices vary by source — confirm the current plan page before buying."
+    }
+  ],
+  "workorder": {
+    "h": "We'll set Jobber up right — or whatever software actually fits",
+    "p": "Pick the right plan, wire up quoting, online booking, invoicing, and review requests, and connect it to a site that sends you work. Set up and working, so you're running the tool instead of fighting it.",
+    "price": "$500"
+  },
+  "ledger_note": "Jobber link is an affiliate link — buy through it and we may earn a commission at no cost to you. It never changes the verdict, and we told you to start on the free trial, not the top plan.",
+  "affiliates": [
+    { "k": "<b>Jobber</b> — start free, pick the plan for your crew", "href": "https://www.getjobber.com", "cta": "Try Jobber &#8594;" },
+    { "k": "<b>Want it set up for you?</b> — done-for-you", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is Jobber worth it for a small contractor?", "a": "For most solo-to-mid crews, yes. It brings quoting, scheduling, invoicing, payments, and CRM into one easy app and scores high on user satisfaction. Start on Core or Connect and a free trial; only move up tiers when the added features clearly pay for themselves." },
+    { "q": "How much does Jobber cost in 2026?", "a": "Roughly $29–$49/mo for Core (1 user), ~$99–$139 for Connect (up to 5), ~$149–$199 for Grow (up to 10), and ~$399–$499 for Plus (up to 15), billed month-to-month; annual billing saves about 25–40%. Extra users are ~$29/mo each. Confirm current pricing on getjobber.com." },
+    { "q": "Jobber or Housecall Pro?", "a": "Jobber tends to win on price, ease of use, and customer-facing CRM and is the better starting point for small crews. Housecall Pro offers more breadth and built-in financing tools but costs more. See our side-by-side comparison." }
+  ]
+}

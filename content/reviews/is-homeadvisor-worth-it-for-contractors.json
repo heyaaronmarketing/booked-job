@@ -1,0 +1,57 @@
+{
+  "slug": "is-homeadvisor-worth-it-for-contractors",
+  "title_tag": "Is HomeAdvisor Worth It for Contractors? (2026)",
+  "title": "HomeAdvisor: The Lead Mill the <em>FTC Already Fined</em>",
+  "meta": "Is HomeAdvisor worth it for contractors in 2026? The honest answer: it's Angi's lead arm, it sells shared leads billed on send, and the FTC fined it up to $7.2M for misrepresenting lead quality. What to do instead.",
+  "date": "2026-11-12",
+  "sec": "Inspection",
+  "filing": { "Field Report": "№ 026", "Subject": "HomeAdvisor", "Filed for": "Contractors", "Status": "Reviewed" },
+  "dek": "HomeAdvisor isn't a separate thing to evaluate anymore — it's Angi's lead-selling arm, running the same shared-lead, billed-on-send playbook. The difference is HomeAdvisor is the one the federal government actually fined for it. Here's the receipt.",
+  "verdict_stamp": "Verdict —<br>No",
+  "verdict_text": "<b>For most contractors, no.</b> HomeAdvisor (now part of Angi) sells shared leads, bills you whether the homeowner ever answers, and &mdash; this is the part no marketing blog leads with &mdash; <b>paid the FTC up to $7.2 million</b> to settle charges it sold contractors leads it misrepresented as high-quality. When the regulator has already written the verdict, you don't need ours. Catch your own leads instead.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "It's Angi now — same machine", "lede": true,
+      "html": "<p>HomeAdvisor and Angie's List merged into <b>Angi</b>. HomeAdvisor is the lead-generation side: homeowners request a service, and their contact info is sold — <b>shared</b> — to several contractors at once, billed on send. If you've read our <a href=\"https://booked-job.com/reviews/is-angi-worth-it-for-contractors/\">Angi review</a>, you already know the model. What makes HomeAdvisor worth its own page is the one fact that outranks every pricing table: the FTC.</p>"
+    },
+    {
+      "type": "bs", "h": "The fact that ends the debate",
+      "label": "On the record",
+      "claim": "“High-quality leads from homeowners ready to hire.”",
+      "small": "In 2023, HomeAdvisor agreed to pay the FTC <b>up to $7.2 million</b> to settle charges that it used <b>deceptive tactics to sell leads</b> to service providers &mdash; including leads that <b>weren't for the service the contractor offered, or weren't in their area.</b> That's not a disgruntled Reddit post. That's a federal settlement."
+    },
+    {
+      "type": "notes", "no": "02", "h": "The documented pattern",
+      "intro_html": "<p>The complaints line up with exactly what the FTC described:</p>",
+      "notes": [
+        { "tag": "The regulator", "text": "HomeAdvisor agreed to pay up to $7.2 million to settle FTC charges it cheated service providers with leads it misrepresented as high-quality, ready-to-hire, and matching the pro's services and area.", "who": "FTC press release, 2023", "url": "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-takes-action-against-homeadvisor-cheating-service-providers-seeking-leads" },
+        { "tag": "Contractors", "text": "Shared leads, billing whether or not you respond, and charges that keep coming after you try to stop — the same complaints that followed it into Angi.", "who": "Contractor reviews", "url": "https://www.bbb.org/us/in/indianapolis/profile/contractor-referral/angi-0382-3041007" }
+      ],
+      "src_note": "Sources: FTC (ftc.gov); BBB / contractor reviews. HomeAdvisor now operates under Angi."
+    },
+    {
+      "type": "ops", "no": "03", "h": "What to do instead",
+      "intro_html": "<p>You don't have to rent leads from a company the FTC fined. Catch the ones you already earn:</p>",
+      "steps": [
+        "Answer fast and turn on missed-call text-back (~$30/mo) so no lead slips to the next contractor.",
+        "Ask every customer for a Google review — it ranks you in the map pack, where the leads are free.",
+        "Make sure your site actually converts the traffic your truck and sign already create.",
+        "If you test any lead service, cap it hard and track close rate per source — then kill what doesn't pay."
+      ]
+    }
+  ],
+  "workorder": {
+    "h": "We'll build you a lead system you own",
+    "p": "Missed-call text-back, fast-response booking, review requests, and a converting site — so you stop paying a fined lead broker for shared contacts and start keeping the leads you already generate.",
+    "price": "$500"
+  },
+  "affiliates": [
+    { "k": "<b>A real human answers your leads</b> — not a shared list", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" },
+    { "k": "<b>See the full Angi breakdown</b>", "href": "https://booked-job.com/reviews/is-angi-worth-it-for-contractors/", "cta": "Read it &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is HomeAdvisor worth it for contractors in 2026?", "a": "For most, no. HomeAdvisor is Angi's lead-selling arm and uses the same shared-lead, billed-on-send model. It also agreed to pay the FTC up to $7.2 million in 2023 to settle charges it misrepresented lead quality. Fixing your own fast call response and reviews is cheaper and more reliable." },
+    { "q": "Why did HomeAdvisor get fined by the FTC?", "a": "In 2023, HomeAdvisor agreed to pay up to $7.2 million to settle FTC charges that it used deceptive tactics to sell leads to service providers — including leads that weren't for the pro's service or weren't in their area, despite being marketed as high-quality and ready-to-hire." },
+    { "q": "Is HomeAdvisor the same as Angi?", "a": "Effectively, yes — HomeAdvisor and Angie's List merged into Angi, and HomeAdvisor is the lead-generation side of that business. The complaints and the lead model carry over." }
+  ]
+}

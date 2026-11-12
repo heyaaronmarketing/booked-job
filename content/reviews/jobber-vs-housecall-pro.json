@@ -1,0 +1,54 @@
+{
+  "slug": "jobber-vs-housecall-pro",
+  "title_tag": "Jobber vs Housecall Pro (2026): Honest Comparison",
+  "title": "Jobber vs Housecall Pro: <em>Which One, and Why</em>",
+  "meta": "Jobber vs Housecall Pro for contractors in 2026: an honest, side-by-side on price, ease of use, CRM, financing, and the Android/support gripes — and a clear pick for small crews vs. multi-tech shops.",
+  "date": "2026-11-11",
+  "sec": "Head to Head",
+  "filing": { "Field Report": "№ 020", "Subject": "Jobber vs Housecall Pro", "Filed for": "Contractors", "Status": "Reviewed" },
+  "dek": "Two good tools, two different shops. Jobber is cheaper, cleaner, and easier; Housecall Pro does more — financing, instant payouts, proposals — for more money. Pick by the crew you actually run, not the feature list you'll never touch.",
+  "verdict_stamp": "Verdict —<br>Depends on your crew",
+  "verdict_text": "<b>Jobber for most small shops</b> &mdash; cheaper at every tier, easier to use, better customer-facing CRM, higher user-satisfaction scores. <b>Housecall Pro for multi-tech operations</b> that will actually use financing, instant payouts, and proposals. If you'd be buying Housecall's breadth to use a third of it, buy Jobber and keep the difference.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "The one-line answer", "lede": true,
+      "html": "<p>If you're a solo op or small crew that mostly needs to <b>quote, schedule, invoice, and get paid</b>, go Jobber &mdash; it's cheaper, simpler, and crews actually adopt it. If you run several techs and sell bigger jobs where <b>consumer financing, instant payouts, and slick proposals</b> move real money, Housecall Pro earns its higher price. Everything below is just the receipts for that.</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "Side by side", "caption": "The honest comparison",
+      "rows": [
+        { "item": "Entry price (1 user)", "sub": "Jobber Core vs HCP Basic", "cost": "$29–$49 vs ~$79", "buy": "Jobber", "buy_class": "yes", "rec": true, "note": "Jobber undercuts at list price at every tier." },
+        { "item": "Ease of use", "cost": "Jobber", "buy": "Jobber", "buy_class": "yes", "note": "Cleaner, faster to adopt; higher G2 satisfaction." },
+        { "item": "Customer CRM", "cost": "Jobber", "buy": "Jobber", "buy_class": "yes", "note": "Better client-facing experience." },
+        { "item": "Financing + instant payouts", "cost": "Housecall", "buy": "Housecall", "buy_class": "mid", "note": "HCP's Instapay + consumer financing are real differentiators." },
+        { "item": "Proposals / upsell tools", "cost": "Housecall", "buy": "Housecall", "buy_class": "mid", "note": "Stronger for selling bigger tickets at the door." },
+        { "item": "The gripes", "cost": "both", "buy": "—", "note": "Jobber: QuickBooks sync. HCP: Android app + support + upsell calls." }
+      ]
+    },
+    {
+      "type": "notes", "no": "03", "h": "What the ratings say",
+      "intro_html": "<p>Both are well-liked; the split is consistent:</p>",
+      "notes": [
+        { "tag": "Satisfaction", "text": "G2 reviewers give Jobber the higher overall satisfaction score; Software Advice gives Housecall Pro a slight edge on value-for-money sentiment.", "who": "G2 / Software Advice", "url": "https://www.softwareadvice.com/construction/housecall-profile/vs/jobber/" },
+        { "tag": "Breadth vs. simplicity", "text": "Reviewers summarize it as: Jobber is cheaper and better for CRM; Housecall Pro is more comprehensive.", "who": "User comparisons, 2026", "url": "https://www.g2.com/compare/housecall-pro-vs-jobber" }
+      ],
+      "src_note": "Sources: G2, Capterra, Software Advice. Confirm current pricing on each vendor's site — figures vary."
+    }
+  ],
+  "workorder": {
+    "h": "Not sure? We'll pick and set up the right one",
+    "p": "Tell us your crew size and the jobs you run; we'll choose Jobber, Housecall Pro, or something simpler, wire it up, and connect it to a site that sends you work.",
+    "price": "$500"
+  },
+  "ledger_note": "Both links are affiliate links — buy through them and we may earn a commission at no cost to you. It never changes the verdict; we told you which one fits which shop.",
+  "affiliates": [
+    { "k": "<b>Jobber</b> — best for small crews", "href": "https://www.getjobber.com", "cta": "Try Jobber &#8594;" },
+    { "k": "<b>Housecall Pro</b> — best for multi-tech + financing", "href": "https://www.housecallpro.com", "cta": "Try Housecall Pro &#8594;" },
+    { "k": "<b>Want it chosen + set up for you?</b>", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is Jobber or Housecall Pro better for a small contractor?", "a": "For most small crews, Jobber — it's cheaper at every tier, easier to use, has a better customer-facing CRM, and scores higher on user satisfaction. Housecall Pro is the better pick for multi-tech shops that will actually use its financing, instant payouts, and proposal tools." },
+    { "q": "Which is cheaper, Jobber or Housecall Pro?", "a": "Jobber, at list price, at every tier. Jobber Core starts around $29–$49/mo vs Housecall Pro Basic near $79/mo, and the gap holds as you move up. Housecall Pro's total cost also climbs faster once you add seats, add-ons, and card processing." },
+    { "q": "What do people complain about?", "a": "Jobber's most-cited gripe is finicky QuickBooks sync and some slowdown on large, complex setups. Housecall Pro's are a weaker Android app than iOS, inconsistent support, and aggressive upsell calls. Both are well-rated overall." }
+  ]
+}

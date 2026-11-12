@@ -1,0 +1,66 @@
+{
+  "slug": "is-thumbtack-worth-it-for-contractors",
+  "title_tag": "Is Thumbtack Worth It for Contractors? (2026, Honest)",
+  "title": "Thumbtack for Pros: Worth It, or <em>Death by a Thousand $30 Charges?</em>",
+  "meta": "Is Thumbtack worth it for contractors and pros in 2026? The honest math: you set the budget and pay no membership, but you're still charged per lead whether it converts or not. Who it works for, who should skip it.",
+  "date": "2026-11-11",
+  "sec": "Inspection",
+  "filing": { "Field Report": "№ 016", "Subject": "Thumbtack Pro", "Filed for": "Contractors & pros", "Status": "Reviewed" },
+  "dek": "Thumbtack is the least-rotten of the lead apps &mdash; no membership fee, you set your own budget, and you can get credited for some junk. But you still pay per lead, not per job, and the charges stack up fast if you can't answer in seconds. Here's exactly who it works for.",
+  "verdict_stamp": "Verdict —<br>Only if you work it",
+  "verdict_text": "<b>Conditional.</b> Thumbtack is more honest than Angi &mdash; no membership, you control the budget, refunds exist for some bad contacts. But it still charges you per lead whether or not it becomes a job, so it only pays off if you answer instantly, pick narrow categories, and track your close rate. If you're slow to the phone or in a saturated trade, it bleeds you.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "How it actually charges you", "lede": true,
+      "html": "<p>Thumbtack charges <b>per lead</b> &mdash; when a homeowner contacts you (or you reach out), you pay, whether or not it ever becomes a job. There's <b>no membership or annual fee</b>, and you set your own weekly budget, which is genuinely better than Angi's model. But the per-lead price swings hard by trade and market. Contractors report 2026 ranges around <b>$15–$35 for cleaning, $20–$45 handyman, $30–$70 painting, $45–$120 plumbing, and $50–$200+ for HVAC and roofing.</b> At those numbers, two dead leads can cost more than the job you're chasing.</p>"
+    },
+    {
+      "type": "bs", "h": "The part nobody prices",
+      "label": "Watch it",
+      "claim": "“Only pay for leads that are a match.”",
+      "small": "A “match” means the homeowner's request fits your settings &mdash; <b>not</b> that they'll answer, hire, or were even serious. Pros report being charged for contacts that never replied. Thumbtack does credit some bad leads, but you have to catch them and request it. Budget for a chunk of every dollar going to leads that go nowhere."
+    },
+    {
+      "type": "notes", "no": "02", "h": "What pros report",
+      "intro_html": "<p>The recurring, documented patterns &mdash; the good and the bad, because that's the honest read:</p>",
+      "notes": [
+        { "tag": "The charge", "text": "Charged for two “leads” I never saw and never responded to. Three or four leads and I might get one job — or none — but I still paid for each.", "who": "Pro reviews, Thumbtack", "url": "https://www.trustpilot.com/review/thumbtack.com" },
+        { "tag": "When it works", "text": "In a narrow category with instant replies and tight filters, it can pay for itself. Slow responders and saturated trades lose money.", "who": "Pro consensus, 2026 reviews", "url": "https://www.trustpilot.com/review/thumbtack.com" }
+      ],
+      "src_note": "Source: Thumbtack pricing + help docs; Trustpilot (6,300+ reviews, mixed). Figures are contractor-reported ranges, not a published price list."
+    },
+    {
+      "type": "estimate", "no": "03", "h": "The ruthless math", "caption": "Thumbtack, per lead vs. per job",
+      "rows": [
+        { "item": "Plumbing lead", "cost": "$45–$120", "buy": "Maybe", "buy_class": "mid", "note": "Fine if you close 1 in 4 and answer in 60 seconds." },
+        { "item": "HVAC / roofing lead", "cost": "$50–$200+", "buy": "Careful", "buy_class": "mid", "note": "High-ticket, but one dead lead stings." },
+        { "item": "Leads you'll pay for that go nowhere", "cost": "a real %", "buy": "—", "note": "Not all are refundable. Price it in." },
+        { "item": "Answer your own calls fast + text-back", "cost": "~$30/mo", "buy": "Yes", "buy_class": "yes", "rec": true, "note": "Do this first; it makes every paid lead close better too." }
+      ]
+    },
+    {
+      "type": "ops", "no": "04", "h": "If you run Thumbtack, run it like this",
+      "intro_html": "<p>It's not a scam like some of the others &mdash; it's a tool that punishes slow, broad, and untracked. So:</p>",
+      "steps": [
+        "Answer every lead in under 5 minutes. Thumbtack rewards fast responders with better visibility, and speed is what closes them anyway.",
+        "Narrow your categories and service area hard. Broad settings = more junk leads you still pay for.",
+        "Request credit on every lead that was clearly bad (never a real request, wrong service, outside your area). It's not automatic.",
+        "Track close rate per source every month. The day Thumbtack's cost-per-job beats your own channels, cap it."
+      ]
+    }
+  ],
+  "workorder": {
+    "h": "We'll make your own leads close better than any app's",
+    "p": "Fast-response booking, missed-call text-back, review requests, and a converting site — so the leads you own beat the ones you rent, and the paid ones you do buy actually turn into jobs.",
+    "price": "$500"
+  },
+  "affiliates": [
+    { "k": "<b>A real human answers your leads</b> — in seconds", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" },
+    { "k": "<b>Missed-call text-back</b> — the ~$30 fix", "href": "https://aaron.chat", "cta": "Set it up &#8594;" }
+  ],
+  "faq": [
+    { "q": "Is Thumbtack worth it for contractors in 2026?", "a": "It can be, conditionally. Unlike Angi there's no membership fee and you set your own budget, but you're charged per lead whether or not it converts. It pays off mainly for pros who answer within minutes, pick narrow categories, and track close rate. Slow responders or those in saturated trades usually lose money." },
+    { "q": "Does Thumbtack charge you for leads that don't respond?", "a": "Yes — you're charged when a lead comes in, not when it converts. Thumbtack will credit some clearly-bad leads, but you have to request it; it isn't automatic." },
+    { "q": "Is Thumbtack better than Angi?", "a": "For most pros, yes — marginally. No membership fee, you control the budget, and refunds for junk leads are easier to get. But both charge per lead rather than per job, so the honest move is to fix your own lead response first and treat either app as a capped experiment." }
+  ]
+}

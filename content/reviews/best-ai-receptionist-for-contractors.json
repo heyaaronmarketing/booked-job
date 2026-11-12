@@ -1,0 +1,52 @@
+{
+  "slug": "best-ai-receptionist-for-contractors",
+  "title_tag": "Best AI Receptionist for Contractors (2026): Honest Picks",
+  "title": "Best AI Receptionist for Contractors — <em>If You Must</em>",
+  "meta": "The honest best-AI-receptionist guide for contractors in 2026: the least-bad picks (Smith.ai, Rosie, Goodcall), who each actually fits, and why most small shops should spend $30, not $300.",
+  "date": "2026-11-12",
+  "sec": "Buyer's Guide",
+  "filing": { "Field Report": "№ 027", "Subject": "AI Receptionists", "Filed for": "Contractors", "Status": "Compared" },
+  "dek": "Everybody ranking “best AI receptionist” is getting paid to send you to one. We'll tell you the truth first: most one- and two-truck shops shouldn't buy any of them yet. But if you're set on it, here's the honest pecking order and who each one actually fits.",
+  "verdict_stamp": "Verdict —<br>Smith.ai, if any",
+  "verdict_text": "<b>The honest ranking:</b> Smith.ai (most reliable — human backup), Rosie (cheapest honest entry), Goodcall (easiest to build, real limits). But read this first: for most small shops the right answer is <b>none of them yet</b> — missed-call text-back plus a fast human callback beats every bot for ~$30/mo and never phantom-books a job.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "Read this before you pick one", "lede": true,
+      "html": "<p>AI receptionists fail in documented ways &mdash; <b>phantom bookings</b> (the bot says you're booked, nothing hits the calendar), hallucinated prices, and silent lost leads. We cover that in full in <a href=\"https://booked-job.com/reviews/is-an-ai-receptionist-worth-it/\">Is an AI Receptionist Worth It?</a> The short version: for a small shop, the lost-job cost of one phantom booking usually dwarfs what you'd save. If that changed your mind, good. If you still want one, here's the honest field.</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "The honest ranking", "caption": "If you're buying an AI receptionist anyway",
+      "rows": [
+        { "item": "Smith.ai", "sub": "hybrid — real humans escalate", "cost": "free tier → $150+/mo", "buy": "Best", "buy_class": "yes", "rec": true, "note": "Fails least because humans catch what the bot drops. Watch per-call billing." },
+        { "item": "Rosie", "sub": "answering; booking at $149 tier", "cost": "$49–$299/mo", "buy": "Cheapest", "buy_class": "mid", "note": "Warm voice, lowest entry. Booking isn't in the $49 plan." },
+        { "item": "Goodcall", "sub": "easy builder; no SMS / no porting", "cost": "$79/mo", "buy": "Easiest", "buy_class": "mid", "note": "Good for long/repeat calls; can't keep your number or text back." },
+        { "item": "A real human (aaron.chat)", "sub": "+ missed-call text-back", "cost": "~$30/mo + up", "buy": "Do this first", "buy_class": "yes", "note": "No hallucinations, no phantom bookings, keeps your number, texts back." }
+      ]
+    },
+    {
+      "type": "notes", "no": "03", "h": "Who each one is for",
+      "notes": [
+        { "tag": "Smith.ai", "text": "You want the most reliable option and can stomach per-call billing. The human net is the whole value.", "who": "Read our full Smith.ai review", "url": "https://booked-job.com/reviews/smith-ai-review/" },
+        { "tag": "Rosie", "text": "You just need your phone answered cheaply and you'll pay the $149 tier if you want booking.", "who": "Read our full Rosie review", "url": "https://booked-job.com/reviews/rosie-ai-review/" },
+        { "tag": "Goodcall", "text": "Your calls run long or repeat, you don't need SMS, and you're willing to use their phone number.", "who": "Read our full Goodcall review", "url": "https://booked-job.com/reviews/goodcall-review/" }
+      ],
+      "src_note": "Full, sourced reviews of each linked above. Prices are reported figures — confirm with each vendor."
+    }
+  ],
+  "workorder": {
+    "h": "Or skip the bot and never miss a lead anyway",
+    "p": "Missed-call text-back, fast-response booking, and a real human in the loop — on your existing number — so every lead gets caught and called back, with no per-call surprises and no phantom bookings.",
+    "price": "$500"
+  },
+  "ledger_note": "Vendor links are affiliate links — we may earn a commission at no cost to you. It never changes the ranking, and we led with “most small shops should skip all of them.”",
+  "affiliates": [
+    { "k": "<b>Smith.ai</b> — most reliable (our review)", "href": "https://booked-job.com/reviews/smith-ai-review/", "cta": "Read it &#8594;" },
+    { "k": "<b>Rosie</b> — cheapest (our review)", "href": "https://booked-job.com/reviews/rosie-ai-review/", "cta": "Read it &#8594;" },
+    { "k": "<b>A real human instead</b> — our pick", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "What's the best AI receptionist for contractors in 2026?", "a": "Of the AI options, Smith.ai is the most reliable because it's a hybrid — real humans escalate when the AI is out of its depth, so you get far fewer phantom bookings. Rosie is the cheapest honest entry, and Goodcall is the easiest to set up. But for most one- and two-truck shops, the best answer is still none of them — missed-call text-back plus a fast human callback is cheaper and more reliable." },
+    { "q": "Should a small contractor use an AI receptionist at all?", "a": "Usually not first. The documented failure modes (phantom bookings, hallucinated info) quietly cost small shops jobs they never hear about. Fix your own fast call response with missed-call text-back (~$30/mo) first; consider an AI (ideally a human-backed hybrid) only if you genuinely can't staff the phones and you test it hard." },
+    { "q": "Which AI receptionist is cheapest?", "a": "Rosie starts at $49/mo for answering (booking requires the $149 Scale tier). Goodcall is $79/mo priced per unique caller. Smith.ai has a free 25-call tier but bills per call after that, so the cheapest headline isn't always the cheapest in practice." }
+  ]
+}

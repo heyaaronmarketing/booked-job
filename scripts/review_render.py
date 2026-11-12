@@ -194,7 +194,7 @@ def render(spec):
 <meta name="theme-color" content="#0e2235">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap">
 <script type="application/ld+json">{schema(spec)}</script>
-<style>{CSS}</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-FR77BS4NW5"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FR77BS4NW5');</script></head><body>
+<style>{CSS}</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-FR77BS4NW5"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-FR77BS4NW5');</script></head><body>
 <div class="report">
 <header class="mast"><div class="top"><span>Booked Job &middot; Field Division</span>
 <button id="themeToggle" type="button" aria-label="Toggle blueprint or paper">Blueprint</button></div>
@@ -222,12 +222,75 @@ def build(path):
     return spec["slug"]
 
 
+IDX_CSS=r"""
+.intro{padding-block:26px 8px;border-bottom:1px solid var(--rule)}
+.intro .sec{font-family:var(--mono);font-size:.7rem;color:var(--stamp);text-transform:uppercase;letter-spacing:.16em;font-weight:700}
+.intro h2{font-family:var(--display);font-weight:800;font-size:clamp(2rem,6.4vw,3rem);margin:12px 0 0;letter-spacing:-.02em;line-height:1.02}
+.intro p{font-size:1.12rem;margin:16px 0 0;max-width:62ch}
+.idx{margin:0}
+.case{display:block;text-decoration:none;color:inherit;padding:22px 0;border-bottom:1px solid var(--rule)}
+.case:hover{background:var(--panel)}
+.cmeta{display:flex;gap:16px;font-family:var(--mono);font-size:.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:.12em}
+.ctitle{font-family:var(--display);font-weight:700;font-size:clamp(1.3rem,4.2vw,1.7rem);margin:8px 0 0;letter-spacing:-.01em;color:var(--ink)}
+.cstamp{display:inline-block;font-family:var(--mono);font-weight:700;color:var(--stamp);border:2px solid var(--stamp);padding:3px 9px;margin-top:10px;text-transform:uppercase;letter-spacing:.07em;font-size:.72rem;transform:rotate(-2deg)}
+.cone{margin:12px 0 0;color:var(--muted);font-size:1rem;max-width:66ch}
+"""
+
+def index():
+    specs=[]
+    for p in sorted(glob.glob(os.path.join(SPECS,"*.json"))):
+        try: specs.append(json.load(open(p)))
+        except Exception: pass
+    def num(s):
+        n=re.sub(r"\D","", str(s.get("filing",{}).get("Field Report","")))
+        return int(n) if n else 0
+    specs.sort(key=lambda s:(num(s), s.get("date","")), reverse=True)
+    rows=""
+    for s in specs:
+        fil=s.get("filing",{}); plain=re.sub("<[^>]+>","",s["title"])
+        no=T(fil.get("Field Report","")); subj=T(fil.get("Subject","")); who=T(fil.get("Filed for",""))
+        stamp=T(re.sub("<[^>]+>"," ",s.get("verdict_stamp","Reviewed")))
+        one=T(s.get("meta",""))
+        rows+=(f'<a class="case" href="/reviews/{s["slug"]}/">'
+               f'<div class="cmeta"><span>{no or "Field Report"}</span><span>{subj}{(" &middot; "+who) if who else ""}</span></div>'
+               f'<div class="ctitle">{plain}</div><div class="cstamp">{stamp}</div><div class="cone">{one}</div></a>')
+    url=f"{B}/reviews/"
+    items=[{"@type":"ListItem","position":i+1,"url":f"{B}/reviews/{s['slug']}/","name":re.sub('<[^>]+>','',s['title'])} for i,s in enumerate(specs)]
+    sch=json.dumps({"@context":"https://schema.org","@type":"CollectionPage","name":"Booked Job Reviews",
+                    "url":url,"mainEntity":{"@type":"ItemList","itemListElement":items}})
+    disc=("BOOKED JOB — FIELD REPORTS FOR PEOPLE WHO'D RATHER BE ON THE TOOLS. "
+          "FTC &amp; AFFILIATE DISCLOSURE: WE EARN COMMISSION ON SOME OUTBOUND LINKS. "
+          "WE ONLY POINT YOU AT WHAT WE'D USE, AND WE'LL TELL YOU TO SPEND $0 WHEN THAT'S THE RIGHT CALL.")
+    return f"""<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Reviews — Booked Job | Honest field reports on the tools pitched to service pros</title>
+<meta name="description" content="We spend the money, read the real complaints, and file the verdict on the AI tools, software, and lead services sold to contractors. When the answer is 'spend $0,' we say so.">
+<link rel="canonical" href="{url}">
+<meta property="og:type" content="website"><meta property="og:title" content="Booked Job Reviews — honest field reports for service pros">
+<meta property="og:url" content="{url}"><meta name="theme-color" content="#0e2235">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Courier+Prime:ital,wght@0,400;0,700&display=swap">
+<script type="application/ld+json">{sch}</script>
+<style>{CSS}{IDX_CSS}</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-FR77BS4NW5"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-FR77BS4NW5');</script></head><body>
+<div class="report">
+<header class="mast"><div class="top"><span><a href="/" style="color:inherit;text-decoration:none">&#8592; Booked Job</a> &middot; Field Division</span>
+<button id="themeToggle" type="button" aria-label="Toggle blueprint or paper">Blueprint</button></div>
+<h1 class="brand">THE REVIEWS DESK</h1>
+<div class="filing"><span>Division <b>Field Reports</b></span><span>Subject <b>The tools they sell you</b></span><span>On file <b>{len(specs)}</b></span></div></header>
+<section class="intro"><div class="sec">&sect; What this is</div>
+<h2>The tools, apps &amp; lead services pitched to you &mdash; <em>inspected.</em></h2>
+<p>Some guy in a branded vest wants $300 a month to answer your phone with a robot, or sell you the same lead as five other shops. We spend the money, read the real complaints, and file the verdict. When the right answer is <b>spend zero dollars</b>, that's what it'll say.</p></section>
+<div class="idx">{rows}</div>
+<footer>{disc}</footer>
+</div>{TOGGLE}</body></html>"""
+
+
 def main():
     args=sys.argv[1:]
     paths = sorted(glob.glob(os.path.join(SPECS,"*.json"))) if ("--all" in args or not args) else [a for a in args if a.endswith(".json")]
     for p in paths:
         print("  rendered /reviews/"+build(p)+"/")
-    print(f"{len(paths)} page(s) -> site/reviews/")
+    open(os.path.join(OUT,"index.html"),"w",encoding="utf-8").write(index())
+    print(f"{len(paths)} page(s) + hub -> site/reviews/")
 
 
 if __name__ == "__main__":

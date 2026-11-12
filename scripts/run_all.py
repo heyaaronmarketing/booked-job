@@ -19,6 +19,7 @@ AGENTS = [
     ("fetch_stats.py", []),
     ("engagement_tracker.py", []),   # measure ER per post → engagement_insights.json (self-improvement signal)
     ("discover_communities.py", []), ("build_tasks.py", []), ("newsletter_build.py", []),
+    ("review_render.py", ["--all"]),   # rebuild the Reviews Desk pages from content/reviews/*.json (no posting)
     ("publisher.py", []), ("ig_runner.py", []),
     ("reel_runner.py", []), ("reel_story_runner.py", []), ("story_runner.py", []),
     ("video_pool_runner.py", []),

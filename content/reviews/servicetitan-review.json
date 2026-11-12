@@ -1,0 +1,58 @@
+{
+  "slug": "servicetitan-review",
+  "title_tag": "ServiceTitan Review (2026): Honest Cost & Who It's For",
+  "title": "ServiceTitan: Powerful — and <em>Not Built for You</em>",
+  "meta": "Honest ServiceTitan review for 2026: what it really costs (per-tech pricing, five-figure implementation, annual contracts), why it's built for large/franchise operations, and what small shops should run instead.",
+  "date": "2026-11-11",
+  "sec": "Field Test",
+  "filing": { "Field Report": "№ 021", "Subject": "ServiceTitan", "Filed for": "Large operations", "Status": "Reviewed" },
+  "dek": "ServiceTitan is the Ferrari of field-service software. It's genuinely powerful. It's also priced, contracted, and onboarded for franchise-scale operations — which means for a one-to-ten-truck shop it's usually the wrong, wildly expensive answer. Here's the honest math before a salesperson gets you on a 12-month contract.",
+  "verdict_stamp": "Verdict —<br>Not for small shops",
+  "verdict_text": "<b>Only if you're big.</b> ServiceTitan is a serious platform for large, multi-crew, dispatch-heavy operations &mdash; and it bills like it: reportedly <b>$245–$400+ per technician per month</b>, a <b>five-figure implementation fee</b>, and a <b>12-month contract</b>. For most small shops that's tens of thousands a year to use a fraction of it. Run Jobber or Housecall Pro instead and revisit ServiceTitan when you're genuinely scaling.",
+  "blocks": [
+    {
+      "type": "prose", "no": "01", "h": "It's good. That's not the question.", "lede": true,
+      "html": "<p>Let's be fair: ServiceTitan is a deep, capable platform &mdash; dispatch, call booking, marketing attribution, payroll, reporting, the works. Big HVAC, plumbing, and electrical operations run their whole business on it for a reason. The question was never “is it good software.” It's “is it the right software for <b>your</b> shop” &mdash; and for most of the people reading this, the price and the contract answer that for you.</p>"
+    },
+    {
+      "type": "estimate", "no": "02", "h": "What it really costs", "caption": "ServiceTitan (quote-only; figures are contractor-reported)",
+      "rows": [
+        { "item": "Per technician / month", "cost": "~$245–$400+", "buy": "Big shops only", "buy_class": "mid", "note": "Multiply by your crew. Then add everything below." },
+        { "item": "Implementation / onboarding", "sub": "one-time", "cost": "~$5,000–$50,000", "buy": "—", "buy_class": "no", "note": "Plus a 6–12 month onboarding runway." },
+        { "item": "Contract", "cost": "~12 months", "buy": "Careful", "buy_class": "no", "note": "You're committed before you know if it fits." },
+        { "item": "10-tech shop, year one", "cost": "~$29,000–$48,000+", "buy": "No (small)", "buy_class": "no", "note": "Subscription alone, before setup + add-ons." },
+        { "item": "Small shop? Run this instead", "sub": "Jobber / Housecall Pro", "cost": "$29–$329/mo", "buy": "Yes", "buy_class": "yes", "rec": true, "note": "Same core jobs, a fraction of the cost, no 5-figure setup." }
+      ]
+    },
+    {
+      "type": "bs", "h": "The sales pitch to watch",
+      "label": "Slow down",
+      "claim": "“The all-in-one platform to grow your business.”",
+      "small": "It can grow a <b>large</b> business. But the per-tech pricing, the five-figure implementation, and the <b>annual contract</b> are built for franchise-scale operations. Below that scale, the setup fee alone is hard to earn back. Don't let a demo talk a two-truck shop onto a 12-month commitment it doesn't need."
+    },
+    {
+      "type": "notes", "no": "03", "h": "The honest read",
+      "intro_html": "<p>Pricing commentary across the trade-software world is remarkably consistent on one thing:</p>",
+      "notes": [
+        { "tag": "Who it's for", "text": "The per-tech cost, implementation fees, and long onboarding are designed for franchise and large multi-crew operations — not small shops.", "who": "Trade-software pricing analyses, 2026", "url": "https://feeguides.com/software-pricing/servicetitan-pricing/" }
+      ],
+      "src_note": "ServiceTitan doesn't publish prices; figures are contractor-reported third-party estimates and vary by source. Get a written quote before signing anything."
+    }
+  ],
+  "workorder": {
+    "h": "We'll right-size your software — and your spend",
+    "p": "Tell us your crew size and goals; we'll pick the platform that fits (usually not the five-figure one), set it up, and wire it to a site that sends you work — so you're not paying enterprise prices for a small-shop job.",
+    "price": "$500"
+  },
+  "ledger_note": "The small-shop links are affiliate links — we may earn a commission at no cost to you. It never changes the verdict; we just told a small shop to skip the five-figure contract.",
+  "affiliates": [
+    { "k": "<b>Small/mid shop?</b> Start with Jobber", "href": "https://www.getjobber.com", "cta": "Try Jobber &#8594;" },
+    { "k": "<b>Need more breadth?</b> Housecall Pro", "href": "https://www.housecallpro.com", "cta": "Try Housecall Pro &#8594;" },
+    { "k": "<b>Want help choosing?</b>", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;" }
+  ],
+  "faq": [
+    { "q": "How much does ServiceTitan cost in 2026?", "a": "ServiceTitan doesn't publish prices, but contractors report roughly $245–$400+ per technician per month, a one-time implementation fee of about $5,000–$50,000, and a 12-month contract. For a 10-tech shop that's roughly $29,000–$48,000+ in year one for the subscription alone." },
+    { "q": "Is ServiceTitan worth it for a small contractor?", "a": "Usually not. It's built for large, multi-crew, franchise-scale operations, and the per-tech pricing plus five-figure setup is hard to earn back below that scale. Most small shops get the same core jobs done on Jobber or Housecall Pro for a fraction of the cost." },
+    { "q": "What should a small shop use instead of ServiceTitan?", "a": "Jobber for the cleanest, cheapest all-in-one, or Housecall Pro if you need built-in financing and multi-tech dispatch. Revisit ServiceTitan only when you're genuinely scaling into a large operation." }
+  ]
+}
