@@ -1,6 +1,42 @@
 {
   "reels": [
     {
+      "id": "af-ai-loop",
+      "hook": "AI receptionist fail",
+      "description": "These goddamn AI bots. 😤 Watch an “AI receptionist” loop a customer right out the door. We reviewed every AI receptionist — honest verdict + what to use instead: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 A real human answers your leads: aaron.chat #contractor #trades #smallbusiness (dramatization of a documented AI failure)",
+      "video": "site/reels/af-ai-loop.mp4"
+    },
+    {
+      "id": "af-ai-quote",
+      "hook": "AI receptionist fail",
+      "description": "Your AI just quoted a full roof at $7.00. 💀 Is an AI receptionist actually worth it? Our honest, sourced review: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #roofing #contractor #trades (dramatization)",
+      "video": "site/reels/af-ai-quote.mp4"
+    },
+    {
+      "id": "af-ai-apology",
+      "hook": "AI receptionist fail",
+      "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
+      "video": "site/reels/af-ai-apology.mp4"
+    },
+    {
+      "id": "af-ai-mishear",
+      "hook": "AI receptionist fail",
+      "description": "You said “14 Oak Street, now.” It booked “40 Elm, Sunday 2 AM.” 🤦 We reviewed the AI receptionists so you don’t have to: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #contractor #trades (dramatization)",
+      "video": "site/reels/af-ai-mishear.mp4"
+    },
+    {
+      "id": "af-ai-aircanada",
+      "hook": "AI receptionist fail",
+      "description": "An AI chatbot invented a refund policy — and a court made the company PAY. Real case. Your bot can do this to YOU. The honest AI-receptionist review: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #smallbusiness #trades (based on Moffatt v. Air Canada, 2024)",
+      "video": "site/reels/af-ai-aircanada.mp4"
+    },
+    {
+      "id": "af-ai-spiral",
+      "hook": "AI receptionist fail",
+      "description": "Just trying to get a quote from an AI receptionist… 💀 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews 👉 a human answers your leads: aaron.chat #contractor #trades (dramatization)",
+      "video": "site/reels/af-ai-spiral.mp4"
+    },
+    {
       "id": "money-leaks",
       "hook": "3 ways shops bleed money",
       "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job for more.",
