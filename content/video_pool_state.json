@@ -95,12 +95,13 @@
       "pod-ep01-shared",
       "bj-angi",
       "bj-reviews",
-      "bj-trade"
+      "bj-trade",
+      "bj-slow"
     ],
-    "last_iso": "2026-11-11T12:49:30",
+    "last_iso": "2026-11-11T19:40:06",
     "day": {
       "date": "2026-11-11",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -123,12 +124,13 @@
       "pod-ep01-ftc",
       "pod-ep01-refunds",
       "pod-ep01-cost",
-      "pod-ep01-wrongnum"
+      "pod-ep01-wrongnum",
+      "pod-ep01-shared"
     ],
-    "last_iso": "2026-11-11T12:49:30",
+    "last_iso": "2026-11-11T19:40:06",
     "day": {
       "date": "2026-11-11",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -191,12 +193,13 @@
       "clip-speed",
       "clip1-turd",
       "clip2-game",
-      "clip3-onestar"
+      "clip3-onestar",
+      "is-angi-worth-it"
     ],
-    "last_iso": "2026-11-11T12:49:30",
+    "last_iso": "2026-11-11T19:40:06",
     "day": {
       "date": "2026-11-11",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -245,12 +248,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-11-11T12:49:30",
+    "last_iso": "2026-11-11T19:40:06",
     "day": {
       "date": "2026-11-11",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -306,12 +310,13 @@
       "bj-rev-plumb",
       "bj-rev-roof",
       "bj-rev-elec",
-      "bj-rev-paint"
+      "bj-rev-paint",
+      "bj-cheapbid"
     ],
-    "last_iso": "2026-11-11T12:49:30",
+    "last_iso": "2026-11-11T19:40:06",
     "day": {
       "date": "2026-11-11",
-      "count": 1
+      "count": 2
     }
   }
 }

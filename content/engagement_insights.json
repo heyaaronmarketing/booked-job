@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-11T12:38",
+  "generated": "2026-11-11T19:28",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 3168,
-      "engagements": 2,
-      "er": 0.06
+      "views": 3224,
+      "engagements": 3,
+      "er": 0.09
     },
     "YT Shorts": {
       "posts": 25,
@@ -16,7 +16,7 @@
     },
     "TikTok": {
       "posts": 1,
-      "views": 131,
+      "views": 155,
       "engagements": 0,
       "er": 0.0
     }
@@ -72,6 +72,18 @@
       "date": "2026-09-09"
     },
     {
+      "channel": "FB Reels",
+      "id": "1183240727544718",
+      "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
+      "views": 127,
+      "reactions": 1,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 1,
+      "er": 0.79,
+      "date": "2026-11-11"
+    },
+    {
       "channel": "YT Shorts",
       "id": "SmKcd9vcdXM",
       "caption": "Which trade prints money #Shorts",
@@ -106,33 +118,9 @@
       "engagements": 1,
       "er": 0.38,
       "date": "2026-11-08"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "3014094745598215",
-      "caption": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed \u2014 free at booked-job.com/podcast. ",
-      "views": 211,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-08"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "2443463582851525",
-      "caption": "Plumbers \u2014 337 reviews to rank #1 on Google. Ask every time and you lap the whole town in 18 months.\n\n\ud83d\udc47 Plumbers \u2014 what's your review count?",
-      "views": 71,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-10-30"
-    },
     {
       "channel": "FB Reels",
       "id": "961907176579136",
@@ -210,6 +198,18 @@
       "id": "1426365209662442",
       "caption": "For most trades, no. Pay-to-play, free leads dry up, reviews get hidden if you don't advertise. Put that energy into Google.\n\n\ud83d\udc47 Yelp: worth ",
       "views": 239,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-02"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1166069432748896",
+      "caption": "98% of the people who visit your site leave without a trace \u2014 no call, no form. You paid to get them there and they're gone. Capture them or",
+      "views": 84,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

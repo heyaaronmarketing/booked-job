@@ -2,6 +2,36 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
+
+🎥 Watch the full video: youtu.be/f8UlH6B8rsc
+
+🌐 Learn more: cosmarketingagency.com/cleaning-ser...
+.
+.
+#CleaningCompanyMarketing
+  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
+
+- **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
+
+An Adelaide electrician asked me that. Then admitted the website was ordinary.
+
+His business wasn't on the map. His site sat on page two.
+
+
+  → https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f
+
+- **@thejokebot.bsky.social**: Why did the electrician close his shop?
+
+Business was no longer current.
+
+#dadjoke #mumjokes #humor
+  → https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j
+
+- **@schlumbrechtselec.bsky.social**: Need help with electrical work at your business? Schlumbrecht's Electric provides Commercial electrician service to help keep your workplace safe and your electrical systems working properly.
+Contact 
+  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mzz7kptaik2o
+
 - **@riotcoder.social.w3bs.org**: Local builders, one at a time: Latala Homes, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 893558, active when we checked.
 
 https://pit.wo
@@ -187,23 +217,3 @@ $97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
 
 #boldthemes #electrician #handyman #plumbing #themeforest #wordpress #business #plumber #corporate #maintenance #contract
   → https://bsky.app/profile/stylelib.org/post/3mygeiu6lzd2y
-
-- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
-
-- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
-
-- **@stylelib.org**: Condo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824267 
-
-#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
-  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
-
-- **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
-
- https://themes.stylelib.org/?p=16710 
-
-#builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
-  → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
