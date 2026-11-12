@@ -98,6 +98,21 @@ tbody tr.rec td{background:color-mix(in srgb,var(--check) 12%,transparent)}
 .faqs dd{margin:6px 0 0}
 footer{padding-block:26px 40px;font-family:var(--mono);font-size:.72rem;color:var(--muted);line-height:1.8;letter-spacing:.03em}
 @media (max-width:560px){.claimbox .claim{max-width:100%}.claimbox .reject{position:static;display:inline-block;transform:rotate(-3deg);margin-bottom:12px}}
+.tape{margin:20px 0;border:2px solid var(--ink);background:var(--panel)}
+.tape .cap{display:flex;justify-content:space-between;align-items:center;gap:10px;background:var(--ink);color:var(--paper);font-family:var(--mono);font-size:.66rem;text-transform:uppercase;letter-spacing:.14em;padding:8px 12px}
+.tape .cap .dur{color:var(--paper);opacity:.75}
+.tape video{display:block;width:100%;max-height:72vh;background:#000;border-bottom:2px solid var(--ink)}
+.tape .vcap{font-family:var(--body);font-style:italic;color:var(--muted);font-size:.95rem;padding:12px 16px 4px}
+.tape details{padding:6px 16px 16px}
+.tape summary{font-family:var(--mono);font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:var(--stamp);cursor:pointer;padding:8px 0;list-style:none}
+.tape summary::-webkit-details-marker{display:none}
+.tape summary::before{content:"\25B8 ";color:var(--stamp)}
+.tape details[open] summary::before{content:"\25BE "}
+.tscript{margin:8px 0 0;border-top:1px solid var(--rule);padding-top:12px}
+.tscript .ln{display:flex;gap:10px;margin:7px 0;font-size:.95rem;line-height:1.5}
+.tscript .who{flex:0 0 78px;font-family:var(--mono);font-size:.6rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;padding-top:3px}
+.tscript .who.bot{color:var(--stamp)}.tscript .who.cust{color:var(--muted)}
+.tscript .div{font-family:var(--mono);font-size:.64rem;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);text-align:center;margin:12px 0;border-top:1px dashed var(--rule);padding-top:10px}
 """
 
 TOGGLE = """<script>(function(){var r=document.documentElement,b=null;function sd(){try{return matchMedia('(prefers-color-scheme: dark)').matches}catch(e){return false}}function c(){var t=r.getAttribute('data-theme');return t||(sd()?'dark':'light')}function l(){if(b)b.textContent=(c()==='dark'?'Paper':'Blueprint')}try{var s=localStorage.getItem('bj-theme');if(s)r.setAttribute('data-theme',s)}catch(e){}function i(){b=document.getElementById('themeToggle');if(!b)return;l();b.addEventListener('click',function(){var n=c()==='dark'?'light':'dark';r.setAttribute('data-theme',n);try{localStorage.setItem('bj-theme',n)}catch(e){}l()})}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',i);else i()})();</script>"""
@@ -151,6 +166,27 @@ def block_html(bk):
         intro=bk.get("intro_html","")
         outro=bk.get("outro_html","")
         return f'<section class="finding">{no}{h}{intro}<div class="ops"><ol>{steps}</ol></div>{outro}</section>'
+    if t == "videos":
+        tapes=""
+        for c in bk.get("clips",[]):
+            mp4=A(f"{B}/reels/{c['id']}.mp4"); jpg=A(f"{B}/reels/{c['id']}.jpg")
+            vcap=f'<p class="vcap">{T(c["caption"])}</p>' if c.get("caption") else ""
+            lines=""
+            for turn in c.get("transcript",[]):
+                if isinstance(turn,dict) and turn.get("divider"):
+                    lines+=f'<div class="div">{T(turn["divider"])}</div>'; continue
+                who,text=turn[0],turn[1]
+                cls="bot" if who.lower() in ("ai bot","bot","ai") else "cust"
+                lines+=f'<div class="ln"><span class="who {cls}">{T(who)}</span><span>{T(text)}</span></div>'
+            tapes+=(f'<figure class="tape">'
+                    f'<figcaption class="cap"><span>Field tape &middot; {T(c.get("tag","AI receptionist"))}</span>'
+                    f'<span class="dur">{T(c.get("human_dur",""))}</span></figcaption>'
+                    f'<video controls preload="none" playsinline poster="{jpg}">'
+                    f'<source src="{mp4}" type="video/mp4"></video>'
+                    f'{vcap}'
+                    f'<details><summary>Read the transcript</summary>'
+                    f'<div class="tscript">{lines}</div></details></figure>')
+        return f'<section class="finding">{no}{h}{bk.get("intro_html","")}{tapes}{bk.get("outro_html","")}</section>'
     return ""
 
 
@@ -168,6 +204,19 @@ def schema(spec):
     if spec.get("faq"):
         graph.append({"@type":"FAQPage","mainEntity":[
           {"@type":"Question","name":f["q"],"acceptedAnswer":{"@type":"Answer","text":f["a"]}} for f in spec["faq"]]})
+    # VideoObject for each embedded field tape → eligible for video rich results + readable by AI engines
+    for bk in spec.get("blocks",[]):
+        if bk.get("type")!="videos": continue
+        for c in bk.get("clips",[]):
+            tr=" ".join((t["divider"] if isinstance(t,dict) else f"{t[0]}: {t[1]}") for t in c.get("transcript",[]))
+            vo={"@type":"VideoObject","name":c.get("name",c.get("caption","")),
+                "description":c.get("desc",c.get("caption","")),
+                "thumbnailUrl":f"{B}/reels/{c['id']}.jpg","contentUrl":f"{B}/reels/{c['id']}.mp4",
+                "uploadDate":c.get("date",spec.get("date","2026-11-10")),
+                "publisher":{"@type":"Organization","name":"Booked Job","url":B+"/"},
+                "isPartOf":url,"transcript":tr}
+            if c.get("duration"): vo["duration"]=c["duration"]
+            graph.append(vo)
     return json.dumps({"@context":"https://schema.org","@graph":graph})
 
 
@@ -177,7 +226,7 @@ def render(spec):
     filing="".join(f'<span>{T(k)} <b>{T(v)}</b></span>' for k,v in fil.items())
     blocks="".join(block_html(b) for b in spec.get("blocks",[]))
     wo=spec.get("workorder",{})
-    aff="".join(f'<li><span class="k">{a.get("k","")}</span><a href="{A(a.get("href",B))}" target="_blank" rel="noopener nofollow">{T(a.get("cta","See &#8594;"))}</a></li>' for a in spec.get("affiliates",[]))
+    aff="".join(f'<li><span class="k">{a.get("k","")}</span><a href="{A(a.get("href",B))}" target="_blank" rel="noopener nofollow">{T(html.unescape(a.get("cta","See →")))}</a></li>' for a in spec.get("affiliates",[]))
     faq=""
     if spec.get("faq"):
         items="".join(f'<dt>{T(f["q"])}</dt><dd>{T(f["a"])}</dd>' for f in spec["faq"])
