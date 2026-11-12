@@ -115,8 +115,8 @@ function renderSignups(d){
   const top=(s.top_sources||[]).slice(0,5).map(x=>`<div class="adrow"><span class="k">${x.page}</span><span>${x.n}</span></div>`).join('')
     ||'<div class="adrow"><span class="k">No signups tracked yet — traffic + capture just went live</span><span>0</span></div>';
   el.innerHTML=`<div class="panel"><div class="eyebrow">📧 Newsletter goal — 1,000 ICP signups in 90 days</div>
-    <div style="display:flex;align-items:baseline;gap:10px;margin:6px 0"><div style="font-family:Anton,sans-serif;font-size:42px;color:#FF6A00">${s.total||0}</div><div style="color:#8b9098">/ ${s.goal||1000} · ${pct}%</div></div>
-    <div style="height:10px;background:#23262b;border-radius:6px;overflow:hidden;margin:8px 0 16px"><div style="height:100%;width:${pct}%;background:linear-gradient(90deg,#FF6A00,#FFD23F)"></div></div>
+    <div style="display:flex;align-items:baseline;gap:10px;margin:6px 0"><div style="font-family:'Bricolage Grotesque', Georgia, serif;font-size:42px;color:#a62d1a">${s.total||0}</div><div style="color:#8b9098">/ ${s.goal||1000} · ${pct}%</div></div>
+    <div style="height:10px;background:#23262b;border-radius:6px;overflow:hidden;margin:8px 0 16px"><div style="height:100%;width:${pct}%;background:linear-gradient(90deg,#a62d1a,#c8321b)"></div></div>
     <div class="eyebrow" style="font-size:11px;margin-bottom:6px">Top converting pages</div>${top}</div>`;
 }
 function renderSearch(d){
@@ -145,7 +145,7 @@ function renderSearch(d){
     bufPanel=`<div class="panel" style="margin-top:14px"><div class="eyebrow">📣 Buffer channels — last 30 days</div>${rows||'<div class="adrow"><span class="k">No channels</span><span>—</span></div>'}</div>`;
   }
   el.innerHTML=`<div class="panel"><div class="eyebrow">🔎 Organic search (SEO) — last 28 days</div>
-    <div style="display:flex;align-items:baseline;gap:10px;margin:6px 0"><div style="font-family:Anton,sans-serif;font-size:42px;color:#FF6A00">${s.total_clicks||0}</div><div style="color:#8b9098">clicks · ${s.total_impressions||0} impressions</div></div>
+    <div style="display:flex;align-items:baseline;gap:10px;margin:6px 0"><div style="font-family:'Bricolage Grotesque', Georgia, serif;font-size:42px;color:#a62d1a">${s.total_clicks||0}</div><div style="color:#8b9098">clicks · ${s.total_impressions||0} impressions</div></div>
     ${eng('Google',s.google)}${eng('Bing',s.bing)}${cfRow}
     <div class="eyebrow" style="font-size:11px;margin:12px 0 6px">Top queries</div>${q}</div>${bufPanel}`;
 }
@@ -159,7 +159,7 @@ function renderAds(d){
     badge.style.display='inline-flex';
     badge.style.cssText+=';align-items:center;gap:8px;padding:6px 12px;border-radius:999px;font-weight:700;font-size:13px;'
       +(live?'background:rgba(46,204,113,.15);color:#2ecc71;border:1px solid #2ecc71'
-             :'background:rgba(255,106,0,.12);color:#FF6A00;border:1px solid #FF6A00');
+             :'background:rgba(255,106,0,.12);color:#a62d1a;border:1px solid #a62d1a');
     badge.innerHTML=(live?'🟢 Ads ACTIVE':'⏸️ Ads PAUSED')
       +` · 💰 <b>${spent}</b> spent`+(live&&a.daily_budget?` · $${a.daily_budget.toFixed(0)}/day`:'');
   }

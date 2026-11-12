@@ -1,6 +1,6 @@
 :root{
-  --hi:#FF6A00; --hi2:#FF8A2B; --asphalt:#0F1113; --asphalt2:#15171A;
-  --card:#1A1E22; --card2:#202529; --line:#2A2F36; --yellow:#FFD23F;
+  --hi:#a62d1a; --hi2:#FF8A2B; --asphalt:#0F1113; --asphalt2:#0e2235;
+  --card:#1A1E22; --card2:#202529; --line:#2A2F36; --yellow:#c8321b;
   --ink:#F4F2EE; --muted:#8A8F97; --green:#22C55E;
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -17,8 +17,8 @@ header{padding:26px 0 6px}
 .htop{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
 .brand{display:flex;align-items:center;gap:12px}
 .mark{width:44px;height:44px;border-radius:10px;background:var(--hi);display:grid;place-items:center;
-      font-family:Anton,sans-serif;color:var(--asphalt);font-size:30px;transform:skewX(-6deg)}
-.brand h1{font-family:Anton,sans-serif;font-size:26px;letter-spacing:.02em;text-transform:uppercase;line-height:1}
+      font-family:'Bricolage Grotesque', Georgia, serif;color:var(--asphalt);font-size:30px;transform:skewX(-6deg)}
+.brand h1{font-family:'Bricolage Grotesque', Georgia, serif;font-size:26px;letter-spacing:.02em;text-transform:uppercase;line-height:1}
 .brand h1 span{color:var(--hi)}
 .brand .sub{color:var(--muted);font-size:13px;margin-top:2px}
 .live{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
@@ -37,7 +37,7 @@ header{padding:26px 0 6px}
 .ccard:before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:var(--st,#22C55E)}
 .cc-top{display:flex;justify-content:space-between;align-items:center}
 .cc-emo{font-size:20px}
-.cc-val{font-family:Anton,sans-serif;font-size:30px;line-height:1.05;margin-top:8px}
+.cc-val{font-family:'Bricolage Grotesque', Georgia, serif;font-size:30px;line-height:1.05;margin-top:8px}
 .cc-lab{font-size:13px;font-weight:700;margin-top:3px}
 .cc-sub{font-size:11px;color:var(--muted);text-transform:capitalize;margin-top:1px}
 /* group headers span the full grid row */
@@ -47,7 +47,7 @@ header{padding:26px 0 6px}
 .scard .cc-lab{margin-top:8px}
 .smetrics{display:grid;grid-template-columns:1fr 1fr;gap:9px 10px;margin-top:12px}
 .sm{display:flex;flex-direction:column}
-.smv{font-family:Anton,sans-serif;font-size:21px;line-height:1}
+.smv{font-family:'Bricolage Grotesque', Georgia, serif;font-size:21px;line-height:1}
 .smk{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.03em;margin-top:2px}
 /* content runway */
 #runway{display:flex;flex-direction:column;gap:9px}
@@ -80,7 +80,7 @@ header{padding:26px 0 6px}
 .stat{background:linear-gradient(160deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:16px;padding:18px 16px;position:relative;overflow:hidden}
 .stat:before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:var(--hi)}
 .stat .label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
-.stat .val{font-family:Anton,sans-serif;font-size:38px;line-height:1.05;margin-top:8px}
+.stat .val{font-family:'Bricolage Grotesque', Georgia, serif;font-size:38px;line-height:1.05;margin-top:8px}
 @media(max-width:560px){.stats{grid-template-columns:repeat(2,1fr)}}
 
 .cols{display:grid;grid-template-columns:1.3fr 1fr;gap:22px;margin-top:8px}
@@ -169,7 +169,7 @@ header{padding:26px 0 6px}
 .ag{display:flex;gap:12px;align-items:center;padding:11px 0;border-bottom:1px solid var(--line)}
 .ag:last-child{border-bottom:0}
 .ag .date{flex-shrink:0;width:46px;text-align:center;background:var(--asphalt2);border:1px solid var(--line);border-radius:9px;padding:6px 0;line-height:1}
-.ag .date .d{font-family:Anton,sans-serif;font-size:18px}
+.ag .date .d{font-family:'Bricolage Grotesque', Georgia, serif;font-size:18px}
 .ag .date .m{font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .ag .em{font-size:16px}
 .ag .t{font-size:13.5px;font-weight:600;line-height:1.3}
@@ -182,7 +182,7 @@ header{padding:26px 0 6px}
 .coach{background:linear-gradient(135deg,rgba(255,106,0,.10),var(--card) 55%);border-color:rgba(255,106,0,.35)}
 .coachtop{display:flex;gap:13px;align-items:center;margin-bottom:10px}
 .coachtop .ce{font-size:26px}
-.coachtop .ch{font-family:Anton,sans-serif;text-transform:uppercase;font-size:19px;line-height:1.1}
+.coachtop .ch{font-family:'Bricolage Grotesque', Georgia, serif;text-transform:uppercase;font-size:19px;line-height:1.1}
 .coachtop .cu{font-size:11px;color:var(--muted);margin-top:2px;font-family:'JetBrains Mono',monospace}
 .coach .cr{font-size:14px;line-height:1.6;color:#d7dade}
 .coach .nm{display:flex;gap:10px;align-items:flex-start;margin-top:14px;padding-top:14px;border-top:1px solid var(--line);font-size:14px;line-height:1.55}
@@ -190,7 +190,7 @@ header{padding:26px 0 6px}
 
 /* letter grades */
 .gcolor-A{color:#22c55e}.gcolor-B{color:#84cc16}.gcolor-C{color:#eab308}.gcolor-D{color:#f97316}.gcolor-F{color:#ef4444}
-.cc-grade{font-family:Anton,sans-serif;font-size:15px;line-height:1}
+.cc-grade{font-family:'Bricolage Grotesque', Georgia, serif;font-size:15px;line-height:1}
 
 /* mafia toggle */
 .modebar{display:flex;justify-content:flex-end;margin:18px 0 0}
@@ -203,21 +203,21 @@ header{padding:26px 0 6px}
 
 /* mafia view */
 .mafia-hero{display:flex;align-items:center;gap:24px;flex-wrap:wrap}
-.mafia-grade{font-family:Anton,sans-serif;font-size:104px;line-height:.85;width:150px;text-align:center}
+.mafia-grade{font-family:'Bricolage Grotesque', Georgia, serif;font-size:104px;line-height:.85;width:150px;text-align:center}
 .mafia-hero .ttl{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;font-weight:700;margin-bottom:6px}
 .mafia-hero p{font-size:15px;line-height:1.65;color:#d7dade}
 .mcards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:18px}
 @media(max-width:680px){.mcards{grid-template-columns:1fr 1fr}}
 .mcard{background:var(--card2);border:1px solid var(--line);border-radius:14px;padding:18px 14px;text-align:center}
 .mcard .ml{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
-.mcard .mv{font-family:Anton,sans-serif;font-size:36px;line-height:1;margin:8px 0 6px}
-.mcard .mg{font-family:Anton,sans-serif;font-size:44px;line-height:1}
+.mcard .mv{font-family:'Bricolage Grotesque', Georgia, serif;font-size:36px;line-height:1;margin:8px 0 6px}
+.mcard .mg{font-family:'Bricolage Grotesque', Georgia, serif;font-size:44px;line-height:1}
 
 /* tasks page */
 .gradebar{display:flex;align-items:center;gap:26px;flex-wrap:wrap}
 .gbox{text-align:center}
 .gbox .gl{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;font-weight:700}
-.gbox .gbig{font-family:Anton,sans-serif;font-size:64px;line-height:.9}
+.gbox .gbig{font-family:'Bricolage Grotesque', Georgia, serif;font-size:64px;line-height:.9}
 .gbox .gpctt{font-size:12px;color:var(--muted)}
 .gnote{font-size:12px;color:var(--muted)}
 .task{display:flex;gap:13px;padding:13px 0;border-bottom:1px solid var(--line);align-items:flex-start}
