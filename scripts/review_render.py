@@ -217,7 +217,50 @@ def schema(spec):
                 "isPartOf":url,"transcript":tr}
             if c.get("duration"): vo["duration"]=c["duration"]
             graph.append(vo)
+    # Review schema for single-product reviews (star snippets + structured verdict for AI engines).
+    # Category/comparison pages (ai-receptionist-worth-it, best-*, *-for-plumbers, *-vs-*) stay Article-only.
+    prod = PRODUCTS.get(spec["slug"])
+    if prod:
+        name, itype = prod
+        rating = verdict_rating(spec.get("verdict_stamp", ""))
+        if rating:
+            graph.append({"@type":"Review","name":plain,
+                "itemReviewed":{"@type":itype,"name":name},
+                "author":{"@type":"Organization","name":"Booked Job"},
+                "publisher":{"@type":"Organization","name":"Booked Job","url":B+"/"},
+                "datePublished":spec.get("date","2026-11-10"),
+                "reviewRating":{"@type":"Rating","ratingValue":rating,"bestRating":5,"worstRating":1},
+                "reviewBody":re.sub("<[^>]+>","",spec.get("verdict_text",spec.get("meta","")))[:300],
+                "url":url})
     return json.dumps({"@context":"https://schema.org","@graph":graph})
+
+
+# Single-product reviews only — name + schema.org type of the thing reviewed.
+PRODUCTS = {
+    "jobber-review": ("Jobber", "SoftwareApplication"),
+    "housecall-pro-review": ("Housecall Pro", "SoftwareApplication"),
+    "servicetitan-review": ("ServiceTitan", "SoftwareApplication"),
+    "workiz-review": ("Workiz", "SoftwareApplication"),
+    "goodcall-review": ("Goodcall", "SoftwareApplication"),
+    "rosie-ai-review": ("Rosie", "SoftwareApplication"),
+    "smith-ai-review": ("Smith.ai", "Service"),
+    "is-angi-worth-it-for-contractors": ("Angi Leads", "Service"),
+    "is-thumbtack-worth-it-for-contractors": ("Thumbtack", "Service"),
+    "is-homeadvisor-worth-it-for-contractors": ("HomeAdvisor", "Service"),
+}
+
+def verdict_rating(stamp):
+    """Map an honest editorial verdict stamp to a 1-5 rating. No rating → no Review node."""
+    s = re.sub("<[^>]+>", " ", stamp or "").lower()
+    pairs = [("buy it", 4.5), ("great for", 4.0), ("cheapest honest", 3.5), ("easy, with", 3.5),
+             ("only if you work", 3.0), ("least-bad", 3.0), ("depends", 3.0),
+             ("not yet", 2.5), ("not for small", 2.5), ("mostly no", 2.0), ("skip", 2.0)]
+    for k, v in pairs:
+        if k in s:
+            return v
+    if "no" in s.split():
+        return 1.5
+    return None
 
 
 def render(spec):
