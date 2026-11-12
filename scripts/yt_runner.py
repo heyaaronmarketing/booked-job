@@ -20,8 +20,9 @@ STATE = os.path.join(ROOT, "content", "yt_state.json")
 LOG = os.path.join(ROOT, "content", "youtube.log")
 OUTDIR = os.path.join(ROOT, "content", "shorts")
 
-POST_DAYS = {0, 2, 4}   # Mon, Wed, Fri
-WINDOW = (8, 12)
+POST_DAYS = {0, 1, 2, 3, 4, 5, 6}   # DAILY (2026-11-12, Aaron): YouTube Shorts is the top channel
+WINDOW = (8, 20)                     # (ER 2.59% vs FB 0.09%) and had 64 pre-rendered Shorts queued and
+GAP_HOURS = 10                       # starved at 3/wk. Unthrottled to ~1-2/day — queue = ~5-6 wks runway.
 
 
 def log(m):
@@ -63,8 +64,8 @@ def main():
             log(f"skip: outside window {WINDOW}"); return
         if state.get("last_iso"):
             gap = (now - dt.datetime.fromisoformat(state["last_iso"])).total_seconds() / 3600
-            if gap < 30:
-                log(f"skip: only {gap:.0f}h since last Short"); return
+            if gap < GAP_HOURS:
+                log(f"skip: only {gap:.0f}h since last Short (gap {GAP_HOURS}h)"); return
 
     out = os.path.join(OUTDIR, f"{nxt['id']}.mp4")
     pre = nxt.get("video")

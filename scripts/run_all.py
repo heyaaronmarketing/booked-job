@@ -23,22 +23,21 @@ AGENTS = [
     ("publisher.py", []), ("ig_runner.py", []),
     ("reel_runner.py", []), ("reel_story_runner.py", []), ("story_runner.py", []),
     ("video_pool_runner.py", []),
-    ("blogger_runner.py", []), ("tumblr_runner.py", []), ("telegraph_runner.py", []), ("github_pages_runner.py", []),
-    ("bluesky_runner.py", []), ("mastodon_runner.py", []), ("threads_runner.py", []),
-    # ("buffer_runner.py", []),  # KILLED 2026-11-09 (Aaron: cut LinkedIn — 76 posts/30d, 2 reactions)
+    ("blogger_runner.py", []), ("telegraph_runner.py", []),
+    # REMOVED 2026-11-12 (Aaron): tumblr_runner (dead token), github_pages_runner (401 token),
+    # threads_runner (596 consecutive failures, expired app access). Reconnect before re-adding.
+    ("bluesky_runner.py", []), ("mastodon_runner.py", []),
+    # LinkedIn KILLED (Aaron): buffer_runner + buffer_carousel removed 2026-11-09/11-12.
     ("buffer_tiktok_runner.py", []),
-    # ("buffer_carousel_runner.py", []),  # KILLED 2026-11-09 (Aaron: cut LinkedIn docs)
     ("buffer_tiktok_carousel_runner.py", []),
     ("fb_carousel_runner.py", []), ("ig_carousel_runner.py", []),
     ("image_pool_runner.py", []),
-    # ("pinterest_buffer_runner.py", []),  # KILLED 2026-11-09 (Aaron: kill Pinterest — 0 engagement, broken pipeline)
-    ("email_drip_runner.py", []),
-    # ("backlink_outreach.py", []),  # PAUSED 2026-09-10 (Aaron: stop email outreach) — sender OFF
-    ("outreach_inbox.py", []),      # surface replies to hello@booked-job.com (read-only; sends nothing)
-    # ("outreach_reply.py", []),    # PAUSED 2026-09-10 (Aaron: stop email outreach) — autonomous replier OFF
+    # Pinterest KILLED (Aaron): pinterest_buffer_runner removed 2026-11-09/11-12 (0 engagement).
+    ("email_drip_runner.py", []),   # opt-in subscriber newsletter drip — NOT cold outreach, kept.
+    # Email OUTREACH removed 2026-11-12 (Aaron): backlink_outreach, outreach_reply, outreach_inbox all gone.
     ("bluesky_feed_refresh.py", []), ("yt_runner.py", []),
     ("podcast_runner.py", []),  # video→YouTube long-form (own queue: podcast_video_queue.json)
-    ("bluesky_engage.py", []), ("threads_engage.py", []), ("fb_engage.py", []),
+    ("bluesky_engage.py", []), ("fb_engage.py", []),
     ("ig_engage.py", []), ("youtube_engage.py", []), ("ig_dm_inbox.py", []),
     ("fb_report.py", []),
     ("build_recent.py", []),
