@@ -6,7 +6,7 @@
   <link>https://booked-job.com/podcast/</link>
   <language>en-us</language>
   <copyright>&#169; Booked Job</copyright>
-  <lastBuildDate>Tue, 30 Jun 2026 09:30:00 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 09:00:00 GMT</lastBuildDate>
   <description>The no-BS marketing show for home-service contractors. Two old tradesmen and an idiot apprentice tell you how to get found, get picked, and get booked &#8212; without getting screwed by the marketing industry. Raunchy, real, and occasionally educational.</description>
   <itunes:summary>No-BS marketing for plumbers, HVAC, roofers, electricians and tree guys. Get found, get picked, get booked.</itunes:summary>
   <itunes:author>Booked Job</itunes:author>
@@ -21,6 +21,20 @@
   </image>
   <itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
   <itunes:category text="Comedy"/>
+  <item>
+    <title>Ep. 4 — Fire the Bot (Is an AI Receptionist Worth It?)</title>
+    <itunes:title>Fire the Bot (Is an AI Receptionist Worth It?)</itunes:title>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <description>Cody fired himself and let an AI receptionist answer the phone. It booked a leak for 40 Elm Street at 2 AM, quoted a full roof at seven dollars, and offered a stranger 40% off. Marshall on why a phantom booking is worse than a missed call, why you legally own whatever your bot promises (ask Air Canada), and the thirty-dollar fix that beats a three-hundred-dollar robot. Fire the bot.</description>
+    <itunes:summary>Cody fired himself and let an AI receptionist answer the phone. It booked a leak for 40 Elm Street at 2 AM, quoted a full roof at seven dollars, and offered a stranger 40% off. Marshall on why a phantom booking is worse than a missed call, why you legally own whatever your bot promises (ask Air Canada), and the thirty-dollar fix that beats a three-hundred-dollar robot. Fire the bot.</itunes:summary>
+    <itunes:author>Booked Job</itunes:author>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:duration>00:06:30</itunes:duration>
+    <enclosure url="https://booked-job.com/podcast/ep04.mp3" length="9369017" type="audio/mpeg"/>
+    <guid isPermaLink="false">bookedjob-podcast-ep04</guid>
+    <pubDate>Thu, 12 Nov 2026 09:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Ep. 3 — Answer Your Phone (Speed to Lead)</title>
     <itunes:title>Answer Your Phone (Speed to Lead)</itunes:title>

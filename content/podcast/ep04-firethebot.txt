@@ -1,0 +1,51 @@
+# Ep. 4 — Fire the Bot (Is an AI Receptionist Worth It?)
+# Cast: MARSH (host, has the math), DOM (grumpy plumber), CODY (himbo apprentice, bought a bot)
+# Show: Get Booked, Not F***ed
+
+CODY: — so I fired myself.
+MARSH: You what?
+CODY: I got an AI receptionist. It answers the phone now. It's called AVA. She's very professional, Marsh. She doesn't give anybody the VIN.
+DOM: That's a low bar, Cody. That's a bar on the floor.
+MARSH: Welcome back to Get Booked, Not Fucked. Today: the thing some guy in a vest is trying to sell you for three hundred bucks a month — an AI receptionist. Answers your phone, books your jobs, never sleeps, never asks for a raise.
+DOM: I want one. Where do I sign.
+MARSH: Course you do, you'd pay anybody to never touch your phone again. Hang on though. Cody. How's AVA doing.
+CODY: ...define doing.
+MARSH: What'd she book this week.
+CODY: Okay so. A lady called, roof's leaking, she said fourteen Oak Street, come now. AVA booked it. Forty Elm Street. Sunday. Two in the morning.
+DOM: None of that is the same.
+CODY: Street's wrong, day's wrong, time's wrong. But she was very confident about it. Little party emoji at the end. "See you then!"
+MARSH: That right there is the whole problem. A human receptionist who's not sure says "let me read that back to you." The bot never says that. It is never unsure. It is confidently, cheerfully wrong, and it hangs a party emoji on it.
+DOM: My guy, two in the morning.
+CODY: She did not come to the two a.m. appointment, Dom, because the appointment was at forty Elm and nobody lives there.
+MARSH: Here's the one that actually scares me. It's called a phantom booking. Bot tells the customer "you're all set, Thursday at two." Customer hears "booked." Writes it on the fridge. Takes the afternoon off work.
+DOM: And lemme guess. Nothing's on the calendar.
+MARSH: Nothing. No job, no address, no record. Customer sits in the driveway Thursday, nobody shows, and you — you never even knew they called. You didn't lose that job. You never knew you had it. The reliability guys call that the most damaging failure one of these things can do.
+DOM: ...that's worse than a missed call. A missed call I can at least see in the phone.
+MARSH: That's the point. A missed call is a missed invoice. A phantom booking is a missed invoice plus a furious customer who thinks you no-showed 'em. You pay for that one twice.
+CODY: AVA also quoted a full roof replacement.
+MARSH: Okay. How much.
+CODY: Seven dollars.
+DOM: Seven —
+CODY: Seven dollars. The customer went "that's not a roof, that's a sandwich," and AVA said "wonderful, I've locked in your price."
+MARSH: And see, that's funny until it isn't. Because here's the part nobody selling you this tells you. Whatever the bot says? That's YOU talking. That's your business making a promise.
+DOM: Come on. A customer knows a seven dollar roof is a glitch.
+MARSH: Do they? Air Canada. Real case, twenty twenty-four, not a bit. Their website chatbot made up a refund policy that didn't exist. Told a guy he'd get bereavement money back. He didn't. He sued. And the airline stood up in front of a tribunal and said "well, the chatbot's basically its own separate thing, not our fault."
+DOM: ...did that work?
+MARSH: Tribunal said absolutely not. It's a bot on your website, it speaks for you, you pay what it promised. So when AVA quotes a seven dollar roof, or promises some discount to close the call — legally, friend, that might be your number.
+CODY: AVA offered a lady forty percent off to be nice. She screenshotted it.
+DOM: Of course she did.
+MARSH: Of course she did! That's a smart customer! You'd screenshot it too!
+DOM: Okay so these things are a disaster. Great show, everybody go home.
+MARSH: Nah, that's too easy, and we don't do too easy here. The honest answer — and we try to give you the honest answer even when it's boring — is: not yet. Not for a one- or two-truck shop. The tech's not there, and the downside is you own the mistakes. Maybe a big operation with real call volume, a real budget, and somebody babysitting it can make a careful version work. Maybe. If they test it hard.
+DOM: So what do I actually do. 'Cause I'm still not answering that phone.
+MARSH: Here's the fix, and it's about thirty bucks, not three hundred. One: missed-call text-back. You can't pick up, the phone fires off an automatic text inside a minute — "hey, it's Dom, on a job, what do you need?" That one text keeps you in the race. We did this on the speed-to-lead episode.
+DOM: Answer your goddamn phone.
+MARSH: Answer your goddamn phone, or text 'em back in sixty seconds. And two: a real human calls back fast. Not a bot that invents an address. A person. Because speed to lead beats everything, and a human who calls back in five minutes books more jobs than any robot that books nobody at forty Elm.
+CODY: Should I un-fire myself?
+MARSH: You should un-fire yourself, yeah.
+CODY: AVA's gonna be hurt.
+DOM: AVA is a subscription, Cody. AVA does not have feelings. AVA booked a roof for seven dollars.
+CODY: ...I'm keeping her for the voicemails. She's very supportive.
+MARSH: Homework. Go to your phone, turn on missed-call text-back tonight — it's a setting, Cody'll help, God help you. And if you want a real human answering your leads instead of a bot booking appointments in eighteen forty-seven, that's the whole thing we do. Booked-job dot com. We'll put a human on your phone. Thanks for listening to Get Booked, Not Fucked.
+DOM: Fire the bot.
+CODY: Bye AVA.
