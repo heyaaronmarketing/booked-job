@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bsky.scrapers.lat**: Need contractor leads or compliance insights? Our Washington L&I Contractor Scraper extracts licenses, bonds, insurance, and more. Perfect for analysts and risk assessors. #DataExtraction #ComplianceT
+  → https://bsky.app/profile/bsky.scrapers.lat/post/3mzfvmsqq2s2l
+
+- **@carterenterprise.bsky.social**: That 40% boost in qualified leads for the Houston spray foam contractor in 3 months stood out to me. How do you check what ChatGPT or the AI engines say about your clients today?
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3mzmisvzrwc2l
+
 - **@peakadvisory.bsky.social**: When does your growing business need more than bookkeeping? 
 Discover how CFO services help trades businesses plan cash flow, manage budgets, and make confident financial decisions. 
 
@@ -205,18 +211,3 @@ An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each us
 
 #electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
   → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
-
-- **@gimsresults.bsky.social**: One job this week.
-
-Search what you do plus your town, like a customer. "electrician Mount Barker". "dentist Ipswich".
-
-On the map? Check your number and hours.
-Missing? Claim your free Google Busines
-  → https://bsky.app/profile/gimsresults.bsky.social/post/3mzd73tfe3f2y
-
-- **@stylelib.org**: Builderry – Construction and Building WordPress Theme
-
- https://stylelib.org/?p=164678 
-
-#buildingcompany #themeforest #webgeniuslab #wordpress #architecture #business #plumber #company #corporate #in
-  → https://bsky.app/profile/stylelib.org/post/3mzdikzoz7m2d

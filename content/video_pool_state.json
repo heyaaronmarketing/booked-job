@@ -63,11 +63,12 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-11-11T12:49:30",
+    "last_iso": "2026-11-12T12:22:18",
     "day": {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "count": 1
     }
   },
@@ -96,12 +97,13 @@
       "bj-angi",
       "bj-reviews",
       "bj-trade",
-      "bj-slow"
+      "bj-slow",
+      "bj-cpbj"
     ],
-    "last_iso": "2026-11-11T19:40:06",
+    "last_iso": "2026-11-12T12:22:18",
     "day": {
-      "date": "2026-11-11",
-      "count": 2
+      "date": "2026-11-12",
+      "count": 1
     }
   },
   "linkedin": {
@@ -125,12 +127,13 @@
       "pod-ep01-refunds",
       "pod-ep01-cost",
       "pod-ep01-wrongnum",
-      "pod-ep01-shared"
+      "pod-ep01-shared",
+      "bj-angi"
     ],
-    "last_iso": "2026-11-11T19:40:06",
+    "last_iso": "2026-11-12T12:22:18",
     "day": {
-      "date": "2026-11-11",
-      "count": 2
+      "date": "2026-11-12",
+      "count": 1
     }
   },
   "facebook": {
@@ -194,12 +197,13 @@
       "clip1-turd",
       "clip2-game",
       "clip3-onestar",
-      "is-angi-worth-it"
+      "is-angi-worth-it",
+      "money-leaks-torque"
     ],
-    "last_iso": "2026-11-11T19:40:06",
+    "last_iso": "2026-11-12T12:22:18",
     "day": {
-      "date": "2026-11-11",
-      "count": 2
+      "date": "2026-11-12",
+      "count": 1
     }
   },
   "pinterest": {
@@ -249,12 +253,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-11-11T19:40:06",
+    "last_iso": "2026-11-12T12:22:18",
     "day": {
-      "date": "2026-11-11",
-      "count": 2
+      "date": "2026-11-12",
+      "count": 1
     }
   },
   "telegram": {
@@ -311,12 +316,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-11-11T19:40:06",
+    "last_iso": "2026-11-12T12:22:18",
     "day": {
-      "date": "2026-11-11",
-      "count": 2
+      "date": "2026-11-12",
+      "count": 1
     }
   }
 }

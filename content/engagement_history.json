@@ -63,14 +63,14 @@
     "date": "2026-11-12",
     "channels": {
       "FB Reels": {
-        "views": 3255,
+        "views": 3259,
         "engagements": 3,
         "er": 0.09
       },
       "YT Shorts": {
-        "views": 1160,
-        "engagements": 30,
-        "er": 2.59
+        "views": 378,
+        "engagements": 25,
+        "er": 6.61
       },
       "TikTok": {
         "views": 155,

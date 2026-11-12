@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "ts": "2026-11-12T12:24",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published YouTube Short: First 50 reviews, no begging"
+    },
+    {
+      "ts": "2026-11-12T12:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: AI Receptionist vs Missed-Call Text-Back: Do the Math"
+    },
+    {
+      "ts": "2026-11-12T12:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner youtube"
+    },
+    {
+      "ts": "2026-11-12T12:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: AI Receptionist vs Missed-Call Text-Back: Do the Math"
+    },
+    {
+      "ts": "2026-11-12T12:23",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): AI Receptionist vs Missed-Call Text-Back: Do the Math"
+    },
+    {
+      "ts": "2026-11-12T12:22",
+      "kind": "reel",
+      "icon": "🎬",
+      "text": "Published Reel: AI receptionist fail"
+    },
+    {
       "ts": "2026-11-12T03:44",
       "kind": "site",
       "icon": "🌐",
@@ -1163,42 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: pricing insurance"
-    },
-    {
-      "ts": "2026-10-27T05:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: ugc before after"
-    },
-    {
-      "ts": "2026-10-26T23:52",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing pick two"
-    },
-    {
-      "ts": "2026-10-26T23:52",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: ba nobody sees"
-    },
-    {
-      "ts": "2026-10-26T23:52",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy diy"
-    },
-    {
-      "ts": "2026-10-26T18:58",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: biz gbp stale"
-    },
-    {
-      "ts": "2026-10-26T18:58",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: lastguy flextape"
     }
   ]
 }

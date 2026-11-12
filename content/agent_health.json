@@ -35,7 +35,7 @@
   "youtube_engage.py": 0,
   "ig_dm_inbox.py": 0,
   "fb_report.py": 0,
-  "blog_drip_runner.py": 8,
+  "blog_drip_runner.py": 0,
   "nightly_review.py": 0,
   "health_alert.py": 0,
   "image_pool_runner.py": 0,
@@ -46,5 +46,7 @@
   "backlink_outreach.py": 0,
   "outreach_inbox.py": 0,
   "outreach_reply.py": 0,
-  "engagement_tracker.py": 0
+  "engagement_tracker.py": 0,
+  "rank_queues.py": 0,
+  "review_render.py": 0
 }
