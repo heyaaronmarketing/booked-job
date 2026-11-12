@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:28",
+  "updated": "2026-11-12T03:43",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -151,7 +151,7 @@
   "search": {
     "google": {
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 17,
       "ctr": 0,
       "position": 5.6,
       "top_queries": [
@@ -160,29 +160,17 @@
           "clicks": 0,
           "impressions": 4,
           "position": 3.2
-        },
-        {
-          "query": "life coach in onalaska",
-          "clicks": 0,
-          "impressions": 1,
-          "position": 11
-        },
-        {
-          "query": "onalaska life coach",
-          "clicks": 0,
-          "impressions": 1,
-          "position": 1
         }
       ],
       "days": 28
     },
     "cloudflare": {
-      "pageviews_daily": 585,
-      "pageviews_weekly": 6041,
-      "pageviews_monthly": 8325
+      "pageviews_daily": 726,
+      "pageviews_weekly": 5351,
+      "pageviews_monthly": 8639
     },
     "total_clicks": 0,
-    "total_impressions": 19,
+    "total_impressions": 17,
     "configured": true
   },
   "buffer": {
@@ -441,7 +429,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1861,
+      "views": 1815,
       "followers": 19,
       "likes": 3
     },
@@ -452,7 +440,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1509,
+      "views": 1513,
       "followers": 1
     },
     {
@@ -493,9 +481,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 15,
+      "count": 16,
       "unit": "posts",
-      "followers": 341,
+      "followers": 346,
       "grade": "A",
       "group": "social",
       "likes": 14
@@ -605,7 +593,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Polls",
@@ -635,7 +623,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 3
+        "count": 5
       },
       {
         "type": "Long video",
@@ -691,7 +679,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Articles",
@@ -722,12 +710,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 15
+        "count": 16
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 37
+        "count": 38
       }
     ],
     "Mastodon": [
@@ -786,7 +774,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 37
+        "count": 38
       }
     ]
   },
@@ -828,16 +816,16 @@
     }
   ],
   "funnel": {
-    "reach": 35871,
+    "reach": 35837,
     "engagement": 3,
-    "audience": 371,
-    "cr_clicks": 188
+    "audience": 376,
+    "cr_clicks": 189
   },
   "trends": {
-    "audience": 34,
+    "audience": 39,
     "engagement": 1,
     "email": 0,
-    "reach": -328
+    "reach": -362
   },
   "mafia": {
     "metrics": [
@@ -848,12 +836,12 @@
       },
       {
         "label": "Total Clicks",
-        "value": 188,
+        "value": 189,
         "grade": "B"
       },
       {
         "label": "Total Posts",
-        "value": 1486,
+        "value": 1487,
         "grade": "A"
       },
       {
@@ -863,7 +851,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 371,
+        "value": 376,
         "grade": "B"
       },
       {
@@ -873,6 +861,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 371 audience and 188 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 376 audience and 189 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-11T19:28",
+  "generated": "2026-11-12T03:43",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 3224,
+      "views": 3255,
       "engagements": 3,
       "er": 0.09
     },
@@ -75,12 +75,12 @@
       "channel": "FB Reels",
       "id": "1183240727544718",
       "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
-      "views": 127,
+      "views": 141,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
       "engagements": 1,
-      "er": 0.79,
+      "er": 0.71,
       "date": "2026-11-11"
     },
     {
@@ -121,18 +121,6 @@
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "961907176579136",
-      "caption": "Roofers \u2014 just 144 reviews to rank #1 on Google. One season of asking. Your competition isn't. Go take the top spot.\n\n\ud83d\udc47 Roofers \u2014 you asking",
-      "views": 56,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-10-30"
-    },
     {
       "channel": "FB Reels",
       "id": "1739447763793859",
@@ -216,6 +204,18 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-02"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "39804317195849265",
+      "caption": "Shops miss about 1 in 7 calls. That customer isn't leaving a voicemail \u2014 they're dialing the next name on Google before you see the notifica",
+      "views": 291,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-03"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."

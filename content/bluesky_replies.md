@@ -2,6 +2,39 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@peakadvisory.bsky.social**: When does your growing business need more than bookkeeping? 
+Discover how CFO services help trades businesses plan cash flow, manage budgets, and make confident financial decisions. 
+
+Read more: peaka
+  → https://bsky.app/profile/peakadvisory.bsky.social/post/3n23wvjmufs2z
+
+- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
+
+- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
+  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
+
+- **@stylelib.org**: Condo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=824267 
+
+#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
+  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
+
+- **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
+
+ https://themes.stylelib.org/?p=16710 
+
+#builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
+  → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
+
+- **@stylelib.org**: Edifice – Construction, Building  Engineering WordPress Theme
+
+ https://themes.stylelib.org/?p=810542 
+
+#architecture #business #construction #electrician #elementor #engineering #handyman #maintenanc
+  → https://bsky.app/profile/stylelib.org/post/3n23mt4zflo2l
+
 - **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
 
 🎥 Watch the full video: youtu.be/f8UlH6B8rsc
@@ -187,33 +220,3 @@ Missing? Claim your free Google Busines
 
 #buildingcompany #themeforest #webgeniuslab #wordpress #architecture #business #plumber #company #corporate #in
   → https://bsky.app/profile/stylelib.org/post/3mzdikzoz7m2d
-
-- **@bsky.scrapers.lat**: Need contractor leads or compliance insights? Our Washington L&I Contractor Scraper extracts licenses, bonds, insurance, and more. Perfect for analysts and risk assessors. #DataExtraction #ComplianceT
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mzfvmsqq2s2l
-
-- **@carterenterprise.bsky.social**: That 40% boost in qualified leads for the Houston spray foam contractor in 3 months stood out to me. How do you check what ChatGPT or the AI engines say about your clients today?
-  → https://bsky.app/profile/carterenterprise.bsky.social/post/3mzmisvzrwc2l
-
-- **@teambrain.bsky.social**: If you run a trades business, the job you're slowest at probably isn't on the tools.
-
-It's the quote. Type rough notes on site, prices included, and ask ChatGPT or Claude for a clean, itemized quote. 
-  → https://bsky.app/profile/teambrain.bsky.social/post/3mznuejvohf2l
-
-- **@premarcu.bsky.social**: Built an invoice-reading agent for a Vienna trades business.
-
-The model took an afternoon. The rest was exceptions: a missing tax number, a page scanned at an angle.
-
-Next build is a review queue, not
-  → https://bsky.app/profile/premarcu.bsky.social/post/3mzpgv3sk3l22
-
-- **@curriergrowth.bsky.social**: Electricians: people search "panel upgrade" or "EV charger install." Profile only says "Electrician"? You can miss those calls.
-
-$97 Google Profile Tune-Up: every fix written for you + 10-min paste-in
-  → https://bsky.app/profile/curriergrowth.bsky.social/post/3myafejkqxa2r
-
-- **@stylelib.org**: ProHauz – Handyman  Plumber WordPress Theme
-
- https://stylelib.org/?p=103208 
-
-#boldthemes #electrician #handyman #plumbing #themeforest #wordpress #business #plumber #corporate #maintenance #contract
-  → https://bsky.app/profile/stylelib.org/post/3mygeiu6lzd2y
