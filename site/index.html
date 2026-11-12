@@ -1,215 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Booked Job — for service pros who'd rather be working</title>
-<meta name="description" content="Booked Job is the place for plumbers, roofers, HVAC techs and electricians. Real talk on getting more booked jobs, running a better shop, and the stuff only the trades understand." />
-<link rel="canonical" href="https://booked-job.com/" />
-<meta property="og:title" content="Booked Job — for the trades" />
-<meta property="og:description" content="More booked jobs. A better-run shop. And the stuff only we get." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://booked-job.com/" />
-<meta property="og:image" content="https://booked-job.com/assets/og.png" />
-<meta name="theme-color" content="#15171A" />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-<style>
-  :root{
-    --hi:#FF6A00;          /* hi-vis safety orange */
-    --hi-2:#FF8A2B;
-    --asphalt:#15171A;     /* near-black charcoal */
-    --asphalt-2:#1E2227;
-    --steel:#2A2F36;
-    --concrete:#F4F2EE;    /* warm off-white */
-    --paper:#FFFFFF;
-    --ink:#15171A;
-    --ink-2:#54585E;
-    --line:#E4E0D9;
-    --htape:#FFD23F;       /* caution yellow */
-  }
-  *{box-sizing:border-box;margin:0;padding:0}
-  html{scroll-behavior:smooth}
-  body{font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--paper);line-height:1.55;-webkit-font-smoothing:antialiased}
-  .wrap{max-width:1080px;margin:0 auto;padding:0 22px}
-  .display{font-family:Anton,Impact,sans-serif;font-weight:400;letter-spacing:.01em;line-height:.98;text-transform:uppercase}
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Booked Job — Honest reviews of the tools, apps & lead services sold to service pros</title>
+<meta name="description" content="We spend the money and tell you the truth about the AI tools, software, and lead services pitched to contractors — and what actually gets you booked. When the answer is 'spend $0', we say so.">
+<link rel="canonical" href="https://booked-job.com/">
+<meta property="og:type" content="website"><meta property="og:title" content="Booked Job — Honest field reports for service pros">
+<meta property="og:description" content="The truth about every tool, app, and lead service sold to you. We spend the money, read the real complaints, file the verdict.">
+<meta property="og:url" content="https://booked-job.com/"><meta name="theme-color" content="#0e2235">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap">
+<link rel="stylesheet" href="/assets/bookedjob.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Booked Job","url":"https://booked-job.com/","description":"Honest, data-backed reviews of the tools, apps, and lead services sold to service pros."}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FR77BS4NW5"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FR77BS4NW5');</script>
+</head><body>
+<div class="page"><div class="inner">
 
-  /* ===== Top bar ===== */
-  header{background:var(--asphalt);position:sticky;top:0;z-index:30}
-  .nav{display:flex;align-items:center;justify-content:space-between;height:62px}
-  .logo{display:flex;align-items:center;gap:10px;color:#fff;text-decoration:none}
-  .logo .mark{width:34px;height:34px;border-radius:7px;background:var(--hi);display:grid;place-items:center;font-family:Anton,sans-serif;color:var(--asphalt);font-size:22px;transform:skewX(-6deg)}
-  .logo b{font-family:Anton,sans-serif;font-size:21px;letter-spacing:.02em;text-transform:uppercase}
-  .logo b span{color:var(--hi)}
-  .nav a.cta{background:var(--hi);color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:9px 16px;border-radius:8px}
-  .nav a.cta:hover{background:var(--hi-2)}
-
-  /* caution tape strip */
-  .tape{height:9px;background:repeating-linear-gradient(45deg,var(--htape) 0 22px,var(--asphalt) 22px 44px)}
-
-  /* ===== Hero ===== */
-  .hero{background:var(--asphalt);color:#fff;padding:64px 0 72px;position:relative;overflow:hidden}
-  .hero:after{content:"";position:absolute;right:-120px;top:-60px;width:380px;height:380px;background:radial-gradient(circle,rgba(255,106,0,.16),transparent 70%)}
-  .kicker{display:inline-block;font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--hi);border:1px solid rgba(255,106,0,.4);padding:5px 11px;border-radius:999px;margin-bottom:20px}
-  .hero h1{font-size:clamp(40px,8vw,78px);max-width:14ch}
-  .hero h1 em{font-style:normal;color:var(--hi)}
-  .hero p.sub{font-size:clamp(17px,2.4vw,21px);color:#C7CBD1;max-width:46ch;margin-top:20px}
-  .btns{display:flex;flex-wrap:wrap;gap:14px;margin-top:30px}
-  .btn{display:inline-flex;align-items:center;gap:9px;font-weight:700;text-decoration:none;padding:14px 22px;border-radius:10px;font-size:16px}
-  .btn-fb{background:var(--hi);color:#fff}
-  .btn-fb:hover{background:var(--hi-2)}
-  .btn-ghost{background:transparent;color:#fff;border:1.5px solid #3A3F47}
-  .btn-ghost:hover{border-color:var(--hi)}
-  .hero-note{margin-top:16px;font-size:13px;color:#8A8F97}
-
-  /* ===== What it is ===== */
-  .band{padding:64px 0}
-  .eyebrow{font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--hi)}
-  h2.sec{font-size:clamp(28px,5vw,44px);margin-top:8px;max-width:18ch}
-  .lede{font-size:18px;color:var(--ink-2);max-width:62ch;margin-top:14px}
-
-  .pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:40px}
-  .card{background:var(--concrete);border:1px solid var(--line);border-radius:14px;padding:24px}
-  .card .ic{width:46px;height:46px;border-radius:10px;background:var(--asphalt);color:var(--hi);display:grid;place-items:center;font-size:24px;margin-bottom:14px}
-  .card h3{font-size:19px;margin-bottom:6px}
-  .card p{font-size:15px;color:var(--ink-2)}
-
-  /* ===== Email capture ===== */
-  .signup{background:var(--asphalt-2);color:#fff;border-radius:18px;padding:42px;margin:18px 0;text-align:center}
-  .signup h2{font-size:clamp(26px,4.5vw,38px)}
-  .signup p{color:#C7CBD1;max-width:48ch;margin:12px auto 0}
-  form.sub{display:flex;gap:10px;max-width:460px;margin:24px auto 0;flex-wrap:wrap;justify-content:center}
-  form.sub input{flex:1;min-width:220px;padding:14px 16px;border-radius:10px;border:1px solid #3A3F47;background:#0F1113;color:#fff;font-size:16px}
-  form.sub input::placeholder{color:#7A7F87}
-  form.sub button{background:var(--hi);color:#fff;border:0;font-weight:700;font-size:16px;padding:14px 24px;border-radius:10px;cursor:pointer}
-  form.sub button:hover{background:var(--hi-2)}
-  .formnote{font-size:12px;color:#8A8F97;margin-top:12px}
-  #okmsg{display:none;color:var(--hi);font-weight:600;margin-top:14px}
-
-  /* ===== Footer ===== */
-  footer{background:var(--asphalt);color:#9CA1A8;padding:40px 0;font-size:14px}
-  footer a{color:#C7CBD1;text-decoration:none}
-  footer a:hover{color:var(--hi)}
-  .foot{display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;align-items:center}
-
-  @media(max-width:760px){
-    .pillars{grid-template-columns:1fr}
-    .signup{padding:30px 20px}
-    .hero{padding:48px 0 56px}
-  }
-</style>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@graph":[
-{"@type":"Organization","@id":"https://booked-job.com/#org","name":"Booked Job",
- "url":"https://booked-job.com/","email":"hello@booked-job.com",
- "logo":"https://booked-job.com/assets/og-default.png",
- "description":"Free, no-fluff marketing education for home-service contractors — the real math behind getting booked.",
- "founder":{"@type":"Person","name":"Aaron Phillips"},
- "sameAs":["https://www.facebook.com/bookedjob","https://bookedjob.blogspot.com/"]},
-{"@type":"WebSite","@id":"https://booked-job.com/#site","name":"Booked Job",
- "url":"https://booked-job.com/","publisher":{"@id":"https://booked-job.com/#org"}}]}
-</script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FR77BS4NW5"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FR77BS4NW5');</script></head>
-<body>
-<header>
-  <div class="wrap nav">
-    <a class="logo" href="/">
-      <span class="mark">B</span>
-      <b>BOOKED<span>JOB</span></b>
-    </a>
-    <nav style="display:flex;align-items:center;gap:18px">
-      <a href="/reviews/" style="color:#FF6A00;text-decoration:none;font-weight:700;font-size:14px">Reviews</a>
-      <a href="/podcast/" style="color:#C7CBD1;text-decoration:none;font-weight:600;font-size:14px">Podcast</a>
-      <a href="/blog/" style="color:#C7CBD1;text-decoration:none;font-weight:600;font-size:14px">Blog</a>
-      <a href="/tools/" style="color:#C7CBD1;text-decoration:none;font-weight:600;font-size:14px">Free Tools</a>
-      <a class="cta" href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener">Follow on Facebook</a>
-    </nav>
-  </div>
-</header>
-<div class="tape"></div>
+<header class="mast"><div class="top"><span>Booked Job &middot; Field Division</span>
+<button id="themeToggle" type="button" aria-label="Toggle blueprint or paper">Blueprint</button></div>
+<h1 class="brand">BOOKED&nbsp;JOB</h1>
+<div class="filing"><span>Est. <b>for people who'd rather be on the tools</b></span></div>
+<nav style="display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:14px;font-family:var(--mono);font-size:.72rem;text-transform:uppercase;letter-spacing:.1em">
+  <a class="plain" href="/reviews/" style="color:var(--stamp);font-weight:700">Reviews</a>
+  <a class="plain" href="/blog/">Blog</a>
+  <a class="plain" href="/tools/">Free Tools</a>
+  <a class="plain" href="/podcast/">Podcast</a>
+  <a class="plain" href="https://aaron.chat" style="color:var(--link)">Get help &#8594;</a>
+</nav></header>
 
 <section class="hero">
-  <div class="wrap">
-    <span class="kicker">For plumbers · roofers · HVAC · electricians</span>
-    <h1 class="display">Stay <em>booked.</em><br>Run a better shop.</h1>
-    <p class="sub">Real talk for service pros who'd rather be working — how to keep the schedule full, stop getting ripped off, and the stuff only the trades actually get.</p>
-    <div class="btns">
-      <a class="btn btn-fb" href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener">Follow on Facebook →</a>
-      <a class="btn btn-ghost" href="#join">Get it in your inbox</a>
-    </div>
-    <p class="hero-note">No pitch. No fluff. Just what works in the field.</p>
+  <div class="kick">&sect; The honest desk for service pros</div>
+  <h1>The truth about every tool, app &amp; lead service <em>sold to you.</em></h1>
+  <p class="dek">Some guy in a branded vest wants $300 a month to answer your phone with a robot, or to sell you the same lead as five other shops. We spend the money, read the real complaints, and file the verdict &mdash; backed by data, not a sales pitch. When the right answer is <b>spend zero dollars</b>, that's what it'll say.</p>
+  <div class="btnrow">
+    <a class="btn primary" href="/reviews/">Read the field reports &#8594;</a>
+    <a class="btn" href="https://aaron.chat">Get a human on your leads</a>
   </div>
 </section>
 
-<section class="band">
-  <div class="wrap">
-    <span class="eyebrow">What you'll get</span>
-    <h2 class="sec">Built by the trades, for the trades.</h2>
-    <p class="lede">Booked Job is where service-business owners come for the things nobody teaches you in the apprenticeship — winning the job, getting paid, and surviving the slow season.</p>
-    <div class="pillars">
-      <div class="card">
-        <div class="ic">📅</div>
-        <h3>More booked jobs</h3>
-        <p>How to beat the other guy to the call, quote so you win the work, and keep the calendar full year-round.</p>
-      </div>
-      <div class="card">
-        <div class="ic">💵</div>
-        <h3>Get paid what you're worth</h3>
-        <p>Pricing backbone, chasing invoices, and never eating the cost of a customer who "found it cheaper."</p>
-      </div>
-      <div class="card">
-        <div class="ic">🔧</div>
-        <h3>Stuff only we get</h3>
-        <p>Hack-job horror stories, tool wars, and the jobsite humor that makes the grind worth it.</p>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="shead"><h2>Latest field reports</h2><a href="/reviews/">All reviews &#8594;</a></div>
+<p class="ssub">Honest, sourced verdicts on the AI tools, software, and lead services pitched to contractors.</p>
+<div class="cards">
+  <a class="rcard" href="/reviews/is-an-ai-receptionist-worth-it/"><div class="m"><span>&#8470; 019</span><span>AI Receptionists</span></div><h3>Is an AI Receptionist Worth It?</h3><div class="st">Verdict &mdash; Not yet (small shops)</div></a>
+  <a class="rcard" href="/reviews/is-angi-worth-it-for-contractors/"><div class="m"><span>&#8470; 015</span><span>Lead mill</span></div><h3>Angi Leads: Worth It, or a Bidding War Against Yourself?</h3><div class="st">Verdict &mdash; Mostly no</div></a>
+  <a class="rcard" href="/reviews/jobber-review/"><div class="m"><span>&#8470; 017</span><span>Software</span></div><h3>Jobber: The Best First Software for a Small Shop</h3><div class="st">Verdict &mdash; Buy it</div></a>
+  <a class="rcard" href="/reviews/is-thumbtack-worth-it-for-contractors/"><div class="m"><span>&#8470; 016</span><span>Lead mill</span></div><h3>Thumbtack for Pros: Death by a Thousand $30 Charges?</h3><div class="st">Verdict &mdash; Only if you work it</div></a>
+  <a class="rcard" href="/reviews/best-ai-receptionist-for-contractors/"><div class="m"><span>&#8470; 027</span><span>Buyer's guide</span></div><h3>Best AI Receptionist for Contractors &mdash; If You Must</h3><div class="st">Verdict &mdash; Smith.ai, if any</div></a>
+</div>
 
-<section class="band" id="join" style="padding-top:0">
-  <div class="wrap">
-    <div class="signup">
-      <h2 class="display">Don't miss the good stuff.</h2>
-      <p>One short email when something's worth your time — the best of what we post, plus things we don't put anywhere else. Built for owners who read on the phone between jobs.</p>
-      <form class="sub" id="subform" action="/api/subscribe" method="post">
-        <input type="email" name="email" placeholder="you@yourshop.com" required aria-label="Email address" />
-        <button type="submit">Keep me posted</button>
-      </form>
-      <div id="okmsg">You're in. Watch your inbox. 🛠️</div>
-      <p class="formnote">No spam, no selling your info. Unsubscribe anytime.</p>
-    </div>
-  </div>
-</section>
+<div class="shead"><h2>What this desk is for</h2></div>
+<div class="pillars">
+  <div class="pillar"><div class="n">01 &mdash; Reviews</div><h4>No sponsored fluff</h4><p>Real pricing, real contractor complaints, real verdicts &mdash; every claim sourced. We earn affiliate commission on some links; it never buys a better review, and we'll tell you to spend $0.</p></div>
+  <div class="pillar"><div class="n">02 &mdash; The truth</div><h4>How you actually get booked</h4><p>The straight talk on marketing, lead response, and getting paid &mdash; not whatever a guru in a Lambo is selling this week.</p></div>
+  <div class="pillar"><div class="n">03 &mdash; A human</div><h4>Not a bot</h4><p>When you want it done right, a real person sets up your call capture, site, and reviews &mdash; so no lead slips to the next contractor. That's <a href="https://aaron.chat">aaron.chat</a>.</p></div>
+</div>
 
-<footer>
-  <div class="wrap foot">
-    <div>© <span id="yr"></span> Booked Job · For service pros who'd rather be working.</div>
-    <div>
-      <a href="https://www.facebook.com/profile.php?id=61591176670582" target="_blank" rel="noopener">Facebook</a> ·
-      <a href="https://mastodon.social/@bookedjob" rel="me noopener" target="_blank">Mastodon</a> ·
-      <a href="/go.html">Links</a> ·
-      <a href="/privacy/">Privacy</a> ·
-      <a href="/terms/">Terms</a>
-    </div>
-  </div>
-</footer>
+<div class="leadband">
+  <div class="cap"><span>Work Order &mdash; do it for me</span><span>Booked Job &middot; Hey Aaron</span></div>
+  <h3>Done reading? Get it handled.</h3>
+  <p>Missed-call text-back, fast-response booking, review requests, and a site that actually converts &mdash; set up and working, so the leads you already pay to generate stop leaking to the next guy.</p>
+  <div class="btnrow"><a class="btn primary" href="https://aaron.chat">File it &#8594; aaron.chat</a><a class="btn" href="/reviews/">See the reviews first</a></div>
+</div>
 
+<div class="subwrap" id="join">
+  <div class="shead" style="margin-top:34px"><h2>Get the field reports in your inbox</h2></div>
+  <p class="ssub">New reviews and the occasional blunt truth about getting booked. No spam, no selling your info.</p>
+  <form class="sub" id="subform">
+    <input type="email" id="email" name="email" placeholder="you@yourshop.com" required autocomplete="email">
+    <button class="btn primary" type="submit">Subscribe</button>
+  </form>
+  <div id="okmsg">You're in. Watch your inbox. &#128296;</div>
+  <p class="formnote">Unsubscribe anytime.</p>
+</div>
+
+<footer>BOOKED JOB &mdash; FIELD REPORTS FOR PEOPLE WHO'D RATHER BE ON THE TOOLS. FTC &amp; AFFILIATE DISCLOSURE: WE EARN COMMISSION ON SOME OUTBOUND LINKS. WE ONLY POINT YOU AT WHAT WE'D USE, AND WE'LL TELL YOU TO SPEND $0 WHEN THAT'S THE RIGHT CALL. &copy; <span id="yr"></span> BOOKED JOB.</footer>
+
+</div></div>
+
+<script>(function(){var r=document.documentElement,b=null;function sd(){try{return matchMedia('(prefers-color-scheme: dark)').matches}catch(e){return false}}function c(){var t=r.getAttribute('data-theme');return t||(sd()?'dark':'light')}function l(){if(b)b.textContent=(c()==='dark'?'Paper':'Blueprint')}try{var s=localStorage.getItem('bj-theme');if(s)r.setAttribute('data-theme',s)}catch(e){}function i(){b=document.getElementById('themeToggle');if(!b)return;l();b.addEventListener('click',function(){var n=c()==='dark'?'light':'dark';r.setAttribute('data-theme',n);try{localStorage.setItem('bj-theme',n)}catch(e){}l()})}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',i);else i()})();</script>
 <script>
-  document.getElementById('yr').textContent = new Date().getFullYear();
-  // Progressive enhancement: post the email via fetch so the page doesn't navigate away.
-  var f = document.getElementById('subform');
-  f && f.addEventListener('submit', function(e){
-    e.preventDefault();
-    var email = f.email.value.trim();
-    if(!email) return;
-    fetch('/api/subscribe', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({email:email})})
-      .catch(function(){/* endpoint may not be live yet; still show success */})
-      .finally(function(){
-        f.style.display='none';
-        document.getElementById('okmsg').style.display='block';
-      });
-  });
+document.getElementById('yr').textContent=new Date().getFullYear();
+document.getElementById('subform').addEventListener('submit',function(e){
+  e.preventDefault();var email=document.getElementById('email').value;
+  fetch('/api/subscribe',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email})})
+  .then(function(r){return r.json().catch(function(){return{}})})
+  .then(function(){document.getElementById('subform').style.display='none';document.getElementById('okmsg').style.display='block';})
+  .catch(function(){document.getElementById('subform').style.display='none';document.getElementById('okmsg').style.display='block';});
+});
 </script>
-</body>
-</html>
+</body></html>
