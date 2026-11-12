@@ -18,6 +18,7 @@ LOG = os.path.join(ROOT, "content", "run_all.log")
 AGENTS = [
     ("fetch_stats.py", []),
     ("engagement_tracker.py", []),   # measure ER per post → engagement_insights.json (self-improvement signal)
+    ("rank_queues.py", []),          # ACT on it: reorder video queues so proven-winner content posts first
     ("discover_communities.py", []), ("build_tasks.py", []), ("newsletter_build.py", []),
     ("review_render.py", ["--all"]),   # rebuild the Reviews Desk pages from content/reviews/*.json (no posting)
     ("publisher.py", []), ("ig_runner.py", []),

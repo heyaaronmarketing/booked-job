@@ -48,7 +48,11 @@ def submit(urls):
                 reason = json.loads(e.read()).get("errorCode", "")
             except Exception:
                 pass
-            print(f"  {ep} -> {e.code} {reason}".rstrip())
+            # 403 UserForbiddedToAccessSite = this key isn't claimed at that engine yet
+            # (Bing/api-aggregator need booked-job.com verified in Bing Webmaster Tools → IndexNow).
+            # Expected + non-fatal: Yandex accepts and fans the URLs across the IndexNow network.
+            if not (e.code == 403 and reason == "UserForbiddedToAccessSite"):
+                print(f"  {ep} -> {e.code} {reason}".rstrip())
         except Exception as e:
             print(f"  {ep} -> {str(e)[:80]}")
     return accepted
