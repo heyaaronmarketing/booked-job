@@ -447,6 +447,132 @@
       "go_live": "2026-08-02",
       "status": "live",
       "published": "2026-08-02"
+    },
+    {
+      "slug": "ai-receptionist-or-missed-call-text-back",
+      "series": "Fire the Bot",
+      "go_live": "2026-11-12",
+      "status": "pending"
+    },
+    {
+      "slug": "do-you-need-field-service-software",
+      "series": "The Software Desk",
+      "go_live": "2026-11-13",
+      "status": "pending"
+    },
+    {
+      "slug": "contractor-end-of-year-marketing-checklist",
+      "series": "Season Playbook",
+      "go_live": "2026-11-16",
+      "status": "pending"
+    },
+    {
+      "slug": "do-ai-receptionists-actually-book-jobs",
+      "series": "Fire the Bot",
+      "go_live": "2026-11-18",
+      "status": "pending"
+    },
+    {
+      "slug": "jobber-vs-housecall-pro-which-one-fits",
+      "series": "The Software Desk",
+      "go_live": "2026-11-20",
+      "status": "pending"
+    },
+    {
+      "slug": "set-your-2027-marketing-budget",
+      "series": "Season Playbook",
+      "go_live": "2026-11-23",
+      "status": "pending"
+    },
+    {
+      "slug": "you-own-what-your-ai-says",
+      "series": "Fire the Bot",
+      "go_live": "2026-11-25",
+      "status": "pending"
+    },
+    {
+      "slug": "best-software-for-a-one-truck-shop",
+      "series": "The Software Desk",
+      "go_live": "2026-11-27",
+      "status": "pending"
+    },
+    {
+      "slug": "winter-is-when-you-build-your-pipeline",
+      "series": "Season Playbook",
+      "go_live": "2026-11-30",
+      "status": "pending"
+    },
+    {
+      "slug": "ai-tools-for-contractors-what-actually-helps",
+      "series": "Fire the Bot",
+      "go_live": "2026-12-02",
+      "status": "pending"
+    },
+    {
+      "slug": "is-servicetitan-overkill-for-small-shops",
+      "series": "The Software Desk",
+      "go_live": "2026-12-04",
+      "status": "pending"
+    },
+    {
+      "slug": "january-is-when-homeowners-plan-projects",
+      "series": "Season Playbook",
+      "go_live": "2026-12-07",
+      "status": "pending"
+    },
+    {
+      "slug": "is-an-ai-chatbot-worth-it-on-your-website",
+      "series": "Fire the Bot",
+      "go_live": "2026-12-09",
+      "status": "pending"
+    },
+    {
+      "slug": "when-to-upgrade-from-a-spreadsheet",
+      "series": "The Software Desk",
+      "go_live": "2026-12-11",
+      "status": "pending"
+    },
+    {
+      "slug": "ask-for-reviews-before-the-year-ends",
+      "series": "Season Playbook",
+      "go_live": "2026-12-14",
+      "status": "pending"
+    },
+    {
+      "slug": "ai-google-posts-do-they-actually-rank",
+      "series": "Fire the Bot",
+      "go_live": "2026-12-16",
+      "status": "pending"
+    },
+    {
+      "slug": "what-field-service-software-actually-saves-you",
+      "series": "The Software Desk",
+      "go_live": "2026-12-18",
+      "status": "pending"
+    },
+    {
+      "slug": "holiday-downtime-website-fixes",
+      "series": "Season Playbook",
+      "go_live": "2026-12-21",
+      "status": "pending"
+    },
+    {
+      "slug": "fire-the-bot-put-a-human-on-your-phone",
+      "series": "Fire the Bot",
+      "go_live": "2026-12-23",
+      "status": "pending"
+    },
+    {
+      "slug": "software-you-dont-need-yet",
+      "series": "The Software Desk",
+      "go_live": "2026-12-25",
+      "status": "pending"
+    },
+    {
+      "slug": "slow-season-moves-that-actually-pay-off",
+      "series": "Season Playbook",
+      "go_live": "2026-12-28",
+      "status": "pending"
     }
   ]
 }
