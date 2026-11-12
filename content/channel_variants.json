@@ -3833,5 +3833,25 @@
    "text": "Yes — but not to look fancy. Most jobs now start with a Google search, and before anyone calls you they check that you're a real business. No website, you fail that check, and they call the next guy.\n\nhttps://booked-job.com/blog/do-i-need-a-website/",
    "chain": []
   }
+ },
+ "ai-receptionist-or-missed-call-text-back": {
+  "threads": {
+   "text": "An AI receptionist is ~$300/month. Missed-call text-back is ~$30/month and does the one thing a lead cares about. Do the math before you sign — booked-job.com."
+  },
+  "bluesky": {
+   "text": "An AI receptionist is ~$300/month. Missed-call text-back is ~$30/month and does the one thing a lead cares about. Do the math before you sign — booked-job.com."
+  },
+  "mastodon": {
+   "text": "An AI receptionist is ~$300/month. Missed-call text-back is ~$30/month and does the one thing a lead cares about. Do the math before you sign — booked-job.com."
+  },
+  "telegram": {
+   "text": "An AI receptionist is ~$300/month. Missed-call text-back is ~$30/month and does the one thing a lead cares about. Do the math before you sign — booked-job.com."
+  },
+  "tumblr": {
+   "text": "An AI receptionist is ~$300/month. Missed-call text-back is ~$30/month and does the one thing a lead cares about. Do the math before you sign — booked-job.com."
+  },
+  "linkedin": {
+   "text": "An AI receptionist is ~$300/month. Missed-call text-back is ~$30/month and does the one thing a lead cares about. Do the math before you sign — booked-job.com."
+  }
  }
 }

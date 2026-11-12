@@ -2095,6 +2095,20 @@
       "blurb": "Yes \u2014 but not to look fancy. Most jobs now start with a Google search, and before anyone calls you they check that you're a real business. No website, you fail that check, and they call the next guy.",
       "url": "https://booked-job.com/blog/do-i-need-a-website/",
       "posted": {}
+    },
+    {
+      "id": "ai-receptionist-or-missed-call-text-back",
+      "title": "AI Receptionist vs Missed-Call Text-Back: Do the Math",
+      "labels": [
+        "Fire the Bot",
+        "AI",
+        "Lead Response",
+        "Cost"
+      ],
+      "short_title": "Fire the Bot",
+      "blurb": "A $300/month AI receptionist vs a ~$30/month text-back. For most shops the cheap fix wins. Here's why.",
+      "url": "https://booked-job.com/blog/ai-receptionist-or-missed-call-text-back/",
+      "posted": {}
     }
   ]
 }

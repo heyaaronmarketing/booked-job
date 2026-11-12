@@ -452,7 +452,8 @@
       "slug": "ai-receptionist-or-missed-call-text-back",
       "series": "Fire the Bot",
       "go_live": "2026-11-12",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-11-12"
     },
     {
       "slug": "do-you-need-field-service-software",
