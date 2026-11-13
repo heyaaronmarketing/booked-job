@@ -1,0 +1,49 @@
+{
+  "slug": "ruby-review",
+  "title_tag": "Ruby Receptionists Review (2026): Honest Cost & Who It's For",
+  "title": "Ruby Receptionists: The <em>Human</em> One",
+  "meta": "Honest Ruby Receptionists review for 2026: real per-minute pricing (50 min $250 → 500 min $1,725), who it fits, and when a bot or a callback beats it.",
+  "date": "2026-11-13",
+  "sec": "Field Test",
+  "filing": {"Field Report": "№ 028", "Subject": "Ruby Receptionists", "Filed for": "Small businesses", "Status": "Reviewed"},
+  "dek": "Live humans answer your line — the opposite of the bots we just roasted. The reliability is real. So is the per-minute meter.",
+  "verdict_stamp": "Verdict —<br>Reliable &mdash; watch the minutes",
+  "verdict_text": "<b>The reliable one, if you watch the minutes.</b> Ruby is real people, not a bot &mdash; it will never book a leak for &ldquo;40 Elm Street, Sunday 2 AM&rdquo; or quote a $7 roof. That reliability is the whole point. The catch is the meter: Ruby bills by the minute, and contractor calls run long, so a busy month climbs fast. For a shop that would rather pay than ever miss a lead, it's worth it &mdash; just size the plan to your real call volume.",
+  "blocks": [
+    {"type": "prose", "lede": true, "html": "<p>After a week of watching AI receptionists mishear addresses and invent prices, Ruby is a palate cleanser: there's an actual human on the other end. Ruby has run live virtual receptionists for over a decade &mdash; the kind of service law firms, financial advisors, and medical offices have used for years. They answer your business line in your company's name, take messages, and book calls. No hallucinated appointments, no party emoji on a wrong address.</p><p>For a contractor, that reliability is the pitch: the first guy to answer usually wins the job, and a real person answering beats a voicemail every time. The question isn't whether Ruby works. It's whether the way it bills fits how you actually get calls.</p>"},
+    {"type": "estimate", "h": "What Ruby actually costs", "caption": "Ruby &mdash; per-minute plans (2026, per receptionist minute)",
+     "rows": [
+       {"item": "50-minute plan", "cost": "$250/mo", "buy": "Entry", "buy_class": "", "note": "~$5/min effective &mdash; smallest bundle", "sub": "a free local or toll-free number is included, no porting fee"},
+       {"item": "100-minute plan", "cost": "$395/mo", "buy": "Common", "buy_class": "", "note": "the plan most small shops land on"},
+       {"item": "200-minute plan", "cost": "$720/mo", "buy": "Busy", "buy_class": "", "note": "for steady inbound volume"},
+       {"item": "500-minute plan", "cost": "$1,725/mo", "buy": "High-vol", "buy_class": "", "note": "~$3.45/min &mdash; the rate drops as the plan grows"},
+       {"item": "Overage (past your plan)", "cost": "per-minute, on top", "buy": "Watch it", "buy_class": "no", "note": "a few long calls can blow past your bundle &mdash; size the plan honestly"}
+     ]},
+    {"type": "bs", "h": "The thing to watch",
+     "intro_html": "<p>Ruby is priced by the <em>minute</em>, and those minutes include the whole call &mdash; the chit-chat, the hold, the homeowner describing their whole kitchen. Contractor calls are not 30 seconds.</p>",
+     "label": "Do the math",
+     "claim": "&ldquo;Just $250 a month to never miss a call.&rdquo;",
+     "small": "True only if your calls are short and few. At ~$5/min on the entry plan, fifty minutes is roughly ten real calls. A busy week of scheduling and quotes can eat a month's bundle, and overage stacks on top.",
+     "outro_html": "<p>That's not a knock &mdash; it's how human answering is priced everywhere. Just don't buy the 50-minute plan and expect it to cover a storm week.</p>"},
+    {"type": "ops", "h": "When Ruby wins, when it doesn't",
+     "intro_html": "<p>Straight version:</p>",
+     "steps": [
+       "<b>Ruby wins</b> when never missing a lead is worth real money, your call volume is modest, and your average call is short. Reliability you can't get from a bot.",
+       "<b>Ruby gets expensive</b> when calls run long or volume is high &mdash; the meter doesn't care that half the call was a homeowner venting about the last contractor.",
+       "<b>A cheap AI line (like Rosie)</b> can make sense for after-hours overflow if you can tolerate the occasional mistake and want a flat price, not a meter.",
+       "<b>The move most small shops skip:</b> missed-call text-back fires in seconds for about $30/mo, and a real human calls the lead back fast. That beats paying $5/min for a stranger to take a message &mdash; and it's what we set up."
+     ]}
+  ],
+  "workorder": {"h": "We'll set up call capture without the meter", "p": "Missed-call text-back so no lead slips, plus a real human who calls back fast &mdash; the reliability of a Ruby without billing you by the minute.", "price": "$500"},
+  "ledger_note": "The Ruby link is an affiliate link &mdash; we may earn a commission if you sign up, at no cost to you. It never changes the verdict.",
+  "affiliates": [
+    {"k": "<b>Ruby</b> — live humans answer your line", "href": "aff:ruby", "cta": "See Ruby &#8594;"},
+    {"k": "<b>Want cheap AI overflow instead?</b>", "href": "https://booked-job.com/reviews/rosie-ai-review/", "cta": "Our Rosie review &#8594;"},
+    {"k": "<b>Rather not pay by the minute?</b>", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;"}
+  ],
+  "faq": [
+    {"q": "Is Ruby worth it for contractors?", "a": "If never missing a call is worth real money and your call volume is modest, yes — live humans are far more reliable than any AI receptionist. If your calls run long or volume is high, the per-minute bill climbs fast, and a cheap AI line or missed-call text-back plus a human callback can win on cost."},
+    {"q": "How much does Ruby cost?", "a": "As of 2026 Ruby publishes per-minute bundles: 50 minutes at $250, 100 at $395, 200 at $720, and 500 at $1,725 a month, with a free local or toll-free number and no porting fee. Effective rates run from about $5/min on the small plan down to ~$3.45 on the largest, and overage is billed on top — so size your plan to your real call volume."},
+    {"q": "Ruby vs an AI receptionist?", "a": "Ruby is real people; an AI receptionist is software. Ruby costs more but won't mishear an address or quote a $7 roof. If reliability matters more than price, Ruby; if you want cheap 24/7 overflow and can tolerate the occasional mistake, an AI line like Rosie. Our honest take for most small shops: missed-call text-back plus a human who calls back fast beats both."}
+  ]
+}

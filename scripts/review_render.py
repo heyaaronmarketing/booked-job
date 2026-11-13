@@ -10,6 +10,8 @@ schema. One spec in -> one on-brand page out at site/reviews/<slug>/index.html.
   python3 scripts/review_render.py --all                          # render all specs
 """
 import glob, html, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import affiliate_links as AFF
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 SPECS = os.path.join(ROOT, "content", "reviews")
@@ -244,6 +246,7 @@ PRODUCTS = {
     "goodcall-review": ("Goodcall", "SoftwareApplication"),
     "rosie-ai-review": ("Rosie", "SoftwareApplication"),
     "smith-ai-review": ("Smith.ai", "Service"),
+    "ruby-review": ("Ruby Receptionists", "Service"),
     "is-angi-worth-it-for-contractors": ("Angi Leads", "Service"),
     "is-thumbtack-worth-it-for-contractors": ("Thumbtack", "Service"),
     "is-homeadvisor-worth-it-for-contractors": ("HomeAdvisor", "Service"),
@@ -252,7 +255,7 @@ PRODUCTS = {
 def verdict_rating(stamp):
     """Map an honest editorial verdict stamp to a 1-5 rating. No rating → no Review node."""
     s = re.sub("<[^>]+>", " ", stamp or "").lower()
-    pairs = [("buy it", 4.5), ("great for", 4.0), ("cheapest honest", 3.5), ("easy, with", 3.5),
+    pairs = [("buy it", 4.5), ("great for", 4.0), ("reliable", 4.0), ("cheapest honest", 3.5), ("easy, with", 3.5),
              ("only if you work", 3.0), ("least-bad", 3.0), ("depends", 3.0),
              ("not yet", 2.5), ("not for small", 2.5), ("mostly no", 2.0), ("skip", 2.0)]
     for k, v in pairs:
@@ -269,7 +272,13 @@ def render(spec):
     filing="".join(f'<span>{T(k)} <b>{T(v)}</b></span>' for k,v in fil.items())
     blocks="".join(block_html(b) for b in spec.get("blocks",[]))
     wo=spec.get("workorder",{})
-    aff="".join(f'<li><span class="k">{a.get("k","")}</span><a href="{A(a.get("href",B))}" target="_blank" rel="noopener nofollow">{T(html.unescape(a.get("cta","See →")))}</a></li>' for a in spec.get("affiliates",[]))
+    def _aff_li(a):
+        url, is_aff = AFF.resolve(a.get("href", B))
+        rel = AFF.REL_AFFILIATE if is_aff else AFF.REL_PLAIN
+        return (f'<li><span class="k">{a.get("k","")}</span>'
+                f'<a href="{A(url)}" target="_blank" rel="{rel}">{T(html.unescape(a.get("cta","See →")))}</a></li>')
+    aff="".join(_aff_li(a) for a in spec.get("affiliates",[]))
+    has_aff = any(AFF.resolve(a.get("href",""))[1] for a in spec.get("affiliates",[]))
     faq=""
     if spec.get("faq"):
         items="".join(f'<dt>{T(f["q"])}</dt><dd>{T(f["a"])}</dd>' for f in spec["faq"])
@@ -300,8 +309,7 @@ def render(spec):
 <div class="body"><h3>{T(wo.get('h','We&rsquo;ll do it for you'))}</h3><p>{wo.get('p','')}</p>
 <div class="wo-foot"><span class="price">Flat rate <b>{T(wo.get('price','$500'))}</b></span>
 <a class="btn" href="https://aaron.chat" target="_blank" rel="noopener">File it &#8594; aaron.chat</a></div></div></div>
-<div class="ledger"><h4>Tools we'd actually look at</h4><ul>{aff}</ul>
-<p class="disc">{spec.get('ledger_note','Some of these are affiliate links &mdash; buy through them and we might make a few bucks, at no cost to you. It never changes the verdict.')}</p></div>
+<div class="ledger"><h4>Tools we'd actually look at</h4>{'<p class="disc">'+spec.get('ledger_note','We may earn a commission if you sign up through some links here &mdash; it never changes the verdict.')+'</p>' if has_aff else ''}<ul>{aff}</ul></div>
 {faq}
 <footer>{disc}</footer>
 </div>{TOGGLE}</body></html>"""
