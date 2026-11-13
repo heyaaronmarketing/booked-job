@@ -101,12 +101,13 @@
       "bj-slow",
       "bj-cpbj",
       "bj-speed",
-      "bj-ftc"
+      "bj-ftc",
+      "bj-cpl"
     ],
-    "last_iso": "2026-11-13T10:24:23",
+    "last_iso": "2026-11-13T16:42:56",
     "day": {
       "date": "2026-11-13",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -133,12 +134,13 @@
       "pod-ep01-shared",
       "bj-angi",
       "bj-reviews",
-      "bj-trade"
+      "bj-trade",
+      "bj-slow"
     ],
-    "last_iso": "2026-11-13T10:24:23",
+    "last_iso": "2026-11-13T16:42:56",
     "day": {
       "date": "2026-11-13",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -205,12 +207,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-11-13T10:24:23",
+    "last_iso": "2026-11-13T16:42:56",
     "day": {
       "date": "2026-11-13",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -263,12 +266,13 @@
       "bj-cheapbid",
       "bj-wordpress",
       "bj-first10k",
-      "bj-yelp"
+      "bj-yelp",
+      "bj-anon98"
     ],
-    "last_iso": "2026-11-13T10:24:23",
+    "last_iso": "2026-11-13T16:42:56",
     "day": {
       "date": "2026-11-13",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -328,12 +332,13 @@
       "bj-cheapbid",
       "bj-wordpress",
       "bj-first10k",
-      "bj-yelp"
+      "bj-yelp",
+      "bj-anon98"
     ],
-    "last_iso": "2026-11-13T10:24:23",
+    "last_iso": "2026-11-13T16:42:56",
     "day": {
       "date": "2026-11-13",
-      "count": 1
+      "count": 2
     }
   }
 }

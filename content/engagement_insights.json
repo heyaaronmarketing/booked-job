@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-13T10:10",
+  "generated": "2026-11-13T16:30",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2773,
+      "views": 2509,
       "engagements": 3,
-      "er": 0.11
+      "er": 0.12
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 427,
+      "views": 404,
       "engagements": 26,
-      "er": 6.09
+      "er": 6.44
     },
     "TikTok": {
       "posts": 1,
@@ -23,18 +23,6 @@
   },
   "post_count": 51,
   "top": [
-    {
-      "channel": "YT Shorts",
-      "id": "x5LyUeSIuYQ",
-      "caption": "Angi costs $542 per job #Shorts",
-      "views": 28,
-      "reactions": 0,
-      "comments": 1,
-      "shares": 0,
-      "engagements": 1,
-      "er": 3.57,
-      "date": "2026-09-04"
-    },
     {
       "channel": "YT Shorts",
       "id": "bvXiA1jgt_w",
@@ -118,33 +106,21 @@
       "engagements": 1,
       "er": 0.38,
       "date": "2026-11-08"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "3698335770342854",
+      "caption": "Real contractor marketing, no fluff. \u2014 booked-job.com #contractor #trades\n\n\ud83d\udee0\ufe0f Follow for the math nobody in marketing shows you.",
+      "views": 25,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-13"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "29179696934987655",
-      "caption": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the ",
-      "views": 256,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-01"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1833531587764247",
-      "caption": "Don't hand it to an agency. Fix your Google profile (free), get 50 reviews (free), then put money into Local Service Ads. Foundation first, ",
-      "views": 26,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-01"
-    },
     {
       "channel": "FB Reels",
       "id": "1426365209662442",
@@ -216,6 +192,30 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-04"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1788080569113177",
+      "caption": "Text every happy customer the day after with a direct link. Ask in person before you pull off the drive. People say yes when you make it eas",
+      "views": 27,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-05"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "991373970218950",
+      "caption": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every ser",
+      "views": 217,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-06"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."

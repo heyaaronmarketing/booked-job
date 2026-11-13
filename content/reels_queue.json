@@ -20,6 +20,12 @@
       "video": "site/reels/speed-to-lead.mp4"
     },
     {
+      "id": "af-ai-apology",
+      "hook": "AI receptionist fail",
+      "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
+      "video": "site/reels/af-ai-apology.mp4"
+    },
+    {
       "id": "rip-angi-rip",
       "hook": "Angi's $542 secret",
       "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
@@ -36,12 +42,6 @@
       "hook": "Is Angi actually worth it?",
       "description": "Angi sells your \"lead\" to a dozen guys, then you race to the bottom on price. Here's the real cost per booked job — full breakdown + a free calculator. #contractor #trades #plumbing #hvac",
       "video": "content/shorts/is-angi-worth-it.mp4"
-    },
-    {
-      "id": "af-ai-apology",
-      "hook": "AI receptionist fail",
-      "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
-      "video": "site/reels/af-ai-apology.mp4"
     },
     {
       "id": "af-ai-mishear",
@@ -69,17 +69,17 @@
       "video": "site/reels/af-ai-spiral.mp4"
     },
     {
-      "id": "refund-monday",
-      "hook": "20 minutes on Monday buys back real money",
-      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
-      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
-    },
-    {
       "id": "reviews-rank",
       "hook": "Reviews beat ads, every time",
       "script": "You can spend a thousand a month on ads, or you can get ten more five-star reviews. Guess which one works while you sleep. Reviews are the only marketing that ranks you higher AND closes the customer before you ever pick up the phone. Ninety percent of homeowners read them before they call. Your reviews are your storefront. Stack them. Follow Booked Job.",
       "description": "10 more reviews will out-earn $1,000 of ads. When's the last time you asked? 👇 #googlereviews #contractor #trades",
       "video": "site/reels/reviews-rank.mp4"
+    },
+    {
+      "id": "refund-monday",
+      "hook": "20 minutes on Monday buys back real money",
+      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
+      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
     },
     {
       "id": "first-to-answer",
@@ -113,12 +113,6 @@
       "video": "site/reels/rip-speed-rip.mp4"
     },
     {
-      "id": "chargeback-trap",
-      "hook": "Never call your bank over a lead",
-      "script": "If you buy leads, this one can cost you your whole account. You get charged for a junk lead, you're mad, so you call your bank and dispute it. Here's what happens. The platform puts a hold on your pro account. Sometimes they close it. And every review you spent three years earning goes with it. Fight it their way. File the refund inside the window, keep the screenshots, and if they keep denying you, just turn the budget off. Turning off spend costs you nothing. A chargeback can cost you the account. Follow Booked Job.",
-      "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
-    },
-    {
       "id": "review-timing",
       "hook": "Ask for the review at 'wow'",
       "script": "Timing is everything on Google reviews. Most guys text a review link three days later, when the customer's already moved on. Here's the fix. The second they say, wow, that looks great, that's your moment. Hand them your phone, right there, review already pulled up. You'll triple your reviews and the reviews rank you higher than any ad. Catch them at wow, not on Wednesday. Follow Booked Job.",
@@ -126,11 +120,23 @@
       "video": "site/reels/review-timing.mp4"
     },
     {
+      "id": "chargeback-trap",
+      "hook": "Never call your bank over a lead",
+      "script": "If you buy leads, this one can cost you your whole account. You get charged for a junk lead, you're mad, so you call your bank and dispute it. Here's what happens. The platform puts a hold on your pro account. Sometimes they close it. And every review you spent three years earning goes with it. Fight it their way. File the refund inside the window, keep the screenshots, and if they keep denying you, just turn the budget off. Turning off spend costs you nothing. A chargeback can cost you the account. Follow Booked Job.",
+      "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
+    },
+    {
       "id": "repeat-customer",
       "hook": "Keeping a customer beats finding one",
       "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
       "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
       "video": "site/reels/repeat-customer.mp4"
+    },
+    {
+      "id": "explainer-lesson-01",
+      "hook": "Nobody taught you marketing",
+      "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
+      "video": "site/reels/explainer-lesson-01.mp4"
     },
     {
       "id": "missed-call",
@@ -171,23 +177,17 @@
       "video": "content/podcast/clips/ad-arctic.mp4"
     },
     {
+      "id": "eight-automations",
+      "hook": "8 automations, zero leads",
+      "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
+      "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
+    },
+    {
       "id": "low-bid",
       "hook": "The cheapest bid costs the most",
       "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
       "description": "Stop apologizing for your price. The lowball always comes back around. #contractor #pricing #trades",
       "video": "site/reels/low-bid.mp4"
-    },
-    {
-      "id": "explainer-lesson-01",
-      "hook": "Nobody taught you marketing",
-      "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
-      "video": "site/reels/explainer-lesson-01.mp4"
-    },
-    {
-      "id": "eight-automations",
-      "hook": "8 automations, zero leads",
-      "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
-      "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
     },
     {
       "id": "rented-pipeline",
@@ -227,13 +227,6 @@
       "video": "content/podcast/clips/ad-summit.mp4"
     },
     {
-      "id": "referrals",
-      "hook": "Your best lead just left your driveway",
-      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
-      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
-      "video": "site/reels/referrals.mp4"
-    },
-    {
       "id": "gbp-billboard",
       "hook": "Your Google profile is a billboard you're ignoring",
       "script": "You've got a Google Business Profile you set up once in 2019 and never touched. That's a billboard on the busiest road in town, and you left it blank. Post a job photo every week. Answer every review. Keep your hours right. It's free, it's five minutes, and it's the single biggest thing that decides whether you show up when someone searches your trade near me. Follow Booked Job.",
@@ -248,11 +241,18 @@
       "video": "site/reels/slow-season.mp4"
     },
     {
-      "id": "dont-discount",
-      "hook": "Don't drop the price — add value",
-      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
-      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
-      "video": "site/reels/dont-discount.mp4"
+      "id": "show-up",
+      "hook": "The trades don't have a wage problem",
+      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
+      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
+      "video": "site/reels/show-up.mp4"
+    },
+    {
+      "id": "referrals",
+      "hook": "Your best lead just left your driveway",
+      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
+      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
+      "video": "site/reels/referrals.mp4"
     },
     {
       "id": "diagnostic-fee",
@@ -269,13 +269,6 @@
       "video": "site/reels/cheaper.mp4"
     },
     {
-      "id": "show-up",
-      "hook": "The trades don't have a wage problem",
-      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
-      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
-      "video": "site/reels/show-up.mp4"
-    },
-    {
       "id": "youtube-expert",
       "hook": "\"I watched a video, it looked easy\"",
       "script": "Customer tells you, I watched a video, it looked easy. Here's what I've learned to say. It did look easy. That's exactly why I have a job. The video didn't show the corroded fitting behind the wall, the code violation, or the part that's discontinued. You're not paying me to do the easy version. You're paying me so the easy version doesn't turn into a flood at 2 a.m. Follow Booked Job.",
@@ -290,18 +283,18 @@
       "video": "site/reels/estimate-noshow.mp4"
     },
     {
+      "id": "dont-discount",
+      "hook": "Don't drop the price — add value",
+      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
+      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
+      "video": "site/reels/dont-discount.mp4"
+    },
+    {
       "id": "financing",
       "hook": "Offer a payment plan, close more jobs",
       "script": "You lose big jobs not because the price is wrong, but because the customer can't write one big check today. Offer financing. A five thousand dollar job becomes a hundred bucks a month, and suddenly it's a yes. The financing company takes a small cut, you get paid in full up front, and the homeowner does the repair they were putting off. It's not about being cheap. It's about being possible. Follow Booked Job.",
       "description": "You're losing jobs to the size of the check, not the price. Do you offer financing? 👇 #contractor #sales #trades",
       "video": "site/reels/financing.mp4"
-    },
-    {
-      "id": "deposit",
-      "hook": "No deposit, no material order",
-      "script": "Learned this one the hard way. Six thousand dollars of custom material sitting in my garage because the customer ghosted after I ordered it. Never again. Now the rule is simple. No deposit, no material order. A serious customer has no problem putting money down. The ones who fight you on a deposit are the ones who'll fight you on the final bill. Protect your cash. Follow Booked Job.",
-      "description": "What's your deposit rule? The garage full of unpaid material taught me mine. 👇 #getpaid #contractor #smallbusiness",
-      "video": "site/reels/deposit.mp4"
     },
     {
       "id": "money-leaks",
@@ -365,6 +358,13 @@
       "script": "Biggest fight you'll ever have with a customer is over what's covered, months after the job's done. Kill it before it starts. When you hand over the invoice, walk them through it. Here's what I warranty, here's what I don't, here's how long. Put it in writing. Two minutes at the end of the job saves you a two-hour argument and a bad review later. Clarity up front is free. Follow Booked Job.",
       "description": "The warranty fight always happens later. Set expectations in writing at the end of the job. #contractor #trades",
       "video": "site/reels/warranty-expectations.mp4"
+    },
+    {
+      "id": "deposit",
+      "hook": "No deposit, no material order",
+      "script": "Learned this one the hard way. Six thousand dollars of custom material sitting in my garage because the customer ghosted after I ordered it. Never again. Now the rule is simple. No deposit, no material order. A serious customer has no problem putting money down. The ones who fight you on a deposit are the ones who'll fight you on the final bill. Protect your cash. Follow Booked Job.",
+      "description": "What's your deposit rule? The garage full of unpaid material taught me mine. 👇 #getpaid #contractor #smallbusiness",
+      "video": "site/reels/deposit.mp4"
     },
     {
       "id": "charge-the-drive",
