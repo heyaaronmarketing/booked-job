@@ -3853,5 +3853,25 @@
   "linkedin": {
    "text": "An AI receptionist is ~$300/month. Missed-call text-back is ~$30/month and does the one thing a lead cares about. Do the math before you sign — booked-job.com."
   }
+ },
+ "do-you-need-field-service-software": {
+  "threads": {
+   "text": "Most 'you need software' articles are written by people who get paid when you sign up. Here's the one that tells you when to keep the notebook."
+  },
+  "bluesky": {
+   "text": "Most 'you need software' articles are written by people who get paid when you sign up. Here's the one that tells you when to keep the notebook."
+  },
+  "mastodon": {
+   "text": "Most 'you need software' articles are written by people who get paid when you sign up. Here's the one that tells you when to keep the notebook."
+  },
+  "telegram": {
+   "text": "Most 'you need software' articles are written by people who get paid when you sign up. Here's the one that tells you when to keep the notebook."
+  },
+  "tumblr": {
+   "text": "Most 'you need software' articles are written by people who get paid when you sign up. Here's the one that tells you when to keep the notebook."
+  },
+  "linkedin": {
+   "text": "Most 'you need software' articles are written by people who get paid when you sign up. Here's the one that tells you when to keep the notebook."
+  }
  }
 }

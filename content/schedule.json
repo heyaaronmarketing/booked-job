@@ -459,7 +459,8 @@
       "slug": "do-you-need-field-service-software",
       "series": "The Software Desk",
       "go_live": "2026-11-13",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-11-13"
     },
     {
       "slug": "contractor-end-of-year-marketing-checklist",

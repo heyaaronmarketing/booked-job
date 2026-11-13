@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@construktr.bsky.social**: How much is paperwork costing your roofing business? Six questions, free. https://construktr.ai/tools/profit-leak-check/roofing?utm_source=bluesky&utm_medium=organic&utm_campaign=az-week1
+  → https://bsky.app/profile/construktr.bsky.social/post/3mzx24umgr52q
+
+- **@randolphscottbell.bsky.social**: After a storm, the knock on the door is rarely the roofer you want. Look up the license (ours: CCC1332751) and the BBB profile before anyone climbs your roof. BBB Accredited since 2021, rated A+. http
+  → https://bsky.app/profile/randolphscottbell.bsky.social/post/3mzxsqhsnqm2d
+
 - **@bsky.scrapers.lat**: Need contractor leads or compliance insights? Our Washington L&I Contractor Scraper extracts licenses, bonds, insurance, and more. Perfect for analysts and risk assessors. #DataExtraction #ComplianceT
   → https://bsky.app/profile/bsky.scrapers.lat/post/3mzfvmsqq2s2l
 
@@ -199,15 +205,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 - **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
   → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
-
-- **@whatagentscando.com**: Own a small business? Your old quotes might be money.
-
-An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
-  → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
-
-- **@stylelib.org**: Renew – Renovation WordPress Theme
-
- https://stylelib.org/?p=191989 
-
-#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
-  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26

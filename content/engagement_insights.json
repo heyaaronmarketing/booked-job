@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-12T18:09",
+  "generated": "2026-11-13T01:49",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2993,
+      "views": 2772,
       "engagements": 3,
-      "er": 0.1
+      "er": 0.11
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 425,
+      "views": 427,
       "engagements": 26,
-      "er": 6.12
+      "er": 6.09
     },
     "TikTok": {
       "posts": 1,
@@ -75,19 +75,19 @@
       "channel": "YT Shorts",
       "id": "331gN9RmblI",
       "caption": "Ep. 4 \u2014 Fire the Bot (Is an AI Receptionist Worth It?)",
-      "views": 79,
+      "views": 81,
       "reactions": 0,
       "comments": 1,
       "shares": 0,
       "engagements": 1,
-      "er": 1.27,
+      "er": 1.23,
       "date": "2026-11-12"
     },
     {
       "channel": "FB Reels",
       "id": "1183240727544718",
       "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
-      "views": 144,
+      "views": 145,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
@@ -121,18 +121,6 @@
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "1152291147741095",
-      "caption": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing f",
-      "views": 247,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-01"
-    },
     {
       "channel": "FB Reels",
       "id": "29179696934987655",
@@ -210,6 +198,18 @@
       "id": "1447967944093456",
       "caption": "That free HVAC check isn't free \u2014 it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work cost",
       "views": 124,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-04"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1137009655547947",
+      "caption": "Shady lead companies clone your Maps listing, grab your calls, and sell your customers back to you. Search your own name \u2014 if there are two ",
+      "views": 235,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
