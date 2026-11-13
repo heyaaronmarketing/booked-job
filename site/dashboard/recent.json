@@ -1,4 +1,83 @@
 {
-  "updated": "2026-11-13T01:53",
-  "posts": []
+  "updated": "2026-11-13T10:28",
+  "posts": [
+    {
+      "ts": "2026-11-13T10:26:46",
+      "channel": "youtube",
+      "item": "bj-track",
+      "url": "https://youtu.be/19HKI6kgHb8"
+    },
+    {
+      "ts": "2026-11-13T10:26:39",
+      "channel": "facebook",
+      "item": "card-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:26:35",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:25:56",
+      "channel": "mastodon",
+      "item": "card-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:25:54",
+      "channel": "mastodon",
+      "item": "do-you-need-field-service-software",
+      "url": "https://mastodon.social/@bookedjob/117610063745424142"
+    },
+    {
+      "ts": "2026-11-13T10:25:52",
+      "channel": "telegraph",
+      "item": "do-you-need-field-service-software",
+      "url": "https://telegra.ph/Do-You-Need-Field-Service-Software-An-Honest-Answer-11-13"
+    },
+    {
+      "ts": "2026-11-13T10:25:50",
+      "channel": "tumblr",
+      "item": "bj-yelp",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:25:47",
+      "channel": "bluesky",
+      "item": "bj-yelp",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:25:43",
+      "channel": "linkedin",
+      "item": "bj-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:25:41",
+      "channel": "tiktok",
+      "item": "bj-ftc",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:25:38",
+      "channel": "ig",
+      "item": "rip-reviews-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:25:05",
+      "channel": "facebook",
+      "item": "explainer-lesson-01",
+      "url": null
+    },
+    {
+      "ts": "2026-11-13T10:21:13",
+      "channel": "fb",
+      "item": "af-ai-aircanada",
+      "url": null
+    }
+  ]
 }

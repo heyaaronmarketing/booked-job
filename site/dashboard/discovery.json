@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T07:49:07Z",
+  "updated": "2026-11-13T16:10:08Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 27,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -95,6 +95,11 @@
         "tag": "#contractors",
         "uses": 4,
         "link": "https://mastodon.social/tags/contractors"
+      },
+      {
+        "tag": "#handyman",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/handyman"
       },
       {
         "tag": "#HVACAutomation",
@@ -130,11 +135,6 @@
         "tag": "#contractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#contractoresdirectos",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractoresdirectos"
       }
     ],
     "accounts": [
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10833,
+      "followers": 10835,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -215,7 +215,7 @@
     {
       "handle": "@noshir.bsky.social",
       "display": "Noshir Contractor",
-      "followers": 2258,
+      "followers": 2259,
       "desc": "Noshir Contractor is the Jane S. & William J. White Professor of Behavioral Sciences at Northwestern University. He inve",
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
@@ -236,7 +236,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1767,
+      "followers": 1778,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },

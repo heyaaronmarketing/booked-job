@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@gojo41042.bsky.social**: Locked Out in San Antonio? Help Is Minutes Away!
+
+Stuck outside your home, car, or business? Don’t panic. Fast, reliable locksmith services come straight to your door, day or night. 
+
+✅ Fast response 
+  → https://bsky.app/profile/gojo41042.bsky.social/post/3n26jhektis2x
+
+- **@windowshopgoa.bsky.social**: Find Rental Properties in Goa
+Looking for a home or apartment for rent in Goa? Explore rental property listings on Window Shop Goa and find options that match your location and budget.
+Browse rental p
+  → https://bsky.app/profile/windowshopgoa.bsky.social/post/3n26s34ckak24
+
+- **@edwardhar.bsky.social**: Alongside this is the expanding use of 'outsourcing' customer services to individual freelancers working from home & clueless about the actual business or service. Offer little more sense than AI bots
+  → https://bsky.app/profile/edwardhar.bsky.social/post/3n26z4m4bnc2m
+
 - **@construktr.bsky.social**: How much is paperwork costing your roofing business? Six questions, free. https://construktr.ai/tools/profit-leak-check/roofing?utm_source=bluesky&utm_medium=organic&utm_campaign=az-week1
   → https://bsky.app/profile/construktr.bsky.social/post/3mzx24umgr52q
 
@@ -192,16 +207,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 - **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
   → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
-
-You know, a lot of times an owner tells me, “We already had somebody set that up.” 
-  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
-
-- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
-
-Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
-  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
-
-- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
-  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x

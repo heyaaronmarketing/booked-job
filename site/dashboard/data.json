@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:49",
+  "updated": "2026-11-13T10:10",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -202,8 +202,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 814,
-      "pageviews_weekly": 5156,
-      "pageviews_monthly": 9322
+      "pageviews_weekly": 5365,
+      "pageviews_monthly": 9531
     },
     "total_clicks": 0,
     "total_impressions": 17,
@@ -220,7 +220,7 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 99,
+      "posts": 98,
       "views": 155,
       "reactions": 0,
       "comments": 0,
@@ -228,7 +228,7 @@
     },
     "linkedin": {
       "name": "Booked Job",
-      "posts": 70,
+      "posts": 71,
       "views": 30,
       "reactions": 3,
       "comments": 1,
@@ -445,7 +445,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 146,
+      "count": 147,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -465,7 +465,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1815,
+      "views": 1821,
       "followers": 19,
       "likes": 3
     },
@@ -476,7 +476,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1542,
+      "views": 1568,
       "followers": 1
     },
     {
@@ -517,12 +517,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 19,
+      "count": 20,
       "unit": "posts",
       "followers": 347,
       "grade": "A",
       "group": "social",
-      "likes": 11
+      "likes": 8
     },
     {
       "name": "Mastodon",
@@ -572,7 +572,7 @@
       "status": "live",
       "count": 68,
       "unit": "posts (Buffer)",
-      "stat": "928 reach \u00b7 3 reactions",
+      "stat": "929 reach \u00b7 3 reactions",
       "views": 30,
       "likes": 3,
       "grade": "B",
@@ -629,7 +629,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Polls",
@@ -659,7 +659,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 6
+        "count": 8
       },
       {
         "type": "Long video",
@@ -746,7 +746,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 19
+        "count": 20
       },
       {
         "type": "Video",
@@ -852,7 +852,7 @@
     }
   ],
   "funnel": {
-    "reach": 35975,
+    "reach": 36030,
     "engagement": 3,
     "audience": 377,
     "cr_clicks": 193
@@ -861,7 +861,7 @@
     "audience": 40,
     "engagement": 1,
     "email": 0,
-    "reach": -224
+    "reach": -169
   },
   "mafia": {
     "metrics": [
@@ -877,7 +877,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1500,
+        "value": 1502,
         "grade": "A"
       },
       {
