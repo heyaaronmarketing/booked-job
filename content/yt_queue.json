@@ -70,22 +70,6 @@
       "video": "site/reels/bj-cpl.mp4"
     },
     {
-      "id": "bj-speed",
-      "hook": "Answer in 5 minutes",
-      "title": "Answer in 5 minutes #Shorts",
-      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "speedtolead",
-        "sales",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-speed.mp4",
-      "thumbnail": "site/thumbs/bj-speed-thumb.png"
-    },
-    {
       "id": "bj-ftc",
       "hook": "The FTC fined HomeAdvisor $7.2M",
       "title": "The FTC fined HomeAdvisor $7.2M #Shorts",
@@ -102,6 +86,22 @@
       "thumbnail": "site/thumbs/bj-ftc-thumb.png"
     },
     {
+      "id": "bj-speed",
+      "hook": "Answer in 5 minutes",
+      "title": "Answer in 5 minutes #Shorts",
+      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "speedtolead",
+        "sales",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-speed.mp4",
+      "thumbnail": "site/thumbs/bj-speed-thumb.png"
+    },
+    {
       "id": "bj-stars",
       "hook": "91% won't call under 4 stars",
       "title": "91% won't call under 4 stars #Shorts",
@@ -116,35 +116,6 @@
       ],
       "video": "site/reels/bj-stars.mp4",
       "thumbnail": "site/thumbs/bj-stars-thumb.png"
-    },
-    {
-      "id": "bj-angi",
-      "hook": "$79 for ONE Angi lead",
-      "title": "$79 for ONE Angi lead #Shorts",
-      "description": "Angi charges $79 for a single lead — then sells it to 5 other guys. You're not buying a lead, you're buying a bidding war against yourself.\n\n👇 What's the worst lead-site bill you've paid?\n\n#angi #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "angi",
-        "leadgen",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-angi.mp4",
-      "thumbnail": "site/thumbs/bj-angi-thumb.png"
-    },
-    {
-      "id": "pod-ep01-refunds",
-      "hook": "Why Angi refunds 15-22% of your leads",
-      "title": "Why Angi refunds 15-22% of your leads #Shorts",
-      "description": "Why Angi refunds 15-22% of your leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-refunds.mp4"
     },
     {
       "id": "bj-rev-plumb",
@@ -210,6 +181,35 @@
       "video": "site/reels/bj-yelp.mp4"
     },
     {
+      "id": "bj-angi",
+      "hook": "$79 for ONE Angi lead",
+      "title": "$79 for ONE Angi lead #Shorts",
+      "description": "Angi charges $79 for a single lead — then sells it to 5 other guys. You're not buying a lead, you're buying a bidding war against yourself.\n\n👇 What's the worst lead-site bill you've paid?\n\n#angi #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "angi",
+        "leadgen",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-angi.mp4",
+      "thumbnail": "site/thumbs/bj-angi-thumb.png"
+    },
+    {
+      "id": "pod-ep01-refunds",
+      "hook": "Why Angi refunds 15-22% of your leads",
+      "title": "Why Angi refunds 15-22% of your leads #Shorts",
+      "description": "Why Angi refunds 15-22% of your leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-refunds.mp4"
+    },
+    {
       "id": "bj-agency12k",
       "hook": "$12k/mo and nothing to show",
       "title": "$12k/mo and nothing to show #Shorts",
@@ -223,32 +223,6 @@
         "homeservices"
       ],
       "video": "site/reels/bj-agency12k.mp4"
-    },
-    {
-      "id": "pod-ep03-channels",
-      "hook": "Angi vs Thumbtack vs Google — real cost",
-      "title": "Angi vs Thumbtack vs Google — real cost #Shorts",
-      "description": "Angi vs Thumbtack vs Google — real cost\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-channels.mp4"
-    },
-    {
-      "id": "pod-ep01-ftc",
-      "hook": "The $7.2M FTC fine on Angi's leads",
-      "title": "The $7.2M FTC fine on Angi's leads #Shorts",
-      "description": "The $7.2M FTC fine on Angi's leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-ftc.mp4"
     },
     {
       "id": "bj-reviews",
@@ -314,21 +288,6 @@
       "video": "site/reels/bj-reviews50.mp4"
     },
     {
-      "id": "bj-track",
-      "hook": "Track every lead source",
-      "title": "Track every lead source #Shorts",
-      "description": "You can't fix marketing you don't track. Put a different number or QR code on every truck, sign, and ad. Guessing is how you burn $10k a year.\n\n👇 How do you track where jobs come from?\n\n#marketing #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "howto",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-track.mp4"
-    },
-    {
       "id": "stop-renting-leads",
       "hook": "Stop renting your leads",
       "script": "Here's the trap with lead sites. The day you stop paying, the leads stop. You rented an audience instead of building one. Every dollar into shared leads is a dollar not building something that keeps producing after you turn it off. Own your leads. Own your shop. Follow Booked Job.",
@@ -349,6 +308,47 @@
       ]
     },
     {
+      "id": "pod-ep03-channels",
+      "hook": "Angi vs Thumbtack vs Google — real cost",
+      "title": "Angi vs Thumbtack vs Google — real cost #Shorts",
+      "description": "Angi vs Thumbtack vs Google — real cost\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-channels.mp4"
+    },
+    {
+      "id": "pod-ep01-ftc",
+      "hook": "The $7.2M FTC fine on Angi's leads",
+      "title": "The $7.2M FTC fine on Angi's leads #Shorts",
+      "description": "The $7.2M FTC fine on Angi's leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-ftc.mp4"
+    },
+    {
+      "id": "bj-track",
+      "hook": "Track every lead source",
+      "title": "Track every lead source #Shorts",
+      "description": "You can't fix marketing you don't track. Put a different number or QR code on every truck, sign, and ad. Guessing is how you burn $10k a year.\n\n👇 How do you track where jobs come from?\n\n#marketing #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "howto",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-track.mp4"
+    },
+    {
       "id": "pod-ep02-howmany",
       "hook": "519 reviews to rank #1 — you've got 12",
       "title": "519 reviews to rank #1 — you've got 12 #Shorts",
@@ -360,19 +360,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-howmany.mp4"
-    },
-    {
-      "id": "pod-ep03-lie",
-      "hook": "Cost per lead is a lie",
-      "title": "Cost per lead is a lie #Shorts",
-      "description": "Cost per lead is a lie\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-lie.mp4"
     },
     {
       "id": "bj-freecheck",
@@ -416,35 +403,6 @@
       "video": "site/reels/pod-ep01-cost.mp4"
     },
     {
-      "id": "bj-anon98",
-      "hook": "98% of visitors vanish",
-      "title": "98% of visitors vanish #Shorts",
-      "description": "98% of the people who visit your site leave without a trace — no call, no form. You paid to get them there and they're gone. Capture them or keep renting.\n\n👇 Know how many visitors your site gets?\n\n#marketing #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "leadgen",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-anon98.mp4",
-      "thumbnail": "site/thumbs/bj-anon98-thumb.png"
-    },
-    {
-      "id": "pod-ep01-shared",
-      "hook": "One Angi lead — sold to 5 other guys",
-      "title": "One Angi lead — sold to 5 other guys #Shorts",
-      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-shared.mp4"
-    },
-    {
       "id": "bj-ai",
       "hook": "Your customer asks ChatGPT",
       "title": "Your customer asks ChatGPT #Shorts",
@@ -475,6 +433,35 @@
         "homeservices"
       ],
       "video": "site/reels/bj-gbp.mp4"
+    },
+    {
+      "id": "pod-ep03-lie",
+      "hook": "Cost per lead is a lie",
+      "title": "Cost per lead is a lie #Shorts",
+      "description": "Cost per lead is a lie\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-lie.mp4"
+    },
+    {
+      "id": "bj-anon98",
+      "hook": "98% of visitors vanish",
+      "title": "98% of visitors vanish #Shorts",
+      "description": "98% of the people who visit your site leave without a trace — no call, no form. You paid to get them there and they're gone. Capture them or keep renting.\n\n👇 Know how many visitors your site gets?\n\n#marketing #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "leadgen",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-anon98.mp4",
+      "thumbnail": "site/thumbs/bj-anon98-thumb.png"
     },
     {
       "id": "bj-fakemaps",
@@ -531,6 +518,19 @@
       "title": "How to Actually Get Google Reviews #shorts #trades"
     },
     {
+      "id": "pod-ep01-shared",
+      "hook": "One Angi lead — sold to 5 other guys",
+      "title": "One Angi lead — sold to 5 other guys #Shorts",
+      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-shared.mp4"
+    },
+    {
       "id": "pod-ep02-system",
       "hook": "The 90-day review system",
       "title": "The 90-day review system #Shorts",
@@ -568,21 +568,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-invisible.mp4"
-    },
-    {
-      "id": "bj-cheapbid",
-      "hook": "Cheapest bid costs the most",
-      "title": "Cheapest bid costs the most #Shorts",
-      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "pricing",
-        "contractorlife",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-cheapbid.mp4"
     },
     {
       "id": "lesson-cpl-vs-cpbj",
@@ -639,6 +624,21 @@
       "video": "site/reels/bj-stormchaser.mp4"
     },
     {
+      "id": "bj-cheapbid",
+      "hook": "Cheapest bid costs the most",
+      "title": "Cheapest bid costs the most #Shorts",
+      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "pricing",
+        "contractorlife",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-cheapbid.mp4"
+    },
+    {
       "id": "bj-slow",
       "hook": "Slow season starts in July",
       "title": "Slow season starts in July #Shorts",
@@ -665,32 +665,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep01-starter.mp4"
-    },
-    {
-      "id": "pod-ep03-exclusive",
-      "hook": "Why an 'expensive' exclusive lead wins",
-      "title": "Why an 'expensive' exclusive lead wins #Shorts",
-      "description": "Why an 'expensive' exclusive lead wins\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-exclusive.mp4"
-    },
-    {
-      "id": "pod-ep03-trap",
-      "hook": "Why the 'cheap' lead is the expensive one",
-      "title": "Why the 'cheap' lead is the expensive one #Shorts",
-      "description": "Why the 'cheap' lead is the expensive one\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-trap.mp4"
     },
     {
       "id": "bj-scam",
@@ -746,6 +720,32 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep01-verdict.mp4"
+    },
+    {
+      "id": "pod-ep03-exclusive",
+      "hook": "Why an 'expensive' exclusive lead wins",
+      "title": "Why an 'expensive' exclusive lead wins #Shorts",
+      "description": "Why an 'expensive' exclusive lead wins\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-exclusive.mp4"
+    },
+    {
+      "id": "pod-ep03-trap",
+      "hook": "Why the 'cheap' lead is the expensive one",
+      "title": "Why the 'cheap' lead is the expensive one #Shorts",
+      "description": "Why the 'cheap' lead is the expensive one\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-trap.mp4"
     },
     {
       "id": "pod-ep01-wrongnum",

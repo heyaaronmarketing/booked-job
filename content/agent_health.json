@@ -48,5 +48,6 @@
   "outreach_reply.py": 0,
   "engagement_tracker.py": 0,
   "rank_queues.py": 0,
-  "review_render.py": 0
+  "review_render.py": 0,
+  "review_rank_tracker.py": 1
 }

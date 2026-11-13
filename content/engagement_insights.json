@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-12T12:10",
+  "generated": "2026-11-12T18:09",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 3259,
+      "views": 2993,
       "engagements": 3,
-      "er": 0.09
+      "er": 0.1
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 378,
-      "engagements": 25,
-      "er": 6.61
+      "views": 425,
+      "engagements": 26,
+      "er": 6.12
     },
     "TikTok": {
       "posts": 1,
@@ -72,15 +72,27 @@
       "date": "2026-09-09"
     },
     {
+      "channel": "YT Shorts",
+      "id": "331gN9RmblI",
+      "caption": "Ep. 4 \u2014 Fire the Bot (Is an AI Receptionist Worth It?)",
+      "views": 79,
+      "reactions": 0,
+      "comments": 1,
+      "shares": 0,
+      "engagements": 1,
+      "er": 1.27,
+      "date": "2026-11-12"
+    },
+    {
       "channel": "FB Reels",
       "id": "1183240727544718",
       "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
-      "views": 143,
+      "views": 144,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
       "engagements": 1,
-      "er": 0.7,
+      "er": 0.69,
       "date": "2026-11-11"
     },
     {
@@ -106,62 +118,14 @@
       "engagements": 1,
       "er": 0.38,
       "date": "2026-11-08"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "2310927063096570",
-      "caption": "Angi sells your \"lead\" to a dozen guys, then you race to the bottom on price. Here's the real cost per booked job \u2014 full breakdown + a free ",
-      "views": 74,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-12"
     }
   ],
   "bottom": [
     {
-      "channel": "YT Shorts",
-      "id": "331gN9RmblI",
-      "caption": "Ep. 4 \u2014 Fire the Bot (Is an AI Receptionist Worth It?)",
-      "views": 24,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-12"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1739447763793859",
-      "caption": "Electricians \u2014 only 64 reviews to rank #1 on Google. Lowest bar in the trades. So why aren't you at the top?\n\n\ud83d\udc47 Electricians \u2014 how many revi",
-      "views": 109,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-10-31"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1419256710381097",
-      "caption": "Painters \u2014 109 reviews to rank #1 on Google. Every finished job is a review you forgot to ask for. Snap a photo, ask on the spot.\n\n\ud83d\udc47 Painter",
-      "views": 189,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-10-31"
-    },
-    {
       "channel": "FB Reels",
       "id": "1152291147741095",
       "caption": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing f",
-      "views": 246,
+      "views": 247,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
@@ -216,6 +180,42 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-02"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "39804317195849265",
+      "caption": "Shops miss about 1 in 7 calls. That customer isn't leaving a voicemail \u2014 they're dialing the next name on Google before you see the notifica",
+      "views": 291,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-03"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1895880934721540",
+      "caption": "After every big storm the roofing scammers roll in \u2014 free inspection, out-of-state plates, sign today, insurance games. Real roofers don't c",
+      "views": 123,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-03"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1447967944093456",
+      "caption": "That free HVAC check isn't free \u2014 it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work cost",
+      "views": 124,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-04"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."

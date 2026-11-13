@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-11-12T18:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Queued to TikTok (Buffer): bj-first10k"
+    },
+    {
+      "ts": "2026-11-12T18:21",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner neighbor"
+    },
+    {
       "ts": "2026-11-12T12:24",
       "kind": "reel",
       "icon": "🎬",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: pricing once not twice"
-    },
-    {
-      "ts": "2026-10-27T05:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing low bid"
-    },
-    {
-      "ts": "2026-10-27T05:26",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing insurance"
     }
   ]
 }

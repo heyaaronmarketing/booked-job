@@ -7,17 +7,17 @@
       "video": "site/reels/af-ai-quote.mp4"
     },
     {
+      "id": "pod-clip-onestar",
+      "hook": "The one-star that started a podcast",
+      "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip3-onestar.mp4"
+    },
+    {
       "id": "speed-to-lead",
       "hook": "Five minutes or you lose the lead",
       "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
       "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
       "video": "site/reels/speed-to-lead.mp4"
-    },
-    {
-      "id": "pod-clip-onestar",
-      "hook": "The one-star that started a podcast",
-      "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip3-onestar.mp4"
     },
     {
       "id": "rip-angi-rip",
@@ -30,13 +30,6 @@
       "hook": "AI receptionist fail",
       "description": "An AI chatbot invented a refund policy — and a court made the company PAY. Real case. Your bot can do this to YOU. The honest AI-receptionist review: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #smallbusiness #trades (based on Moffatt v. Air Canada, 2024)",
       "video": "site/reels/af-ai-aircanada.mp4"
-    },
-    {
-      "id": "text-back",
-      "hook": "Text back the missed call in 5 minutes",
-      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
-      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
-      "video": "site/reels/text-back.mp4"
     },
     {
       "id": "course-angi-short",
@@ -55,6 +48,13 @@
       "hook": "AI receptionist fail",
       "description": "You said “14 Oak Street, now.” It booked “40 Elm, Sunday 2 AM.” 🤦 We reviewed the AI receptionists so you don’t have to: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #contractor #trades (dramatization)",
       "video": "site/reels/af-ai-mishear.mp4"
+    },
+    {
+      "id": "text-back",
+      "hook": "Text back the missed call in 5 minutes",
+      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
+      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
+      "video": "site/reels/text-back.mp4"
     },
     {
       "id": "rip-reviews-rip",
@@ -140,13 +140,6 @@
       "video": "site/reels/missed-call.mp4"
     },
     {
-      "id": "low-bid",
-      "hook": "The cheapest bid costs the most",
-      "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
-      "description": "Stop apologizing for your price. The lowball always comes back around. #contractor #pricing #trades",
-      "video": "site/reels/low-bid.mp4"
-    },
-    {
       "id": "chasing-invoices",
       "hook": "Three months chasing one invoice",
       "script": "Three months chasing a customer for a four thousand dollar invoice. Sound familiar? Here's the hard truth. You're not a bank. Every week that invoice sits unpaid, it's a loan you didn't agree to give. Set net terms in writing, take a deposit up front, and don't start the next phase until the last one's paid. The nicest thing you can do for your business is get paid on time. Follow Booked Job.",
@@ -176,6 +169,13 @@
       "hook": "HVAC spite ad",
       "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
       "video": "content/podcast/clips/ad-arctic.mp4"
+    },
+    {
+      "id": "low-bid",
+      "hook": "The cheapest bid costs the most",
+      "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
+      "description": "Stop apologizing for your price. The lowball always comes back around. #contractor #pricing #trades",
+      "video": "site/reels/low-bid.mp4"
     },
     {
       "id": "explainer-lesson-01",

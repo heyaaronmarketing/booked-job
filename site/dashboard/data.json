@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:10",
+  "updated": "2026-11-12T18:09",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -9,15 +9,15 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 51,
+        "current": 52,
         "target": 70,
-        "pct": 73,
+        "pct": 74,
         "on_track": false
       },
       {
         "label": "YouTube Shorts",
         "icon": "\ud83d\udcfa",
-        "current": 70,
+        "current": 71,
         "target": 45,
         "pct": 100,
         "on_track": true
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 2546,
+        "current": 2605,
         "target": 1400,
         "pct": 100,
         "on_track": true
@@ -138,13 +138,6 @@
       "icon": "\ud83c\udfac",
       "title": "AI receptionist fail",
       "sub": "Reel"
-    },
-    {
-      "date": "2026-12-01",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "AI receptionist fail",
-      "sub": "Reel"
     }
   ],
   "page": {
@@ -157,9 +150,9 @@
     "reactions": 3,
     "comments": 0,
     "shares": 0,
-    "reels_published": 51,
+    "reels_published": 52,
     "posts_remaining": 0,
-    "reels_remaining": 6
+    "reels_remaining": 5
   },
   "ads": {
     "status": "PAUSED",
@@ -172,15 +165,15 @@
   "youtube": {
     "connected": true,
     "subscribers": 1,
-    "views": 2546,
+    "views": 2605,
     "likes": 4,
-    "videos": 70,
-    "shorts": 70
+    "videos": 71,
+    "shorts": 71
   },
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 689
+    "media": 693
   },
   "email": {
     "subscribers": 7
@@ -209,8 +202,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 726,
-      "pageviews_weekly": 5637,
-      "pageviews_monthly": 8925
+      "pageviews_weekly": 5816,
+      "pageviews_monthly": 9104
     },
     "total_clicks": 0,
     "total_impressions": 17,
@@ -235,11 +228,11 @@
     },
     "linkedin": {
       "name": "Booked Job",
-      "posts": 69,
+      "posts": 70,
       "views": 30,
       "reactions": 3,
       "comments": 1,
-      "engagement_rate": 0.65
+      "engagement_rate": 0.73
     }
   },
   "agents": [
@@ -468,7 +461,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 135,
+      "count": 136,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -479,28 +472,28 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 64,
+      "count": 65,
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1516,
+      "views": 1532,
       "followers": 1
     },
     {
       "name": "YouTube",
       "status": "live",
-      "count": 51,
+      "count": 52,
       "unit": "shorts",
       "grade": "B",
       "group": "social",
-      "views": 2546,
+      "views": 2605,
       "followers": 1,
       "likes": 4
     },
     {
       "name": "Blogger",
       "status": "live",
-      "count": 145,
+      "count": 146,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -516,7 +509,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 145,
+      "count": 146,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -524,17 +517,17 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 17,
+      "count": 18,
       "unit": "posts",
       "followers": 346,
       "grade": "A",
       "group": "social",
-      "likes": 13
+      "likes": 12
     },
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 145,
+      "count": 146,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -579,7 +572,7 @@
       "status": "live",
       "count": 68,
       "unit": "posts (Buffer)",
-      "stat": "927 reach \u00b7 3 reactions",
+      "stat": "928 reach \u00b7 3 reactions",
       "views": 30,
       "likes": 3,
       "grade": "B",
@@ -588,7 +581,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 78,
+      "count": 79,
       "unit": "videos (Buffer)",
       "stat": "155 views \u00b7 0 reactions",
       "views": 155,
@@ -631,12 +624,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Polls",
@@ -661,12 +654,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Long video",
@@ -677,7 +670,7 @@
       {
         "type": "Shorts",
         "status": "live",
-        "count": 51
+        "count": 52
       },
       {
         "type": "Community posts",
@@ -692,7 +685,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 66
+        "count": 67
       },
       {
         "type": "Photo carousels",
@@ -722,7 +715,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 20
+        "count": 21
       },
       {
         "type": "Articles",
@@ -753,19 +746,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 17
+        "count": 18
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 38
+        "count": 39
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 145
+        "count": 146
       },
       {
         "type": "Video",
@@ -817,7 +810,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 38
+        "count": 39
       }
     ]
   },
@@ -831,16 +824,16 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 6,
+      "remaining": 5,
       "per_day": 1,
-      "days": 6.0,
+      "days": 5.0,
       "status": "amber"
     },
     {
       "label": "YouTube/IG shorts",
-      "remaining": 13,
+      "remaining": 12,
       "per_day": 2,
-      "days": 6.5,
+      "days": 6.0,
       "status": "amber"
     },
     {
@@ -859,7 +852,7 @@
     }
   ],
   "funnel": {
-    "reach": 35866,
+    "reach": 35955,
     "engagement": 3,
     "audience": 376,
     "cr_clicks": 191
@@ -868,13 +861,13 @@
     "audience": 39,
     "engagement": 1,
     "email": 0,
-    "reach": -333
+    "reach": -244
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 19250,
+        "value": 19309,
         "grade": "B"
       },
       {
@@ -884,7 +877,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1490,
+        "value": 1498,
         "grade": "A"
       },
       {
