@@ -1,0 +1,47 @@
+{
+  "slug": "whatconverts-review",
+  "title_tag": "WhatConverts Review (2026): Honest Pricing & Is It Worth It?",
+  "title": "WhatConverts: Which Ad <em>Actually</em> Made the Phone Ring",
+  "meta": "Honest WhatConverts review for 2026: real pricing (~$30–$160/mo + per-number), what call + form tracking actually does, and the one question it answers that decides your marketing budget.",
+  "date": "2026-11-13",
+  "sec": "Field Test",
+  "filing": {"Field Report": "№ 029", "Subject": "WhatConverts", "Filed for": "Shops running paid", "Status": "Reviewed"},
+  "dek": "Call + form tracking that tags every lead with the ad that earned it. The tool that turns “I spend $2k on marketing” into “this channel costs me $140 a job, that one costs $900.”",
+  "verdict_stamp": "Verdict —<br>Buy it, once you're paying for leads",
+  "verdict_text": "<b>Buy it the moment you're spending on more than one channel.</b> WhatConverts answers the one question that decides your whole budget: which ad, which keyword, which channel actually made the phone ring? If you run Google Ads <em>and</em> LSA <em>and</em> organic and can't tell which is working, you're flying blind &mdash; and this fixes that for the price of a few leads. If you run one channel or mostly referrals, it's overkill. Just ask &ldquo;how'd you hear about us?&rdquo;",
+  "blocks": [
+    {"type": "prose", "lede": true, "html": "<p>Here's the trap every contractor who starts spending falls into: you run Google Ads, you sign up for Local Service Ads, you've got some organic traffic and a yard sign out front. A call comes in, you book the job. Which one of those earned it? You have no idea. So you keep paying for all of them &mdash; including the ones doing nothing.</p><p>WhatConverts is call tracking + form tracking. It gives you tracking phone numbers and tags every call, form, and chat with the exact source that drove it &mdash; down to the campaign, ad, and keyword. The point isn't the dashboard. It's that it turns a guess into a number: <b>cost per booked job, by channel.</b> That's the only number that actually tells you where to put your next dollar.</p>"},
+    {"type": "estimate", "h": "What WhatConverts costs", "caption": "WhatConverts — published plans (2026, verify current tiers)",
+     "rows": [
+       {"item": "Call Tracking (entry)", "cost": "~$30/mo", "buy": "Start", "buy_class": "", "note": "basic call + form tracking", "sub": "14-day trial + a $30 usage credit; no free plan"},
+       {"item": "Plus", "cost": "~$60/mo", "buy": "Most shops", "buy_class": "", "note": "multichannel (calls + forms + chats) — where the real value kicks in"},
+       {"item": "Pro / Elite", "cost": "~$100 / $160/mo", "buy": "Attribution", "buy_class": "", "note": "customer-journey + multi-click attribution for serious ad spend"},
+       {"item": "Tracking numbers", "cost": "~$5–$20 /number/mo", "buy": "Add-on", "buy_class": "", "note": "you pay per phone number on top of the plan — factor it in"}
+     ]},
+    {"type": "bs", "h": "The thing to understand before you buy",
+     "intro_html": "<p>The $30 entry price is real, but it's not the whole story.</p>",
+     "label": "Read the fine print",
+     "claim": "&ldquo;Track every lead for thirty bucks a month.&rdquo;",
+     "small": "The base tier covers basic call/form tracking, but tracking numbers bill on top (~$5–$20 each), and the multi-channel attribution that makes this worth owning sits on the Plus tier and up. Budget for the plan that actually answers your question, not the cheapest one.",
+     "outro_html": "<p>Still cheap next to what it saves: if it shows you a channel burning $900 a booked job, killing that one channel pays for the tool for a year.</p>"},
+    {"type": "ops", "h": "When it's worth it, when it's overkill",
+     "intro_html": "<p>Straight version:</p>",
+     "steps": [
+       "<b>Worth it</b> when you're spending real money on two or more channels (Ads + LSA + SEO) and genuinely can't tell which one is booking jobs. That's exactly when the wrong guess costs you thousands.",
+       "<b>Overkill</b> when you run one channel, or most of your work is referrals and repeat customers. You don't need a dashboard to know where those came from.",
+       "<b>What it actually gets you:</b> cost per <em>booked job</em> by channel — not cost per lead, not clicks. Tie the booked revenue back to the source and you can finally cut the dead channel instead of the whole budget.",
+       "<b>The honest catch:</b> a tool only measures the leak; it doesn't fix it. If the problem is that leads ring and nobody answers, tracking just proves you're losing them. Fix the answering first (that's us), then measure what's left."
+     ]}
+  ],
+  "workorder": {"h": "We'll wire up tracking so you know which dollar works", "p": "Call + form tracking set up right, tied to booked jobs, so you can see cost-per-booked-job by channel and kill the losers — plus the call capture that stops leads leaking in the first place.", "price": "$500"},
+  "ledger_note": "The WhatConverts link is an affiliate link &mdash; we may earn a commission if you sign up, at no cost to you. It never changes the verdict.",
+  "affiliates": [
+    {"k": "<b>WhatConverts</b> — see which ad made the phone ring", "href": "aff:whatconverts", "cta": "See WhatConverts &#8594;"},
+    {"k": "<b>Want it set up + watched for you?</b>", "href": "https://aaron.chat", "cta": "aaron.chat &#8594;"}
+  ],
+  "faq": [
+    {"q": "Is WhatConverts worth it for contractors?", "a": "If you're spending on two or more marketing channels and can't tell which is actually booking jobs, yes — it pays for itself the first time it exposes a channel that's wasting money. If you run one channel or mostly referrals, it's overkill; just ask callers how they found you."},
+    {"q": "How much does WhatConverts cost?", "a": "Published plans run roughly $30/mo (Call Tracking) up to $160/mo (Elite), with a 14-day trial and a $30 usage credit, and no free plan. Tracking phone numbers bill on top at about $5–$20 per number per month, so budget for the plan plus your numbers. Confirm current tiers on their pricing page."},
+    {"q": "WhatConverts vs CallRail?", "a": "Both do call and form tracking with lead attribution; they're close competitors and pricing is similar. WhatConverts leans hard into lead-level reporting and value tracking (tying revenue to source), which is exactly what you want to compute cost per booked job by channel. For most contractors either works — pick on price and whichever integrates with the ad platforms you actually run."}
+  ]
+}

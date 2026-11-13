@@ -247,6 +247,7 @@ PRODUCTS = {
     "rosie-ai-review": ("Rosie", "SoftwareApplication"),
     "smith-ai-review": ("Smith.ai", "Service"),
     "ruby-review": ("Ruby Receptionists", "Service"),
+    "whatconverts-review": ("WhatConverts", "SoftwareApplication"),
     "is-angi-worth-it-for-contractors": ("Angi Leads", "Service"),
     "is-thumbtack-worth-it-for-contractors": ("Thumbtack", "Service"),
     "is-homeadvisor-worth-it-for-contractors": ("HomeAdvisor", "Service"),
