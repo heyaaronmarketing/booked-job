@@ -106,12 +106,13 @@
       "bj-ftc",
       "bj-cpl",
       "bj-favor",
-      "bj-stars"
+      "bj-stars",
+      "bj-ai"
     ],
-    "last_iso": "2026-11-14T11:11:38",
+    "last_iso": "2026-11-14T15:33:59",
     "day": {
       "date": "2026-11-14",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -141,12 +142,13 @@
       "bj-trade",
       "bj-slow",
       "bj-cpbj",
-      "bj-speed"
+      "bj-speed",
+      "bj-ftc"
     ],
-    "last_iso": "2026-11-14T11:11:38",
+    "last_iso": "2026-11-14T15:33:59",
     "day": {
       "date": "2026-11-14",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -276,12 +278,13 @@
       "bj-yelp",
       "bj-anon98",
       "bj-missedcall",
-      "bj-stormchaser"
+      "bj-stormchaser",
+      "bj-freecheck"
     ],
-    "last_iso": "2026-11-14T11:11:38",
+    "last_iso": "2026-11-14T15:33:59",
     "day": {
       "date": "2026-11-14",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -344,12 +347,13 @@
       "bj-yelp",
       "bj-anon98",
       "bj-missedcall",
-      "bj-stormchaser"
+      "bj-stormchaser",
+      "bj-freecheck"
     ],
-    "last_iso": "2026-11-14T11:11:38",
+    "last_iso": "2026-11-14T15:33:59",
     "day": {
       "date": "2026-11-14",
-      "count": 1
+      "count": 2
     }
   }
 }

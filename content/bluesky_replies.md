@@ -2,6 +2,18 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Tanj  – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=32413 
+
+#agency #architecture #building #business #company #construction #contractor #corporate #designthemes #electrician #plumbe
+  → https://bsky.app/profile/stylelib.org/post/3n27iurxi5m2o
+
+- **@blaksheepcreative.bsky.social**: Contractor Leads: Which to Buy, Which to Own, and How to Keep Them
+
+https://blaksheepcreative.com/digital-marketing/contractor-leads/?utm_source=bluesky&utm_medium=social&utm_campaign=blog
+  → https://bsky.app/profile/blaksheepcreative.bsky.social/post/3mzgba5ib422o
+
 - **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
 
 Your books should work as hard as you do.
@@ -189,11 +201,3 @@ So I fed it his own past emails and had it copy his phrasing, not mine.
 
 A
   → https://bsky.app/profile/premarcu.bsky.social/post/3mzuhohmb6x26
-
-- **@bomcascanada.bsky.social**: 2026 T4/T4A prep: CRA filing is on time by March 1, 2027 under the weekend rule. Reconcile payroll and review contractor slips. General information, not tax advice.
-bomcas.ca
-bomcas.com #T4 #T4A #BOMC
-  → https://bsky.app/profile/bomcascanada.bsky.social/post/3mzojreqmms2p
-
-- **@shopgirl24.bsky.social**: Investigate the boards that Trump has appointed himself to. How much is he making on the side from contractors? Is he the General Contractor of the ball room drawing a fee? Kickbacks, how much and fro
-  → https://bsky.app/profile/shopgirl24.bsky.social/post/3mzq34sqlhk2p

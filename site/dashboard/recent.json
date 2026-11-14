@@ -1,70 +1,34 @@
 {
-  "updated": "2026-11-14T11:16",
+  "updated": "2026-11-14T15:36",
   "posts": [
     {
-      "ts": "2026-11-14T11:13:47",
-      "channel": "youtube",
-      "item": "bj-gbp",
-      "url": "https://youtu.be/jDcd9CUB_Us"
-    },
-    {
-      "ts": "2026-11-14T11:13:41",
-      "channel": "facebook",
-      "item": "card-rev-paint",
-      "url": null
-    },
-    {
-      "ts": "2026-11-14T11:13:37",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-14T11:12:58",
+      "ts": "2026-11-14T15:34:11",
       "channel": "mastodon",
-      "item": "card-speed",
+      "item": "card-ftc",
       "url": null
     },
     {
-      "ts": "2026-11-14T11:12:55",
+      "ts": "2026-11-14T15:34:08",
       "channel": "tumblr",
-      "item": "bj-stormchaser",
+      "item": "bj-freecheck",
       "url": null
     },
     {
-      "ts": "2026-11-14T11:12:53",
+      "ts": "2026-11-14T15:34:06",
       "channel": "bluesky",
-      "item": "bj-stormchaser",
+      "item": "bj-freecheck",
       "url": null
     },
     {
-      "ts": "2026-11-14T11:12:49",
+      "ts": "2026-11-14T15:34:02",
       "channel": "linkedin",
-      "item": "bj-speed",
+      "item": "bj-ftc",
       "url": null
     },
     {
-      "ts": "2026-11-14T11:12:48",
+      "ts": "2026-11-14T15:34:01",
       "channel": "tiktok",
-      "item": "bj-stars",
-      "url": null
-    },
-    {
-      "ts": "2026-11-14T11:12:47",
-      "channel": "ig",
-      "item": "stop-renting-leads",
-      "url": null
-    },
-    {
-      "ts": "2026-11-14T11:12:13",
-      "channel": "facebook",
-      "item": "rip-reviews-rip",
-      "url": null
-    },
-    {
-      "ts": "2026-11-14T11:09:56",
-      "channel": "fb",
-      "item": "af-ai-mishear",
+      "item": "bj-ai",
       "url": null
     }
   ]
