@@ -2,6 +2,44 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
+  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
+
+- **@whatagentscando.com**: Own a small business? Your old quotes might be money.
+
+An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
+  → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
+
 - **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
@@ -159,45 +197,3 @@ bomcas.com #T4 #T4A #BOMC
 
 - **@shopgirl24.bsky.social**: Investigate the boards that Trump has appointed himself to. How much is he making on the side from contractors? Is he the General Contractor of the ball room drawing a fee? Kickbacks, how much and fro
   → https://bsky.app/profile/shopgirl24.bsky.social/post/3mzq34sqlhk2p
-
-- **@lhalljd.bsky.social**: So Grunley Construction Company is taking steps without notice from authorities to begin work? That's what was represented to the court. grunley.com
-  → https://bsky.app/profile/lhalljd.bsky.social/post/3mzq5ibmhlk2r
-
-- **@xeniongroup.bsky.social**: Jobsite too busy to answer? Your next estimate request shouldn’t wait.
-• Capture project, location & timing
-• Set honest expectations
-• Give every inquiry a real next step
-Read: https://marketingblog.
-  → https://bsky.app/profile/xeniongroup.bsky.social/post/3mz4jenhdny2t
-
-- **@blaksheepcreative.bsky.social**: Contractor Leads: Which to Buy, Which to Own, and How to Keep Them
-
-https://blaksheepcreative.com/digital-marketing/contractor-leads/?utm_source=bluesky&utm_medium=social&utm_campaign=blog
-  → https://bsky.app/profile/blaksheepcreative.bsky.social/post/3mzgba5ib422o
-
-- **@salesladders.bsky.social**: Milk. Trash out Tuesday. Call the plumber. Nobody calls it a system until it's gone. What's the sticky note in your business?
-
-SalesLadder™ Secrets Ebook + Diagnostic Kit, US$7 → go.salesladdersecrets
-  → https://bsky.app/profile/salesladders.bsky.social/post/3mzgi6dblps2s
-
-- **@kazwan.bsky.social**: ChatGPT Plumber Visibility - What It Checks Before Naming a Business: Guide
-
-Profit Acuity's new guide explains why ChatGPT may skip plumbing companies for...
-
-https://ohsem.me/2026/11/chatgpt-plumber
-  → https://bsky.app/profile/kazwan.bsky.social/post/3mzsyk7jmmw2t
-
-- **@stylelib.org**: Make Clean – Responsive HTML Template
-
- https://stylelib.org/?p=285565 
-
-#cleaning #cleaningcompany #electrician #handyman #plumbing #remodeling #renovation #sitetemplates #themeforest #business #plum
-  → https://bsky.app/profile/stylelib.org/post/3mztjk56iri2z
-
-- **@articleweblog.bsky.social**: Old trades, new cafes: Can Jalan Besar keep its charm?
-
-Business owners, residents and experts say its mix of old trades and new cafes is the draw. Source link
-  → https://bsky.app/profile/articleweblog.bsky.social/post/3mzrlmzzeun2y
-
-- **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
-  → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24

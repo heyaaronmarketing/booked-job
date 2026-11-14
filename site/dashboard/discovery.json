@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T10:13:42Z",
+  "updated": "2026-11-14T16:59:01Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 26,
+        "uses": 27,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -93,13 +93,18 @@
       },
       {
         "tag": "#contractors",
-        "uses": 5,
+        "uses": 6,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#handyman",
         "uses": 2,
         "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#hvacr",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/hvacr"
       },
       {
         "tag": "#HVACAutomation",
@@ -112,6 +117,11 @@
         "link": "https://mastodon.social/tags/plumbingtips"
       },
       {
+        "tag": "#Roofing_company_Fort_Worth_TX",
+        "uses": 1,
+        "link": "https://mastodon.social/tags/Roofing_company_Fort_Worth_TX"
+      },
+      {
         "tag": "#roofingcontractor",
         "uses": 1,
         "link": "https://mastodon.social/tags/roofingcontractor"
@@ -122,25 +132,15 @@
         "link": "https://mastodon.social/tags/RoofingServices"
       },
       {
-        "tag": "#Roofing_company_Fort_Worth_TX",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/Roofing_company_Fort_Worth_TX"
-      },
-      {
         "tag": "#Electricians",
         "uses": 1,
         "link": "https://mastodon.social/tags/Electricians"
-      },
-      {
-        "tag": "#contractor",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/contractor"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 469011,
+        "followers": 469012,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23685,
+        "followers": 23687,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -236,7 +236,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 1799,
+      "followers": 1825,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
