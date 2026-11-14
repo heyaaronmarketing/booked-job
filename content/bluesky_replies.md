@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hiveislive.bsky.social**: Business offer: Run a home-service business? Local Lead Site Sprint builds a focused Home, Services and Contact website. Tell us what you do and where you work to request a quote. sprint.hiveislive.co
+  → https://bsky.app/profile/hiveislive.bsky.social/post/3n25tuvbv3s25
+
+- **@hiveislive.bsky.social**: Run a home-service business and need a website? Local Lead Site Sprint builds Home, Services and Contact pages. DM us “Sprint: how do I get a quote?” and Piper will send you the quote form. No payment
+  → https://bsky.app/profile/hiveislive.bsky.social/post/3n262d4iotsct
+
+- **@squarecompasspromo.bsky.social**: EVERY masonic building and property is unique, and as such EVERY masonic building has unique safety and security needs. We hope that this self-audit will give those responsible for our buildings (or a
+  → https://bsky.app/profile/squarecompasspromo.bsky.social/post/3n265zozy7s2i
+
 - **@gojo41042.bsky.social**: Locked Out in San Antonio? Help Is Minutes Away!
 
 Stuck outside your home, car, or business? Don’t panic. Fast, reliable locksmith services come straight to your door, day or night. 
@@ -196,14 +205,3 @@ We provide specialty accounting & bookkeeping for:
 → HVAC companies & contractors
 → Realtors & home service busi
   → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T16:30",
+  "generated": "2026-11-13T21:04",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2509,
+      "views": 2537,
       "engagements": 3,
       "er": 0.12
     },
@@ -109,9 +109,9 @@
     },
     {
       "channel": "FB Reels",
-      "id": "3698335770342854",
-      "caption": "Real contractor marketing, no fluff. \u2014 booked-job.com #contractor #trades\n\n\ud83d\udee0\ufe0f Follow for the math nobody in marketing shows you.",
-      "views": 25,
+      "id": "2248839468998137",
+      "caption": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades\n\n\ud83d\udd27 Follow B",
+      "views": 118,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
@@ -121,30 +121,6 @@
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "1426365209662442",
-      "caption": "For most trades, no. Pay-to-play, free leads dry up, reviews get hidden if you don't advertise. Put that energy into Google.\n\n\ud83d\udc47 Yelp: worth ",
-      "views": 239,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-02"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1166069432748896",
-      "caption": "98% of the people who visit your site leave without a trace \u2014 no call, no form. You paid to get them there and they're gone. Capture them or",
-      "views": 84,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-02"
-    },
     {
       "channel": "FB Reels",
       "id": "39804317195849265",
@@ -216,6 +192,30 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-06"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1179231045060292",
+      "caption": "You can't fix marketing you don't track. Put a different number or QR code on every truck, sign, and ad. Guessing is how you burn $10k a yea",
+      "views": 204,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-07"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "3014094745598215",
+      "caption": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed \u2014 free at booked-job.com/podcast. ",
+      "views": 211,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-08"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."

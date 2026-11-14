@@ -133,17 +133,17 @@
       "video": "site/reels/repeat-customer.mp4"
     },
     {
-      "id": "explainer-lesson-01",
-      "hook": "Nobody taught you marketing",
-      "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
-      "video": "site/reels/explainer-lesson-01.mp4"
-    },
-    {
       "id": "missed-call",
       "hook": "Every missed call is a booked job",
       "script": "Here's the most expensive sound in your business: your phone ringing while you're under a sink. You don't answer, so they call the next guy. And the next guy books the job. Studies say most homeowners call three shops and hire the first one that picks up. Not the cheapest. The first. If you can't answer, get someone who can. A missed call isn't a missed call. It's a booked job you handed to your competitor. Follow Booked Job.",
       "description": "The first shop to pick up usually wins the job — not the cheapest. Who's answering your phone? 👇 #contractor #trades #smallbusiness",
       "video": "site/reels/missed-call.mp4"
+    },
+    {
+      "id": "explainer-lesson-01",
+      "hook": "Nobody taught you marketing",
+      "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
+      "video": "site/reels/explainer-lesson-01.mp4"
     },
     {
       "id": "chasing-invoices",
@@ -234,13 +234,6 @@
       "video": "site/reels/gbp-billboard.mp4"
     },
     {
-      "id": "slow-season",
-      "hook": "Slow season starts in summer",
-      "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
-      "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
-      "video": "site/reels/slow-season.mp4"
-    },
-    {
       "id": "show-up",
       "hook": "The trades don't have a wage problem",
       "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
@@ -253,6 +246,13 @@
       "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
       "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
       "video": "site/reels/referrals.mp4"
+    },
+    {
+      "id": "slow-season",
+      "hook": "Slow season starts in summer",
+      "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
+      "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
+      "video": "site/reels/slow-season.mp4"
     },
     {
       "id": "diagnostic-fee",

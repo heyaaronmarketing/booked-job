@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T16:30",
+  "updated": "2026-11-13T21:04",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -9,9 +9,9 @@
       {
         "label": "Reels shipped",
         "icon": "\ud83c\udfac",
-        "current": 53,
+        "current": 54,
         "target": 70,
-        "pct": 76,
+        "pct": 77,
         "on_track": false
       },
       {
@@ -124,13 +124,6 @@
       "icon": "\ud83c\udfac",
       "title": "AI receptionist fail",
       "sub": "Reel"
-    },
-    {
-      "date": "2026-11-27",
-      "type": "reel",
-      "icon": "\ud83c\udfac",
-      "title": "AI receptionist fail",
-      "sub": "Reel"
     }
   ],
   "page": {
@@ -143,9 +136,9 @@
     "reactions": 3,
     "comments": 0,
     "shares": 0,
-    "reels_published": 53,
+    "reels_published": 54,
     "posts_remaining": 0,
-    "reels_remaining": 4
+    "reels_remaining": 3
   },
   "ads": {
     "status": "PAUSED",
@@ -166,7 +159,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 697
+    "media": 698
   },
   "email": {
     "subscribers": 7
@@ -195,8 +188,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 814,
-      "pageviews_weekly": 5544,
-      "pageviews_monthly": 9710
+      "pageviews_weekly": 5667,
+      "pageviews_monthly": 9833
     },
     "total_clicks": 0,
     "total_impressions": 17,
@@ -213,7 +206,7 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 98,
+      "posts": 97,
       "views": 155,
       "reactions": 0,
       "comments": 0,
@@ -454,7 +447,7 @@
     {
       "name": "Facebook",
       "status": "live",
-      "count": 137,
+      "count": 138,
       "unit": "posts",
       "grade": "B",
       "group": "social",
@@ -465,11 +458,11 @@
     {
       "name": "Instagram",
       "status": "live",
-      "count": 66,
+      "count": 67,
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1605,
+      "views": 1626,
       "followers": 1
     },
     {
@@ -510,9 +503,9 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 21,
+      "count": 22,
       "unit": "posts",
-      "followers": 346,
+      "followers": 348,
       "grade": "A",
       "group": "social",
       "likes": 7
@@ -574,7 +567,7 @@
     {
       "name": "TikTok",
       "status": "live",
-      "count": 81,
+      "count": 82,
       "unit": "videos (Buffer)",
       "stat": "155 views \u00b7 0 reactions",
       "views": 155,
@@ -617,12 +610,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Polls",
@@ -647,12 +640,12 @@
       {
         "type": "Reels",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Stories",
         "status": "live",
-        "count": 10
+        "count": 12
       },
       {
         "type": "Long video",
@@ -678,7 +671,7 @@
       {
         "type": "Videos",
         "status": "live",
-        "count": 69
+        "count": 70
       },
       {
         "type": "Photo carousels",
@@ -708,7 +701,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 23
+        "count": 24
       },
       {
         "type": "Articles",
@@ -739,12 +732,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 21
+        "count": 22
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 41
+        "count": 42
       }
     ],
     "Mastodon": [
@@ -803,7 +796,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 41
+        "count": 42
       }
     ]
   },
@@ -817,9 +810,9 @@
     },
     {
       "label": "Reels \u2014 fresh renders",
-      "remaining": 4,
+      "remaining": 3,
       "per_day": 1,
-      "days": 4.0,
+      "days": 3.0,
       "status": "amber"
     },
     {
@@ -845,16 +838,16 @@
     }
   ],
   "funnel": {
-    "reach": 36120,
+    "reach": 36162,
     "engagement": 3,
-    "audience": 376,
-    "cr_clicks": 193
+    "audience": 378,
+    "cr_clicks": 194
   },
   "trends": {
-    "audience": 39,
+    "audience": 41,
     "engagement": 1,
     "email": 0,
-    "reach": -79
+    "reach": -37
   },
   "mafia": {
     "metrics": [
@@ -865,12 +858,12 @@
       },
       {
         "label": "Total Clicks",
-        "value": 193,
+        "value": 194,
         "grade": "B"
       },
       {
         "label": "Total Posts",
-        "value": 1510,
+        "value": 1514,
         "grade": "A"
       },
       {
@@ -880,7 +873,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 376,
+        "value": 378,
         "grade": "B"
       },
       {
@@ -890,6 +883,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 376 audience and 193 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 378 audience and 194 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }
