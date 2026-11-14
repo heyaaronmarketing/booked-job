@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T21:09",
+  "generated": "2026-11-14T04:17",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -13,7 +13,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 1,
+        "current": 0,
         "target": 2,
         "status": "red",
         "needs": null
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 7,
+        "current": 1,
         "target": 22,
         "status": "red",
         "needs": null
@@ -33,9 +33,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels shipped (FB+IG+TikTok)",
-        "current": 2,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       },
       {
@@ -43,7 +43,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 814,
+        "current": 660,
         "target": 40,
         "status": "green",
         "needs": null
@@ -53,9 +53,9 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts",
-        "current": 1,
+        "current": 0,
         "target": 1,
-        "status": "green",
+        "status": "red",
         "needs": null
       }
     ],
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 0,
+        "current": 44,
         "target": 150,
         "status": "red",
         "needs": null
@@ -87,7 +87,7 @@
         "label": "Reels",
         "current": 3,
         "target": 7,
-        "status": "yellow",
+        "status": "red",
         "needs": null
       },
       {
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 17,
+        "current": 18,
         "target": 120,
         "status": "red",
         "needs": null
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 5670,
+        "current": 5462,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 139,
+        "current": 140,
         "target": 600,
         "status": "red",
         "needs": null
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 30707,
+        "current": 30290,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 144,
     "reels": 54,
-    "social_posts": 1095,
+    "social_posts": 1096,
     "followers": 371,
     "engagement": 3,
     "yt_views": 2612,
@@ -249,13 +249,18 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "0/150 \u2014 150 short of pace.",
-      "prompt": "We're behind on social posts this week (0/150). Refill the social queues / add more variant cards."
+      "why": "44/150 \u2014 106 short of pace.",
+      "prompt": "We're behind on social posts this week (44/150). Refill the social queues / add more variant cards."
+    },
+    {
+      "title": "\ud83c\udfac Reels behind this week",
+      "why": "3/7 \u2014 4 short of pace.",
+      "prompt": "We're behind on reels this week (3/7). Cut more podcast & course clips."
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "17/120 \u2014 103 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (17/120). Refill the social queues / add more variant cards."
+      "why": "18/120 \u2014 102 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (18/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
+Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
+If you're keen to learn, work hard, and build a rew
+  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3n2b5xk2cg42p
+
 - **@hiveislive.bsky.social**: Business offer: Run a home-service business? Local Lead Site Sprint builds a focused Home, Services and Contact website. Tell us what you do and where you work to request a quote. sprint.hiveislive.co
   → https://bsky.app/profile/hiveislive.bsky.social/post/3n25tuvbv3s25
 
@@ -196,12 +201,3 @@ Business owners, residents and experts say its mix of old trades and new cafes i
 
 - **@obs62.bsky.social**: I've also noticed small business logos with the owner (?) drawn in cartoon style by AI. I've seen a chimney sweep, HVAC repair, and plumber in the last few weeks, all with the exact same style.
   → https://bsky.app/profile/obs62.bsky.social/post/3msb7nnoyuk24
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
