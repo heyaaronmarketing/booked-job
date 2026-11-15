@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-14T19:46",
+  "generated": "2026-11-15T03:12",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2570,
+      "views": 2637,
       "engagements": 4,
-      "er": 0.16
+      "er": 0.15
     },
     "YT Shorts": {
       "posts": 25,
@@ -87,7 +87,7 @@
       "channel": "FB Reels",
       "id": "1433111445605893",
       "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
-      "views": 214,
+      "views": 215,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
@@ -109,42 +109,18 @@
     },
     {
       "channel": "FB Reels",
-      "id": "2214036449143262",
-      "caption": "You said \u201c14 Oak Street, now.\u201d It booked \u201c40 Elm, Sunday 2 AM.\u201d \ud83e\udd26 We reviewed the AI receptionists so you don\u2019t have to: booked-job.com/revi",
-      "views": 222,
+      "id": "1864729631188027",
+      "caption": "78% of homeowners hire whoever responds first \u2014 not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #con",
+      "views": 206,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
       "engagements": 0,
       "er": 0.0,
-      "date": "2026-11-14"
+      "date": "2026-11-15"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "1447967944093456",
-      "caption": "That free HVAC check isn't free \u2014 it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work cost",
-      "views": 124,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-04"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1137009655547947",
-      "caption": "Shady lead companies clone your Maps listing, grab your calls, and sell your customers back to you. Search your own name \u2014 if there are two ",
-      "views": 235,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-04"
-    },
     {
       "channel": "FB Reels",
       "id": "1788080569113177",
@@ -216,6 +192,30 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-12"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "3698335770342854",
+      "caption": "Real contractor marketing, no fluff. \u2014 booked-job.com #contractor #trades\n\n\ud83d\udee0\ufe0f Follow for the math nobody in marketing shows you.",
+      "views": 27,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-13"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1138843581974801",
+      "caption": "The AI \u201cfixed\u201d a no-show by rebooking it for the year 1847. \ud83d\ude02 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/",
+      "views": 239,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-13"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."

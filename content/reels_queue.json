@@ -82,16 +82,22 @@
       "video": "site/reels/text-back.mp4"
     },
     {
-      "id": "refund-monday",
-      "hook": "20 minutes on Monday buys back real money",
-      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
-      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
-    },
-    {
       "id": "first-to-answer",
       "hook": "78% hire whoever answers first",
       "script": "Here's a number that should scare you. Seventy eight percent of homeowners hire whoever gets back to them first. Not the best price. Not the best reviews. First. That means the shop beating you might just be faster than you. And if you're buying shared leads, four other trucks got that same name and number at the same second you did. You're not in a bidding war, you're in a footrace. Answer first, and you win jobs you didn't earn on price. Follow Booked Job.",
       "description": "78% hire whoever responds first. How fast do you actually get back? 👇 #speedtolead #contractor #trades"
+    },
+    {
+      "id": "rip-speed-rip",
+      "hook": "78% hire the first",
+      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
+      "video": "site/reels/rip-speed-rip.mp4"
+    },
+    {
+      "id": "refund-monday",
+      "hook": "20 minutes on Monday buys back real money",
+      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
+      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
     },
     {
       "id": "af-ai-loop",
@@ -114,23 +120,10 @@
       "video": "site/reels/website-converting.mp4"
     },
     {
-      "id": "rip-speed-rip",
-      "hook": "78% hire the first",
-      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
-      "video": "site/reels/rip-speed-rip.mp4"
-    },
-    {
       "id": "chargeback-trap",
       "hook": "Never call your bank over a lead",
       "script": "If you buy leads, this one can cost you your whole account. You get charged for a junk lead, you're mad, so you call your bank and dispute it. Here's what happens. The platform puts a hold on your pro account. Sometimes they close it. And every review you spent three years earning goes with it. Fight it their way. File the refund inside the window, keep the screenshots, and if they keep denying you, just turn the budget off. Turning off spend costs you nothing. A chargeback can cost you the account. Follow Booked Job.",
       "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
-    },
-    {
-      "id": "repeat-customer",
-      "hook": "Keeping a customer beats finding one",
-      "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
-      "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
-      "video": "site/reels/repeat-customer.mp4"
     },
     {
       "id": "missed-call",
@@ -138,6 +131,13 @@
       "script": "Here's the most expensive sound in your business: your phone ringing while you're under a sink. You don't answer, so they call the next guy. And the next guy books the job. Studies say most homeowners call three shops and hire the first one that picks up. Not the cheapest. The first. If you can't answer, get someone who can. A missed call isn't a missed call. It's a booked job you handed to your competitor. Follow Booked Job.",
       "description": "The first shop to pick up usually wins the job — not the cheapest. Who's answering your phone? 👇 #contractor #trades #smallbusiness",
       "video": "site/reels/missed-call.mp4"
+    },
+    {
+      "id": "repeat-customer",
+      "hook": "Keeping a customer beats finding one",
+      "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
+      "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
+      "video": "site/reels/repeat-customer.mp4"
     },
     {
       "id": "explainer-lesson-01",
@@ -209,6 +209,13 @@
       "video": "site/reels/gbp-billboard.mp4"
     },
     {
+      "id": "referrals",
+      "hook": "Your best lead just left your driveway",
+      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
+      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
+      "video": "site/reels/referrals.mp4"
+    },
+    {
       "id": "one-star",
       "hook": "How you answer a 1-star matters more",
       "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
@@ -234,13 +241,6 @@
       "video": "content/podcast/clips/ad-summit.mp4"
     },
     {
-      "id": "show-up",
-      "hook": "The trades don't have a wage problem",
-      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
-      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
-      "video": "site/reels/show-up.mp4"
-    },
-    {
       "id": "slow-season",
       "hook": "Slow season starts in summer",
       "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
@@ -248,11 +248,11 @@
       "video": "site/reels/slow-season.mp4"
     },
     {
-      "id": "referrals",
-      "hook": "Your best lead just left your driveway",
-      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
-      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
-      "video": "site/reels/referrals.mp4"
+      "id": "show-up",
+      "hook": "The trades don't have a wage problem",
+      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
+      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
+      "video": "site/reels/show-up.mp4"
     },
     {
       "id": "diagnostic-fee",
@@ -290,18 +290,25 @@
       "video": "site/reels/last-guy.mp4"
     },
     {
-      "id": "cheaper",
-      "hook": "\"Can you do it cheaper?\"",
-      "script": "Customer asks, can you do it cheaper? Here's the answer that stops it cold. Sure. I can use cheaper parts, skip the permit, and rush the job. Or I can do it right, once, and you never think about it again. Which one do you actually want? Cheaper isn't a price. It's a decision about who fixes it next year. Follow Booked Job for more.",
-      "description": "The one-line answer to 'can you do it cheaper?' What's yours? 👇 #pricing #contractor #trades",
-      "video": "site/reels/cheaper.mp4"
-    },
-    {
       "id": "dont-discount",
       "hook": "Don't drop the price — add value",
       "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
       "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
       "video": "site/reels/dont-discount.mp4"
+    },
+    {
+      "id": "ten-mm",
+      "hook": "The 10mm socket conspiracy",
+      "script": "Let's talk about the greatest mystery in the trades. The 10mm socket. You buy a set, and within a week the 10 is gone. Not the 8, not the 12. Always the 10. It's the most-used size and it vanishes like it's got somewhere to be. I'm convinced there's a landfill somewhere made entirely of 10mm sockets. Where do they go? Tell me your theory. Follow Booked Job.",
+      "description": "Where do all the 10mm sockets GO? Drop your best theory. 👇 #tools #trades #contractorlife",
+      "video": "site/reels/ten-mm.mp4"
+    },
+    {
+      "id": "cheaper",
+      "hook": "\"Can you do it cheaper?\"",
+      "script": "Customer asks, can you do it cheaper? Here's the answer that stops it cold. Sure. I can use cheaper parts, skip the permit, and rush the job. Or I can do it right, once, and you never think about it again. Which one do you actually want? Cheaper isn't a price. It's a decision about who fixes it next year. Follow Booked Job for more.",
+      "description": "The one-line answer to 'can you do it cheaper?' What's yours? 👇 #pricing #contractor #trades",
+      "video": "site/reels/cheaper.mp4"
     },
     {
       "id": "financing",
@@ -344,13 +351,6 @@
       "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
       "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
       "video": "site/reels/neighbor-guy.mp4"
-    },
-    {
-      "id": "ten-mm",
-      "hook": "The 10mm socket conspiracy",
-      "script": "Let's talk about the greatest mystery in the trades. The 10mm socket. You buy a set, and within a week the 10 is gone. Not the 8, not the 12. Always the 10. It's the most-used size and it vanishes like it's got somewhere to be. I'm convinced there's a landfill somewhere made entirely of 10mm sockets. Where do they go? Tell me your theory. Follow Booked Job.",
-      "description": "Where do all the 10mm sockets GO? Drop your best theory. 👇 #tools #trades #contractorlife",
-      "video": "site/reels/ten-mm.mp4"
     },
     {
       "id": "warranty-expectations",

@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@kazwan.bsky.social**: LaborTrader Invites Contractors to Preregister for a New Skilled-Trades Marketplace
+
+The platform in development aims to connect businesses that...
+
+https://ohsem.me/2026/11/labortrader-invites-contra
+  → https://bsky.app/profile/kazwan.bsky.social/post/3n2dahsvlve22
+
 - **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
@@ -202,10 +209,3 @@ Contact
 
 https://pit.wo
   → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3n22lfvktfk24
-
-- **@stylelib.org**: Darna – Building  Construction WordPress Theme
-
- https://stylelib.org/?p=199274 
-
-#constructor #themeforest #wordpress #architecture #business #plumber #building #company #corporate #responsive #contr
-  → https://bsky.app/profile/stylelib.org/post/3mzpdgnddjs25

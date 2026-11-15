@@ -213,6 +213,22 @@
       "video": "site/reels/bj-reviews50.mp4"
     },
     {
+      "id": "bj-speed",
+      "hook": "Answer in 5 minutes",
+      "title": "Answer in 5 minutes #Shorts",
+      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "speedtolead",
+        "sales",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-speed.mp4",
+      "thumbnail": "site/thumbs/bj-speed-thumb.png"
+    },
+    {
       "id": "bj-agency12k",
       "hook": "$12k/mo and nothing to show",
       "title": "$12k/mo and nothing to show #Shorts",
@@ -254,22 +270,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-howmany.mp4"
-    },
-    {
-      "id": "bj-speed",
-      "hook": "Answer in 5 minutes",
-      "title": "Answer in 5 minutes #Shorts",
-      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "speedtolead",
-        "sales",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-speed.mp4",
-      "thumbnail": "site/thumbs/bj-speed-thumb.png"
     },
     {
       "id": "bj-angi",
@@ -462,19 +462,6 @@
       "video": "site/reels/pod-ep01-ftc.mp4"
     },
     {
-      "id": "pod-ep02-fake",
-      "hook": "Never buy fake reviews — here's why",
-      "title": "Never buy fake reviews — here's why #Shorts",
-      "description": "Never buy fake reviews — here's why\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-fake.mp4"
-    },
-    {
       "id": "bj-trade",
       "hook": "Which trade prints money",
       "title": "Which trade prints money #Shorts",
@@ -507,6 +494,39 @@
       "video": "site/reels/bj-scam.mp4"
     },
     {
+      "id": "low-bid",
+      "hook": "The cheapest bid costs the most",
+      "script": "Ever lose a job to a guy half your price? Let him have it. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
+      "title": "Why the Cheapest Contractor Bid Costs the Most #shorts",
+      "description": "Stop apologizing for your price. The lowball bid always comes back around — and the customer pays twice.\n\nhttps://booked-job.com/\n\n#shorts #contractor #pricing #trades #smallbusiness",
+      "tags": [
+        "contractor",
+        "trades",
+        "home service business",
+        "plumber",
+        "roofer",
+        "hvac",
+        "electrician",
+        "small business",
+        "contractor pricing",
+        "how to price a job",
+        "bidding"
+      ]
+    },
+    {
+      "id": "pod-ep02-fake",
+      "hook": "Never buy fake reviews — here's why",
+      "title": "Never buy fake reviews — here's why #Shorts",
+      "description": "Never buy fake reviews — here's why\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-fake.mp4"
+    },
+    {
       "id": "pod-ep03-lie",
       "hook": "Cost per lead is a lie",
       "title": "Cost per lead is a lie #Shorts",
@@ -533,39 +553,6 @@
       "video": "site/reels/pod-ep01-cost.mp4"
     },
     {
-      "id": "low-bid",
-      "hook": "The cheapest bid costs the most",
-      "script": "Ever lose a job to a guy half your price? Let him have it. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
-      "title": "Why the Cheapest Contractor Bid Costs the Most #shorts",
-      "description": "Stop apologizing for your price. The lowball bid always comes back around — and the customer pays twice.\n\nhttps://booked-job.com/\n\n#shorts #contractor #pricing #trades #smallbusiness",
-      "tags": [
-        "contractor",
-        "trades",
-        "home service business",
-        "plumber",
-        "roofer",
-        "hvac",
-        "electrician",
-        "small business",
-        "contractor pricing",
-        "how to price a job",
-        "bidding"
-      ]
-    },
-    {
-      "id": "pod-ep02-onetap",
-      "hook": "The 2 review rules nobody follows",
-      "title": "The 2 review rules nobody follows #Shorts",
-      "description": "The 2 review rules nobody follows\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-onetap.mp4"
-    },
-    {
       "id": "bj-stormchaser",
       "hook": "The storm-chaser scam",
       "title": "The storm-chaser scam #Shorts",
@@ -581,19 +568,6 @@
       "video": "site/reels/bj-stormchaser.mp4"
     },
     {
-      "id": "pod-ep02-system",
-      "hook": "The 90-day review system",
-      "title": "The 90-day review system #Shorts",
-      "description": "The 90-day review system\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-system.mp4"
-    },
-    {
       "id": "pod-ep02-invisible",
       "hook": "91% won't call a shop under 4 stars",
       "title": "91% won't call a shop under 4 stars #Shorts",
@@ -605,6 +579,47 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-invisible.mp4"
+    },
+    {
+      "id": "bj-wordpress",
+      "hook": "Your WordPress site loses jobs",
+      "title": "Your WordPress site loses jobs #Shorts",
+      "description": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the next guy.\n\n👇 What's your site built on?\n\n#webdesign #smallbusiness #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "webdesign",
+        "smallbusiness",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-wordpress.mp4"
+    },
+    {
+      "id": "pod-ep02-onetap",
+      "hook": "The 2 review rules nobody follows",
+      "title": "The 2 review rules nobody follows #Shorts",
+      "description": "The 2 review rules nobody follows\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-onetap.mp4"
+    },
+    {
+      "id": "pod-ep02-system",
+      "hook": "The 90-day review system",
+      "title": "The 90-day review system #Shorts",
+      "description": "The 90-day review system\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-system.mp4"
     },
     {
       "id": "lesson-reviews-decide",
@@ -647,38 +662,10 @@
       "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
     },
     {
-      "id": "bj-wordpress",
-      "hook": "Your WordPress site loses jobs",
-      "title": "Your WordPress site loses jobs #Shorts",
-      "description": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the next guy.\n\n👇 What's your site built on?\n\n#webdesign #smallbusiness #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "webdesign",
-        "smallbusiness",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-wordpress.mp4"
-    },
-    {
       "id": "lesson-map-pack",
       "hook": "Free real estate at the top of Google",
       "script": "The map pack is the top of local search. Three spots, totally free. Your Google Business Profile is what gets you in. Claim it, pick the right category, and add real photos of real work. Most contractors leave it half empty and wonder why they don't show up. Follow Booked Job.",
       "title": "Win Google's Map Pack (It's Free) #shorts #contractor"
-    },
-    {
-      "id": "pod-ep01-shared",
-      "hook": "One Angi lead — sold to 5 other guys",
-      "title": "One Angi lead — sold to 5 other guys #Shorts",
-      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-shared.mp4"
     },
     {
       "id": "bj-cheapbid",
@@ -694,6 +681,19 @@
         "homeservices"
       ],
       "video": "site/reels/bj-cheapbid.mp4"
+    },
+    {
+      "id": "pod-ep01-shared",
+      "hook": "One Angi lead — sold to 5 other guys",
+      "title": "One Angi lead — sold to 5 other guys #Shorts",
+      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-shared.mp4"
     },
     {
       "id": "money-leaks",
@@ -787,6 +787,12 @@
       "video": "site/reels/pod-ep01-wrongnum.mp4"
     },
     {
+      "id": "lesson-ai-search",
+      "hook": "A third of people now ask AI who to hire",
+      "script": "Getting found used to mean Google. Now about a third of people ask an A I tool who to hire. Good news. The same foundation wins both. A strong profile, real reviews, and a clear website that actually answers questions. Build it once, get found everywhere. Follow Booked Job.",
+      "title": "Get Found by Google AND AI #shorts #contractor"
+    },
+    {
       "id": "pod-ep02-peak",
       "hook": "Ask for the review at the PEAK",
       "title": "Ask for the review at the PEAK #Shorts",
@@ -818,12 +824,6 @@
         "homeservices"
       ],
       "video": "site/reels/bj-favor.mp4"
-    },
-    {
-      "id": "lesson-ai-search",
-      "hook": "A third of people now ask AI who to hire",
-      "script": "Getting found used to mean Google. Now about a third of people ask an A I tool who to hire. Good news. The same foundation wins both. A strong profile, real reviews, and a clear website that actually answers questions. Build it once, get found everywhere. Follow Booked Job.",
-      "title": "Get Found by Google AND AI #shorts #contractor"
     },
     {
       "id": "pod-ep03-verdict",
