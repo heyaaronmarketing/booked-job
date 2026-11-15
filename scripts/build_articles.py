@@ -179,7 +179,7 @@ def render(a):
 <link rel="canonical" href="{url}" />
 <meta property="og:type" content="article" /><meta property="og:title" content="{a['title']}" />
 <meta property="og:description" content="{a['meta']}" /><meta property="og:url" content="{url}" />
-<meta name="theme-color" content="#15171A" />
+<meta name="theme-color" content="#0e2235" />
 <link rel="stylesheet" href="/assets/article.css" />
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@graph":[

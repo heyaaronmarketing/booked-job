@@ -28,7 +28,7 @@ class Handler(http.server.BaseHTTPRequestHandler):
         _code["error"] = params.get("error", [None])[0]
         self.send_response(200); self.send_header("Content-Type", "text/html"); self.end_headers()
         msg = "Authorized — you can close this tab and return to the terminal. 🛠️" if _code.get("code") else f"Error: {_code.get('error')}"
-        self.wfile.write(f"<html><body style='font-family:sans-serif;background:#15171A;color:#fff;padding:60px;text-align:center'><h2>Booked Job</h2><p>{msg}</p></body></html>".encode())
+        self.wfile.write(f"<html><body style='font-family:sans-serif;background:#0e2235;color:#fff;padding:60px;text-align:center'><h2>Booked Job</h2><p>{msg}</p></body></html>".encode())
 
     def log_message(self, *a):
         pass

@@ -47,23 +47,23 @@ def build_html(items):
     for it in items[:3]:
         rows += f"""
         <tr><td style="padding:14px 0;border-bottom:1px solid #E4E0D9">
-          <a href="{it['url']}" style="color:#15171A;font-weight:700;font-size:17px;text-decoration:none">{it['title']}</a>
+          <a href="{it['url']}" style="color:#0e2235;font-weight:700;font-size:17px;text-decoration:none">{it['title']}</a>
           <div style="color:#54585E;font-size:14px;margin-top:4px">{it.get('blurb','')[:160]}</div>
-          <a href="{it['url']}" style="color:#FF6A00;font-weight:700;font-size:13px;text-decoration:none">Read it &rarr;</a>
+          <a href="{it['url']}" style="color:#a62d1a;font-weight:700;font-size:13px;text-decoration:none">Read it &rarr;</a>
         </td></tr>"""
     return f"""<!DOCTYPE html><html><body style="margin:0;background:#F4F2EE;font-family:Helvetica,Arial,sans-serif">
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#F4F2EE;padding:24px 0">
    <tr><td align="center">
     <table role="presentation" width="560" cellpadding="0" cellspacing="0" style="max-width:560px;width:100%;background:#fff;border-radius:14px;overflow:hidden">
-      <tr><td style="background:#15171A;padding:22px 26px">
-        <span style="font-family:Impact,Helvetica,sans-serif;color:#fff;font-size:22px;letter-spacing:1px">BOOKED<span style="color:#FF6A00">JOB</span></span>
+      <tr><td style="background:#0e2235;padding:22px 26px">
+        <span style="font-family:Impact,Helvetica,sans-serif;color:#fff;font-size:22px;letter-spacing:1px">BOOKED<span style="color:#a62d1a">JOB</span></span>
       </td></tr>
       <tr><td style="padding:26px">
-        <p style="font-size:17px;color:#15171A;margin:0 0 14px">Here's what's worth your time this week — no fluff, just what keeps a shop booked.</p>
+        <p style="font-size:17px;color:#0e2235;margin:0 0 14px">Here's what's worth your time this week — no fluff, just what keeps a shop booked.</p>
         <table role="presentation" width="100%">{rows}</table>
-        <div style="background:#15171A;border-radius:12px;padding:20px;margin-top:24px;text-align:center">
+        <div style="background:#0e2235;border-radius:12px;padding:20px;margin-top:24px;text-align:center">
           <div style="color:#fff;font-weight:700;font-size:16px;margin-bottom:6px">Stop renting your leads.</div>
-          <a href="https://booked-job.com/blog/is-angi-worth-it/" style="display:inline-block;background:#FF6A00;color:#fff;font-weight:700;text-decoration:none;padding:11px 20px;border-radius:8px;font-size:14px">See the real cost of an Angi lead &rarr;</a>
+          <a href="https://booked-job.com/blog/is-angi-worth-it/" style="display:inline-block;background:#a62d1a;color:#fff;font-weight:700;text-decoration:none;padding:11px 20px;border-radius:8px;font-size:14px">See the real cost of an Angi lead &rarr;</a>
         </div>
         <p style="color:#94a3b8;font-size:12px;margin-top:24px">You're getting this because you signed up at booked-job.com. <a href="{{{{RESEND_UNSUBSCRIBE_URL}}}}" style="color:#94a3b8">Unsubscribe</a>.</p>
       </td></tr>

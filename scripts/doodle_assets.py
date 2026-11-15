@@ -11,7 +11,7 @@ ASSETS = os.path.join(ROOT, "doodle", "assets")
 
 # ---- A1 design tokens ----
 INK = "#141414"; STROKE = 9
-PAL = {"skin": "#f3d3bf", "brand": "#FF6A00", "yellow": "#FFD23F", "blue": "#3FA7D6",
+PAL = {"skin": "#f3d3bf", "brand": "#a62d1a", "yellow": "#c8321b", "blue": "#3FA7D6",
        "green": "#46c06b", "paper": "#FFFFFF", "ink": INK}
 CW, CH = 500, 820          # character canvas
 # joint pivots in character space (engine reads these)

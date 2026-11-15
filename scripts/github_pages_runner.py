@@ -47,9 +47,9 @@ INDEX = """<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Booked Job — Articles for the Trades</title>
 <link rel="canonical" href="https://booked-job.com/blog/">
-<style>body{font-family:system-ui,sans-serif;background:#15171A;color:#fff;text-align:center;padding:60px 22px}
-a{color:#FF6A00}h1{font-family:Impact,sans-serif;text-transform:uppercase}</style></head>
-<body><h1>BOOKED<span style="color:#FF6A00">JOB</span></h1>
+<style>body{font-family:system-ui,sans-serif;background:#0e2235;color:#fff;text-align:center;padding:60px 22px}
+a{color:#a62d1a}h1{font-family:Impact,sans-serif;text-transform:uppercase}</style></head>
+<body><h1>BOOKED<span style="color:#a62d1a">JOB</span></h1>
 <p>Real talk for service pros — plumbers, roofers, HVAC, electricians.</p>
 <p><a href="https://booked-job.com/">Read everything at booked-job.com →</a></p></body></html>"""
 

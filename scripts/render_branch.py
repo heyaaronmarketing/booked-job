@@ -87,7 +87,7 @@ def render(a):
 <meta property="og:description" content="{a['meta']}" /><meta property="og:url" content="{url}" />
 <meta property="og:image" content="{og_img}" /><meta property="og:image:width" content="1080" /><meta property="og:image:height" content="1080" />
 <meta name="twitter:card" content="summary_large_image" /><meta name="twitter:image" content="{og_img}" />
-<meta name="theme-color" content="#15171A" />
+<meta name="theme-color" content="#0e2235" />
 <link rel="stylesheet" href="/assets/article.css" />
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@graph":[

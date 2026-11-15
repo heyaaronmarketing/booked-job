@@ -18,7 +18,7 @@ HEAD = """<!DOCTYPE html><html lang="en"><head>
 <meta property="og:type" content="website" /><meta property="og:title" content="{ogt}" />
 <meta property="og:description" content="{meta}" /><meta property="og:url" content="{url}" />
 <meta property="og:image" content="https://booked-job.com/assets/og-default.png" />
-<meta name="theme-color" content="#15171A" />
+<meta name="theme-color" content="#0e2235" />
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="/assets/article.css" />
 <script type="application/ld+json">
@@ -30,13 +30,13 @@ HEAD = """<!DOCTYPE html><html lang="en"><head>
 <style>
 .tool{{background:#1D2025;border:1px solid #2E3238;border-radius:16px;padding:28px;margin:26px 0}}
 .tool label{{display:block;font-weight:700;margin:16px 0 6px;font-size:15px}}
-.tool input{{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#15171A;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}}
-.tool input:focus{{border-color:#FF6A00;outline:none}}
-.res{{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #FF6A00}}
-.res .big{{font-family:Anton,sans-serif;font-size:52px;color:#FF6A00;line-height:1}}
+.tool input{{width:100%;max-width:280px;padding:12px 14px;font-size:18px;font-weight:700;background:#0e2235;color:#F4F2EE;border:2px solid #3A3F46;border-radius:10px;font-family:'JetBrains Mono',monospace}}
+.tool input:focus{{border-color:#a62d1a;outline:none}}
+.res{{margin-top:26px;padding:22px;border-radius:12px;background:rgba(255,106,0,.10);border:2px solid #a62d1a}}
+.res .big{{font-family:Anton,sans-serif;font-size:52px;color:#a62d1a;line-height:1}}
 .res .lab{{color:#A8A29E;margin-top:6px;font-size:15px}}
-.bench{{margin-top:14px;font-size:15px;color:#CFCAC4}}.bench b{{color:#FFD23F}}
-.linkbox{{background:#15171A;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}}
+.bench{{margin-top:14px;font-size:15px;color:#CFCAC4}}.bench b{{color:#c8321b}}
+.linkbox{{background:#0e2235;border:1px dashed #3A3F46;border-radius:10px;padding:14px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#A8A29E;margin-top:28px;word-break:break-all}}
 .credit{{color:#888;font-size:13px;margin-top:10px}}
 </style></head><body>
 <header><div class="nav"><a class="logo" href="/"><span class="mark">B</span><b>BOOKED<span>JOB</span></b></a>

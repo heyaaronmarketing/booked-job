@@ -36,11 +36,11 @@ def _req(method, path, key, body=None):
 
 
 def wrap(heading, body, cta_text, cta_url):
-    return (f'<div style="font-family:Arial,sans-serif;max-width:560px;margin:0 auto;color:#15171A">'
-            f'<div style="background:#15171A;padding:16px 24px"><span style="font-family:Arial Black,Impact,sans-serif;color:#fff;font-size:19px;font-weight:900">BOOKED <span style="color:#FF6A00">JOB</span></span></div>'
-            f'<div style="height:5px;background:#FF6A00"></div>'
+    return (f'<div style="font-family:Arial,sans-serif;max-width:560px;margin:0 auto;color:#0e2235">'
+            f'<div style="background:#0e2235;padding:16px 24px"><span style="font-family:Arial Black,Impact,sans-serif;color:#fff;font-size:19px;font-weight:900">BOOKED <span style="color:#a62d1a">JOB</span></span></div>'
+            f'<div style="height:5px;background:#a62d1a"></div>'
             f'<div style="padding:26px 24px"><h1 style="font-size:22px;margin:0 0 14px">{heading}</h1>{body}'
-            f'<p style="margin:24px 0"><a href="{cta_url}" style="background:#FF6A00;color:#fff;text-decoration:none;font-weight:700;padding:13px 22px;border-radius:8px;display:inline-block">{cta_text} &rarr;</a></p></div>'
+            f'<p style="margin:24px 0"><a href="{cta_url}" style="background:#a62d1a;color:#fff;text-decoration:none;font-weight:700;padding:13px 22px;border-radius:8px;display:inline-block">{cta_text} &rarr;</a></p></div>'
             f'<div style="padding:16px 24px;border-top:1px solid #eee;color:#999;font-size:12px">Booked Job &middot; For service pros who\'d rather be working.<br>'
             f'You subscribed at booked-job.com. Reply STOP or email unsubscribe@booked-job.com to opt out.</div></div>')
 

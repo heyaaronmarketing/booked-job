@@ -28,7 +28,7 @@ class Handler(http.server.BaseHTTPRequestHandler):
         _code["code"] = p.get("code", [None])[0]; _code["error"] = p.get("error", [None])[0]
         self.send_response(200); self.send_header("Content-Type", "text/html"); self.end_headers()
         m = "Authorized — close this tab. 🛠️" if _code.get("code") else f"Error: {_code.get('error')}"
-        self.wfile.write(f"<body style='font-family:sans-serif;background:#15171A;color:#fff;padding:60px;text-align:center'><h2>Booked Job · Google Business</h2><p>{m}</p></body>".encode())
+        self.wfile.write(f"<body style='font-family:sans-serif;background:#0e2235;color:#fff;padding:60px;text-align:center'><h2>Booked Job · Google Business</h2><p>{m}</p></body>".encode())
 
     def log_message(self, *a):
         pass
