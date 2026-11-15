@@ -1,28 +1,31 @@
 <!doctype html><html><head><meta charset="utf-8">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Courier+Prime:wght@400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400;1,6..72,500&family=Courier+Prime:wght@400;700&display=swap">
 <style>
-  :root{--navy:#0e2235;--panel:#13293f;--paper:#f2ebd9;--stamp:#ff6a45;--ink:#e4ecf5;--rule:#2c4e73}
+  :root{--desk:#d7ccb0;--paper:#f2ebd9;--ink:#211c12;--muted:#655c45;--rule:#c3b894;--stamp:#a62d1a}
   *{margin:0;padding:0;box-sizing:border-box}
   html,body{width:1000px;height:1000px;overflow:hidden}
-  .av{width:1000px;height:1000px;background:var(--navy);
-     background-image:linear-gradient(rgba(120,180,230,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(120,180,230,.06) 1px,transparent 1px);
-     background-size:50px 50px;position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:'Bricolage Grotesque',sans-serif}
-  /* red field-tape top */
-  .tape{position:absolute;top:0;left:0;right:0;height:64px;
-     background:repeating-linear-gradient(45deg,var(--stamp) 0 26px,var(--navy) 26px 52px);opacity:.92}
-  .tape.b{top:auto;bottom:0}
-  .mark{width:360px;height:360px;border-radius:64px;background:var(--stamp);display:grid;place-items:center;
-     box-shadow:0 18px 50px rgba(0,0,0,.4);transform:rotate(-3deg)}
-  .mark b{font-size:300px;font-weight:800;color:var(--navy);line-height:1;transform:skewX(-6deg);margin-top:-14px}
-  .wm{margin-top:60px;text-align:center}
-  .wm .t{font-size:118px;font-weight:800;letter-spacing:-.02em;line-height:.9;color:var(--ink)}
-  .wm .t em{font-style:normal;color:var(--stamp)}
-  .kick{margin-top:26px;font-family:'Courier Prime',monospace;font-weight:700;font-size:30px;letter-spacing:.34em;color:#8aa4c1;text-transform:uppercase}
+  .av{width:1000px;height:1000px;background:var(--desk);display:grid;place-items:center;font-family:'Bricolage Grotesque',sans-serif}
+  .panel{width:912px;height:912px;background:var(--paper);border:3px solid var(--ink);
+     display:flex;flex-direction:column;align-items:center;justify-content:center;position:relative;padding:40px}
+  .kick{position:absolute;top:40px;left:0;right:0;text-align:center;font-family:'Courier Prime',monospace;font-weight:700;
+     font-size:26px;letter-spacing:.26em;color:var(--muted);text-transform:uppercase}
+  .rule{position:absolute;top:92px;left:56px;right:56px;height:2px;background:var(--ink)}
+  .wm{text-align:center}
+  .wm .t{font-size:188px;font-weight:800;letter-spacing:-.03em;line-height:.82;color:var(--ink)}
+  .est{margin-top:36px;font-family:'Courier Prime',monospace;font-weight:700;font-size:24px;letter-spacing:.2em;color:var(--muted);text-transform:uppercase}
+  /* stamp-red seal — the brand accent */
+  .seal{position:absolute;bottom:58px;right:66px;transform:rotate(-9deg);border:4px solid var(--stamp);color:var(--stamp);
+     border-radius:10px;padding:12px 16px 8px;font-family:'Courier Prime',monospace;font-weight:700;text-transform:uppercase;
+     text-align:center;line-height:1;box-shadow:inset 0 0 0 2px var(--paper);mix-blend-mode:multiply}
+  .seal .a{font-size:20px;letter-spacing:.14em}
+  .seal .b{font-size:34px;letter-spacing:.03em;margin-top:5px}
+  .mark{position:absolute;bottom:62px;left:66px;font-family:'Courier Prime',monospace;font-weight:700;font-size:150px;color:var(--stamp);line-height:.8}
 </style></head>
-<body><div class="av">
-  <div class="tape"></div>
-  <div class="mark"><b>B</b></div>
-  <div class="wm"><div class="t">BOOKED<br><em>JOB</em></div></div>
-  <div class="kick">Field&nbsp;Division</div>
-  <div class="tape b"></div>
-</div></body></html>
+<body><div class="av"><div class="panel">
+  <div class="kick">Booked Job &middot; Field Division</div>
+  <div class="rule"></div>
+  <div class="wm"><div class="t">BOOKED<br>JOB</div></div>
+  <div class="est">Est. for the trades</div>
+  <div class="mark">&sect;</div>
+  <div class="seal"><div class="a">Field</div><div class="b">REPORT</div></div>
+</div></div></body></html>
