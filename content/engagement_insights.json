@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-15T10:59",
+  "generated": "2026-11-15T15:41",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2660,
+      "views": 2678,
       "engagements": 5,
       "er": 0.19
     },
@@ -16,7 +16,7 @@
     },
     "TikTok": {
       "posts": 1,
-      "views": 155,
+      "views": 156,
       "engagements": 0,
       "er": 0.0
     }
@@ -123,18 +123,6 @@
   "bottom": [
     {
       "channel": "FB Reels",
-      "id": "1788080569113177",
-      "caption": "Text every happy customer the day after with a direct link. Ask in person before you pull off the drive. People say yes when you make it eas",
-      "views": 27,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-05"
-    },
-    {
-      "channel": "FB Reels",
       "id": "991373970218950",
       "caption": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every ser",
       "views": 217,
@@ -210,6 +198,18 @@
       "id": "1138843581974801",
       "caption": "The AI \u201cfixed\u201d a no-show by rebooking it for the year 1847. \ud83d\ude02 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/",
       "views": 239,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-13"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "2248839468998137",
+      "caption": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades\n\n\ud83d\udd27 Follow B",
+      "views": 122,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@carterenterprise.bsky.social**: Roofing, web search off, 2026-11-11: Claude named a specific business in 0 of 30 runs. Gemini named one in 30 of 30. A count of runs, not a score. Free dated sample for your city and trade: check.name
+  → https://bsky.app/profile/carterenterprise.bsky.social/post/3n2d6iw3cts2i
+
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@premarcu.bsky.social**: Rebuilt a quote-drafting flow for a small trades business.
+
+V1 wrote clean professional quotes. The owner rewrote every one.
+
+So I fed it his own past emails and had it copy his phrasing, not mine.
+
+A
+  → https://bsky.app/profile/premarcu.bsky.social/post/3mzuhohmb6x26
+
 - **@citizenptnewsmi.bsky.social**: Monroe Public Schools are exploring a $315,946 mental health funding opportunity, but will they take the plunge to enhance student support and safety? 
 
 Click to read more!
@@ -191,23 +206,3 @@ Read more: peaka
 .
 #CleaningCompanyMarketing
   → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
-
-- **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
-
-An Adelaide electrician asked me that. Then admitted the website was ordinary.
-
-His business wasn't on the map. His site sat on page two.
-
-
-  → https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f
-
-- **@thejokebot.bsky.social**: Why did the electrician close his shop?
-
-Business was no longer current.
-
-#dadjoke #mumjokes #humor
-  → https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j
-
-- **@schlumbrechtselec.bsky.social**: Need help with electrical work at your business? Schlumbrecht's Electric provides Commercial electrician service to help keep your workplace safe and your electrical systems working properly.
-Contact 
-  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mzz7kptaik2o
