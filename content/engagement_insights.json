@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-15T03:12",
+  "generated": "2026-11-15T10:59",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2637,
-      "engagements": 4,
-      "er": 0.15
+      "views": 2660,
+      "engagements": 5,
+      "er": 0.19
     },
     "YT Shorts": {
       "posts": 25,
@@ -87,13 +87,25 @@
       "channel": "FB Reels",
       "id": "1433111445605893",
       "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
-      "views": 215,
+      "views": 220,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
       "engagements": 1,
-      "er": 0.47,
+      "er": 0.45,
       "date": "2026-11-14"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1140208341752396",
+      "caption": "Just trying to get a quote from an AI receptionist\u2026 \ud83d\udc80 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews \ud83d\udc49 a hu",
+      "views": 229,
+      "reactions": 1,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 1,
+      "er": 0.44,
+      "date": "2026-11-15"
     },
     {
       "channel": "FB Reels",
@@ -106,18 +118,6 @@
       "engagements": 1,
       "er": 0.38,
       "date": "2026-11-08"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1864729631188027",
-      "caption": "78% of homeowners hire whoever responds first \u2014 not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #con",
-      "views": 206,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-15"
     }
   ],
   "bottom": [

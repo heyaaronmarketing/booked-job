@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@citizenptnewsmi.bsky.social**: Monroe Public Schools are exploring a $315,946 mental health funding opportunity, but will they take the plunge to enhance student support and safety? 
+
+Click to read more!
+
+#MI #CitizenPortal #School
+  → https://bsky.app/profile/citizenptnewsmi.bsky.social/post/3n2e2nk4asz2j
+
 - **@kazwan.bsky.social**: LaborTrader Invites Contractors to Preregister for a New Skilled-Trades Marketplace
 
 The platform in development aims to connect businesses that...
@@ -204,8 +211,3 @@ Business was no longer current.
 - **@schlumbrechtselec.bsky.social**: Need help with electrical work at your business? Schlumbrecht's Electric provides Commercial electrician service to help keep your workplace safe and your electrical systems working properly.
 Contact 
   → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mzz7kptaik2o
-
-- **@riotcoder.social.w3bs.org**: Local builders, one at a time: Latala Homes, Inc. (Campbell, CA). Licensed California contractor (general building), based in Campbell, CA. CSLB license 893558, active when we checked.
-
-https://pit.wo
-  → https://bsky.app/profile/riotcoder.social.w3bs.org/post/3n22lfvktfk24

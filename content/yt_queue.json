@@ -213,22 +213,6 @@
       "video": "site/reels/bj-reviews50.mp4"
     },
     {
-      "id": "bj-speed",
-      "hook": "Answer in 5 minutes",
-      "title": "Answer in 5 minutes #Shorts",
-      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "speedtolead",
-        "sales",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-speed.mp4",
-      "thumbnail": "site/thumbs/bj-speed-thumb.png"
-    },
-    {
       "id": "bj-agency12k",
       "hook": "$12k/mo and nothing to show",
       "title": "$12k/mo and nothing to show #Shorts",
@@ -257,6 +241,22 @@
         "homeservices"
       ],
       "video": "site/reels/bj-yelp.mp4"
+    },
+    {
+      "id": "bj-speed",
+      "hook": "Answer in 5 minutes",
+      "title": "Answer in 5 minutes #Shorts",
+      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "speedtolead",
+        "sales",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-speed.mp4",
+      "thumbnail": "site/thumbs/bj-speed-thumb.png"
     },
     {
       "id": "pod-ep02-howmany",
@@ -323,21 +323,6 @@
       ]
     },
     {
-      "id": "bj-gbp",
-      "hook": "Fix your Google profile",
-      "title": "Fix your Google profile #Shorts",
-      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "googlebusiness",
-        "localseo",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-gbp.mp4"
-    },
-    {
       "id": "bj-ai",
       "hook": "Your customer asks ChatGPT",
       "title": "Your customer asks ChatGPT #Shorts",
@@ -374,6 +359,21 @@
       "hook": "The review system that actually works",
       "script": "Reviews decide who shows up in the map pack and who gets the call. Here's the system. Ask in person the second the job's done. Then text the direct review link within the hour. One tap for them. Ask every single customer. That's how twelve becomes a hundred. Follow Booked Job.",
       "title": "How to Actually Get Google Reviews #shorts #trades"
+    },
+    {
+      "id": "bj-gbp",
+      "hook": "Fix your Google profile",
+      "title": "Fix your Google profile #Shorts",
+      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlebusiness",
+        "localseo",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-gbp.mp4"
     },
     {
       "id": "pod-ep01-refunds",
@@ -787,6 +787,20 @@
       "video": "site/reels/pod-ep01-wrongnum.mp4"
     },
     {
+      "id": "bj-favor",
+      "hook": "'While you're here…'",
+      "title": "'While you're here…' #Shorts",
+      "description": "Name a more expensive sentence than 'while you're here, can you just take a quick look?' That look is free. Your drive back isn't.\n\n👇 Worst 'while you're here' you've caught?\n\n#contractorhumor #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "contractorhumor",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-favor.mp4"
+    },
+    {
       "id": "lesson-ai-search",
       "hook": "A third of people now ask AI who to hire",
       "script": "Getting found used to mean Google. Now about a third of people ask an A I tool who to hire. Good news. The same foundation wins both. A strong profile, real reviews, and a clear website that actually answers questions. Build it once, get found everywhere. Follow Booked Job.",
@@ -810,20 +824,6 @@
       "hook": "Your website has exactly one job",
       "script": "Your website has one job. Turn a visitor into a phone call. Most fail. The average contractor site converts two to three percent. Make it fast, make it mobile, put a giant tap to call number up top, show proof, and give one clear action. That's it. Follow Booked Job.",
       "title": "Why 98% Leave Your Website #shorts #smallbusiness"
-    },
-    {
-      "id": "bj-favor",
-      "hook": "'While you're here…'",
-      "title": "'While you're here…' #Shorts",
-      "description": "Name a more expensive sentence than 'while you're here, can you just take a quick look?' That look is free. Your drive back isn't.\n\n👇 Worst 'while you're here' you've caught?\n\n#contractorhumor #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "contractorhumor",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-favor.mp4"
     },
     {
       "id": "pod-ep03-verdict",

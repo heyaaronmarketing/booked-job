@@ -75,6 +75,12 @@
       "video": "site/reels/af-ai-spiral.mp4"
     },
     {
+      "id": "refund-monday",
+      "hook": "20 minutes on Monday buys back real money",
+      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
+      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
+    },
+    {
       "id": "text-back",
       "hook": "Text back the missed call in 5 minutes",
       "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
@@ -88,18 +94,6 @@
       "description": "78% hire whoever responds first. How fast do you actually get back? 👇 #speedtolead #contractor #trades"
     },
     {
-      "id": "rip-speed-rip",
-      "hook": "78% hire the first",
-      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
-      "video": "site/reels/rip-speed-rip.mp4"
-    },
-    {
-      "id": "refund-monday",
-      "hook": "20 minutes on Monday buys back real money",
-      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
-      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
-    },
-    {
       "id": "af-ai-loop",
       "hook": "AI receptionist fail",
       "description": "These goddamn AI bots. 😤 Watch an “AI receptionist” loop a customer right out the door. We reviewed every AI receptionist — honest verdict + what to use instead: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 A real human answers your leads: aaron.chat #contractor #trades #smallbusiness (dramatization of a documented AI failure)",
@@ -111,6 +105,12 @@
       "script": "Timing is everything on Google reviews. Most guys text a review link three days later, when the customer's already moved on. Here's the fix. The second they say, wow, that looks great, that's your moment. Hand them your phone, right there, review already pulled up. You'll triple your reviews and the reviews rank you higher than any ad. Catch them at wow, not on Wednesday. Follow Booked Job.",
       "description": "The best time to ask for a review is the exact second they say 'wow.' When do you ask? 👇 #googlereviews #contractor #trades",
       "video": "site/reels/review-timing.mp4"
+    },
+    {
+      "id": "rip-speed-rip",
+      "hook": "78% hire the first",
+      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
+      "video": "site/reels/rip-speed-rip.mp4"
     },
     {
       "id": "website-converting",
@@ -209,18 +209,18 @@
       "video": "site/reels/gbp-billboard.mp4"
     },
     {
-      "id": "referrals",
-      "hook": "Your best lead just left your driveway",
-      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
-      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
-      "video": "site/reels/referrals.mp4"
-    },
-    {
       "id": "one-star",
       "hook": "How you answer a 1-star matters more",
       "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
       "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
       "video": "site/reels/one-star.mp4"
+    },
+    {
+      "id": "referrals",
+      "hook": "Your best lead just left your driveway",
+      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
+      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
+      "video": "site/reels/referrals.mp4"
     },
     {
       "id": "clip-porno2",
@@ -269,18 +269,18 @@
       "video": "site/reels/youtube-expert.mp4"
     },
     {
-      "id": "estimate-noshow",
-      "hook": "Stop giving free estimates to tire-kickers",
-      "script": "You drove forty minutes for an estimate and they weren't even home. Sound familiar? Here's the filter. Before you book the estimate, ask two questions. What's the timeline, and is this in the budget you had in mind? The serious customers answer easy. The tire-kickers get weird. That two-minute phone call just saved you a tank of gas and half a Saturday. Qualify before you drive. Follow Booked Job.",
-      "description": "Qualify on the phone before you drive out. Two questions filter the tire-kickers. #contractor #sales #trades",
-      "video": "site/reels/estimate-noshow.mp4"
-    },
-    {
       "id": "money-leaks",
       "hook": "3 ways shops bleed money",
       "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job for more.",
       "description": "Three leaks that quietly drain your shop every month. Which one's getting you? 👇 #trades #contractor #smallbusiness",
       "video": "site/reels/money-leaks.mp4"
+    },
+    {
+      "id": "estimate-noshow",
+      "hook": "Stop giving free estimates to tire-kickers",
+      "script": "You drove forty minutes for an estimate and they weren't even home. Sound familiar? Here's the filter. Before you book the estimate, ask two questions. What's the timeline, and is this in the budget you had in mind? The serious customers answer easy. The tire-kickers get weird. That two-minute phone call just saved you a tank of gas and half a Saturday. Qualify before you drive. Follow Booked Job.",
+      "description": "Qualify on the phone before you drive out. Two questions filter the tire-kickers. #contractor #sales #trades",
+      "video": "site/reels/estimate-noshow.mp4"
     },
     {
       "id": "last-guy",
@@ -290,18 +290,32 @@
       "video": "site/reels/last-guy.mp4"
     },
     {
-      "id": "dont-discount",
-      "hook": "Don't drop the price — add value",
-      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
-      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
-      "video": "site/reels/dont-discount.mp4"
-    },
-    {
       "id": "ten-mm",
       "hook": "The 10mm socket conspiracy",
       "script": "Let's talk about the greatest mystery in the trades. The 10mm socket. You buy a set, and within a week the 10 is gone. Not the 8, not the 12. Always the 10. It's the most-used size and it vanishes like it's got somewhere to be. I'm convinced there's a landfill somewhere made entirely of 10mm sockets. Where do they go? Tell me your theory. Follow Booked Job.",
       "description": "Where do all the 10mm sockets GO? Drop your best theory. 👇 #tools #trades #contractorlife",
       "video": "site/reels/ten-mm.mp4"
+    },
+    {
+      "id": "pick-two",
+      "hook": "Fast, cheap, or perfect — pick two",
+      "script": "Customer wants it fast, cheap, and perfect. Here's the line that resets the whole conversation. You can have any two of those. Fast and cheap won't be perfect. Cheap and perfect won't be fast. Fast and perfect won't be cheap. That's not me being difficult. That's just physics. Pick your two and I'll deliver them. Follow Booked Job.",
+      "description": "Fast, cheap, perfect — pick two. Which two do your customers pick? 👇 #pricing #contractor #trades",
+      "video": "site/reels/pick-two.mp4"
+    },
+    {
+      "id": "milwaukee-dewalt",
+      "hook": "Milwaukee or DeWalt?",
+      "script": "Alright, let's start a fight. Milwaukee or DeWalt. Everybody's got a side and nobody's neutral. Red guys swear the torque is unmatched. Yellow guys say theirs never dies. The truth? They're both miles ahead of whatever was in your hand ten years ago. But you already picked a side in your head, didn't you? Tell me which one and why. Follow Booked Job.",
+      "description": "Milwaukee or DeWalt. Pick a side. The comments are a war zone. 👇 #tools #contractor #trades",
+      "video": "site/reels/milwaukee-dewalt.mp4"
+    },
+    {
+      "id": "dont-discount",
+      "hook": "Don't drop the price — add value",
+      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
+      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
+      "video": "site/reels/dont-discount.mp4"
     },
     {
       "id": "cheaper",
@@ -318,13 +332,6 @@
       "video": "site/reels/financing.mp4"
     },
     {
-      "id": "pick-two",
-      "hook": "Fast, cheap, or perfect — pick two",
-      "script": "Customer wants it fast, cheap, and perfect. Here's the line that resets the whole conversation. You can have any two of those. Fast and cheap won't be perfect. Cheap and perfect won't be fast. Fast and perfect won't be cheap. That's not me being difficult. That's just physics. Pick your two and I'll deliver them. Follow Booked Job.",
-      "description": "Fast, cheap, perfect — pick two. Which two do your customers pick? 👇 #pricing #contractor #trades",
-      "video": "site/reels/pick-two.mp4"
-    },
-    {
       "id": "quick-favor",
       "hook": "The 5-minute favor that isn't",
       "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
@@ -337,13 +344,6 @@
       "script": "Customer wants to do it in cash and skip the paperwork. Sounds like a favor. It's a trap. That paperwork, the contract, the invoice, the permit, that's what protects you when they claim you never did the work, or the inspector comes knocking. No paper means no proof. The five percent you save today is the lawsuit you pay for next year. Always paper the job. Follow Booked Job.",
       "description": "'Cash and skip the paperwork' protects them, not you. How do you say no without losing the job? 👇 #contractor #getpaid #trades",
       "video": "site/reels/cash-job.mp4"
-    },
-    {
-      "id": "milwaukee-dewalt",
-      "hook": "Milwaukee or DeWalt?",
-      "script": "Alright, let's start a fight. Milwaukee or DeWalt. Everybody's got a side and nobody's neutral. Red guys swear the torque is unmatched. Yellow guys say theirs never dies. The truth? They're both miles ahead of whatever was in your hand ten years ago. But you already picked a side in your head, didn't you? Tell me which one and why. Follow Booked Job.",
-      "description": "Milwaukee or DeWalt. Pick a side. The comments are a war zone. 👇 #tools #contractor #trades",
-      "video": "site/reels/milwaukee-dewalt.mp4"
     },
     {
       "id": "neighbor-guy",
