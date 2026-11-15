@@ -1,34 +1,58 @@
 {
-  "updated": "2026-11-14T15:36",
+  "updated": "2026-11-14T20:05",
   "posts": [
     {
-      "ts": "2026-11-14T15:34:11",
+      "ts": "2026-11-14T20:02:54",
+      "channel": "facebook",
+      "item": "card-speed",
+      "url": null
+    },
+    {
+      "ts": "2026-11-14T20:02:51",
       "channel": "mastodon",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-11-14T15:34:08",
+      "ts": "2026-11-14T20:02:47",
       "channel": "tumblr",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     },
     {
-      "ts": "2026-11-14T15:34:06",
+      "ts": "2026-11-14T20:02:45",
       "channel": "bluesky",
-      "item": "bj-freecheck",
+      "item": "bj-fakemaps",
       "url": null
     },
     {
-      "ts": "2026-11-14T15:34:02",
+      "ts": "2026-11-14T20:02:42",
       "channel": "linkedin",
-      "item": "bj-ftc",
+      "item": "bj-cpl",
       "url": null
     },
     {
-      "ts": "2026-11-14T15:34:01",
+      "ts": "2026-11-14T20:02:41",
       "channel": "tiktok",
-      "item": "bj-ai",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-11-14T20:02:40",
+      "channel": "ig",
+      "item": "pod-ep03-verdict",
+      "url": null
+    },
+    {
+      "ts": "2026-11-14T20:01:09",
+      "channel": "facebook",
+      "item": "rip-speed-rip",
+      "url": null
+    },
+    {
+      "ts": "2026-11-14T19:57:49",
+      "channel": "fb",
+      "item": "af-ai-spiral",
       "url": null
     }
   ]

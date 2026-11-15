@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-14T15:22",
+  "generated": "2026-11-14T19:46",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2494,
+      "views": 2570,
       "engagements": 4,
       "er": 0.16
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 364,
+      "views": 368,
       "engagements": 26,
-      "er": 7.14
+      "er": 7.07
     },
     "TikTok": {
       "posts": 1,
@@ -61,18 +61,6 @@
     },
     {
       "channel": "FB Reels",
-      "id": "1433111445605893",
-      "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
-      "views": 140,
-      "reactions": 1,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 1,
-      "er": 0.71,
-      "date": "2026-11-14"
-    },
-    {
-      "channel": "FB Reels",
       "id": "1183240727544718",
       "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
       "views": 146,
@@ -97,6 +85,18 @@
     },
     {
       "channel": "FB Reels",
+      "id": "1433111445605893",
+      "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
+      "views": 214,
+      "reactions": 1,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 1,
+      "er": 0.47,
+      "date": "2026-11-14"
+    },
+    {
+      "channel": "FB Reels",
       "id": "1123564763750316",
       "caption": "We made our least-favorite roofer a radio ad he'll hate. From the podcast \u2014 free at booked-job.com/podcast. \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazo",
       "views": 260,
@@ -111,7 +111,7 @@
       "channel": "FB Reels",
       "id": "2214036449143262",
       "caption": "You said \u201c14 Oak Street, now.\u201d It booked \u201c40 Elm, Sunday 2 AM.\u201d \ud83e\udd26 We reviewed the AI receptionists so you don\u2019t have to: booked-job.com/revi",
-      "views": 220,
+      "views": 222,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
