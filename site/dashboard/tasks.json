@@ -55,13 +55,31 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @chilangolandia.bsky.social: “Was he really a plumber or did he just inherit daddy’s business? Because plummers have a d…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/chilangolandia.bsky.social/post/3n2f3tn5ids2d",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
+      "task": "Reply to @resilientwisdom.com: “The plumber who opens a plumbing company didn't start a business. He bought himself a job,…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/resilientwisdom.com/post/3n2fh5dxv5h2r",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q2",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @concretebadger.bsky.social: “This guy is the founder of Richer Sounds, a hi-fi/home electronics retailer that I would a…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/concretebadger.bsky.social/post/3n2bfmxmid22c",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @minhajsolution.co: “The GBP mistakes hit closest to home for us. I have seen a wrong category or a missing ser…”",
@@ -70,30 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @carterenterprise.bsky.social: “Roofing, web search off, 2026-11-11: Claude named a specific business in 0 of 30 runs. Gem…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/carterenterprise.bsky.social/post/3n2d6iw3cts2i",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q3",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @refigman.bsky.social: “As a small business owner, white male, a college education, skilled in the trades, more th…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @premarcu.bsky.social: “Rebuilt a quote-drafting flow for a small trades business.  V1 wrote clean professional qu…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/premarcu.bsky.social/post/3mzuhohmb6x26",
       "est": "2 min"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T03:28",
+  "updated": "2026-11-16T14:18",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -178,8 +178,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 1072,
-      "pageviews_weekly": 5757,
-      "pageviews_monthly": 12033
+      "pageviews_weekly": 6033,
+      "pageviews_monthly": 12309
     },
     "total_clicks": 0,
     "total_impressions": 19,
@@ -196,8 +196,8 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 97,
-      "views": 156,
+      "posts": 99,
+      "views": 163,
       "reactions": 0,
       "comments": 0,
       "engagement_rate": 0
@@ -421,7 +421,7 @@
     {
       "name": "Blog",
       "status": "live",
-      "count": 147,
+      "count": 148,
       "unit": "articles",
       "grade": "B",
       "group": "content"
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2076,
+      "views": 2225,
       "followers": 1
     },
     {
@@ -493,7 +493,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 31,
+      "count": 32,
       "unit": "posts",
       "followers": 351,
       "grade": "A",
@@ -559,8 +559,8 @@
       "status": "live",
       "count": 85,
       "unit": "videos (Buffer)",
-      "stat": "156 views \u00b7 0 reactions",
-      "views": 156,
+      "stat": "163 views \u00b7 0 reactions",
+      "views": 163,
       "likes": 0,
       "grade": "B",
       "group": "social"
@@ -605,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Polls",
@@ -635,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 2
+        "count": 4
       },
       {
         "type": "Long video",
@@ -722,7 +722,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 31
+        "count": 32
       },
       {
         "type": "Video",
@@ -828,7 +828,7 @@
     }
   ],
   "funnel": {
-    "reach": 37022,
+    "reach": 37322,
     "engagement": 5,
     "audience": 382,
     "cr_clicks": 198
@@ -837,7 +837,7 @@
     "audience": 13,
     "engagement": 3,
     "email": 0,
-    "reach": 975
+    "reach": 1275
   },
   "mafia": {
     "metrics": [
@@ -853,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1533,
+        "value": 1535,
         "grade": "A"
       },
       {

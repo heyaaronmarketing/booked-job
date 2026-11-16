@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@funkdr.bsky.social**: But the young plumber is getting loans for something that in theory can provide a revenue stream in a way college loans don’t for a half decade or more. Plus, what would a plumbing business look like 
+  → https://bsky.app/profile/funkdr.bsky.social/post/3n2hdo6zjc22q
+
 - **@chilangolandia.bsky.social**: Was he really a plumber or did he just inherit daddy’s business? Because plummers have a difficult job that requires skills.
 
 I have great respect for them.
@@ -188,6 +191,3 @@ Read more: peaka
 
 - **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
   → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
-
-- **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g

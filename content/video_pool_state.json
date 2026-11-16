@@ -3,12 +3,13 @@
     "posted": [
       "pod-ep03-verdict",
       "pod-ep03-track",
-      "pod-ep03-exclusive"
+      "pod-ep03-exclusive",
+      "pod-ep03-channels"
     ],
-    "last_iso": "2026-11-15T20:04:18",
+    "last_iso": "2026-11-16T14:30:45",
     "day": {
-      "date": "2026-11-15",
-      "count": 2
+      "date": "2026-11-16",
+      "count": 1
     }
   },
   "tiktok": {
@@ -47,12 +48,13 @@
       "bj-scam",
       "bj-rev-hvac",
       "bj-rev-plumb",
-      "bj-rev-roof"
+      "bj-rev-roof",
+      "bj-rev-elec"
     ],
-    "last_iso": "2026-11-15T20:04:18",
+    "last_iso": "2026-11-16T14:30:45",
     "day": {
-      "date": "2026-11-15",
-      "count": 3
+      "date": "2026-11-16",
+      "count": 1
     }
   },
   "linkedin": {
@@ -87,22 +89,24 @@
       "bj-cpl",
       "bj-favor",
       "bj-stars",
-      "bj-ai"
+      "bj-ai",
+      "bj-scam"
     ],
-    "last_iso": "2026-11-15T20:04:18",
+    "last_iso": "2026-11-16T14:30:45",
     "day": {
-      "date": "2026-11-15",
-      "count": 3
+      "date": "2026-11-16",
+      "count": 1
     }
   },
   "facebook": {
     "posted": [
-      "pod-ep03-verdict"
+      "pod-ep03-verdict",
+      "pod-ep03-track"
     ],
-    "last_iso": "2026-11-15T20:04:18",
+    "last_iso": "2026-11-16T14:30:45",
     "day": {
-      "date": "2026-11-15",
-      "count": 2
+      "date": "2026-11-16",
+      "count": 1
     }
   },
   "pinterest": {
@@ -163,12 +167,13 @@
       "bj-fakemaps",
       "bj-agency12k",
       "bj-reviews50",
-      "bj-gbp"
+      "bj-gbp",
+      "bj-track"
     ],
-    "last_iso": "2026-11-15T20:04:18",
+    "last_iso": "2026-11-16T14:30:45",
     "day": {
-      "date": "2026-11-15",
-      "count": 3
+      "date": "2026-11-16",
+      "count": 1
     }
   },
   "telegram": {
@@ -236,12 +241,13 @@
       "bj-fakemaps",
       "bj-agency12k",
       "bj-reviews50",
-      "bj-gbp"
+      "bj-gbp",
+      "bj-track"
     ],
-    "last_iso": "2026-11-15T20:04:18",
+    "last_iso": "2026-11-16T14:30:45",
     "day": {
-      "date": "2026-11-15",
-      "count": 3
+      "date": "2026-11-16",
+      "count": 1
     }
   }
 }

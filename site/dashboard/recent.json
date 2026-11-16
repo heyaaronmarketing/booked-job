@@ -1,4 +1,71 @@
 {
-  "updated": "2026-11-16T03:31",
-  "posts": []
+  "updated": "2026-11-16T14:36",
+  "posts": [
+    {
+      "ts": "2026-11-16T14:33:22",
+      "channel": "facebook",
+      "item": "card-ai",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:33:18",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:32:37",
+      "channel": "mastodon",
+      "item": "card-trade",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:32:35",
+      "channel": "mastodon",
+      "item": "contractor-end-of-year-marketing-checklist",
+      "url": "https://mastodon.social/@bookedjob/117628020674207116"
+    },
+    {
+      "ts": "2026-11-16T14:32:33",
+      "channel": "telegraph",
+      "item": "contractor-end-of-year-marketing-checklist",
+      "url": "https://telegra.ph/Contractor-Year-End-Marketing-Checklist-for-2027-11-16"
+    },
+    {
+      "ts": "2026-11-16T14:32:32",
+      "channel": "tumblr",
+      "item": "bj-track",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:32:30",
+      "channel": "bluesky",
+      "item": "bj-track",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:32:25",
+      "channel": "linkedin",
+      "item": "bj-scam",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:32:22",
+      "channel": "tiktok",
+      "item": "bj-rev-elec",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:32:19",
+      "channel": "ig",
+      "item": "pod-ep03-channels",
+      "url": null
+    },
+    {
+      "ts": "2026-11-16T14:31:12",
+      "channel": "facebook",
+      "item": "pod-ep03-track",
+      "url": null
+    }
+  ]
 }
