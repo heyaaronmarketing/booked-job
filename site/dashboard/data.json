@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:52",
+  "updated": "2026-11-16T03:28",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -49,7 +49,7 @@
       {
         "label": "YouTube views",
         "icon": "\u25b6\ufe0f",
-        "current": 2624,
+        "current": 2623,
         "target": 1400,
         "pct": 100,
         "on_track": true
@@ -129,7 +129,7 @@
   "youtube": {
     "connected": true,
     "subscribers": 1,
-    "views": 2624,
+    "views": 2623,
     "likes": 4,
     "videos": 73,
     "shorts": 73
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 709
+    "media": 710
   },
   "email": {
     "subscribers": 7
@@ -153,7 +153,7 @@
       "clicks": 0,
       "impressions": 19,
       "ctr": 0,
-      "position": 9.9,
+      "position": 14.2,
       "top_queries": [
         {
           "query": "booked",
@@ -177,9 +177,9 @@
       "days": 28
     },
     "cloudflare": {
-      "pageviews_daily": 964,
-      "pageviews_weekly": 6324,
-      "pageviews_monthly": 11842
+      "pageviews_daily": 1072,
+      "pageviews_weekly": 5757,
+      "pageviews_monthly": 12033
     },
     "total_clicks": 0,
     "total_impressions": 19,
@@ -205,7 +205,7 @@
     "linkedin": {
       "name": "Booked Job",
       "posts": 76,
-      "views": 54,
+      "views": 55,
       "reactions": 3,
       "comments": 1,
       "engagement_rate": 0.69
@@ -441,7 +441,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1815,
+      "views": 1802,
       "followers": 20,
       "likes": 5
     },
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2205,
+      "views": 2076,
       "followers": 1
     },
     {
@@ -462,7 +462,7 @@
       "unit": "shorts",
       "grade": "B",
       "group": "social",
-      "views": 2624,
+      "views": 2623,
       "followers": 1,
       "likes": 4
     },
@@ -493,12 +493,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 30,
+      "count": 31,
       "unit": "posts",
       "followers": 351,
       "grade": "A",
       "group": "social",
-      "likes": 8
+      "likes": 9
     },
     {
       "name": "Mastodon",
@@ -548,8 +548,8 @@
       "status": "live",
       "count": 68,
       "unit": "posts (Buffer)",
-      "stat": "977 reach \u00b7 3 reactions",
-      "views": 54,
+      "stat": "978 reach \u00b7 3 reactions",
+      "views": 55,
       "likes": 3,
       "grade": "B",
       "group": "social"
@@ -605,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 20
+        "count": 2
       },
       {
         "type": "Polls",
@@ -635,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 20
+        "count": 2
       },
       {
         "type": "Long video",
@@ -691,7 +691,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 30
+        "count": 31
       },
       {
         "type": "Articles",
@@ -722,12 +722,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 30
+        "count": 31
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 48
+        "count": 49
       }
     ],
     "Mastodon": [
@@ -786,7 +786,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 48
+        "count": 49
       }
     ]
   },
@@ -828,22 +828,22 @@
     }
   ],
   "funnel": {
-    "reach": 37285,
+    "reach": 37022,
     "engagement": 5,
     "audience": 382,
     "cr_clicks": 198
   },
   "trends": {
-    "audience": 45,
+    "audience": 13,
     "engagement": 3,
     "email": 0,
-    "reach": 1086
+    "reach": 975
   },
   "mafia": {
     "metrics": [
       {
         "label": "Total Views",
-        "value": 19328,
+        "value": 19327,
         "grade": "B"
       },
       {
@@ -853,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1532,
+        "value": 1533,
         "grade": "A"
       },
       {

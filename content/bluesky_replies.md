@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@chilangolandia.bsky.social**: Was he really a plumber or did he just inherit daddy’s business? Because plummers have a difficult job that requires skills.
+
+I have great respect for them.
+  → https://bsky.app/profile/chilangolandia.bsky.social/post/3n2f3tn5ids2d
+
+- **@resilientwisdom.com**: The plumber who opens a plumbing company didn't start a business. He bought himself a job, lost the protections employment gave him, and kept every burden the trade never had.
+
+https://resilientwisdom
+  → https://bsky.app/profile/resilientwisdom.com/post/3n2fh5dxv5h2r
+
 - **@concretebadger.bsky.social**: This guy is the founder of Richer Sounds, a hi-fi/home electronics retailer that I would already recommend because of its excellent customer service, fair treatment of its staff, and reasonable prices
   → https://bsky.app/profile/concretebadger.bsky.social/post/3n2bfmxmid22c
 
@@ -181,17 +191,3 @@ Read more: peaka
 
 - **@themusiccomau.bsky.social**: ICYMI: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
   → https://bsky.app/profile/themusiccomau.bsky.social/post/3mykiymzq4x2g
-
-- **@stylelib.org**: Condo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824267 
-
-#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
-  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
-
-- **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
-
- https://themes.stylelib.org/?p=16710 
-
-#builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
-  → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m

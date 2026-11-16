@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-15T19:52",
+  "generated": "2026-11-16T03:28",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2741,
+      "views": 2529,
       "engagements": 5,
-      "er": 0.18
+      "er": 0.2
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 368,
+      "views": 367,
       "engagements": 26,
-      "er": 7.07
+      "er": 7.08
     },
     "TikTok": {
       "posts": 1,
@@ -99,12 +99,12 @@
       "channel": "FB Reels",
       "id": "1140208341752396",
       "caption": "Just trying to get a quote from an AI receptionist\u2026 \ud83d\udc80 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews \ud83d\udc49 a hu",
-      "views": 229,
+      "views": 232,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
       "engagements": 1,
-      "er": 0.44,
+      "er": 0.43,
       "date": "2026-11-15"
     },
     {
@@ -121,18 +121,6 @@
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "991373970218950",
-      "caption": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every ser",
-      "views": 217,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-06"
-    },
     {
       "channel": "FB Reels",
       "id": "1179231045060292",
@@ -216,6 +204,18 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-13"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "2214036449143262",
+      "caption": "You said \u201c14 Oak Street, now.\u201d It booked \u201c40 Elm, Sunday 2 AM.\u201d \ud83e\udd26 We reviewed the AI receptionists so you don\u2019t have to: booked-job.com/revi",
+      "views": 226,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-14"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."
