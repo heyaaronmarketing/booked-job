@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@concretebadger.bsky.social**: This guy is the founder of Richer Sounds, a hi-fi/home electronics retailer that I would already recommend because of its excellent customer service, fair treatment of its staff, and reasonable prices
+  → https://bsky.app/profile/concretebadger.bsky.social/post/3n2bfmxmid22c
+
+- **@minhajsolution.co**: The GBP mistakes hit closest to home for us. I have seen a wrong category or a missing service area quietly cost a local business real calls for months before anyone noticed. Keen to hear which horror
+  → https://bsky.app/profile/minhajsolution.co/post/3n2dobcpydc26
+
 - **@carterenterprise.bsky.social**: Roofing, web search off, 2026-11-11: Claude named a specific business in 0 of 30 runs. Gemini named one in 30 of 30. A count of runs, not a score. Free dated sample for your city and trade: check.name
   → https://bsky.app/profile/carterenterprise.bsky.social/post/3n2d6iw3cts2i
 
@@ -189,20 +195,3 @@ Read more: peaka
 
 #builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
   → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
-
-- **@stylelib.org**: Edifice – Construction, Building  Engineering WordPress Theme
-
- https://themes.stylelib.org/?p=810542 
-
-#architecture #business #construction #electrician #elementor #engineering #handyman #maintenanc
-  → https://bsky.app/profile/stylelib.org/post/3n23mt4zflo2l
-
-- **@cosmarketingagency.bsky.social**: 🚨 Are You Losing Cleaning Leads? Fix This Now!
-
-🎥 Watch the full video: youtu.be/f8UlH6B8rsc
-
-🌐 Learn more: cosmarketingagency.com/cleaning-ser...
-.
-.
-#CleaningCompanyMarketing
-  → https://bsky.app/profile/cosmarketingagency.bsky.social/post/3mypw6iqjhn2s
