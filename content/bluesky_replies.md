@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Wood Workshop – Carpenter and Craftman HTML Template
+
+ https://themes.stylelib.org/?p=19026 
+
+#architecture #business #construction #constructor #corporate #engineering #handyman #industry #plumber #r
+  → https://bsky.app/profile/stylelib.org/post/3n2izxynlwo2g
+
 - **@funkdr.bsky.social**: But the young plumber is getting loans for something that in theory can provide a revenue stream in a way college loans don’t for a half decade or more. Plus, what would a plumbing business look like 
   → https://bsky.app/profile/funkdr.bsky.social/post/3n2hdo6zjc22q
 
@@ -188,6 +195,3 @@ Discover how CFO services help trades businesses plan cash flow, manage budgets,
 
 Read more: peaka
   → https://bsky.app/profile/peakadvisory.bsky.social/post/3n23wvjmufs2z
-
-- **@themusiccomau.bsky.social**: OP-ED: Why Doesn't Australia Treat Music Like A Skilled Trade?
-  → https://bsky.app/profile/themusiccomau.bsky.social/post/3myh2c3grkt2d
