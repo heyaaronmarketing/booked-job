@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T14:36",
+  "generated": "2026-11-16T21:48",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 5,
+        "current": 6,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 34,
+        "current": 35,
         "target": 150,
         "status": "green",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 13,
+        "current": 15,
         "target": 120,
         "status": "yellow",
         "needs": null
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 6040,
+        "current": 6258,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 152,
+        "current": 153,
         "target": 600,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 309,
+        "current": 311,
         "target": 600,
         "status": "red",
         "needs": null
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 30524,
+        "current": 30742,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -222,8 +222,8 @@
   "counters": {
     "articles": 145,
     "reels": 57,
-    "social_posts": 1108,
-    "followers": 375,
+    "social_posts": 1109,
+    "followers": 377,
     "engagement": 5,
     "yt_views": 2623,
     "yt_shorts": 73,
