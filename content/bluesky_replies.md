@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@transformeddesign.bsky.social**: Not showing up on Google? Your website may need more than a home page. Dedicated service pages, location pages, and helpful content give potential customers more ways to find your business and underst
+  → https://bsky.app/profile/transformeddesign.bsky.social/post/3n2hwvnrqct2j
+
+- **@windowshopgoa.bsky.social**: Properties for Sale in Goa | Buy Homes, Villas & Land
+Searching for your dream home in Goa? Discover apartments, villas and independent houses in different locations. Browse property listings on Windo
+  → https://bsky.app/profile/windowshopgoa.bsky.social/post/3n2izbu53l222
+
 - **@stylelib.org**: Wood Workshop – Carpenter and Craftman HTML Template
 
  https://themes.stylelib.org/?p=19026 
@@ -186,12 +193,3 @@ Browse rental p
 
 - **@bsky.scrapers.lat**: Need contractor leads or compliance insights? Our Washington L&I Contractor Scraper extracts licenses, bonds, insurance, and more. Perfect for analysts and risk assessors. #DataExtraction #ComplianceT
   → https://bsky.app/profile/bsky.scrapers.lat/post/3mzfvmsqq2s2l
-
-- **@carterenterprise.bsky.social**: That 40% boost in qualified leads for the Houston spray foam contractor in 3 months stood out to me. How do you check what ChatGPT or the AI engines say about your clients today?
-  → https://bsky.app/profile/carterenterprise.bsky.social/post/3mzmisvzrwc2l
-
-- **@peakadvisory.bsky.social**: When does your growing business need more than bookkeeping? 
-Discover how CFO services help trades businesses plan cash flow, manage budgets, and make confident financial decisions. 
-
-Read more: peaka
-  → https://bsky.app/profile/peakadvisory.bsky.social/post/3n23wvjmufs2z

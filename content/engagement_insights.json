@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-17T07:08",
+  "generated": "2026-11-17T16:12",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2615,
+      "views": 2525,
       "engagements": 5,
-      "er": 0.19
+      "er": 0.2
     },
     "YT Shorts": {
       "posts": 25,
@@ -16,7 +16,7 @@
     },
     "TikTok": {
       "posts": 1,
-      "views": 163,
+      "views": 164,
       "engagements": 0,
       "er": 0.0
     }
@@ -87,7 +87,7 @@
       "channel": "FB Reels",
       "id": "1433111445605893",
       "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
-      "views": 221,
+      "views": 222,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
@@ -121,18 +121,6 @@
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "3014094745598215",
-      "caption": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed \u2014 free at booked-job.com/podcast. ",
-      "views": 211,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-08"
-    },
     {
       "channel": "FB Reels",
       "id": "2310927063096570",
@@ -210,6 +198,18 @@
       "id": "1864729631188027",
       "caption": "78% of homeowners hire whoever responds first \u2014 not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #con",
       "views": 207,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-15"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1779082770884917",
+      "caption": "Shared-lead sites rent you an audience. The second you stop paying, the leads vanish. Build channels you own instead.\n\nhttps://booked-job.co",
+      "views": 110,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

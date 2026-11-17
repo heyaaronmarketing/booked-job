@@ -6,12 +6,13 @@
       "pod-ep03-exclusive",
       "pod-ep03-channels",
       "pod-ep03-trap",
-      "pod-ep03-lie"
+      "pod-ep03-lie",
+      "pod-ep02-system"
     ],
-    "last_iso": "2026-11-17T07:09:39",
+    "last_iso": "2026-11-17T16:23:28",
     "day": {
       "date": "2026-11-17",
-      "count": 1
+      "count": 2
     }
   },
   "tiktok": {
@@ -53,12 +54,13 @@
       "bj-rev-roof",
       "bj-rev-elec",
       "bj-rev-paint",
-      "bj-cheapbid"
+      "bj-cheapbid",
+      "bj-wordpress"
     ],
-    "last_iso": "2026-11-17T07:09:39",
+    "last_iso": "2026-11-17T16:23:28",
     "day": {
       "date": "2026-11-17",
-      "count": 1
+      "count": 2
     }
   },
   "linkedin": {
@@ -96,12 +98,13 @@
       "bj-ai",
       "bj-scam",
       "bj-rev-hvac",
-      "bj-rev-plumb"
+      "bj-rev-plumb",
+      "bj-rev-roof"
     ],
-    "last_iso": "2026-11-17T07:09:39",
+    "last_iso": "2026-11-17T16:23:28",
     "day": {
       "date": "2026-11-17",
-      "count": 1
+      "count": 2
     }
   },
   "facebook": {
@@ -109,12 +112,13 @@
       "pod-ep03-verdict",
       "pod-ep03-track",
       "pod-ep03-exclusive",
-      "pod-ep03-channels"
+      "pod-ep03-channels",
+      "pod-ep03-trap"
     ],
-    "last_iso": "2026-11-17T07:09:39",
+    "last_iso": "2026-11-17T16:23:28",
     "day": {
       "date": "2026-11-17",
-      "count": 1
+      "count": 2
     }
   },
   "pinterest": {
@@ -178,12 +182,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-11-17T07:09:39",
+    "last_iso": "2026-11-17T16:23:28",
     "day": {
       "date": "2026-11-17",
-      "count": 1
+      "count": 2
     }
   },
   "telegram": {
@@ -254,12 +259,13 @@
       "bj-gbp",
       "bj-track",
       "ad-arctic",
-      "ad-pauls"
+      "ad-pauls",
+      "ad-summit"
     ],
-    "last_iso": "2026-11-17T07:09:39",
+    "last_iso": "2026-11-17T16:23:28",
     "day": {
       "date": "2026-11-17",
-      "count": 1
+      "count": 2
     }
   }
 }

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-11-17T16:24",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz slow season"
+    },
+    {
       "ts": "2026-11-17T07:10",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: humor that guy"
-    },
-    {
-      "ts": "2026-10-29T15:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor quick job"
     }
   ]
 }
