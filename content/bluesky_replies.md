@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hghorizonstudio.bsky.social**: One question for small business owners: what’s the one number that tells you your marketing is working? Salon, booked appointments. Shop, online orders. Contractor, quote requests. Pick one you can ch
+  → https://bsky.app/profile/hghorizonstudio.bsky.social/post/3n2m2j7s63s2d
+
 - **@stylelib.org**: Condo – Construction WordPress Theme
 
  https://themes.stylelib.org/?p=824267 
@@ -207,6 +210,3 @@ If you're keen to learn, work hard, and build a rew
 
 - **@hiveislive.bsky.social**: Run a home-service business and need a website? Local Lead Site Sprint builds Home, Services and Contact pages. DM us “Sprint: how do I get a quote?” and Piper will send you the quote form. No payment
   → https://bsky.app/profile/hiveislive.bsky.social/post/3n262d4iotsct
-
-- **@squarecompasspromo.bsky.social**: EVERY masonic building and property is unique, and as such EVERY masonic building has unique safety and security needs. We hope that this self-audit will give those responsible for our buildings (or a
-  → https://bsky.app/profile/squarecompasspromo.bsky.social/post/3n265zozy7s2i

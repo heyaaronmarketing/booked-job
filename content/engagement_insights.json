@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-18T07:49",
+  "generated": "2026-11-18T15:50",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2490,
+      "views": 2506,
       "engagements": 2,
       "er": 0.08
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 366,
+      "views": 367,
       "engagements": 26,
-      "er": 7.1
+      "er": 7.08
     },
     "TikTok": {
       "posts": 1,

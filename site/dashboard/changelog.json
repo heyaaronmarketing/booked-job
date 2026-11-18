@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-11-18T16:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: Do AI Receptionists Actually Book Jobs? Phantom Bookings"
+    },
+    {
+      "ts": "2026-11-18T16:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: biz deposit"
+    },
+    {
+      "ts": "2026-11-18T16:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: Do AI Receptionists Actually Book Jobs? Phantom Bookings"
+    },
+    {
+      "ts": "2026-11-18T16:03",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): Do AI Receptionists Actually Book Jobs? Phantom Bookings"
+    },
+    {
       "ts": "2026-11-18T07:52",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: humor friday"
-    },
-    {
-      "ts": "2026-10-30T02:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor clean shirt"
-    },
-    {
-      "ts": "2026-10-29T20:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor clean shirt"
-    },
-    {
-      "ts": "2026-10-29T20:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: humor one more"
-    },
-    {
-      "ts": "2026-10-29T20:01",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor one more"
     }
   ]
 }
