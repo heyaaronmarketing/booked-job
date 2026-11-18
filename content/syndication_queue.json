@@ -2135,6 +2135,19 @@
       "blurb": "Four concrete year-end fixes that cost little and print money in spring.",
       "url": "https://booked-job.com/blog/contractor-end-of-year-marketing-checklist/",
       "posted": {}
+    },
+    {
+      "id": "do-ai-receptionists-actually-book-jobs",
+      "title": "Do AI Receptionists Actually Book Jobs? Phantom Bookings",
+      "labels": [
+        "Fire the Bot",
+        "AI",
+        "Lead Response"
+      ],
+      "short_title": "Fire the Bot",
+      "blurb": "Phantom bookings: the bot tells the customer they're scheduled, nothing hits your calendar, and you eat the blame. Worse than voicemail.",
+      "url": "https://booked-job.com/blog/do-ai-receptionists-actually-book-jobs/",
+      "posted": {}
     }
   ]
 }

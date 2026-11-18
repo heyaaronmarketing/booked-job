@@ -473,7 +473,8 @@
       "slug": "do-ai-receptionists-actually-book-jobs",
       "series": "Fire the Bot",
       "go_live": "2026-11-18",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-11-18"
     },
     {
       "slug": "jobber-vs-housecall-pro-which-one-fits",

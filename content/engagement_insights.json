@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-17T22:10",
+  "generated": "2026-11-18T07:49",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2489,
+      "views": 2490,
       "engagements": 2,
       "er": 0.08
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 367,
+      "views": 366,
       "engagements": 26,
-      "er": 7.08
+      "er": 7.1
     },
     "TikTok": {
       "posts": 1,
@@ -209,7 +209,7 @@
       "channel": "FB Reels",
       "id": "1140208341752396",
       "caption": "Just trying to get a quote from an AI receptionist\u2026 \ud83d\udc80 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews \ud83d\udc49 a hu",
-      "views": 235,
+      "views": 236,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

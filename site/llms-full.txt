@@ -2365,3 +2365,35 @@ A: No. Claiming your Google profile, asking for reviews, and fixing your own sit
 A: The Google Business Profile. It's the biggest free lead source for local contractors and most shops have theirs half-filled or wrong.
 
 ---
+## Do AI Receptionists Actually Book Jobs? Phantom Bookings
+URL: https://booked-job.com/blog/do-ai-receptionists-actually-book-jobs/
+
+**Short answer:** Phantom bookings: the bot tells the customer they're scheduled, nothing hits your calendar, and you eat the blame. Worse than voicemail.
+
+### 
+*An AI receptionist that confirms a booking you never received is worse than a missed call, because the customer thinks the job is set and you don't.*
+A missed call is an honest failure. You know you missed it. The voicemail sits there. You call back. Everybody understands what happened.A phantom booking is a dishonest failure. The AI receptionist tells your customer, in a confident, friendly voice, "Great, you're all booked for Thursday at 2." The customer hangs up happy. Thursday at 2, nobody shows up. The customer waited at home for a plumber who never knew the appointment existed. Now they're furious — at you. That's worse than never answering at all.
+
+### How phantom bookings happen
+*The bot's confirmation and your actual calendar are two different systems, and the handoff quietly fails.*
+The bot talks. Your calendar is a separate thing. Somewhere between "the AI said yes" and "the job is on the schedule," there's an integration — and integrations break silently. The sync fails, the time zone is wrong, the slot was already taken, the API hiccups. The bot doesn't know and doesn't care. It already told the customer they're set.You never find out until the no-show. By then you've lost the slot, the customer, and the review they're about to leave. A human taking that call would have written it down, looked at the actual calendar, and caught the conflict. The bot just performs confidence.
+
+### Why speed makes the gap worse, not better
+*The whole pitch for a receptionist is speed, but a fast wrong answer loses the job you could have won.*
+The entire sales pitch for an AI receptionist is speed — it answers instantly, any hour. And speed matters: responding in 5 minutes instead of 30 makes you up to 100x more likely to connect with a lead, and 21x more likely to qualify it (Lead Response Management study, Prof. James Oldroyd).But speed only helps if the answer is real. A bot that instantly books a job into a void isn't fast service — it's a fast way to burn a customer who was ready to pay you. You'd have been better off with a missed-call text that said "I'll call you right back," and then actually calling them back.
+
+### What to do instead
+*Capture the lead fast, then let a human confirm the actual booking against the real calendar.*
+Separate the two jobs. Capturing the lead fast — that can be automated cheaply and safely with a text-back. Confirming the booking — that should be a human looking at the real calendar, because that's where the expensive mistakes live.Before you trust any bot to put jobs on your schedule, read our full breakdown in is an AI receptionist worth it, and compare what's out there in the best AI receptionist for contractors roundup. If you'd rather just have a human answer and book it right, talk to a person.
+
+### FAQ
+**Q: Can an AI receptionist actually book appointments on my calendar?**
+A: It can try, through an integration between the bot and your calendar — but that handoff can fail silently. When it does, the customer hears 'you're booked' and nothing lands on your schedule. That phantom booking costs you the slot and the customer.
+
+**Q: Why is a phantom booking worse than a missed call?**
+A: With a missed call, you know you missed it and can call back. With a phantom booking, the customer believes they're scheduled, no-shows your slot, and blames you when nobody comes. It destroys trust instead of just delaying it.
+
+**Q: What's a safer alternative to an AI booking bot?**
+A: Capture the lead fast with a missed-call text-back, then have a human confirm the actual appointment against the real calendar. Speed matters — up to 100x more likely to connect responding in 5 minutes vs 30 (Lead Response Management study) — but the booking itself needs a human check.
+
+---
