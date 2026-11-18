@@ -86,6 +86,19 @@
       "video": "site/reels/bj-rev-elec.mp4"
     },
     {
+      "id": "pod-ep01-refunds",
+      "hook": "Why Angi refunds 15-22% of your leads",
+      "title": "Why Angi refunds 15-22% of your leads #Shorts",
+      "description": "Why Angi refunds 15-22% of your leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-refunds.mp4"
+    },
+    {
       "id": "bj-ftc",
       "hook": "The FTC fined HomeAdvisor $7.2M",
       "title": "The FTC fined HomeAdvisor $7.2M #Shorts",
@@ -213,6 +226,32 @@
       "video": "site/reels/bj-reviews50.mp4"
     },
     {
+      "id": "pod-ep02-howmany",
+      "hook": "519 reviews to rank #1 — you've got 12",
+      "title": "519 reviews to rank #1 — you've got 12 #Shorts",
+      "description": "519 reviews to rank #1 — you've got 12\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-howmany.mp4"
+    },
+    {
+      "id": "pod-ep01-ftc",
+      "hook": "The $7.2M FTC fine on Angi's leads",
+      "title": "The $7.2M FTC fine on Angi's leads #Shorts",
+      "description": "The $7.2M FTC fine on Angi's leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-ftc.mp4"
+    },
+    {
       "id": "bj-agency12k",
       "hook": "$12k/mo and nothing to show",
       "title": "$12k/mo and nothing to show #Shorts",
@@ -243,35 +282,6 @@
       "video": "site/reels/bj-yelp.mp4"
     },
     {
-      "id": "bj-speed",
-      "hook": "Answer in 5 minutes",
-      "title": "Answer in 5 minutes #Shorts",
-      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "speedtolead",
-        "sales",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-speed.mp4",
-      "thumbnail": "site/thumbs/bj-speed-thumb.png"
-    },
-    {
-      "id": "pod-ep02-howmany",
-      "hook": "519 reviews to rank #1 — you've got 12",
-      "title": "519 reviews to rank #1 — you've got 12 #Shorts",
-      "description": "519 reviews to rank #1 — you've got 12\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-howmany.mp4"
-    },
-    {
       "id": "bj-angi",
       "hook": "$79 for ONE Angi lead",
       "title": "$79 for ONE Angi lead #Shorts",
@@ -286,6 +296,61 @@
       ],
       "video": "site/reels/bj-angi.mp4",
       "thumbnail": "site/thumbs/bj-angi-thumb.png"
+    },
+    {
+      "id": "pod-ep03-channels",
+      "hook": "Angi vs Thumbtack vs Google — real cost",
+      "title": "Angi vs Thumbtack vs Google — real cost #Shorts",
+      "description": "Angi vs Thumbtack vs Google — real cost\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-channels.mp4"
+    },
+    {
+      "id": "pod-ep03-lie",
+      "hook": "Cost per lead is a lie",
+      "title": "Cost per lead is a lie #Shorts",
+      "description": "Cost per lead is a lie\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-lie.mp4"
+    },
+    {
+      "id": "pod-ep01-cost",
+      "hook": "$542 vs $168 — the Angi tax",
+      "title": "$542 vs $168 — the Angi tax #Shorts",
+      "description": "$542 vs $168 — the Angi tax\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-cost.mp4"
+    },
+    {
+      "id": "bj-speed",
+      "hook": "Answer in 5 minutes",
+      "title": "Answer in 5 minutes #Shorts",
+      "description": "78% of homeowners hire whoever answers first. Call back in 5 minutes and you're 21× more likely to close. Miss 1 in 7 calls and that's rent walking out the door.\n\n👇 How fast do you call a lead back?\n\n#speedtolead #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "speedtolead",
+        "sales",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-speed.mp4",
+      "thumbnail": "site/thumbs/bj-speed-thumb.png"
     },
     {
       "id": "bj-track",
@@ -323,6 +388,60 @@
       ]
     },
     {
+      "id": "bj-fakemaps",
+      "hook": "Someone cloned your Google listing",
+      "title": "Someone cloned your Google listing #Shorts",
+      "description": "Shady lead companies clone your Maps listing, grab your calls, and sell your customers back to you. Search your own name — if there are two of you, one is stealing.\n\n👇 Ever found a fake listing of your shop?\n\n#googlemaps #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlemaps",
+        "scamalert",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-fakemaps.mp4"
+    },
+    {
+      "id": "pod-ep02-fake",
+      "hook": "Never buy fake reviews — here's why",
+      "title": "Never buy fake reviews — here's why #Shorts",
+      "description": "Never buy fake reviews — here's why\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-fake.mp4"
+    },
+    {
+      "id": "pod-ep02-invisible",
+      "hook": "91% won't call a shop under 4 stars",
+      "title": "91% won't call a shop under 4 stars #Shorts",
+      "description": "91% won't call a shop under 4 stars\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-invisible.mp4"
+    },
+    {
+      "id": "pod-ep02-onetap",
+      "hook": "The 2 review rules nobody follows",
+      "title": "The 2 review rules nobody follows #Shorts",
+      "description": "The 2 review rules nobody follows\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-onetap.mp4"
+    },
+    {
       "id": "bj-ai",
       "hook": "Your customer asks ChatGPT",
       "title": "Your customer asks ChatGPT #Shorts",
@@ -340,66 +459,10 @@
       "thumbnail": "site/thumbs/bj-ai-thumb.png"
     },
     {
-      "id": "bj-fakemaps",
-      "hook": "Someone cloned your Google listing",
-      "title": "Someone cloned your Google listing #Shorts",
-      "description": "Shady lead companies clone your Maps listing, grab your calls, and sell your customers back to you. Search your own name — if there are two of you, one is stealing.\n\n👇 Ever found a fake listing of your shop?\n\n#googlemaps #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "googlemaps",
-        "scamalert",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-fakemaps.mp4"
-    },
-    {
       "id": "review-system",
       "hook": "The review system that actually works",
       "script": "Reviews decide who shows up in the map pack and who gets the call. Here's the system. Ask in person the second the job's done. Then text the direct review link within the hour. One tap for them. Ask every single customer. That's how twelve becomes a hundred. Follow Booked Job.",
       "title": "How to Actually Get Google Reviews #shorts #trades"
-    },
-    {
-      "id": "bj-gbp",
-      "hook": "Fix your Google profile",
-      "title": "Fix your Google profile #Shorts",
-      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "googlebusiness",
-        "localseo",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-gbp.mp4"
-    },
-    {
-      "id": "pod-ep01-refunds",
-      "hook": "Why Angi refunds 15-22% of your leads",
-      "title": "Why Angi refunds 15-22% of your leads #Shorts",
-      "description": "Why Angi refunds 15-22% of your leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-refunds.mp4"
-    },
-    {
-      "id": "pod-ep03-channels",
-      "hook": "Angi vs Thumbtack vs Google — real cost",
-      "title": "Angi vs Thumbtack vs Google — real cost #Shorts",
-      "description": "Angi vs Thumbtack vs Google — real cost\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-channels.mp4"
     },
     {
       "id": "bj-freecheck",
@@ -415,6 +478,60 @@
         "homeservices"
       ],
       "video": "site/reels/bj-freecheck.mp4"
+    },
+    {
+      "id": "pod-ep02-system",
+      "hook": "The 90-day review system",
+      "title": "The 90-day review system #Shorts",
+      "description": "The 90-day review system\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-system.mp4"
+    },
+    {
+      "id": "pod-ep01-speed",
+      "hook": "Answer in 5 minutes or lose the job",
+      "title": "Answer in 5 minutes or lose the job #Shorts",
+      "description": "Answer in 5 minutes or lose the job\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-speed.mp4"
+    },
+    {
+      "id": "pod-ep01-shared",
+      "hook": "One Angi lead — sold to 5 other guys",
+      "title": "One Angi lead — sold to 5 other guys #Shorts",
+      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-shared.mp4"
+    },
+    {
+      "id": "bj-gbp",
+      "hook": "Fix your Google profile",
+      "title": "Fix your Google profile #Shorts",
+      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlebusiness",
+        "localseo",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-gbp.mp4"
     },
     {
       "id": "bj-missedcall",
@@ -449,19 +566,6 @@
       "thumbnail": "site/thumbs/bj-anon98-thumb.png"
     },
     {
-      "id": "pod-ep01-ftc",
-      "hook": "The $7.2M FTC fine on Angi's leads",
-      "title": "The $7.2M FTC fine on Angi's leads #Shorts",
-      "description": "The $7.2M FTC fine on Angi's leads\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-ftc.mp4"
-    },
-    {
       "id": "bj-trade",
       "hook": "Which trade prints money",
       "title": "Which trade prints money #Shorts",
@@ -477,21 +581,6 @@
       ],
       "video": "site/reels/bj-trade.mp4",
       "thumbnail": "site/thumbs/bj-trade-thumb.png"
-    },
-    {
-      "id": "bj-scam",
-      "hook": "Guaranteed #1 = scam",
-      "title": "Guaranteed #1 = scam #Shorts",
-      "description": "If a marketing company guarantees you #1 on Google — hang up. Google says nobody can promise that. Guaranteed rankings is the tell.\n\n👇 Got a pitch like this? Drop it 👇\n\n#marketingscam #seo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketingscam",
-        "seo",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-scam.mp4"
     },
     {
       "id": "low-bid",
@@ -514,206 +603,10 @@
       ]
     },
     {
-      "id": "pod-ep02-fake",
-      "hook": "Never buy fake reviews — here's why",
-      "title": "Never buy fake reviews — here's why #Shorts",
-      "description": "Never buy fake reviews — here's why\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-fake.mp4"
-    },
-    {
-      "id": "pod-ep03-lie",
-      "hook": "Cost per lead is a lie",
-      "title": "Cost per lead is a lie #Shorts",
-      "description": "Cost per lead is a lie\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-lie.mp4"
-    },
-    {
-      "id": "pod-ep01-cost",
-      "hook": "$542 vs $168 — the Angi tax",
-      "title": "$542 vs $168 — the Angi tax #Shorts",
-      "description": "$542 vs $168 — the Angi tax\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-cost.mp4"
-    },
-    {
-      "id": "bj-stormchaser",
-      "hook": "The storm-chaser scam",
-      "title": "The storm-chaser scam #Shorts",
-      "description": "After every big storm the roofing scammers roll in — free inspection, out-of-state plates, sign today, insurance games. Real roofers don't chase storms door to door.\n\n👇 Seen the storm-chasers in your area?\n\n#roofing #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "roofing",
-        "scamalert",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-stormchaser.mp4"
-    },
-    {
-      "id": "pod-ep02-invisible",
-      "hook": "91% won't call a shop under 4 stars",
-      "title": "91% won't call a shop under 4 stars #Shorts",
-      "description": "91% won't call a shop under 4 stars\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-invisible.mp4"
-    },
-    {
-      "id": "bj-wordpress",
-      "hook": "Your WordPress site loses jobs",
-      "title": "Your WordPress site loses jobs #Shorts",
-      "description": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the next guy.\n\n👇 What's your site built on?\n\n#webdesign #smallbusiness #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "webdesign",
-        "smallbusiness",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-wordpress.mp4"
-    },
-    {
-      "id": "pod-ep02-onetap",
-      "hook": "The 2 review rules nobody follows",
-      "title": "The 2 review rules nobody follows #Shorts",
-      "description": "The 2 review rules nobody follows\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-onetap.mp4"
-    },
-    {
-      "id": "pod-ep02-system",
-      "hook": "The 90-day review system",
-      "title": "The 90-day review system #Shorts",
-      "description": "The 90-day review system\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-system.mp4"
-    },
-    {
-      "id": "lesson-reviews-decide",
-      "hook": "They judge you before you say a word",
-      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
-      "title": "Reviews Decide Who Gets the Call #shorts #trades"
-    },
-    {
-      "id": "pod-ep01-speed",
-      "hook": "Answer in 5 minutes or lose the job",
-      "title": "Answer in 5 minutes or lose the job #Shorts",
-      "description": "Answer in 5 minutes or lose the job\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-speed.mp4"
-    },
-    {
-      "id": "bj-slow",
-      "hook": "Slow season starts in July",
-      "title": "Slow season starts in July #Shorts",
-      "description": "Demand triples Feb→July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n👇 Who's already dreading January?\n\n#marketing #seasonal #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "seasonal",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-slow.mp4"
-    },
-    {
       "id": "lesson-cpl-vs-cpbj",
       "hook": "A cheap lead can be your most expensive one",
       "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
       "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
-    },
-    {
-      "id": "lesson-map-pack",
-      "hook": "Free real estate at the top of Google",
-      "script": "The map pack is the top of local search. Three spots, totally free. Your Google Business Profile is what gets you in. Claim it, pick the right category, and add real photos of real work. Most contractors leave it half empty and wonder why they don't show up. Follow Booked Job.",
-      "title": "Win Google's Map Pack (It's Free) #shorts #contractor"
-    },
-    {
-      "id": "bj-cheapbid",
-      "hook": "Cheapest bid costs the most",
-      "title": "Cheapest bid costs the most #Shorts",
-      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "pricing",
-        "contractorlife",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-cheapbid.mp4"
-    },
-    {
-      "id": "pod-ep01-shared",
-      "hook": "One Angi lead — sold to 5 other guys",
-      "title": "One Angi lead — sold to 5 other guys #Shorts",
-      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-shared.mp4"
-    },
-    {
-      "id": "money-leaks",
-      "hook": "3 ways shops bleed money",
-      "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job.",
-      "title": "3 Ways Your Contracting Business Bleeds Money #shorts",
-      "description": "Three money leaks every service business has — change orders, quick favors, and unbilled drive time. Fix them and give yourself a raise.\n\nMore for service pros: https://booked-job.com/\n\n#shorts #contractor #smallbusiness #trades #pricing",
-      "tags": [
-        "contractor",
-        "trades",
-        "home service business",
-        "plumber",
-        "roofer",
-        "hvac",
-        "electrician",
-        "small business",
-        "contractor pricing",
-        "contractor business",
-        "getting paid"
-      ]
     },
     {
       "id": "pod-ep01-starter",
@@ -727,19 +620,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep01-starter.mp4"
-    },
-    {
-      "id": "pod-ep01-verdict",
-      "hook": "When to fire Angi",
-      "title": "When to fire Angi #Shorts",
-      "description": "When to fire Angi\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-verdict.mp4"
     },
     {
       "id": "pod-ep03-exclusive",
@@ -768,10 +648,32 @@
       "video": "site/reels/pod-ep03-trap.mp4"
     },
     {
-      "id": "markup-vs-margin",
-      "hook": "A 50% markup is only a 33% margin",
-      "script": "Most contractors don't lose money on the work. They lose it on the estimate. Here's the trap. A fifty percent markup is only a thirty three percent margin. Price off margin, not markup, or you'll work all year and wonder where it went. Follow Booked Job.",
-      "title": "Markup vs Margin: The Money Math #shorts #contractor"
+      "id": "bj-scam",
+      "hook": "Guaranteed #1 = scam",
+      "title": "Guaranteed #1 = scam #Shorts",
+      "description": "If a marketing company guarantees you #1 on Google — hang up. Google says nobody can promise that. Guaranteed rankings is the tell.\n\n👇 Got a pitch like this? Drop it 👇\n\n#marketingscam #seo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketingscam",
+        "seo",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-scam.mp4"
+    },
+    {
+      "id": "pod-ep01-verdict",
+      "hook": "When to fire Angi",
+      "title": "When to fire Angi #Shorts",
+      "description": "When to fire Angi\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-verdict.mp4"
     },
     {
       "id": "pod-ep01-wrongnum",
@@ -787,24 +689,25 @@
       "video": "site/reels/pod-ep01-wrongnum.mp4"
     },
     {
-      "id": "bj-favor",
-      "hook": "'While you're here…'",
-      "title": "'While you're here…' #Shorts",
-      "description": "Name a more expensive sentence than 'while you're here, can you just take a quick look?' That look is free. Your drive back isn't.\n\n👇 Worst 'while you're here' you've caught?\n\n#contractorhumor #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "id": "lesson-reviews-decide",
+      "hook": "They judge you before you say a word",
+      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
+      "title": "Reviews Decide Who Gets the Call #shorts #trades"
+    },
+    {
+      "id": "bj-cheapbid",
+      "hook": "Cheapest bid costs the most",
+      "title": "Cheapest bid costs the most #Shorts",
+      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
       "tags": [
-        "contractorhumor",
+        "pricing",
+        "contractorlife",
         "contractorlife",
         "smallbusiness",
         "tradeslife",
         "homeservices"
       ],
-      "video": "site/reels/bj-favor.mp4"
-    },
-    {
-      "id": "lesson-ai-search",
-      "hook": "A third of people now ask AI who to hire",
-      "script": "Getting found used to mean Google. Now about a third of people ask an A I tool who to hire. Good news. The same foundation wins both. A strong profile, real reviews, and a clear website that actually answers questions. Build it once, get found everywhere. Follow Booked Job.",
-      "title": "Get Found by Google AND AI #shorts #contractor"
+      "video": "site/reels/bj-cheapbid.mp4"
     },
     {
       "id": "pod-ep02-peak",
@@ -820,10 +723,75 @@
       "video": "site/reels/pod-ep02-peak.mp4"
     },
     {
-      "id": "lesson-website-job",
-      "hook": "Your website has exactly one job",
-      "script": "Your website has one job. Turn a visitor into a phone call. Most fail. The average contractor site converts two to three percent. Make it fast, make it mobile, put a giant tap to call number up top, show proof, and give one clear action. That's it. Follow Booked Job.",
-      "title": "Why 98% Leave Your Website #shorts #smallbusiness"
+      "id": "bj-stormchaser",
+      "hook": "The storm-chaser scam",
+      "title": "The storm-chaser scam #Shorts",
+      "description": "After every big storm the roofing scammers roll in — free inspection, out-of-state plates, sign today, insurance games. Real roofers don't chase storms door to door.\n\n👇 Seen the storm-chasers in your area?\n\n#roofing #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "roofing",
+        "scamalert",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-stormchaser.mp4"
+    },
+    {
+      "id": "bj-wordpress",
+      "hook": "Your WordPress site loses jobs",
+      "title": "Your WordPress site loses jobs #Shorts",
+      "description": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the next guy.\n\n👇 What's your site built on?\n\n#webdesign #smallbusiness #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "webdesign",
+        "smallbusiness",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-wordpress.mp4"
+    },
+    {
+      "id": "bj-slow",
+      "hook": "Slow season starts in July",
+      "title": "Slow season starts in July #Shorts",
+      "description": "Demand triples Feb→July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n👇 Who's already dreading January?\n\n#marketing #seasonal #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "seasonal",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-slow.mp4"
+    },
+    {
+      "id": "lesson-map-pack",
+      "hook": "Free real estate at the top of Google",
+      "script": "The map pack is the top of local search. Three spots, totally free. Your Google Business Profile is what gets you in. Claim it, pick the right category, and add real photos of real work. Most contractors leave it half empty and wonder why they don't show up. Follow Booked Job.",
+      "title": "Win Google's Map Pack (It's Free) #shorts #contractor"
+    },
+    {
+      "id": "money-leaks",
+      "hook": "3 ways shops bleed money",
+      "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job.",
+      "title": "3 Ways Your Contracting Business Bleeds Money #shorts",
+      "description": "Three money leaks every service business has — change orders, quick favors, and unbilled drive time. Fix them and give yourself a raise.\n\nMore for service pros: https://booked-job.com/\n\n#shorts #contractor #smallbusiness #trades #pricing",
+      "tags": [
+        "contractor",
+        "trades",
+        "home service business",
+        "plumber",
+        "roofer",
+        "hvac",
+        "electrician",
+        "small business",
+        "contractor pricing",
+        "contractor business",
+        "getting paid"
+      ]
     },
     {
       "id": "pod-ep03-verdict",
@@ -852,10 +820,36 @@
       "video": "site/reels/pod-ep03-track.mp4"
     },
     {
-      "id": "slow-season-cushion",
-      "hook": "The slow season is won in the busy season",
-      "script": "The slow season is won in the busy season. Bank a three to six month cushion while the work flows. Sell maintenance plans and weather proof jobs. Re engage past customers. And when everyone else cuts marketing, you increase it. That's how you eat all year. Follow Booked Job.",
-      "title": "Survive the Slow Season #shorts #contractor"
+      "id": "markup-vs-margin",
+      "hook": "A 50% markup is only a 33% margin",
+      "script": "Most contractors don't lose money on the work. They lose it on the estimate. Here's the trap. A fifty percent markup is only a thirty three percent margin. Price off margin, not markup, or you'll work all year and wonder where it went. Follow Booked Job.",
+      "title": "Markup vs Margin: The Money Math #shorts #contractor"
+    },
+    {
+      "id": "bj-favor",
+      "hook": "'While you're here…'",
+      "title": "'While you're here…' #Shorts",
+      "description": "Name a more expensive sentence than 'while you're here, can you just take a quick look?' That look is free. Your drive back isn't.\n\n👇 Worst 'while you're here' you've caught?\n\n#contractorhumor #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "contractorhumor",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-favor.mp4"
+    },
+    {
+      "id": "lesson-website-job",
+      "hook": "Your website has exactly one job",
+      "script": "Your website has one job. Turn a visitor into a phone call. Most fail. The average contractor site converts two to three percent. Make it fast, make it mobile, put a giant tap to call number up top, show proof, and give one clear action. That's it. Follow Booked Job.",
+      "title": "Why 98% Leave Your Website #shorts #smallbusiness"
+    },
+    {
+      "id": "lesson-ai-search",
+      "hook": "A third of people now ask AI who to hire",
+      "script": "Getting found used to mean Google. Now about a third of people ask an A I tool who to hire. Good news. The same foundation wins both. A strong profile, real reviews, and a clear website that actually answers questions. Build it once, get found everywhere. Follow Booked Job.",
+      "title": "Get Found by Google AND AI #shorts #contractor"
     },
     {
       "id": "lesson-five-doors",
@@ -868,6 +862,12 @@
       "hook": "The five numbers that run your shop",
       "script": "Track five numbers every month. Cost per lead, cost per booked job, close rate, review count, and response time. Color each one green, yellow, or red. Knowing your numbers is the one thing that makes you impossible to fleece. Run it like an owner. Follow Booked Job.",
       "title": "Your Marketing Scorecard: 5 Numbers #shorts #smallbiz"
+    },
+    {
+      "id": "slow-season-cushion",
+      "hook": "The slow season is won in the busy season",
+      "script": "The slow season is won in the busy season. Bank a three to six month cushion while the work flows. Sell maintenance plans and weather proof jobs. Re engage past customers. And when everyone else cuts marketing, you increase it. That's how you eat all year. Follow Booked Job.",
+      "title": "Survive the Slow Season #shorts #contractor"
     }
   ]
 }

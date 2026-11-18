@@ -2,6 +2,47 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Condo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=824267 
+
+#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
+  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
+
+- **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
+
+ https://themes.stylelib.org/?p=16710 
+
+#builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
+  → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
+
+- **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
+
+An Adelaide electrician asked me that. Then admitted the website was ordinary.
+
+His business wasn't on the map. His site sat on page two.
+
+
+  → https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f
+
+- **@thejokebot.bsky.social**: Why did the electrician close his shop?
+
+Business was no longer current.
+
+#dadjoke #mumjokes #humor
+  → https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j
+
+- **@schlumbrechtselec.bsky.social**: Need help with electrical work at your business? Schlumbrecht's Electric provides Commercial electrician service to help keep your workplace safe and your electrical systems working properly.
+Contact 
+  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mzz7kptaik2o
+
+- **@stylelib.org**: Edifice – Construction, Building  Engineering WordPress Theme
+
+ https://themes.stylelib.org/?p=810542 
+
+#architecture #business #construction #electrician #elementor #engineering #handyman #maintenanc
+  → https://bsky.app/profile/stylelib.org/post/3n23mt4zflo2l
+
 - **@transformeddesign.bsky.social**: Not showing up on Google? Your website may need more than a home page. Dedicated service pages, location pages, and helpful content give potential customers more ways to find your business and underst
   → https://bsky.app/profile/transformeddesign.bsky.social/post/3n2hwvnrqct2j
 
@@ -169,27 +210,3 @@ If you're keen to learn, work hard, and build a rew
 
 - **@squarecompasspromo.bsky.social**: EVERY masonic building and property is unique, and as such EVERY masonic building has unique safety and security needs. We hope that this self-audit will give those responsible for our buildings (or a
   → https://bsky.app/profile/squarecompasspromo.bsky.social/post/3n265zozy7s2i
-
-- **@gojo41042.bsky.social**: Locked Out in San Antonio? Help Is Minutes Away!
-
-Stuck outside your home, car, or business? Don’t panic. Fast, reliable locksmith services come straight to your door, day or night. 
-
-✅ Fast response 
-  → https://bsky.app/profile/gojo41042.bsky.social/post/3n26jhektis2x
-
-- **@windowshopgoa.bsky.social**: Find Rental Properties in Goa
-Looking for a home or apartment for rent in Goa? Explore rental property listings on Window Shop Goa and find options that match your location and budget.
-Browse rental p
-  → https://bsky.app/profile/windowshopgoa.bsky.social/post/3n26s34ckak24
-
-- **@edwardhar.bsky.social**: Alongside this is the expanding use of 'outsourcing' customer services to individual freelancers working from home & clueless about the actual business or service. Offer little more sense than AI bots
-  → https://bsky.app/profile/edwardhar.bsky.social/post/3n26z4m4bnc2m
-
-- **@construktr.bsky.social**: How much is paperwork costing your roofing business? Six questions, free. https://construktr.ai/tools/profit-leak-check/roofing?utm_source=bluesky&utm_medium=organic&utm_campaign=az-week1
-  → https://bsky.app/profile/construktr.bsky.social/post/3mzx24umgr52q
-
-- **@randolphscottbell.bsky.social**: After a storm, the knock on the door is rarely the roofer you want. Look up the license (ours: CCC1332751) and the BBB profile before anyone climbs your roof. BBB Accredited since 2021, rated A+. http
-  → https://bsky.app/profile/randolphscottbell.bsky.social/post/3mzxsqhsnqm2d
-
-- **@bsky.scrapers.lat**: Need contractor leads or compliance insights? Our Washington L&I Contractor Scraper extracts licenses, bonds, insurance, and more. Perfect for analysts and risk assessors. #DataExtraction #ComplianceT
-  → https://bsky.app/profile/bsky.scrapers.lat/post/3mzfvmsqq2s2l

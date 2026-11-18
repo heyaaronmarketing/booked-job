@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:12:01Z",
+  "updated": "2026-11-18T04:10:31Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,17 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 28,
+        "uses": 24,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
+        "tag": "#contractor",
+        "uses": 22,
+        "link": "https://mastodon.social/tags/contractor"
+      },
+      {
         "tag": "#hvac",
-        "uses": 12,
+        "uses": 11,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
@@ -93,7 +98,7 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 7,
+        "uses": 5,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
@@ -102,14 +107,9 @@
         "link": "https://mastodon.social/tags/hvacr"
       },
       {
-        "tag": "#contractor",
-        "uses": 2,
-        "link": "https://mastodon.social/tags/contractor"
-      },
-      {
-        "tag": "#HVACAutomation",
+        "tag": "#HVACLeads",
         "uses": 1,
-        "link": "https://mastodon.social/tags/HVACAutomation"
+        "link": "https://mastodon.social/tags/HVACLeads"
       },
       {
         "tag": "#PlumbingRepairs",
@@ -122,11 +122,6 @@
         "link": "https://mastodon.social/tags/plumbingtips"
       },
       {
-        "tag": "#Roofing_company_Fort_Worth_TX",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/Roofing_company_Fort_Worth_TX"
-      },
-      {
         "tag": "#Electricians",
         "uses": 1,
         "link": "https://mastodon.social/tags/Electricians"
@@ -135,6 +130,11 @@
         "tag": "#handyman",
         "uses": 1,
         "link": "https://mastodon.social/tags/handyman"
+      },
+      {
+        "tag": "#HVACAutomation",
+        "uses": 0,
+        "link": "https://mastodon.social/tags/HVACAutomation"
       }
     ],
     "accounts": [
@@ -145,7 +145,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 36380,
+        "followers": 36379,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hungcontractor.bsky.social",
       "display": "Hung contractor",
-      "followers": 8647,
+      "followers": 8660,
       "desc": "…",
       "link": "https://bsky.app/profile/hungcontractor.bsky.social"
     },

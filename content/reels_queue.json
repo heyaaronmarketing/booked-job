@@ -13,13 +13,6 @@
       "video": "content/podcast/clips/clip3-onestar.mp4"
     },
     {
-      "id": "speed-to-lead",
-      "hook": "Five minutes or you lose the lead",
-      "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
-      "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
-      "video": "site/reels/speed-to-lead.mp4"
-    },
-    {
       "id": "af-ai-apology",
       "hook": "AI receptionist fail",
       "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
@@ -30,6 +23,13 @@
       "hook": "Angi's $542 secret",
       "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
       "video": "site/reels/rip-angi-rip.mp4"
+    },
+    {
+      "id": "speed-to-lead",
+      "hook": "Five minutes or you lose the lead",
+      "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
+      "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
+      "video": "site/reels/speed-to-lead.mp4"
     },
     {
       "id": "af-ai-aircanada",
@@ -75,17 +75,17 @@
       "video": "site/reels/af-ai-spiral.mp4"
     },
     {
-      "id": "refund-monday",
-      "hook": "20 minutes on Monday buys back real money",
-      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
-      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
-    },
-    {
       "id": "text-back",
       "hook": "Text back the missed call in 5 minutes",
       "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
       "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
       "video": "site/reels/text-back.mp4"
+    },
+    {
+      "id": "refund-monday",
+      "hook": "20 minutes on Monday buys back real money",
+      "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
+      "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
     },
     {
       "id": "first-to-answer",
@@ -146,13 +146,6 @@
       "video": "site/reels/explainer-lesson-01.mp4"
     },
     {
-      "id": "chasing-invoices",
-      "hook": "Three months chasing one invoice",
-      "script": "Three months chasing a customer for a four thousand dollar invoice. Sound familiar? Here's the hard truth. You're not a bank. Every week that invoice sits unpaid, it's a loan you didn't agree to give. Set net terms in writing, take a deposit up front, and don't start the next phase until the last one's paid. The nicest thing you can do for your business is get paid on time. Follow Booked Job.",
-      "description": "At what point is a $4k unpaid invoice worth the lien? Asking for me. 👇 #getpaid #contractor #smallbusiness",
-      "video": "site/reels/chasing-invoices.mp4"
-    },
-    {
       "id": "pod-clip-turd",
       "hook": "New podcast: Get Booked, Not F***ed",
       "description": "Two old tradesmen and an idiot apprentice talking real shop marketing. Episode 1 is live — listen free, link/podcast. 🎧 #contractor #trades #podcast @PlayMorePods #PodcastsOnAmazonMusic",
@@ -165,22 +158,10 @@
       "video": "content/podcast/clips/clip2-game.mp4"
     },
     {
-      "id": "ad-pauls",
-      "hook": "The spite ad that opens the show",
-      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-pauls.mp4"
-    },
-    {
       "id": "ad-arctic",
       "hook": "HVAC spite ad",
       "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
       "video": "content/podcast/clips/ad-arctic.mp4"
-    },
-    {
-      "id": "eight-automations",
-      "hook": "8 automations, zero leads",
-      "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
-      "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
     },
     {
       "id": "low-bid",
@@ -188,6 +169,25 @@
       "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
       "description": "Stop apologizing for your price. The lowball always comes back around. #contractor #pricing #trades",
       "video": "site/reels/low-bid.mp4"
+    },
+    {
+      "id": "chasing-invoices",
+      "hook": "Three months chasing one invoice",
+      "script": "Three months chasing a customer for a four thousand dollar invoice. Sound familiar? Here's the hard truth. You're not a bank. Every week that invoice sits unpaid, it's a loan you didn't agree to give. Set net terms in writing, take a deposit up front, and don't start the next phase until the last one's paid. The nicest thing you can do for your business is get paid on time. Follow Booked Job.",
+      "description": "At what point is a $4k unpaid invoice worth the lien? Asking for me. 👇 #getpaid #contractor #smallbusiness",
+      "video": "site/reels/chasing-invoices.mp4"
+    },
+    {
+      "id": "ad-pauls",
+      "hook": "The spite ad that opens the show",
+      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-pauls.mp4"
+    },
+    {
+      "id": "eight-automations",
+      "hook": "8 automations, zero leads",
+      "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
+      "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
     },
     {
       "id": "rented-pipeline",
@@ -209,13 +209,6 @@
       "video": "site/reels/gbp-billboard.mp4"
     },
     {
-      "id": "one-star",
-      "hook": "How you answer a 1-star matters more",
-      "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
-      "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
-      "video": "site/reels/one-star.mp4"
-    },
-    {
       "id": "referrals",
       "hook": "Your best lead just left your driveway",
       "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
@@ -235,6 +228,20 @@
       "video": "content/podcast/clips/clip-porno3.mp4"
     },
     {
+      "id": "show-up",
+      "hook": "The trades don't have a wage problem",
+      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
+      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
+      "video": "site/reels/show-up.mp4"
+    },
+    {
+      "id": "one-star",
+      "hook": "How you answer a 1-star matters more",
+      "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
+      "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
+      "video": "site/reels/one-star.mp4"
+    },
+    {
       "id": "ad-summit",
       "hook": "Roofing spite ad",
       "description": "We made our least-favorite roofer a radio ad he'll hate. From the podcast — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
@@ -248,11 +255,11 @@
       "video": "site/reels/slow-season.mp4"
     },
     {
-      "id": "show-up",
-      "hook": "The trades don't have a wage problem",
-      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
-      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
-      "video": "site/reels/show-up.mp4"
+      "id": "last-guy",
+      "hook": "Look what the last guy did",
+      "script": "You ever pull off a panel and just stop? A garden hose where the p-trap should be. Wire nuts buried in a wall. Caulk holding up a roof. The last guy didn't save them money. He sold them a problem with a delay on it. This is why the cheap call is never the cheap call. Follow Booked Job for more from the field.",
+      "description": "Drop your worst 'the last guy did it' find below. 👇 #plumbing #electrician #hvac #trades",
+      "video": "site/reels/last-guy.mp4"
     },
     {
       "id": "diagnostic-fee",
@@ -283,11 +290,25 @@
       "video": "site/reels/estimate-noshow.mp4"
     },
     {
-      "id": "last-guy",
-      "hook": "Look what the last guy did",
-      "script": "You ever pull off a panel and just stop? A garden hose where the p-trap should be. Wire nuts buried in a wall. Caulk holding up a roof. The last guy didn't save them money. He sold them a problem with a delay on it. This is why the cheap call is never the cheap call. Follow Booked Job for more from the field.",
-      "description": "Drop your worst 'the last guy did it' find below. 👇 #plumbing #electrician #hvac #trades",
-      "video": "site/reels/last-guy.mp4"
+      "id": "pick-two",
+      "hook": "Fast, cheap, or perfect — pick two",
+      "script": "Customer wants it fast, cheap, and perfect. Here's the line that resets the whole conversation. You can have any two of those. Fast and cheap won't be perfect. Cheap and perfect won't be fast. Fast and perfect won't be cheap. That's not me being difficult. That's just physics. Pick your two and I'll deliver them. Follow Booked Job.",
+      "description": "Fast, cheap, perfect — pick two. Which two do your customers pick? 👇 #pricing #contractor #trades",
+      "video": "site/reels/pick-two.mp4"
+    },
+    {
+      "id": "cheaper",
+      "hook": "\"Can you do it cheaper?\"",
+      "script": "Customer asks, can you do it cheaper? Here's the answer that stops it cold. Sure. I can use cheaper parts, skip the permit, and rush the job. Or I can do it right, once, and you never think about it again. Which one do you actually want? Cheaper isn't a price. It's a decision about who fixes it next year. Follow Booked Job for more.",
+      "description": "The one-line answer to 'can you do it cheaper?' What's yours? 👇 #pricing #contractor #trades",
+      "video": "site/reels/cheaper.mp4"
+    },
+    {
+      "id": "quick-favor",
+      "hook": "The 5-minute favor that isn't",
+      "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
+      "description": "'While you're here…' — name a more expensive sentence. 👇 #trades #contractor #getpaid",
+      "video": "site/reels/quick-favor.mp4"
     },
     {
       "id": "ten-mm",
@@ -295,13 +316,6 @@
       "script": "Let's talk about the greatest mystery in the trades. The 10mm socket. You buy a set, and within a week the 10 is gone. Not the 8, not the 12. Always the 10. It's the most-used size and it vanishes like it's got somewhere to be. I'm convinced there's a landfill somewhere made entirely of 10mm sockets. Where do they go? Tell me your theory. Follow Booked Job.",
       "description": "Where do all the 10mm sockets GO? Drop your best theory. 👇 #tools #trades #contractorlife",
       "video": "site/reels/ten-mm.mp4"
-    },
-    {
-      "id": "pick-two",
-      "hook": "Fast, cheap, or perfect — pick two",
-      "script": "Customer wants it fast, cheap, and perfect. Here's the line that resets the whole conversation. You can have any two of those. Fast and cheap won't be perfect. Cheap and perfect won't be fast. Fast and perfect won't be cheap. That's not me being difficult. That's just physics. Pick your two and I'll deliver them. Follow Booked Job.",
-      "description": "Fast, cheap, perfect — pick two. Which two do your customers pick? 👇 #pricing #contractor #trades",
-      "video": "site/reels/pick-two.mp4"
     },
     {
       "id": "milwaukee-dewalt",
@@ -318,25 +332,11 @@
       "video": "site/reels/dont-discount.mp4"
     },
     {
-      "id": "cheaper",
-      "hook": "\"Can you do it cheaper?\"",
-      "script": "Customer asks, can you do it cheaper? Here's the answer that stops it cold. Sure. I can use cheaper parts, skip the permit, and rush the job. Or I can do it right, once, and you never think about it again. Which one do you actually want? Cheaper isn't a price. It's a decision about who fixes it next year. Follow Booked Job for more.",
-      "description": "The one-line answer to 'can you do it cheaper?' What's yours? 👇 #pricing #contractor #trades",
-      "video": "site/reels/cheaper.mp4"
-    },
-    {
       "id": "financing",
       "hook": "Offer a payment plan, close more jobs",
       "script": "You lose big jobs not because the price is wrong, but because the customer can't write one big check today. Offer financing. A five thousand dollar job becomes a hundred bucks a month, and suddenly it's a yes. The financing company takes a small cut, you get paid in full up front, and the homeowner does the repair they were putting off. It's not about being cheap. It's about being possible. Follow Booked Job.",
       "description": "You're losing jobs to the size of the check, not the price. Do you offer financing? 👇 #contractor #sales #trades",
       "video": "site/reels/financing.mp4"
-    },
-    {
-      "id": "quick-favor",
-      "hook": "The 5-minute favor that isn't",
-      "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
-      "description": "'While you're here…' — name a more expensive sentence. 👇 #trades #contractor #getpaid",
-      "video": "site/reels/quick-favor.mp4"
     },
     {
       "id": "cash-job",
