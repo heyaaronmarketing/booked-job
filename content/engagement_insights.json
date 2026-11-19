@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-18T21:12",
+  "generated": "2026-11-19T06:52",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2309,
-      "engagements": 1,
-      "er": 0.04
+      "views": 2311,
+      "engagements": 3,
+      "er": 0.13
     },
     "YT Shorts": {
       "posts": 25,
@@ -61,6 +61,18 @@
     },
     {
       "channel": "FB Reels",
+      "id": "1183240727544718",
+      "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
+      "views": 146,
+      "reactions": 1,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 1,
+      "er": 0.68,
+      "date": "2026-11-11"
+    },
+    {
+      "channel": "FB Reels",
       "id": "1433111445605893",
       "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
       "views": 222,
@@ -73,9 +85,21 @@
     },
     {
       "channel": "FB Reels",
+      "id": "1140208341752396",
+      "caption": "Just trying to get a quote from an AI receptionist\u2026 \ud83d\udc80 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews \ud83d\udc49 a hu",
+      "views": 236,
+      "reactions": 1,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 1,
+      "er": 0.42,
+      "date": "2026-11-15"
+    },
+    {
+      "channel": "FB Reels",
       "id": "29669671432637296",
       "caption": "Why the 'cheap' lead is the expensive one \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. G",
-      "views": 218,
+      "views": 219,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
@@ -94,45 +118,9 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-17"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "2371050496999560",
-      "caption": "Why an 'expensive' exclusive lead wins \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get ",
-      "views": 200,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-17"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1751160273290339",
-      "caption": "The 1 number that cuts half your ad spend \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job fo",
-      "views": 89,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-16"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "1183240727544718",
-      "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
-      "views": 146,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-11"
-    },
     {
       "channel": "FB Reels",
       "id": "2310927063096570",
@@ -207,9 +195,21 @@
     },
     {
       "channel": "FB Reels",
-      "id": "1140208341752396",
-      "caption": "Just trying to get a quote from an AI receptionist\u2026 \ud83d\udc80 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews \ud83d\udc49 a hu",
-      "views": 236,
+      "id": "1864729631188027",
+      "caption": "78% of homeowners hire whoever responds first \u2014 not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #con",
+      "views": 207,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-15"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1779082770884917",
+      "caption": "Shared-lead sites rent you an audience. The second you stop paying, the leads vanish. Build channels you own instead.\n\nhttps://booked-job.co",
+      "views": 110,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

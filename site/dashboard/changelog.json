@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-11-19T06:55",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing scope creep"
+    },
+    {
       "ts": "2026-11-18T21:14",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: tools mil vs dewalt"
-    },
-    {
-      "ts": "2026-10-30T09:13",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: humor friday"
     }
   ]
 }

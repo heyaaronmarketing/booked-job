@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Constructo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=6194 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
+  → https://bsky.app/profile/stylelib.org/post/3n2nxkmodae2h
+
 - **@oregonoldster.bsky.social**: So he can be a plumber. Did he study the constitution? Did his plumbing course include a history class? Did he serve in the military? No, he is a high school graduate who can unplug toilets and run a 
   → https://bsky.app/profile/oregonoldster.bsky.social/post/3n2msj5wfa22e
 
@@ -205,8 +212,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
   → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
-
-- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
-Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
-If you're keen to learn, work hard, and build a rew
-  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3n2b5xk2cg42p

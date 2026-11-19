@@ -267,21 +267,6 @@
       "video": "site/reels/bj-agency12k.mp4"
     },
     {
-      "id": "bj-yelp",
-      "hook": "Yelp: worth it?",
-      "title": "Yelp: worth it? #Shorts",
-      "description": "For most trades, no. Pay-to-play, free leads dry up, reviews get hidden if you don't advertise. Put that energy into Google.\n\n👇 Yelp: worth it in your trade?\n\n#yelp #marketing #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "yelp",
-        "marketing",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-yelp.mp4"
-    },
-    {
       "id": "bj-angi",
       "hook": "$79 for ONE Angi lead",
       "title": "$79 for ONE Angi lead #Shorts",
@@ -296,6 +281,21 @@
       ],
       "video": "site/reels/bj-angi.mp4",
       "thumbnail": "site/thumbs/bj-angi-thumb.png"
+    },
+    {
+      "id": "bj-yelp",
+      "hook": "Yelp: worth it?",
+      "title": "Yelp: worth it? #Shorts",
+      "description": "For most trades, no. Pay-to-play, free leads dry up, reviews get hidden if you don't advertise. Put that energy into Google.\n\n👇 Yelp: worth it in your trade?\n\n#yelp #marketing #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "yelp",
+        "marketing",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-yelp.mp4"
     },
     {
       "id": "pod-ep03-channels",
@@ -566,6 +566,12 @@
       "thumbnail": "site/thumbs/bj-anon98-thumb.png"
     },
     {
+      "id": "lesson-cpl-vs-cpbj",
+      "hook": "A cheap lead can be your most expensive one",
+      "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
+      "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
+    },
+    {
       "id": "low-bid",
       "hook": "The cheapest bid costs the most",
       "script": "Ever lose a job to a guy half your price? Let him have it. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
@@ -584,12 +590,6 @@
         "how to price a job",
         "bidding"
       ]
-    },
-    {
-      "id": "lesson-cpl-vs-cpbj",
-      "hook": "A cheap lead can be your most expensive one",
-      "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
-      "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
     },
     {
       "id": "pod-ep01-starter",
@@ -717,12 +717,6 @@
       "video": "site/reels/pod-ep02-peak.mp4"
     },
     {
-      "id": "lesson-reviews-decide",
-      "hook": "They judge you before you say a word",
-      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
-      "title": "Reviews Decide Who Gets the Call #shorts #trades"
-    },
-    {
       "id": "bj-stormchaser",
       "hook": "The storm-chaser scam",
       "title": "The storm-chaser scam #Shorts",
@@ -794,6 +788,12 @@
       ]
     },
     {
+      "id": "lesson-reviews-decide",
+      "hook": "They judge you before you say a word",
+      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
+      "title": "Reviews Decide Who Gets the Call #shorts #trades"
+    },
+    {
       "id": "pod-ep03-verdict",
       "hook": "The 2 numbers every contractor tracks",
       "title": "The 2 numbers every contractor tracks #Shorts",
@@ -805,6 +805,20 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep03-verdict.mp4"
+    },
+    {
+      "id": "bj-favor",
+      "hook": "'While you're here…'",
+      "title": "'While you're here…' #Shorts",
+      "description": "Name a more expensive sentence than 'while you're here, can you just take a quick look?' That look is free. Your drive back isn't.\n\n👇 Worst 'while you're here' you've caught?\n\n#contractorhumor #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "contractorhumor",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-favor.mp4"
     },
     {
       "id": "pod-ep03-track",
@@ -824,20 +838,6 @@
       "hook": "A 50% markup is only a 33% margin",
       "script": "Most contractors don't lose money on the work. They lose it on the estimate. Here's the trap. A fifty percent markup is only a thirty three percent margin. Price off margin, not markup, or you'll work all year and wonder where it went. Follow Booked Job.",
       "title": "Markup vs Margin: The Money Math #shorts #contractor"
-    },
-    {
-      "id": "bj-favor",
-      "hook": "'While you're here…'",
-      "title": "'While you're here…' #Shorts",
-      "description": "Name a more expensive sentence than 'while you're here, can you just take a quick look?' That look is free. Your drive back isn't.\n\n👇 Worst 'while you're here' you've caught?\n\n#contractorhumor #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "contractorhumor",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-favor.mp4"
     },
     {
       "id": "lesson-website-job",

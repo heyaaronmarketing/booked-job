@@ -7,18 +7,6 @@
       "video": "site/reels/af-ai-quote.mp4"
     },
     {
-      "id": "af-ai-apology",
-      "hook": "AI receptionist fail",
-      "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
-      "video": "site/reels/af-ai-apology.mp4"
-    },
-    {
-      "id": "rip-angi-rip",
-      "hook": "Angi's $542 secret",
-      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
-      "video": "site/reels/rip-angi-rip.mp4"
-    },
-    {
       "id": "pod-clip-onestar",
       "hook": "The one-star that started a podcast",
       "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
@@ -30,6 +18,18 @@
       "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
       "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
       "video": "site/reels/speed-to-lead.mp4"
+    },
+    {
+      "id": "af-ai-apology",
+      "hook": "AI receptionist fail",
+      "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
+      "video": "site/reels/af-ai-apology.mp4"
+    },
+    {
+      "id": "rip-angi-rip",
+      "hook": "Angi's $542 secret",
+      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
+      "video": "site/reels/rip-angi-rip.mp4"
     },
     {
       "id": "af-ai-aircanada",
@@ -94,6 +94,12 @@
       "description": "78% hire whoever responds first. How fast do you actually get back? 👇 #speedtolead #contractor #trades"
     },
     {
+      "id": "rip-speed-rip",
+      "hook": "78% hire the first",
+      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
+      "video": "site/reels/rip-speed-rip.mp4"
+    },
+    {
       "id": "af-ai-loop",
       "hook": "AI receptionist fail",
       "description": "These goddamn AI bots. 😤 Watch an “AI receptionist” loop a customer right out the door. We reviewed every AI receptionist — honest verdict + what to use instead: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 A real human answers your leads: aaron.chat #contractor #trades #smallbusiness (dramatization of a documented AI failure)",
@@ -105,12 +111,6 @@
       "script": "Timing is everything on Google reviews. Most guys text a review link three days later, when the customer's already moved on. Here's the fix. The second they say, wow, that looks great, that's your moment. Hand them your phone, right there, review already pulled up. You'll triple your reviews and the reviews rank you higher than any ad. Catch them at wow, not on Wednesday. Follow Booked Job.",
       "description": "The best time to ask for a review is the exact second they say 'wow.' When do you ask? 👇 #googlereviews #contractor #trades",
       "video": "site/reels/review-timing.mp4"
-    },
-    {
-      "id": "rip-speed-rip",
-      "hook": "78% hire the first",
-      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
-      "video": "site/reels/rip-speed-rip.mp4"
     },
     {
       "id": "website-converting",
@@ -126,18 +126,18 @@
       "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
     },
     {
-      "id": "missed-call",
-      "hook": "Every missed call is a booked job",
-      "script": "Here's the most expensive sound in your business: your phone ringing while you're under a sink. You don't answer, so they call the next guy. And the next guy books the job. Studies say most homeowners call three shops and hire the first one that picks up. Not the cheapest. The first. If you can't answer, get someone who can. A missed call isn't a missed call. It's a booked job you handed to your competitor. Follow Booked Job.",
-      "description": "The first shop to pick up usually wins the job — not the cheapest. Who's answering your phone? 👇 #contractor #trades #smallbusiness",
-      "video": "site/reels/missed-call.mp4"
-    },
-    {
       "id": "repeat-customer",
       "hook": "Keeping a customer beats finding one",
       "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
       "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
       "video": "site/reels/repeat-customer.mp4"
+    },
+    {
+      "id": "missed-call",
+      "hook": "Every missed call is a booked job",
+      "script": "Here's the most expensive sound in your business: your phone ringing while you're under a sink. You don't answer, so they call the next guy. And the next guy books the job. Studies say most homeowners call three shops and hire the first one that picks up. Not the cheapest. The first. If you can't answer, get someone who can. A missed call isn't a missed call. It's a booked job you handed to your competitor. Follow Booked Job.",
+      "description": "The first shop to pick up usually wins the job — not the cheapest. Who's answering your phone? 👇 #contractor #trades #smallbusiness",
+      "video": "site/reels/missed-call.mp4"
     },
     {
       "id": "explainer-lesson-01",
@@ -184,18 +184,18 @@
       "video": "content/podcast/clips/clip2-game.mp4"
     },
     {
-      "id": "gbp-billboard",
-      "hook": "Your Google profile is a billboard you're ignoring",
-      "script": "You've got a Google Business Profile you set up once in 2019 and never touched. That's a billboard on the busiest road in town, and you left it blank. Post a job photo every week. Answer every review. Keep your hours right. It's free, it's five minutes, and it's the single biggest thing that decides whether you show up when someone searches your trade near me. Follow Booked Job.",
-      "description": "Your Google Business Profile is a free billboard. When did you last post on it? 👇 #localSEO #contractor #trades",
-      "video": "site/reels/gbp-billboard.mp4"
-    },
-    {
       "id": "referrals",
       "hook": "Your best lead just left your driveway",
       "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
       "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
       "video": "site/reels/referrals.mp4"
+    },
+    {
+      "id": "gbp-billboard",
+      "hook": "Your Google profile is a billboard you're ignoring",
+      "script": "You've got a Google Business Profile you set up once in 2019 and never touched. That's a billboard on the busiest road in town, and you left it blank. Post a job photo every week. Answer every review. Keep your hours right. It's free, it's five minutes, and it's the single biggest thing that decides whether you show up when someone searches your trade near me. Follow Booked Job.",
+      "description": "Your Google Business Profile is a free billboard. When did you last post on it? 👇 #localSEO #contractor #trades",
+      "video": "site/reels/gbp-billboard.mp4"
     },
     {
       "id": "show-up",
@@ -205,12 +205,6 @@
       "video": "site/reels/show-up.mp4"
     },
     {
-      "id": "ad-arctic",
-      "hook": "HVAC spite ad",
-      "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-arctic.mp4"
-    },
-    {
       "id": "one-star",
       "hook": "How you answer a 1-star matters more",
       "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
@@ -218,30 +212,17 @@
       "video": "site/reels/one-star.mp4"
     },
     {
+      "id": "ad-arctic",
+      "hook": "HVAC spite ad",
+      "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-arctic.mp4"
+    },
+    {
       "id": "slow-season",
       "hook": "Slow season starts in summer",
       "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
       "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
       "video": "site/reels/slow-season.mp4"
-    },
-    {
-      "id": "ad-pauls",
-      "hook": "The spite ad that opens the show",
-      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-pauls.mp4"
-    },
-    {
-      "id": "clip-porno2",
-      "hook": "Porno or Plumbing R2",
-      "description": "The dumbest, funniest game on the trades internet — round 2. Full episodes free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-porno2.mp4"
-    },
-    {
-      "id": "last-guy",
-      "hook": "Look what the last guy did",
-      "script": "You ever pull off a panel and just stop? A garden hose where the p-trap should be. Wire nuts buried in a wall. Caulk holding up a roof. The last guy didn't save them money. He sold them a problem with a delay on it. This is why the cheap call is never the cheap call. Follow Booked Job for more from the field.",
-      "description": "Drop your worst 'the last guy did it' find below. 👇 #plumbing #electrician #hvac #trades",
-      "video": "site/reels/last-guy.mp4"
     },
     {
       "id": "diagnostic-fee",
@@ -258,18 +239,30 @@
       "video": "site/reels/money-leaks.mp4"
     },
     {
-      "id": "estimate-noshow",
-      "hook": "Stop giving free estimates to tire-kickers",
-      "script": "You drove forty minutes for an estimate and they weren't even home. Sound familiar? Here's the filter. Before you book the estimate, ask two questions. What's the timeline, and is this in the budget you had in mind? The serious customers answer easy. The tire-kickers get weird. That two-minute phone call just saved you a tank of gas and half a Saturday. Qualify before you drive. Follow Booked Job.",
-      "description": "Qualify on the phone before you drive out. Two questions filter the tire-kickers. #contractor #sales #trades",
-      "video": "site/reels/estimate-noshow.mp4"
-    },
-    {
       "id": "pick-two",
       "hook": "Fast, cheap, or perfect — pick two",
       "script": "Customer wants it fast, cheap, and perfect. Here's the line that resets the whole conversation. You can have any two of those. Fast and cheap won't be perfect. Cheap and perfect won't be fast. Fast and perfect won't be cheap. That's not me being difficult. That's just physics. Pick your two and I'll deliver them. Follow Booked Job.",
       "description": "Fast, cheap, perfect — pick two. Which two do your customers pick? 👇 #pricing #contractor #trades",
       "video": "site/reels/pick-two.mp4"
+    },
+    {
+      "id": "ad-pauls",
+      "hook": "The spite ad that opens the show",
+      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-pauls.mp4"
+    },
+    {
+      "id": "clip-porno2",
+      "hook": "Porno or Plumbing R2",
+      "description": "The dumbest, funniest game on the trades internet — round 2. Full episodes free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-porno2.mp4"
+    },
+    {
+      "id": "estimate-noshow",
+      "hook": "Stop giving free estimates to tire-kickers",
+      "script": "You drove forty minutes for an estimate and they weren't even home. Sound familiar? Here's the filter. Before you book the estimate, ask two questions. What's the timeline, and is this in the budget you had in mind? The serious customers answer easy. The tire-kickers get weird. That two-minute phone call just saved you a tank of gas and half a Saturday. Qualify before you drive. Follow Booked Job.",
+      "description": "Qualify on the phone before you drive out. Two questions filter the tire-kickers. #contractor #sales #trades",
+      "video": "site/reels/estimate-noshow.mp4"
     },
     {
       "id": "cheaper",
@@ -284,26 +277,6 @@
       "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
       "description": "'While you're here…' — name a more expensive sentence. 👇 #trades #contractor #getpaid",
       "video": "site/reels/quick-favor.mp4"
-    },
-    {
-      "id": "dont-discount",
-      "hook": "Don't drop the price — add value",
-      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
-      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
-      "video": "site/reels/dont-discount.mp4"
-    },
-    {
-      "id": "neighbor-guy",
-      "hook": "\"My neighbor's guy does it for half\"",
-      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
-      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
-      "video": "site/reels/neighbor-guy.mp4"
-    },
-    {
-      "id": "clip-speed",
-      "hook": "Answer your phone",
-      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-speed.mp4"
     },
     {
       "id": "clip-porno3",
@@ -331,6 +304,33 @@
       "script": "Alright, let's start a fight. Milwaukee or DeWalt. Everybody's got a side and nobody's neutral. Red guys swear the torque is unmatched. Yellow guys say theirs never dies. The truth? They're both miles ahead of whatever was in your hand ten years ago. But you already picked a side in your head, didn't you? Tell me which one and why. Follow Booked Job.",
       "description": "Milwaukee or DeWalt. Pick a side. The comments are a war zone. 👇 #tools #contractor #trades",
       "video": "site/reels/milwaukee-dewalt.mp4"
+    },
+    {
+      "id": "last-guy",
+      "hook": "Look what the last guy did",
+      "script": "You ever pull off a panel and just stop? A garden hose where the p-trap should be. Wire nuts buried in a wall. Caulk holding up a roof. The last guy didn't save them money. He sold them a problem with a delay on it. This is why the cheap call is never the cheap call. Follow Booked Job for more from the field.",
+      "description": "Drop your worst 'the last guy did it' find below. 👇 #plumbing #electrician #hvac #trades",
+      "video": "site/reels/last-guy.mp4"
+    },
+    {
+      "id": "dont-discount",
+      "hook": "Don't drop the price — add value",
+      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
+      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
+      "video": "site/reels/dont-discount.mp4"
+    },
+    {
+      "id": "neighbor-guy",
+      "hook": "\"My neighbor's guy does it for half\"",
+      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
+      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
+      "video": "site/reels/neighbor-guy.mp4"
+    },
+    {
+      "id": "clip-speed",
+      "hook": "Answer your phone",
+      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-speed.mp4"
     },
     {
       "id": "financing",
