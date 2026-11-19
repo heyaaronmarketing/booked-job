@@ -7,12 +7,6 @@
       "video": "site/reels/af-ai-quote.mp4"
     },
     {
-      "id": "pod-clip-onestar",
-      "hook": "The one-star that started a podcast",
-      "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip3-onestar.mp4"
-    },
-    {
       "id": "af-ai-apology",
       "hook": "AI receptionist fail",
       "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
@@ -23,6 +17,12 @@
       "hook": "Angi's $542 secret",
       "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
       "video": "site/reels/rip-angi-rip.mp4"
+    },
+    {
+      "id": "pod-clip-onestar",
+      "hook": "The one-star that started a podcast",
+      "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip3-onestar.mp4"
     },
     {
       "id": "speed-to-lead",
@@ -152,18 +152,6 @@
       "video": "content/podcast/clips/clip1-turd.mp4"
     },
     {
-      "id": "pod-clip-game",
-      "hook": "Porno or Plumbing?",
-      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip2-game.mp4"
-    },
-    {
-      "id": "ad-arctic",
-      "hook": "HVAC spite ad",
-      "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-arctic.mp4"
-    },
-    {
       "id": "low-bid",
       "hook": "The cheapest bid costs the most",
       "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
@@ -178,12 +166,6 @@
       "video": "site/reels/chasing-invoices.mp4"
     },
     {
-      "id": "ad-pauls",
-      "hook": "The spite ad that opens the show",
-      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-pauls.mp4"
-    },
-    {
       "id": "eight-automations",
       "hook": "8 automations, zero leads",
       "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
@@ -196,10 +178,10 @@
       "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
     },
     {
-      "id": "clip-speed",
-      "hook": "Answer your phone",
-      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-speed.mp4"
+      "id": "pod-clip-game",
+      "hook": "Porno or Plumbing?",
+      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip2-game.mp4"
     },
     {
       "id": "gbp-billboard",
@@ -216,23 +198,17 @@
       "video": "site/reels/referrals.mp4"
     },
     {
-      "id": "clip-porno2",
-      "hook": "Porno or Plumbing R2",
-      "description": "The dumbest, funniest game on the trades internet — round 2. Full episodes free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-porno2.mp4"
-    },
-    {
-      "id": "clip-porno3",
-      "hook": "Porno or Plumbing R3",
-      "description": "Porno or Plumbing, round 3. You decide — adult film, or real jobsite quote?/podcast 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-porno3.mp4"
-    },
-    {
       "id": "show-up",
       "hook": "The trades don't have a wage problem",
       "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
       "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
       "video": "site/reels/show-up.mp4"
+    },
+    {
+      "id": "ad-arctic",
+      "hook": "HVAC spite ad",
+      "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-arctic.mp4"
     },
     {
       "id": "one-star",
@@ -242,17 +218,23 @@
       "video": "site/reels/one-star.mp4"
     },
     {
-      "id": "ad-summit",
-      "hook": "Roofing spite ad",
-      "description": "We made our least-favorite roofer a radio ad he'll hate. From the podcast — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-summit.mp4"
-    },
-    {
       "id": "slow-season",
       "hook": "Slow season starts in summer",
       "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
       "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
       "video": "site/reels/slow-season.mp4"
+    },
+    {
+      "id": "ad-pauls",
+      "hook": "The spite ad that opens the show",
+      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-pauls.mp4"
+    },
+    {
+      "id": "clip-porno2",
+      "hook": "Porno or Plumbing R2",
+      "description": "The dumbest, funniest game on the trades internet — round 2. Full episodes free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-porno2.mp4"
     },
     {
       "id": "last-guy",
@@ -267,13 +249,6 @@
       "script": "Customer says, since you're already here, can you just waive the service fee? Here's why you don't. That fee isn't for showing up. It's for knowing exactly what's wrong in ten minutes when it'd take them ten hours and a wrecked weekend. The knowledge is the product. You spent years learning to make it look easy. Charge for the easy. Follow Booked Job.",
       "description": "The diagnostic fee pays for knowing which part — that's the whole job. Do you hold the line? 👇 #contractor #pricing #trades",
       "video": "site/reels/diagnostic-fee.mp4"
-    },
-    {
-      "id": "youtube-expert",
-      "hook": "\"I watched a video, it looked easy\"",
-      "script": "Customer tells you, I watched a video, it looked easy. Here's what I've learned to say. It did look easy. That's exactly why I have a job. The video didn't show the corroded fitting behind the wall, the code violation, or the part that's discontinued. You're not paying me to do the easy version. You're paying me so the easy version doesn't turn into a flood at 2 a.m. Follow Booked Job.",
-      "description": "It looked easy in the video. That's the whole business model. 😅 #plumbing #electrician #contractor #trades",
-      "video": "site/reels/youtube-expert.mp4"
     },
     {
       "id": "money-leaks",
@@ -311,6 +286,39 @@
       "video": "site/reels/quick-favor.mp4"
     },
     {
+      "id": "dont-discount",
+      "hook": "Don't drop the price — add value",
+      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
+      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
+      "video": "site/reels/dont-discount.mp4"
+    },
+    {
+      "id": "neighbor-guy",
+      "hook": "\"My neighbor's guy does it for half\"",
+      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
+      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
+      "video": "site/reels/neighbor-guy.mp4"
+    },
+    {
+      "id": "clip-speed",
+      "hook": "Answer your phone",
+      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-speed.mp4"
+    },
+    {
+      "id": "clip-porno3",
+      "hook": "Porno or Plumbing R3",
+      "description": "Porno or Plumbing, round 3. You decide — adult film, or real jobsite quote?/podcast 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-porno3.mp4"
+    },
+    {
+      "id": "youtube-expert",
+      "hook": "\"I watched a video, it looked easy\"",
+      "script": "Customer tells you, I watched a video, it looked easy. Here's what I've learned to say. It did look easy. That's exactly why I have a job. The video didn't show the corroded fitting behind the wall, the code violation, or the part that's discontinued. You're not paying me to do the easy version. You're paying me so the easy version doesn't turn into a flood at 2 a.m. Follow Booked Job.",
+      "description": "It looked easy in the video. That's the whole business model. 😅 #plumbing #electrician #contractor #trades",
+      "video": "site/reels/youtube-expert.mp4"
+    },
+    {
       "id": "ten-mm",
       "hook": "The 10mm socket conspiracy",
       "script": "Let's talk about the greatest mystery in the trades. The 10mm socket. You buy a set, and within a week the 10 is gone. Not the 8, not the 12. Always the 10. It's the most-used size and it vanishes like it's got somewhere to be. I'm convinced there's a landfill somewhere made entirely of 10mm sockets. Where do they go? Tell me your theory. Follow Booked Job.",
@@ -323,13 +331,6 @@
       "script": "Alright, let's start a fight. Milwaukee or DeWalt. Everybody's got a side and nobody's neutral. Red guys swear the torque is unmatched. Yellow guys say theirs never dies. The truth? They're both miles ahead of whatever was in your hand ten years ago. But you already picked a side in your head, didn't you? Tell me which one and why. Follow Booked Job.",
       "description": "Milwaukee or DeWalt. Pick a side. The comments are a war zone. 👇 #tools #contractor #trades",
       "video": "site/reels/milwaukee-dewalt.mp4"
-    },
-    {
-      "id": "dont-discount",
-      "hook": "Don't drop the price — add value",
-      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
-      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
-      "video": "site/reels/dont-discount.mp4"
     },
     {
       "id": "financing",
@@ -346,13 +347,6 @@
       "video": "site/reels/cash-job.mp4"
     },
     {
-      "id": "neighbor-guy",
-      "hook": "\"My neighbor's guy does it for half\"",
-      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
-      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
-      "video": "site/reels/neighbor-guy.mp4"
-    },
-    {
       "id": "warranty-expectations",
       "hook": "Set the warranty before there's a problem",
       "script": "Biggest fight you'll ever have with a customer is over what's covered, months after the job's done. Kill it before it starts. When you hand over the invoice, walk them through it. Here's what I warranty, here's what I don't, here's how long. Put it in writing. Two minutes at the end of the job saves you a two-hour argument and a bad review later. Clarity up front is free. Follow Booked Job.",
@@ -365,6 +359,12 @@
       "script": "Learned this one the hard way. Six thousand dollars of custom material sitting in my garage because the customer ghosted after I ordered it. Never again. Now the rule is simple. No deposit, no material order. A serious customer has no problem putting money down. The ones who fight you on a deposit are the ones who'll fight you on the final bill. Protect your cash. Follow Booked Job.",
       "description": "What's your deposit rule? The garage full of unpaid material taught me mine. 👇 #getpaid #contractor #smallbusiness",
       "video": "site/reels/deposit.mp4"
+    },
+    {
+      "id": "ad-summit",
+      "hook": "Roofing spite ad",
+      "description": "We made our least-favorite roofer a radio ad he'll hate. From the podcast — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-summit.mp4"
     },
     {
       "id": "charge-the-drive",

@@ -1,70 +1,34 @@
 {
-  "updated": "2026-11-18T16:07",
+  "updated": "2026-11-18T21:16",
   "posts": [
     {
-      "ts": "2026-11-18T16:04:23",
-      "channel": "facebook",
-      "item": "card-missedcall",
-      "url": null
-    },
-    {
-      "ts": "2026-11-18T16:04:19",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-18T16:03:37",
-      "channel": "mastodon",
-      "item": "card-cpbj",
-      "url": null
-    },
-    {
-      "ts": "2026-11-18T16:03:35",
-      "channel": "mastodon",
-      "item": "do-ai-receptionists-actually-book-jobs",
-      "url": "https://mastodon.social/@bookedjob/117639703122729215"
-    },
-    {
-      "ts": "2026-11-18T16:03:33",
-      "channel": "telegraph",
-      "item": "do-ai-receptionists-actually-book-jobs",
-      "url": "https://telegra.ph/Do-AI-Receptionists-Actually-Book-Jobs-Phantom-Bookings-11-18"
-    },
-    {
-      "ts": "2026-11-18T16:03:32",
+      "ts": "2026-11-18T21:14:43",
       "channel": "tumblr",
-      "item": "clip1-turd",
+      "item": "clip2-game",
       "url": null
     },
     {
-      "ts": "2026-11-18T16:03:29",
+      "ts": "2026-11-18T21:14:40",
       "channel": "bluesky",
-      "item": "clip-porno3",
+      "item": "clip-speed",
       "url": null
     },
     {
-      "ts": "2026-11-18T16:03:26",
+      "ts": "2026-11-18T21:14:38",
       "channel": "linkedin",
-      "item": "bj-rev-paint",
+      "item": "bj-cheapbid",
       "url": null
     },
     {
-      "ts": "2026-11-18T16:03:24",
+      "ts": "2026-11-18T21:14:37",
       "channel": "tiktok",
-      "item": "bj-yelp",
+      "item": "bj-anon98",
       "url": null
     },
     {
-      "ts": "2026-11-18T16:03:21",
-      "channel": "ig",
-      "item": "pod-ep02-onetap",
-      "url": null
-    },
-    {
-      "ts": "2026-11-18T16:02:46",
+      "ts": "2026-11-18T21:14:35",
       "channel": "facebook",
-      "item": "pod-ep02-system",
+      "item": "pod-ep02-fake",
       "url": null
     }
   ]

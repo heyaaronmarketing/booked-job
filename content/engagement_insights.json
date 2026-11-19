@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-18T15:50",
+  "generated": "2026-11-18T21:12",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2506,
-      "engagements": 2,
-      "er": 0.08
+      "views": 2309,
+      "engagements": 1,
+      "er": 0.04
     },
     "YT Shorts": {
       "posts": 25,
@@ -61,18 +61,6 @@
     },
     {
       "channel": "FB Reels",
-      "id": "2338303497027887",
-      "caption": "Porno or Plumbing, round 3. You decide \u2014 adult film, or real jobsite quote? booked-job.com/podcast \ud83c\udfa7 @PlayMorePods #PodcastsOnAmazonMusic\n\n\ud83d\udee0",
-      "views": 198,
-      "reactions": 1,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 1,
-      "er": 0.51,
-      "date": "2026-11-09"
-    },
-    {
-      "channel": "FB Reels",
       "id": "1433111445605893",
       "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
       "views": 222,
@@ -118,6 +106,18 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-17"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1751160273290339",
+      "caption": "The 1 number that cuts half your ad spend \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job fo",
+      "views": 89,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-16"
     }
   ],
   "bottom": [

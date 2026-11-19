@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @hghorizonstudio.bsky.social: “One question for small business owners: what’s the one number that tells you your marketin…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/hghorizonstudio.bsky.social/post/3n2m2j7s63s2d",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Condo – Construction WordPress Theme   https://themes.stylelib.org/?p=824267   #architectu…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “BlueCollar – Handyman  Renovation Business WordPress Theme   https://themes.stylelib.org/?…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @gimsresults.bsky.social: “\"Do I need a Google profile if people can find my website?\"  An Adelaide electrician asked…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @thejokebot.bsky.social: “Why did the electrician close his shop?  Business was no longer current.  #dadjoke #mumjok…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @schlumbrechtselec.bsky.social: “Need help with electrical work at your business? Schlumbrecht's Electric provides Commerci…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mzz7kptaik2o",
       "est": "2 min"
     },
     {

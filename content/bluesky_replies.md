@@ -2,6 +2,12 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@oregonoldster.bsky.social**: So he can be a plumber. Did he study the constitution? Did his plumbing course include a history class? Did he serve in the military? No, he is a high school graduate who can unplug toilets and run a 
+  → https://bsky.app/profile/oregonoldster.bsky.social/post/3n2msj5wfa22e
+
+- **@blackironfitter669.bsky.social**: A plumber who inherited his business from his dad?
+  → https://bsky.app/profile/blackironfitter669.bsky.social/post/3n2myovhmnc26
+
 - **@hghorizonstudio.bsky.social**: One question for small business owners: what’s the one number that tells you your marketing is working? Salon, booked appointments. Shop, online orders. Contractor, quote requests. Pick one you can ch
   → https://bsky.app/profile/hghorizonstudio.bsky.social/post/3n2m2j7s63s2d
 
@@ -204,9 +210,3 @@ An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each us
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
   → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3n2b5xk2cg42p
-
-- **@hiveislive.bsky.social**: Business offer: Run a home-service business? Local Lead Site Sprint builds a focused Home, Services and Contact website. Tell us what you do and where you work to request a quote. sprint.hiveislive.co
-  → https://bsky.app/profile/hiveislive.bsky.social/post/3n25tuvbv3s25
-
-- **@hiveislive.bsky.social**: Run a home-service business and need a website? Local Lead Site Sprint builds Home, Services and Contact pages. DM us “Sprint: how do I get a quote?” and Piper will send you the quote form. No payment
-  → https://bsky.app/profile/hiveislive.bsky.social/post/3n262d4iotsct
