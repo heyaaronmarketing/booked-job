@@ -152,13 +152,6 @@
       "video": "content/podcast/clips/clip1-turd.mp4"
     },
     {
-      "id": "low-bid",
-      "hook": "The cheapest bid costs the most",
-      "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
-      "description": "Stop apologizing for your price. The lowball always comes back around. #contractor #pricing #trades",
-      "video": "site/reels/low-bid.mp4"
-    },
-    {
       "id": "chasing-invoices",
       "hook": "Three months chasing one invoice",
       "script": "Three months chasing a customer for a four thousand dollar invoice. Sound familiar? Here's the hard truth. You're not a bank. Every week that invoice sits unpaid, it's a loan you didn't agree to give. Set net terms in writing, take a deposit up front, and don't start the next phase until the last one's paid. The nicest thing you can do for your business is get paid on time. Follow Booked Job.",
@@ -189,6 +182,13 @@
       "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
       "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
       "video": "site/reels/referrals.mp4"
+    },
+    {
+      "id": "low-bid",
+      "hook": "The cheapest bid costs the most",
+      "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
+      "description": "Stop apologizing for your price. The lowball always comes back around. #contractor #pricing #trades",
+      "video": "site/reels/low-bid.mp4"
     },
     {
       "id": "gbp-billboard",

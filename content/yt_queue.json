@@ -324,19 +324,6 @@
       "video": "site/reels/pod-ep03-lie.mp4"
     },
     {
-      "id": "pod-ep01-cost",
-      "hook": "$542 vs $168 — the Angi tax",
-      "title": "$542 vs $168 — the Angi tax #Shorts",
-      "description": "$542 vs $168 — the Angi tax\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-cost.mp4"
-    },
-    {
       "id": "bj-track",
       "hook": "Track every lead source",
       "title": "Track every lead source #Shorts",
@@ -366,6 +353,19 @@
       ],
       "video": "site/reels/bj-speed.mp4",
       "thumbnail": "site/thumbs/bj-speed-thumb.png"
+    },
+    {
+      "id": "pod-ep01-cost",
+      "hook": "$542 vs $168 — the Angi tax",
+      "title": "$542 vs $168 — the Angi tax #Shorts",
+      "description": "$542 vs $168 — the Angi tax\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-cost.mp4"
     },
     {
       "id": "stop-renting-leads",
@@ -465,6 +465,34 @@
       "title": "How to Actually Get Google Reviews #shorts #trades"
     },
     {
+      "id": "pod-ep02-system",
+      "hook": "The 90-day review system",
+      "title": "The 90-day review system #Shorts",
+      "description": "The 90-day review system\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-system.mp4"
+    },
+    {
+      "id": "bj-gbp",
+      "hook": "Fix your Google profile",
+      "title": "Fix your Google profile #Shorts",
+      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlebusiness",
+        "localseo",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-gbp.mp4"
+    },
+    {
       "id": "bj-freecheck",
       "hook": "The 'free' system check",
       "title": "The 'free' system check #Shorts",
@@ -478,19 +506,6 @@
         "homeservices"
       ],
       "video": "site/reels/bj-freecheck.mp4"
-    },
-    {
-      "id": "pod-ep02-system",
-      "hook": "The 90-day review system",
-      "title": "The 90-day review system #Shorts",
-      "description": "The 90-day review system\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-system.mp4"
     },
     {
       "id": "pod-ep01-speed",
@@ -517,21 +532,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep01-shared.mp4"
-    },
-    {
-      "id": "bj-gbp",
-      "hook": "Fix your Google profile",
-      "title": "Fix your Google profile #Shorts",
-      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "googlebusiness",
-        "localseo",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-gbp.mp4"
     },
     {
       "id": "bj-missedcall",
@@ -689,6 +689,19 @@
       "video": "site/reels/pod-ep01-wrongnum.mp4"
     },
     {
+      "id": "pod-ep02-peak",
+      "hook": "Ask for the review at the PEAK",
+      "title": "Ask for the review at the PEAK #Shorts",
+      "description": "Ask for the review at the PEAK\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep02-peak.mp4"
+    },
+    {
       "id": "bj-cheapbid",
       "hook": "Cheapest bid costs the most",
       "title": "Cheapest bid costs the most #Shorts",
@@ -702,19 +715,6 @@
         "homeservices"
       ],
       "video": "site/reels/bj-cheapbid.mp4"
-    },
-    {
-      "id": "pod-ep02-peak",
-      "hook": "Ask for the review at the PEAK",
-      "title": "Ask for the review at the PEAK #Shorts",
-      "description": "Ask for the review at the PEAK\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep02-peak.mp4"
     },
     {
       "id": "bj-stormchaser",

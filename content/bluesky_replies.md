@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@alproconstruction.bsky.social**: Planning general contractor work in Oakland, NJ? Al-Pro Construction LLC reviews soil, drainage, loads, and existing construction. Loose fill can settle or crack. Contact us to discuss your patio, ret
+  → https://bsky.app/profile/alproconstruction.bsky.social/post/3n2oznh4g5l2x
+
 - **@stylelib.org**: Constructo – Construction WordPress Theme
 
  https://themes.stylelib.org/?p=6194 
@@ -207,8 +210,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 - **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
   → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
-
-- **@whatagentscando.com**: Own a small business? Your old quotes might be money.
-
-An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
-  → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z

@@ -1,11 +1,12 @@
 {
   "mastodon": {
     "posted": [
-      "card-cpbj"
+      "card-cpbj",
+      "card-angi"
     ],
-    "last_iso": "2026-11-18T16:03:35",
+    "last_iso": "2026-11-19T15:38:00",
     "day": {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "count": 1
     }
   },
@@ -13,9 +14,9 @@
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-11-18T16:03:35",
+    "last_iso": "2026-11-19T15:38:00",
     "day": {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "count": 1
     }
   },
@@ -33,11 +34,12 @@
       "card-stars",
       "card-ai",
       "card-anon98",
-      "card-missedcall"
+      "card-missedcall",
+      "card-trade"
     ],
-    "last_iso": "2026-11-18T16:03:35",
+    "last_iso": "2026-11-19T15:38:00",
     "day": {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "count": 1
     }
   }
