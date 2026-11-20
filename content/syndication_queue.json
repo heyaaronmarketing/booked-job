@@ -2148,6 +2148,19 @@
       "blurb": "Phantom bookings: the bot tells the customer they're scheduled, nothing hits your calendar, and you eat the blame. Worse than voicemail.",
       "url": "https://booked-job.com/blog/do-ai-receptionists-actually-book-jobs/",
       "posted": {}
+    },
+    {
+      "id": "jobber-vs-housecall-pro-which-one-fits",
+      "title": "Jobber vs Housecall Pro: Which One Fits Your Shop?",
+      "labels": [
+        "The Software Desk",
+        "Jobber",
+        "Housecall Pro"
+      ],
+      "short_title": "The Software Desk",
+      "blurb": "Both are good. The question isn't which is better \u2014 it's which one fits how your shop actually runs.",
+      "url": "https://booked-job.com/blog/jobber-vs-housecall-pro-which-one-fits/",
+      "posted": {}
     }
   ]
 }

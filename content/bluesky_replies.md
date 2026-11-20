@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@bcfmwu.bsky.social**: Recognize this Thursday throwback? 👀 For decades, skilled trades workers at this Fraser River facility have kept BC Ferries' fleet maintained, repaired and ready to sail. Yes, it's Deas Dock circa 197
+  → https://bsky.app/profile/bcfmwu.bsky.social/post/3n2odtrfwma2x
+
 - **@riversdaughter.bsky.social**: Signal boosting my husband's business. Go! Hire him today!
 
 MA folks! Do you or someone you know need electrical work done before the holidays set in, but don't know where to find a good electrician w
@@ -207,8 +210,3 @@ Thank you Anderson, I guess what I was trying to say is they were the embodiedme
 
 You know, a lot of times an owner tells me, “We already had somebody set that up.” 
   → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
-
-- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
-
-Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
-  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a

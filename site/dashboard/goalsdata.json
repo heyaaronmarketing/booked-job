@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T21:07",
+  "generated": "2026-11-20T05:26",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -13,7 +13,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles published",
-        "current": 0,
+        "current": 1,
         "target": 2,
         "status": "red",
         "needs": null
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 3,
+        "current": 1,
         "target": 22,
         "status": "red",
         "needs": null
@@ -43,7 +43,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 716,
+        "current": 619,
         "target": 40,
         "status": "green",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 33,
+        "current": 27,
         "target": 150,
         "status": "red",
         "needs": null
@@ -85,9 +85,9 @@
         "cat": "Reels",
         "icon": "\ud83c\udfac",
         "label": "Reels",
-        "current": 5,
+        "current": 3,
         "target": 7,
-        "status": "green",
+        "status": "yellow",
         "needs": null
       },
       {
@@ -95,7 +95,7 @@
         "cat": "Video",
         "icon": "\ud83d\udcfa",
         "label": "YouTube Shorts/videos",
-        "current": 2,
+        "current": 1,
         "target": 7,
         "status": "red",
         "needs": null
@@ -105,7 +105,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 12,
+        "current": 11,
         "target": 120,
         "status": "red",
         "needs": null
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 6488,
+        "current": 5862,
         "target": 300,
         "status": "green",
         "needs": null
@@ -137,7 +137,7 @@
         "cat": "Content",
         "icon": "\ud83d\udcdd",
         "label": "Articles",
-        "current": 15,
+        "current": 16,
         "target": 60,
         "status": "red",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 165,
+        "current": 166,
         "target": 600,
         "status": "red",
         "needs": null
@@ -187,7 +187,7 @@
         "cat": "Social",
         "icon": "\ud83d\udc65",
         "label": "New followers (all)",
-        "current": 315,
+        "current": 316,
         "target": 600,
         "status": "red",
         "needs": null
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 30355,
+        "current": 29558,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -217,13 +217,13 @@
   "queues": {
     "fb_ig_posts": 0,
     "reels": 0,
-    "staged_articles": 17
+    "staged_articles": 16
   },
   "counters": {
-    "articles": 146,
+    "articles": 147,
     "reels": 57,
-    "social_posts": 1121,
-    "followers": 381,
+    "social_posts": 1122,
+    "followers": 382,
     "engagement": 5,
     "yt_views": 2623,
     "yt_shorts": 73,
@@ -249,18 +249,18 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "33/150 \u2014 117 short of pace.",
-      "prompt": "We're behind on social posts this week (33/150). Refill the social queues / add more variant cards."
+      "why": "27/150 \u2014 123 short of pace.",
+      "prompt": "We're behind on social posts this week (27/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udcfa YouTube Shorts/videos behind this week",
-      "why": "2/7 \u2014 5 short of pace.",
-      "prompt": "We're behind on youtube shorts/videos this week (2/7). Produce more youtube shorts from the course/podcast."
+      "why": "1/7 \u2014 6 short of pace.",
+      "prompt": "We're behind on youtube shorts/videos this week (1/7). Produce more youtube shorts from the course/podcast."
     },
     {
       "title": "\ud83d\udc65 New followers (all) behind this week",
-      "why": "12/120 \u2014 108 short of pace.",
-      "prompt": "We're behind on new followers (all) this week (12/120). Refill the social queues / add more variant cards."
+      "why": "11/120 \u2014 109 short of pace.",
+      "prompt": "We're behind on new followers (all) this week (11/120). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udd25 Engagement actions behind this week",

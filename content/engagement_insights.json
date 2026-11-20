@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-19T21:02",
+  "generated": "2026-11-20T05:22",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2539,
-      "engagements": 3,
-      "er": 0.12
+      "views": 2664,
+      "engagements": 2,
+      "er": 0.08
     },
     "YT Shorts": {
       "posts": 25,
@@ -61,18 +61,6 @@
     },
     {
       "channel": "FB Reels",
-      "id": "1183240727544718",
-      "caption": "Why the guy with 140 reviews beats you even when he's worse \u2014 and what to do about it. New episode free at booked-job.com/podcast. \ud83c\udfa7 #contra",
-      "views": 146,
-      "reactions": 1,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 1,
-      "er": 0.68,
-      "date": "2026-11-11"
-    },
-    {
-      "channel": "FB Reels",
       "id": "1433111445605893",
       "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
       "views": 222,
@@ -97,6 +85,18 @@
     },
     {
       "channel": "FB Reels",
+      "id": "2028073261202234",
+      "caption": "519 reviews to rank #1 \u2014 you've got 12 \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get ",
+      "views": 269,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-20"
+    },
+    {
+      "channel": "FB Reels",
       "id": "1207793871571152",
       "caption": "Ask for the review at the PEAK \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job for the real ",
       "views": 207,
@@ -111,7 +111,7 @@
       "channel": "FB Reels",
       "id": "2026608211631301",
       "caption": "The 2 review rules nobody follows \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47",
-      "views": 21,
+      "views": 22,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

@@ -13,23 +13,10 @@
       "video": "content/podcast/clips/clip3-onestar.mp4"
     },
     {
-      "id": "speed-to-lead",
-      "hook": "Five minutes or you lose the lead",
-      "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
-      "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
-      "video": "site/reels/speed-to-lead.mp4"
-    },
-    {
       "id": "af-ai-apology",
       "hook": "AI receptionist fail",
       "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
       "video": "site/reels/af-ai-apology.mp4"
-    },
-    {
-      "id": "rip-angi-rip",
-      "hook": "Angi's $542 secret",
-      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
-      "video": "site/reels/rip-angi-rip.mp4"
     },
     {
       "id": "af-ai-aircanada",
@@ -67,6 +54,19 @@
       "hook": "The shop beating you has 519 reviews",
       "script": "You ever wonder why you can't crack the map pack? Here's the bar. The median HVAC shop sitting at the top of local search has around five hundred nineteen Google reviews. Plumbers, about three thirty seven. If you've got twenty two, you're not losing. You're not competing yet. That's not bad news, it's a target. Ten reviews a month, every month, and in two years nobody catches you. Ask every single happy customer, the day you finish. Follow Booked Job.",
       "description": "519 reviews is the median for HVAC shops in the map pack. Where are you at? 👇 #googlereviews #localseo #hvac"
+    },
+    {
+      "id": "speed-to-lead",
+      "hook": "Five minutes or you lose the lead",
+      "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
+      "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
+      "video": "site/reels/speed-to-lead.mp4"
+    },
+    {
+      "id": "rip-angi-rip",
+      "hook": "Angi's $542 secret",
+      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
+      "video": "site/reels/rip-angi-rip.mp4"
     },
     {
       "id": "af-ai-spiral",
@@ -126,17 +126,17 @@
       "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
     },
     {
+      "id": "explainer-lesson-01",
+      "hook": "Nobody taught you marketing",
+      "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
+      "video": "site/reels/explainer-lesson-01.mp4"
+    },
+    {
       "id": "repeat-customer",
       "hook": "Keeping a customer beats finding one",
       "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
       "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
       "video": "site/reels/repeat-customer.mp4"
-    },
-    {
-      "id": "explainer-lesson-01",
-      "hook": "Nobody taught you marketing",
-      "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
-      "video": "site/reels/explainer-lesson-01.mp4"
     },
     {
       "id": "missed-call",
@@ -157,6 +157,13 @@
       "script": "Three months chasing a customer for a four thousand dollar invoice. Sound familiar? Here's the hard truth. You're not a bank. Every week that invoice sits unpaid, it's a loan you didn't agree to give. Set net terms in writing, take a deposit up front, and don't start the next phase until the last one's paid. The nicest thing you can do for your business is get paid on time. Follow Booked Job.",
       "description": "At what point is a $4k unpaid invoice worth the lien? Asking for me. 👇 #getpaid #contractor #smallbusiness",
       "video": "site/reels/chasing-invoices.mp4"
+    },
+    {
+      "id": "show-up",
+      "hook": "The trades don't have a wage problem",
+      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
+      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
+      "video": "site/reels/show-up.mp4"
     },
     {
       "id": "pod-clip-game",
@@ -182,13 +189,6 @@
       "script": "You've got a Google Business Profile you set up once in 2019 and never touched. That's a billboard on the busiest road in town, and you left it blank. Post a job photo every week. Answer every review. Keep your hours right. It's free, it's five minutes, and it's the single biggest thing that decides whether you show up when someone searches your trade near me. Follow Booked Job.",
       "description": "Your Google Business Profile is a free billboard. When did you last post on it? 👇 #localSEO #contractor #trades",
       "video": "site/reels/gbp-billboard.mp4"
-    },
-    {
-      "id": "show-up",
-      "hook": "The trades don't have a wage problem",
-      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
-      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
-      "video": "site/reels/show-up.mp4"
     },
     {
       "id": "one-star",
@@ -292,6 +292,13 @@
       "video": "site/reels/milwaukee-dewalt.mp4"
     },
     {
+      "id": "last-guy",
+      "hook": "Look what the last guy did",
+      "script": "You ever pull off a panel and just stop? A garden hose where the p-trap should be. Wire nuts buried in a wall. Caulk holding up a roof. The last guy didn't save them money. He sold them a problem with a delay on it. This is why the cheap call is never the cheap call. Follow Booked Job for more from the field.",
+      "description": "Drop your worst 'the last guy did it' find below. 👇 #plumbing #electrician #hvac #trades",
+      "video": "site/reels/last-guy.mp4"
+    },
+    {
       "id": "cheaper",
       "hook": "\"Can you do it cheaper?\"",
       "script": "Customer asks, can you do it cheaper? Here's the answer that stops it cold. Sure. I can use cheaper parts, skip the permit, and rush the job. Or I can do it right, once, and you never think about it again. Which one do you actually want? Cheaper isn't a price. It's a decision about who fixes it next year. Follow Booked Job for more.",
@@ -304,13 +311,6 @@
       "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
       "description": "'While you're here…' — name a more expensive sentence. 👇 #trades #contractor #getpaid",
       "video": "site/reels/quick-favor.mp4"
-    },
-    {
-      "id": "last-guy",
-      "hook": "Look what the last guy did",
-      "script": "You ever pull off a panel and just stop? A garden hose where the p-trap should be. Wire nuts buried in a wall. Caulk holding up a roof. The last guy didn't save them money. He sold them a problem with a delay on it. This is why the cheap call is never the cheap call. Follow Booked Job for more from the field.",
-      "description": "Drop your worst 'the last guy did it' find below. 👇 #plumbing #electrician #hvac #trades",
-      "video": "site/reels/last-guy.mp4"
     },
     {
       "id": "dont-discount",
