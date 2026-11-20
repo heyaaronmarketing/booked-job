@@ -267,22 +267,6 @@
       "video": "site/reels/bj-agency12k.mp4"
     },
     {
-      "id": "bj-angi",
-      "hook": "$79 for ONE Angi lead",
-      "title": "$79 for ONE Angi lead #Shorts",
-      "description": "Angi charges $79 for a single lead — then sells it to 5 other guys. You're not buying a lead, you're buying a bidding war against yourself.\n\n👇 What's the worst lead-site bill you've paid?\n\n#angi #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "angi",
-        "leadgen",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-angi.mp4",
-      "thumbnail": "site/thumbs/bj-angi-thumb.png"
-    },
-    {
       "id": "bj-yelp",
       "hook": "Yelp: worth it?",
       "title": "Yelp: worth it? #Shorts",
@@ -309,6 +293,22 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep03-channels.mp4"
+    },
+    {
+      "id": "bj-angi",
+      "hook": "$79 for ONE Angi lead",
+      "title": "$79 for ONE Angi lead #Shorts",
+      "description": "Angi charges $79 for a single lead — then sells it to 5 other guys. You're not buying a lead, you're buying a bidding war against yourself.\n\n👇 What's the worst lead-site bill you've paid?\n\n#angi #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "angi",
+        "leadgen",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-angi.mp4",
+      "thumbnail": "site/thumbs/bj-angi-thumb.png"
     },
     {
       "id": "pod-ep03-lie",
@@ -521,19 +521,6 @@
       "video": "site/reels/pod-ep01-speed.mp4"
     },
     {
-      "id": "pod-ep01-shared",
-      "hook": "One Angi lead — sold to 5 other guys",
-      "title": "One Angi lead — sold to 5 other guys #Shorts",
-      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-shared.mp4"
-    },
-    {
       "id": "bj-missedcall",
       "hook": "Every missed call = the other guy's job",
       "title": "Every missed call = the other guy's job #Shorts",
@@ -548,6 +535,19 @@
       ],
       "video": "site/reels/bj-missedcall.mp4",
       "thumbnail": "site/thumbs/bj-missedcall-thumb.png"
+    },
+    {
+      "id": "pod-ep01-shared",
+      "hook": "One Angi lead — sold to 5 other guys",
+      "title": "One Angi lead — sold to 5 other guys #Shorts",
+      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-shared.mp4"
     },
     {
       "id": "bj-anon98",
@@ -566,32 +566,6 @@
       "thumbnail": "site/thumbs/bj-anon98-thumb.png"
     },
     {
-      "id": "lesson-cpl-vs-cpbj",
-      "hook": "A cheap lead can be your most expensive one",
-      "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
-      "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
-    },
-    {
-      "id": "low-bid",
-      "hook": "The cheapest bid costs the most",
-      "script": "Ever lose a job to a guy half your price? Let him have it. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
-      "title": "Why the Cheapest Contractor Bid Costs the Most #shorts",
-      "description": "Stop apologizing for your price. The lowball bid always comes back around — and the customer pays twice.\n\nhttps://booked-job.com/\n\n#shorts #contractor #pricing #trades #smallbusiness",
-      "tags": [
-        "contractor",
-        "trades",
-        "home service business",
-        "plumber",
-        "roofer",
-        "hvac",
-        "electrician",
-        "small business",
-        "contractor pricing",
-        "how to price a job",
-        "bidding"
-      ]
-    },
-    {
       "id": "pod-ep01-starter",
       "hook": "The ONE time Angi actually makes sense",
       "title": "The ONE time Angi actually makes sense #Shorts",
@@ -603,32 +577,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep01-starter.mp4"
-    },
-    {
-      "id": "pod-ep03-exclusive",
-      "hook": "Why an 'expensive' exclusive lead wins",
-      "title": "Why an 'expensive' exclusive lead wins #Shorts",
-      "description": "Why an 'expensive' exclusive lead wins\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-exclusive.mp4"
-    },
-    {
-      "id": "pod-ep03-trap",
-      "hook": "Why the 'cheap' lead is the expensive one",
-      "title": "Why the 'cheap' lead is the expensive one #Shorts",
-      "description": "Why the 'cheap' lead is the expensive one\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-trap.mp4"
     },
     {
       "id": "bj-trade",
@@ -661,6 +609,52 @@
         "homeservices"
       ],
       "video": "site/reels/bj-scam.mp4"
+    },
+    {
+      "id": "low-bid",
+      "hook": "The cheapest bid costs the most",
+      "script": "Ever lose a job to a guy half your price? Let him have it. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
+      "title": "Why the Cheapest Contractor Bid Costs the Most #shorts",
+      "description": "Stop apologizing for your price. The lowball bid always comes back around — and the customer pays twice.\n\nhttps://booked-job.com/\n\n#shorts #contractor #pricing #trades #smallbusiness",
+      "tags": [
+        "contractor",
+        "trades",
+        "home service business",
+        "plumber",
+        "roofer",
+        "hvac",
+        "electrician",
+        "small business",
+        "contractor pricing",
+        "how to price a job",
+        "bidding"
+      ]
+    },
+    {
+      "id": "pod-ep03-exclusive",
+      "hook": "Why an 'expensive' exclusive lead wins",
+      "title": "Why an 'expensive' exclusive lead wins #Shorts",
+      "description": "Why an 'expensive' exclusive lead wins\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-exclusive.mp4"
+    },
+    {
+      "id": "pod-ep03-trap",
+      "hook": "Why the 'cheap' lead is the expensive one",
+      "title": "Why the 'cheap' lead is the expensive one #Shorts",
+      "description": "Why the 'cheap' lead is the expensive one\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-trap.mp4"
     },
     {
       "id": "pod-ep01-verdict",
@@ -702,19 +696,10 @@
       "video": "site/reels/pod-ep02-peak.mp4"
     },
     {
-      "id": "bj-cheapbid",
-      "hook": "Cheapest bid costs the most",
-      "title": "Cheapest bid costs the most #Shorts",
-      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "pricing",
-        "contractorlife",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-cheapbid.mp4"
+      "id": "lesson-cpl-vs-cpbj",
+      "hook": "A cheap lead can be your most expensive one",
+      "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
+      "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
     },
     {
       "id": "bj-stormchaser",
@@ -792,6 +777,21 @@
       "hook": "They judge you before you say a word",
       "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
       "title": "Reviews Decide Who Gets the Call #shorts #trades"
+    },
+    {
+      "id": "bj-cheapbid",
+      "hook": "Cheapest bid costs the most",
+      "title": "Cheapest bid costs the most #Shorts",
+      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "pricing",
+        "contractorlife",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-cheapbid.mp4"
     },
     {
       "id": "pod-ep03-verdict",

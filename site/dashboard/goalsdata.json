@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T15:40",
+  "generated": "2026-11-19T21:07",
   "period": {
     "start": "2026-07-28",
     "end": "2026-08-27",
@@ -23,7 +23,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts (all channels)",
-        "current": 2,
+        "current": 3,
         "target": 22,
         "status": "red",
         "needs": null
@@ -75,7 +75,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 32,
+        "current": 33,
         "target": 150,
         "status": "red",
         "needs": null
@@ -125,7 +125,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 6347,
+        "current": 6488,
         "target": 300,
         "status": "green",
         "needs": null
@@ -147,7 +147,7 @@
         "cat": "Social",
         "icon": "\ud83d\udce3",
         "label": "Social posts",
-        "current": 164,
+        "current": 165,
         "target": 600,
         "status": "red",
         "needs": null
@@ -207,7 +207,7 @@
         "cat": "Traffic",
         "icon": "\ud83c\udf10",
         "label": "Website visits",
-        "current": 30214,
+        "current": 30355,
         "target": 1500,
         "status": "green",
         "needs": null
@@ -222,7 +222,7 @@
   "counters": {
     "articles": 146,
     "reels": 57,
-    "social_posts": 1120,
+    "social_posts": 1121,
     "followers": 381,
     "engagement": 5,
     "yt_views": 2623,
@@ -249,8 +249,8 @@
     },
     {
       "title": "\ud83d\udce3 Social posts behind this week",
-      "why": "32/150 \u2014 118 short of pace.",
-      "prompt": "We're behind on social posts this week (32/150). Refill the social queues / add more variant cards."
+      "why": "33/150 \u2014 117 short of pace.",
+      "prompt": "We're behind on social posts this week (33/150). Refill the social queues / add more variant cards."
     },
     {
       "title": "\ud83d\udcfa YouTube Shorts/videos behind this week",

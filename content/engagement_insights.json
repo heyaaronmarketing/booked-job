@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-19T15:24",
+  "generated": "2026-11-19T21:02",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2332,
+      "views": 2539,
       "engagements": 3,
-      "er": 0.13
+      "er": 0.12
     },
     "YT Shorts": {
       "posts": 25,
@@ -16,7 +16,7 @@
     },
     "TikTok": {
       "posts": 1,
-      "views": 162,
+      "views": 161,
       "engagements": 0,
       "er": 0.0
     }
@@ -97,9 +97,9 @@
     },
     {
       "channel": "FB Reels",
-      "id": "2026608211631301",
-      "caption": "The 2 review rules nobody follows \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47",
-      "views": 21,
+      "id": "1207793871571152",
+      "caption": "Ask for the review at the PEAK \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job for the real ",
+      "views": 207,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
@@ -109,15 +109,15 @@
     },
     {
       "channel": "FB Reels",
-      "id": "29669671432637296",
-      "caption": "Why the 'cheap' lead is the expensive one \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. G",
-      "views": 219,
+      "id": "2026608211631301",
+      "caption": "The 2 review rules nobody follows \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47",
+      "views": 21,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
       "engagements": 0,
       "er": 0.0,
-      "date": "2026-11-17"
+      "date": "2026-11-19"
     }
   ],
   "bottom": [

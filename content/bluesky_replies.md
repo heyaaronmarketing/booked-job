@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@riversdaughter.bsky.social**: Signal boosting my husband's business. Go! Hire him today!
+
+MA folks! Do you or someone you know need electrical work done before the holidays set in, but don't know where to find a good electrician w
+  → https://bsky.app/profile/riversdaughter.bsky.social/post/3n2ofie72jk2t
+
 - **@alproconstruction.bsky.social**: Planning general contractor work in Oakland, NJ? Al-Pro Construction LLC reviews soil, drainage, loads, and existing construction. Loose fill can settle or crack. Contact us to discuss your patio, ret
   → https://bsky.app/profile/alproconstruction.bsky.social/post/3n2oznh4g5l2x
 
@@ -207,6 +212,3 @@ You know, a lot of times an owner tells me, “We already had somebody set that 
 
 Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
   → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
-
-- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
-  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x

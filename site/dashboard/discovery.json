@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T21:24:52Z",
+  "updated": "2026-11-20T03:02:51Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,7 +78,7 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 28,
+        "uses": 24,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
@@ -93,12 +93,12 @@
       },
       {
         "tag": "#plumbing",
-        "uses": 11,
+        "uses": 12,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#contractors",
-        "uses": 11,
+        "uses": 10,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
@@ -107,9 +107,9 @@
         "link": "https://mastodon.social/tags/hvacr"
       },
       {
-        "tag": "#PlumbingContractorsTampaFL",
-        "uses": 3,
-        "link": "https://mastodon.social/tags/PlumbingContractorsTampaFL"
+        "tag": "#PlumbingServicesTampaFL",
+        "uses": 4,
+        "link": "https://mastodon.social/tags/PlumbingServicesTampaFL"
       },
       {
         "tag": "#PlumbingRepairTampaFL",
@@ -122,9 +122,9 @@
         "link": "https://mastodon.social/tags/PlumbingCompanyTampaFL"
       },
       {
-        "tag": "#PlumbingInstallationTampaFL",
+        "tag": "#PlumbingRepairNearMe",
         "uses": 2,
-        "link": "https://mastodon.social/tags/PlumbingInstallationTampaFL"
+        "link": "https://mastodon.social/tags/PlumbingRepairNearMe"
       },
       {
         "tag": "#HVACLeads",
@@ -145,7 +145,7 @@
       },
       {
         "handle": "@FamilyHandyman@flipboard.com",
-        "followers": 36536,
+        "followers": 36537,
         "link": "https://flipboard.com/@FamilyHandyman"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8444,
+        "followers": 8443,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -185,7 +185,7 @@
       },
       {
         "handle": "@Noshir",
-        "followers": 731,
+        "followers": 730,
         "link": "https://mastodon.social/@Noshir"
       }
     ]
@@ -194,14 +194,14 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10856,
+      "followers": 10858,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
     {
       "handle": "@hungcontractor.bsky.social",
       "display": "Hung contractor",
-      "followers": 8682,
+      "followers": 8681,
       "desc": "…",
       "link": "https://bsky.app/profile/hungcontractor.bsky.social"
     },
@@ -236,14 +236,14 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 2010,
+      "followers": 2021,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1878,
+      "followers": 1879,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
