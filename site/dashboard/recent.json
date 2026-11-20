@@ -1,4 +1,71 @@
 {
-  "updated": "2026-11-20T05:26",
-  "posts": []
+  "updated": "2026-11-20T14:16",
+  "posts": [
+    {
+      "ts": "2026-11-20T14:13:49",
+      "channel": "facebook",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:13:43",
+      "channel": "ig",
+      "item": "carousel-leadsites",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:13:03",
+      "channel": "mastodon",
+      "item": "card-reviews",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:13:01",
+      "channel": "mastodon",
+      "item": "jobber-vs-housecall-pro-which-one-fits",
+      "url": "https://mastodon.social/@bookedjob/117650592979647392"
+    },
+    {
+      "ts": "2026-11-20T14:12:59",
+      "channel": "telegraph",
+      "item": "jobber-vs-housecall-pro-which-one-fits",
+      "url": "https://telegra.ph/Jobber-vs-Housecall-Pro-Which-One"
+    },
+    {
+      "ts": "2026-11-20T14:12:58",
+      "channel": "tumblr",
+      "item": "money-leaks",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:12:56",
+      "channel": "bluesky",
+      "item": "is-angi-worth-it",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:12:54",
+      "channel": "tiktok",
+      "item": "bj-fakemaps",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:12:54",
+      "channel": "linkedin",
+      "item": "bj-anon98",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:12:52",
+      "channel": "ig",
+      "item": "pod-ep02-invisible",
+      "url": null
+    },
+    {
+      "ts": "2026-11-20T14:12:16",
+      "channel": "facebook",
+      "item": "pod-ep02-invisible",
+      "url": null
+    }
+  ]
 }

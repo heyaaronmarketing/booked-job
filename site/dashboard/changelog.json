@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "ts": "2026-11-20T14:13",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted to Mastodon: Jobber vs Housecall Pro: Which One Fits Your Shop?"
+    },
+    {
+      "ts": "2026-11-20T14:12",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: homeowner son"
+    },
+    {
+      "ts": "2026-11-20T14:12",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Telegraph: Jobber vs Housecall Pro: Which One Fits Your Shop?"
+    },
+    {
+      "ts": "2026-11-20T14:12",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Syndicated to Blogger (backlink): Jobber vs Housecall Pro: Which One Fits Your Shop?"
+    },
+    {
       "ts": "2026-11-20T05:24",
       "kind": "site",
       "icon": "🌐",
@@ -1175,30 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: tools ford chevy"
-    },
-    {
-      "ts": "2026-10-30T14:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: guy radio"
-    },
-    {
-      "ts": "2026-10-30T14:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: tools burning truck"
-    },
-    {
-      "ts": "2026-10-30T14:24",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: tools mil vs dewalt"
-    },
-    {
-      "ts": "2026-10-30T09:14",
-      "kind": "reel",
-      "icon": "🎬",
-      "text": "Published YouTube Short: The storm-chaser scam"
     }
   ]
 }

@@ -2,6 +2,19 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
+
+Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
+  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
+
+- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
+  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
+
+- **@whatagentscando.com**: Own a small business? Your old quotes might be money.
+
+An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
+  → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
+
 - **@bcfmwu.bsky.social**: Recognize this Thursday throwback? 👀 For decades, skilled trades workers at this Fraser River facility have kept BC Ferries' fleet maintained, repaired and ready to sail. Yes, it's Deas Dock circa 197
   → https://bsky.app/profile/bcfmwu.bsky.social/post/3n2odtrfwma2x
 
@@ -199,14 +212,3 @@ We provide specialty accounting & bookkeeping for:
 
 Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
   → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
-
-- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
-  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
-
-- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
-  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
-
-- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
-
-You know, a lot of times an owner tells me, “We already had somebody set that up.” 
-  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
