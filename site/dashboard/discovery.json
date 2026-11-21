@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:21:52Z",
+  "updated": "2026-11-21T23:04:19Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -87,14 +87,14 @@
         "link": "https://mastodon.social/tags/contractor"
       },
       {
+        "tag": "#hvac",
+        "uses": 13,
+        "link": "https://mastodon.social/tags/hvac"
+      },
+      {
         "tag": "#plumbing",
         "uses": 13,
         "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
-        "tag": "#hvac",
-        "uses": 12,
-        "link": "https://mastodon.social/tags/hvac"
       },
       {
         "tag": "#contractors",
@@ -127,20 +127,20 @@
         "link": "https://mastodon.social/tags/PlumbingInstallationTampaFL"
       },
       {
+        "tag": "#Electricians",
+        "uses": 2,
+        "link": "https://mastodon.social/tags/Electricians"
+      },
+      {
         "tag": "#HVACLeads",
         "uses": 1,
         "link": "https://mastodon.social/tags/HVACLeads"
-      },
-      {
-        "tag": "#Electricians",
-        "uses": 1,
-        "link": "https://mastodon.social/tags/Electricians"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 469543,
+        "followers": 469544,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23724,
+        "followers": 23728,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -201,14 +201,14 @@
     {
       "handle": "@hungcontractor.bsky.social",
       "display": "Hung contractor",
-      "followers": 8686,
+      "followers": 8688,
       "desc": "…",
       "link": "https://bsky.app/profile/hungcontractor.bsky.social"
     },
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4399,
+      "followers": 4403,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
@@ -229,14 +229,14 @@
     {
       "handle": "@cpajoe.bsky.social",
       "display": "Joe Rosenberg",
-      "followers": 2243,
+      "followers": 2244,
       "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
       "link": "https://bsky.app/profile/cpajoe.bsky.social"
     },
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 2136,
+      "followers": 2141,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },

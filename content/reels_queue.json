@@ -7,6 +7,13 @@
       "video": "site/reels/af-ai-quote.mp4"
     },
     {
+      "id": "speed-to-lead",
+      "hook": "Five minutes or you lose the lead",
+      "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
+      "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
+      "video": "site/reels/speed-to-lead.mp4"
+    },
+    {
       "id": "af-ai-apology",
       "hook": "AI receptionist fail",
       "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
@@ -56,17 +63,17 @@
       "description": "519 reviews is the median for HVAC shops in the map pack. Where are you at? 👇 #googlereviews #localseo #hvac"
     },
     {
-      "id": "speed-to-lead",
-      "hook": "Five minutes or you lose the lead",
-      "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
-      "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
-      "video": "site/reels/speed-to-lead.mp4"
-    },
-    {
       "id": "rip-angi-rip",
       "hook": "Angi's $542 secret",
       "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
       "video": "site/reels/rip-angi-rip.mp4"
+    },
+    {
+      "id": "text-back",
+      "hook": "Text back the missed call in 5 minutes",
+      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
+      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
+      "video": "site/reels/text-back.mp4"
     },
     {
       "id": "af-ai-spiral",
@@ -79,13 +86,6 @@
       "hook": "20 minutes on Monday buys back real money",
       "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
       "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
-    },
-    {
-      "id": "text-back",
-      "hook": "Text back the missed call in 5 minutes",
-      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
-      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
-      "video": "site/reels/text-back.mp4"
     },
     {
       "id": "first-to-answer",
@@ -172,6 +172,13 @@
       "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
     },
     {
+      "id": "one-star",
+      "hook": "How you answer a 1-star matters more",
+      "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
+      "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
+      "video": "site/reels/one-star.mp4"
+    },
+    {
       "id": "pod-clip-game",
       "hook": "Porno or Plumbing?",
       "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
@@ -189,13 +196,6 @@
       "script": "You've got a Google Business Profile you set up once in 2019 and never touched. That's a billboard on the busiest road in town, and you left it blank. Post a job photo every week. Answer every review. Keep your hours right. It's free, it's five minutes, and it's the single biggest thing that decides whether you show up when someone searches your trade near me. Follow Booked Job.",
       "description": "Your Google Business Profile is a free billboard. When did you last post on it? 👇 #localSEO #contractor #trades",
       "video": "site/reels/gbp-billboard.mp4"
-    },
-    {
-      "id": "one-star",
-      "hook": "How you answer a 1-star matters more",
-      "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
-      "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
-      "video": "site/reels/one-star.mp4"
     },
     {
       "id": "slow-season",
@@ -237,6 +237,12 @@
       "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job for more.",
       "description": "Three leaks that quietly drain your shop every month. Which one's getting you? 👇 #trades #contractor #smallbusiness",
       "video": "site/reels/money-leaks.mp4"
+    },
+    {
+      "id": "clip-speed",
+      "hook": "Answer your phone",
+      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-speed.mp4"
     },
     {
       "id": "pick-two",
@@ -313,6 +319,13 @@
       "video": "site/reels/cheaper.mp4"
     },
     {
+      "id": "financing",
+      "hook": "Offer a payment plan, close more jobs",
+      "script": "You lose big jobs not because the price is wrong, but because the customer can't write one big check today. Offer financing. A five thousand dollar job becomes a hundred bucks a month, and suddenly it's a yes. The financing company takes a small cut, you get paid in full up front, and the homeowner does the repair they were putting off. It's not about being cheap. It's about being possible. Follow Booked Job.",
+      "description": "You're losing jobs to the size of the check, not the price. Do you offer financing? 👇 #contractor #sales #trades",
+      "video": "site/reels/financing.mp4"
+    },
+    {
       "id": "quick-favor",
       "hook": "The 5-minute favor that isn't",
       "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
@@ -325,19 +338,6 @@
       "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
       "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
       "video": "site/reels/dont-discount.mp4"
-    },
-    {
-      "id": "clip-speed",
-      "hook": "Answer your phone",
-      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-speed.mp4"
-    },
-    {
-      "id": "financing",
-      "hook": "Offer a payment plan, close more jobs",
-      "script": "You lose big jobs not because the price is wrong, but because the customer can't write one big check today. Offer financing. A five thousand dollar job becomes a hundred bucks a month, and suddenly it's a yes. The financing company takes a small cut, you get paid in full up front, and the homeowner does the repair they were putting off. It's not about being cheap. It's about being possible. Follow Booked Job.",
-      "description": "You're losing jobs to the size of the check, not the price. Do you offer financing? 👇 #contractor #sales #trades",
-      "video": "site/reels/financing.mp4"
     },
     {
       "id": "cash-job",
