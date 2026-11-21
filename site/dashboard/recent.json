@@ -1,70 +1,40 @@
 {
-  "updated": "2026-11-20T14:16",
+  "updated": "2026-11-20T19:38",
   "posts": [
     {
-      "ts": "2026-11-20T14:13:49",
-      "channel": "facebook",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-20T14:13:43",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-20T14:13:03",
+      "ts": "2026-11-20T19:35:53",
       "channel": "mastodon",
-      "item": "card-reviews",
+      "item": "card-rev-plumb",
       "url": null
     },
     {
-      "ts": "2026-11-20T14:13:01",
-      "channel": "mastodon",
-      "item": "jobber-vs-housecall-pro-which-one-fits",
-      "url": "https://mastodon.social/@bookedjob/117650592979647392"
-    },
-    {
-      "ts": "2026-11-20T14:12:59",
-      "channel": "telegraph",
-      "item": "jobber-vs-housecall-pro-which-one-fits",
-      "url": "https://telegra.ph/Jobber-vs-Housecall-Pro-Which-One"
-    },
-    {
-      "ts": "2026-11-20T14:12:58",
+      "ts": "2026-11-20T19:35:51",
       "channel": "tumblr",
-      "item": "money-leaks",
+      "item": "explainer-lesson-01",
       "url": null
     },
     {
-      "ts": "2026-11-20T14:12:56",
+      "ts": "2026-11-20T19:35:50",
       "channel": "bluesky",
-      "item": "is-angi-worth-it",
+      "item": "money-leaks-torque",
       "url": null
     },
     {
-      "ts": "2026-11-20T14:12:54",
-      "channel": "tiktok",
-      "item": "bj-fakemaps",
-      "url": null
-    },
-    {
-      "ts": "2026-11-20T14:12:54",
+      "ts": "2026-11-20T19:35:48",
       "channel": "linkedin",
-      "item": "bj-anon98",
+      "item": "bj-missedcall",
       "url": null
     },
     {
-      "ts": "2026-11-20T14:12:52",
-      "channel": "ig",
-      "item": "pod-ep02-invisible",
+      "ts": "2026-11-20T19:35:47",
+      "channel": "tiktok",
+      "item": "bj-agency12k",
       "url": null
     },
     {
-      "ts": "2026-11-20T14:12:16",
+      "ts": "2026-11-20T19:35:45",
       "channel": "facebook",
-      "item": "pod-ep02-invisible",
+      "item": "pod-ep01-verdict",
       "url": null
     }
   ]

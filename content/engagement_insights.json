@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-20T13:59",
+  "generated": "2026-11-20T19:24",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2664,
+      "views": 2812,
       "engagements": 2,
-      "er": 0.08
+      "er": 0.07
     },
     "YT Shorts": {
       "posts": 25,
@@ -85,6 +85,18 @@
     },
     {
       "channel": "FB Reels",
+      "id": "1853653439012815",
+      "caption": "91% won't call a shop under 4 stars \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job for the ",
+      "views": 222,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-20"
+    },
+    {
+      "channel": "FB Reels",
       "id": "2028073261202234",
       "caption": "519 reviews to rank #1 \u2014 you've got 12 \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get ",
       "views": 269,
@@ -106,33 +118,9 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-19"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "2026608211631301",
-      "caption": "The 2 review rules nobody follows \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47",
-      "views": 22,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-19"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "2310927063096570",
-      "caption": "Angi sells your \"lead\" to a dozen guys, then you race to the bottom on price. Here's the real cost per booked job \u2014 full breakdown + a free ",
-      "views": 74,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-12"
-    },
     {
       "channel": "FB Reels",
       "id": "2724186768040553",
@@ -216,6 +204,18 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-15"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1751160273290339",
+      "caption": "The 1 number that cuts half your ad spend \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job fo",
+      "views": 89,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-16"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."

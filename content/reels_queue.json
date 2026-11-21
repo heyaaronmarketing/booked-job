@@ -107,12 +107,6 @@
       "video": "site/reels/review-timing.mp4"
     },
     {
-      "id": "rip-speed-rip",
-      "hook": "78% hire the first",
-      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
-      "video": "site/reels/rip-speed-rip.mp4"
-    },
-    {
       "id": "website-converting",
       "hook": "98% leave your site without calling",
       "script": "Here's a brutal number. For every hundred people who land on your website, ninety-eight leave without ever calling. Why? No reviews up top, no click-to-call button, and it takes six seconds to load on a phone. The fix isn't a prettier site. It's a phone number they can tap in one thumb and proof you're not going to rip them off. Make it easy to call you. Follow Booked Job.",
@@ -126,17 +120,16 @@
       "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
     },
     {
+      "id": "rip-speed-rip",
+      "hook": "78% hire the first",
+      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
+      "video": "site/reels/rip-speed-rip.mp4"
+    },
+    {
       "id": "explainer-lesson-01",
       "hook": "Nobody taught you marketing",
       "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
       "video": "site/reels/explainer-lesson-01.mp4"
-    },
-    {
-      "id": "repeat-customer",
-      "hook": "Keeping a customer beats finding one",
-      "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
-      "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
-      "video": "site/reels/repeat-customer.mp4"
     },
     {
       "id": "missed-call",
@@ -144,6 +137,13 @@
       "script": "Here's the most expensive sound in your business: your phone ringing while you're under a sink. You don't answer, so they call the next guy. And the next guy books the job. Studies say most homeowners call three shops and hire the first one that picks up. Not the cheapest. The first. If you can't answer, get someone who can. A missed call isn't a missed call. It's a booked job you handed to your competitor. Follow Booked Job.",
       "description": "The first shop to pick up usually wins the job — not the cheapest. Who's answering your phone? 👇 #contractor #trades #smallbusiness",
       "video": "site/reels/missed-call.mp4"
+    },
+    {
+      "id": "repeat-customer",
+      "hook": "Keeping a customer beats finding one",
+      "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
+      "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
+      "video": "site/reels/repeat-customer.mp4"
     },
     {
       "id": "pod-clip-turd",
@@ -299,6 +299,13 @@
       "video": "site/reels/last-guy.mp4"
     },
     {
+      "id": "neighbor-guy",
+      "hook": "\"My neighbor's guy does it for half\"",
+      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
+      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
+      "video": "site/reels/neighbor-guy.mp4"
+    },
+    {
       "id": "cheaper",
       "hook": "\"Can you do it cheaper?\"",
       "script": "Customer asks, can you do it cheaper? Here's the answer that stops it cold. Sure. I can use cheaper parts, skip the permit, and rush the job. Or I can do it right, once, and you never think about it again. Which one do you actually want? Cheaper isn't a price. It's a decision about who fixes it next year. Follow Booked Job for more.",
@@ -318,13 +325,6 @@
       "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
       "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
       "video": "site/reels/dont-discount.mp4"
-    },
-    {
-      "id": "neighbor-guy",
-      "hook": "\"My neighbor's guy does it for half\"",
-      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
-      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
-      "video": "site/reels/neighbor-guy.mp4"
     },
     {
       "id": "clip-speed",
