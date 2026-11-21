@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-11-21T11:34",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: humor porta potty"
+    },
+    {
       "ts": "2026-11-21T03:39",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: tools borrowed"
-    },
-    {
-      "ts": "2026-10-30T18:50",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: labor show up"
     }
   ]
 }

@@ -12,11 +12,12 @@
       "pod-ep02-onetap",
       "pod-ep02-peak",
       "pod-ep02-howmany",
-      "pod-ep02-invisible"
+      "pod-ep02-invisible",
+      "pod-ep01-verdict"
     ],
-    "last_iso": "2026-11-20T14:11:51",
+    "last_iso": "2026-11-21T11:33:02",
     "day": {
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "count": 1
     }
   },
@@ -68,12 +69,13 @@
       "bj-stormchaser",
       "bj-freecheck",
       "bj-fakemaps",
-      "bj-agency12k"
+      "bj-agency12k",
+      "bj-reviews50"
     ],
-    "last_iso": "2026-11-20T19:35:20",
+    "last_iso": "2026-11-21T11:33:02",
     "day": {
-      "date": "2026-11-20",
-      "count": 2
+      "date": "2026-11-21",
+      "count": 1
     }
   },
   "linkedin": {
@@ -120,12 +122,13 @@
       "bj-first10k",
       "bj-yelp",
       "bj-anon98",
-      "bj-missedcall"
+      "bj-missedcall",
+      "bj-stormchaser"
     ],
-    "last_iso": "2026-11-20T19:35:20",
+    "last_iso": "2026-11-21T11:33:02",
     "day": {
-      "date": "2026-11-20",
-      "count": 2
+      "date": "2026-11-21",
+      "count": 1
     }
   },
   "facebook": {
@@ -142,12 +145,13 @@
       "pod-ep02-peak",
       "pod-ep02-howmany",
       "pod-ep02-invisible",
-      "pod-ep01-verdict"
+      "pod-ep01-verdict",
+      "pod-ep01-speed"
     ],
-    "last_iso": "2026-11-20T19:35:20",
+    "last_iso": "2026-11-21T11:33:02",
     "day": {
-      "date": "2026-11-20",
-      "count": 2
+      "date": "2026-11-21",
+      "count": 1
     }
   },
   "pinterest": {
@@ -220,12 +224,13 @@
       "clip2-game",
       "clip3-onestar",
       "is-angi-worth-it",
-      "money-leaks-torque"
+      "money-leaks-torque",
+      "money-leaks"
     ],
-    "last_iso": "2026-11-20T19:35:20",
+    "last_iso": "2026-11-21T11:33:02",
     "day": {
-      "date": "2026-11-20",
-      "count": 2
+      "date": "2026-11-21",
+      "count": 1
     }
   },
   "telegram": {
@@ -305,12 +310,13 @@
       "is-angi-worth-it",
       "money-leaks-torque",
       "money-leaks",
-      "explainer-lesson-01"
+      "explainer-lesson-01",
+      "rip-angi-rip"
     ],
-    "last_iso": "2026-11-20T19:35:20",
+    "last_iso": "2026-11-21T11:33:02",
     "day": {
-      "date": "2026-11-20",
-      "count": 2
+      "date": "2026-11-21",
+      "count": 1
     }
   }
 }
