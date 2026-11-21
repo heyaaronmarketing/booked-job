@@ -7,16 +7,16 @@
       "video": "site/reels/af-ai-quote.mp4"
     },
     {
-      "id": "pod-clip-onestar",
-      "hook": "The one-star that started a podcast",
-      "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip3-onestar.mp4"
-    },
-    {
       "id": "af-ai-apology",
       "hook": "AI receptionist fail",
       "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
       "video": "site/reels/af-ai-apology.mp4"
+    },
+    {
+      "id": "pod-clip-onestar",
+      "hook": "The one-star that started a podcast",
+      "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip3-onestar.mp4"
     },
     {
       "id": "af-ai-aircanada",
@@ -166,16 +166,16 @@
       "video": "site/reels/show-up.mp4"
     },
     {
-      "id": "pod-clip-game",
-      "hook": "Porno or Plumbing?",
-      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip2-game.mp4"
-    },
-    {
       "id": "eight-automations",
       "hook": "8 automations, zero leads",
       "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
       "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
+    },
+    {
+      "id": "pod-clip-game",
+      "hook": "Porno or Plumbing?",
+      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip2-game.mp4"
     },
     {
       "id": "rented-pipeline",
@@ -198,6 +198,13 @@
       "video": "site/reels/one-star.mp4"
     },
     {
+      "id": "slow-season",
+      "hook": "Slow season starts in summer",
+      "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
+      "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
+      "video": "site/reels/slow-season.mp4"
+    },
+    {
       "id": "referrals",
       "hook": "Your best lead just left your driveway",
       "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
@@ -216,13 +223,6 @@
       "hook": "HVAC spite ad",
       "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
       "video": "content/podcast/clips/ad-arctic.mp4"
-    },
-    {
-      "id": "slow-season",
-      "hook": "Slow season starts in summer",
-      "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
-      "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
-      "video": "site/reels/slow-season.mp4"
     },
     {
       "id": "diagnostic-fee",

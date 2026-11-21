@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-20T19:24",
+  "generated": "2026-11-21T03:38",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 2812,
+      "views": 3030,
       "engagements": 2,
       "er": 0.07
     },
@@ -85,9 +85,21 @@
     },
     {
       "channel": "FB Reels",
+      "id": "29366115389687679",
+      "caption": "When to fire Angi \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udee0\ufe0f Follow for the math nobody in marketing sho",
+      "views": 227,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-21"
+    },
+    {
+      "channel": "FB Reels",
       "id": "1853653439012815",
       "caption": "91% won't call a shop under 4 stars \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job for the ",
-      "views": 222,
+      "views": 223,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
@@ -106,18 +118,6 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-20"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1207793871571152",
-      "caption": "Ask for the review at the PEAK \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job for the real ",
-      "views": 207,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-19"
     }
   ],
   "bottom": [
