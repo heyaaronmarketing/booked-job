@@ -2,6 +2,26 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@printerrefillers.bsky.social**: Small-business owner side quest: A) chasing a bird out of the shop at 7:55 a.m., or B) fixing the toilet because the plumber was “two hours away”?
+  → https://bsky.app/profile/printerrefillers.bsky.social/post/3n2umwxp5nu2a
+
+- **@stylelib.org**: Worktop – Handyman  Repair Elementor WordPress Theme
+
+ https://themes.stylelib.org/?p=824080 
+
+#business #clean #construction #corporate #electrician #elementor #handyman #modern #multipurpose #renova
+  → https://bsky.app/profile/stylelib.org/post/3n2qvgnkzps24
+
+- **@quiborafortrades.bsky.social**: Asked about EV charger rebates, this electrician's website said plainly it doesn't have...
+
+https://www.quibora.com/request-demo/?utm_source=bluesky&utm_medium=social&utm_campaign=set1&utm_content=s1-
+  → https://bsky.app/profile/quiborafortrades.bsky.social/post/3n2twxcgvcd2b
+
+- **@doctorprofit.bsky.social**: Electricians and plumbers: split revenue between service work and new construction, then compare margins and cash timing. The mix you choose shapes the business you get.
+
+https://www.youtube.com/watch
+  → https://bsky.app/profile/doctorprofit.bsky.social/post/3n2uglh4qk724
+
 - **@precision06.bsky.social**: Choose Experienced Commercial Flat Roof Contractors in Iowa
 
 Looking for dependable commercial roofing solutions? Understanding your roof's condition and choosing experienced professionals can make a 
@@ -181,32 +201,3 @@ If you're keen to learn, work hard, and build a rew
 
 #electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
   → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26
-
-- **@gimsresults.bsky.social**: One job this week.
-
-Search what you do plus your town, like a customer. "electrician Mount Barker". "dentist Ipswich".
-
-On the map? Check your number and hours.
-Missing? Claim your free Google Busines
-  → https://bsky.app/profile/gimsresults.bsky.social/post/3mzd73tfe3f2y
-
-- **@stylelib.org**: Make Clean – Responsive HTML Template
-
- https://stylelib.org/?p=285565 
-
-#cleaning #cleaningcompany #electrician #handyman #plumbing #remodeling #renovation #sitetemplates #themeforest #business #plum
-  → https://bsky.app/profile/stylelib.org/post/3mztjk56iri2z
-
-- **@stylelib.org**: Construction – WordPress Theme
-
- https://themes.stylelib.org/?p=786 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #handyman #
-  → https://bsky.app/profile/stylelib.org/post/3n24v2m3sbc2p
-
-- **@stylelib.org**: Tanj  – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=32413 
-
-#agency #architecture #building #business #company #construction #contractor #corporate #designthemes #electrician #plumbe
-  → https://bsky.app/profile/stylelib.org/post/3n27iurxi5m2o
