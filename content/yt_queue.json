@@ -402,21 +402,6 @@
       "title": "How to Actually Get Google Reviews #shorts #trades"
     },
     {
-      "id": "bj-fakemaps",
-      "hook": "Someone cloned your Google listing",
-      "title": "Someone cloned your Google listing #Shorts",
-      "description": "Shady lead companies clone your Maps listing, grab your calls, and sell your customers back to you. Search your own name — if there are two of you, one is stealing.\n\n👇 Ever found a fake listing of your shop?\n\n#googlemaps #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "googlemaps",
-        "scamalert",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-fakemaps.mp4"
-    },
-    {
       "id": "bj-angi",
       "hook": "$79 for ONE Angi lead",
       "title": "$79 for ONE Angi lead #Shorts",
@@ -476,6 +461,21 @@
       "video": "site/reels/pod-ep01-speed.mp4"
     },
     {
+      "id": "bj-fakemaps",
+      "hook": "Someone cloned your Google listing",
+      "title": "Someone cloned your Google listing #Shorts",
+      "description": "Shady lead companies clone your Maps listing, grab your calls, and sell your customers back to you. Search your own name — if there are two of you, one is stealing.\n\n👇 Ever found a fake listing of your shop?\n\n#googlemaps #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlemaps",
+        "scamalert",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-fakemaps.mp4"
+    },
+    {
       "id": "pod-ep02-system",
       "hook": "The 90-day review system",
       "title": "The 90-day review system #Shorts",
@@ -506,6 +506,19 @@
       "thumbnail": "site/thumbs/bj-ai-thumb.png"
     },
     {
+      "id": "pod-ep01-shared",
+      "hook": "One Angi lead — sold to 5 other guys",
+      "title": "One Angi lead — sold to 5 other guys #Shorts",
+      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-shared.mp4"
+    },
+    {
       "id": "bj-missedcall",
       "hook": "Every missed call = the other guy's job",
       "title": "Every missed call = the other guy's job #Shorts",
@@ -520,19 +533,6 @@
       ],
       "video": "site/reels/bj-missedcall.mp4",
       "thumbnail": "site/thumbs/bj-missedcall-thumb.png"
-    },
-    {
-      "id": "pod-ep01-shared",
-      "hook": "One Angi lead — sold to 5 other guys",
-      "title": "One Angi lead — sold to 5 other guys #Shorts",
-      "description": "One Angi lead — sold to 5 other guys\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-shared.mp4"
     },
     {
       "id": "bj-anon98",
@@ -611,21 +611,6 @@
       "video": "site/reels/bj-scam.mp4"
     },
     {
-      "id": "bj-wordpress",
-      "hook": "Your WordPress site loses jobs",
-      "title": "Your WordPress site loses jobs #Shorts",
-      "description": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the next guy.\n\n👇 What's your site built on?\n\n#webdesign #smallbusiness #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "webdesign",
-        "smallbusiness",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-wordpress.mp4"
-    },
-    {
       "id": "pod-ep03-exclusive",
       "hook": "Why an 'expensive' exclusive lead wins",
       "title": "Why an 'expensive' exclusive lead wins #Shorts",
@@ -678,6 +663,21 @@
       "video": "site/reels/pod-ep01-wrongnum.mp4"
     },
     {
+      "id": "bj-wordpress",
+      "hook": "Your WordPress site loses jobs",
+      "title": "Your WordPress site loses jobs #Shorts",
+      "description": "It's slow, it breaks, every plugin's a door left unlocked. Homeowners bounce in under 90 seconds. If it loads like 2012 they're calling the next guy.\n\n👇 What's your site built on?\n\n#webdesign #smallbusiness #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "webdesign",
+        "smallbusiness",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-wordpress.mp4"
+    },
+    {
       "id": "pod-ep02-peak",
       "hook": "Ask for the review at the PEAK",
       "title": "Ask for the review at the PEAK #Shorts",
@@ -689,12 +689,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-peak.mp4"
-    },
-    {
-      "id": "lesson-reviews-decide",
-      "hook": "They judge you before you say a word",
-      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
-      "title": "Reviews Decide Who Gets the Call #shorts #trades"
     },
     {
       "id": "low-bid",
@@ -732,6 +726,32 @@
       "video": "site/reels/bj-slow.mp4"
     },
     {
+      "id": "money-leaks",
+      "hook": "3 ways shops bleed money",
+      "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job.",
+      "title": "3 Ways Your Contracting Business Bleeds Money #shorts",
+      "description": "Three money leaks every service business has — change orders, quick favors, and unbilled drive time. Fix them and give yourself a raise.\n\nMore for service pros: https://booked-job.com/\n\n#shorts #contractor #smallbusiness #trades #pricing",
+      "tags": [
+        "contractor",
+        "trades",
+        "home service business",
+        "plumber",
+        "roofer",
+        "hvac",
+        "electrician",
+        "small business",
+        "contractor pricing",
+        "contractor business",
+        "getting paid"
+      ]
+    },
+    {
+      "id": "lesson-reviews-decide",
+      "hook": "They judge you before you say a word",
+      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
+      "title": "Reviews Decide Who Gets the Call #shorts #trades"
+    },
+    {
       "id": "lesson-cpl-vs-cpbj",
       "hook": "A cheap lead can be your most expensive one",
       "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
@@ -757,26 +777,6 @@
       "hook": "Free real estate at the top of Google",
       "script": "The map pack is the top of local search. Three spots, totally free. Your Google Business Profile is what gets you in. Claim it, pick the right category, and add real photos of real work. Most contractors leave it half empty and wonder why they don't show up. Follow Booked Job.",
       "title": "Win Google's Map Pack (It's Free) #shorts #contractor"
-    },
-    {
-      "id": "money-leaks",
-      "hook": "3 ways shops bleed money",
-      "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job.",
-      "title": "3 Ways Your Contracting Business Bleeds Money #shorts",
-      "description": "Three money leaks every service business has — change orders, quick favors, and unbilled drive time. Fix them and give yourself a raise.\n\nMore for service pros: https://booked-job.com/\n\n#shorts #contractor #smallbusiness #trades #pricing",
-      "tags": [
-        "contractor",
-        "trades",
-        "home service business",
-        "plumber",
-        "roofer",
-        "hvac",
-        "electrician",
-        "small business",
-        "contractor pricing",
-        "contractor business",
-        "getting paid"
-      ]
     },
     {
       "id": "bj-cheapbid",

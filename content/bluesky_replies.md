@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@precision06.bsky.social**: Choose Experienced Commercial Flat Roof Contractors in Iowa
+
+Looking for dependable commercial roofing solutions? Understanding your roof's condition and choosing experienced professionals can make a 
+  → https://bsky.app/profile/precision06.bsky.social/post/3n2nzlqdyg22b
+
+- **@roofingleadshq.bsky.social**: Google Business Profile for roofers: do you hide your address and show a service area, or show your shop? Which works better for you?
+
+https://roofingleadscompany.com/roofing-seo?utm_source=bluesky&ut
+  → https://bsky.app/profile/roofingleadshq.bsky.social/post/3n2ozhitsn72w
+
+- **@stylelib.org**: Beruco – Roofing Services WordPress Theme
+
+ https://themes.stylelib.org/?p=810327 
+
+#business #corporate #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3n2rwxm3cp62s
+
 - **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
 
 Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
@@ -193,22 +210,3 @@ Missing? Claim your free Google Busines
 
 #agency #architecture #building #business #company #construction #contractor #corporate #designthemes #electrician #plumbe
   → https://bsky.app/profile/stylelib.org/post/3n27iurxi5m2o
-
-- **@blaksheepcreative.bsky.social**: Contractor Leads: Which to Buy, Which to Own, and How to Keep Them
-
-https://blaksheepcreative.com/digital-marketing/contractor-leads/?utm_source=bluesky&utm_medium=social&utm_campaign=blog
-  → https://bsky.app/profile/blaksheepcreative.bsky.social/post/3mzgba5ib422o
-
-- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
-
-Your books should work as hard as you do.
-
-We provide specialty accounting & bookkeeping for:
-→ HVAC companies & contractors
-→ Realtors & home service busi
-  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
-
-- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
-
-Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
-  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m

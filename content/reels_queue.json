@@ -305,13 +305,6 @@
       "video": "site/reels/last-guy.mp4"
     },
     {
-      "id": "neighbor-guy",
-      "hook": "\"My neighbor's guy does it for half\"",
-      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
-      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
-      "video": "site/reels/neighbor-guy.mp4"
-    },
-    {
       "id": "cheaper",
       "hook": "\"Can you do it cheaper?\"",
       "script": "Customer asks, can you do it cheaper? Here's the answer that stops it cold. Sure. I can use cheaper parts, skip the permit, and rush the job. Or I can do it right, once, and you never think about it again. Which one do you actually want? Cheaper isn't a price. It's a decision about who fixes it next year. Follow Booked Job for more.",
@@ -324,6 +317,13 @@
       "script": "You lose big jobs not because the price is wrong, but because the customer can't write one big check today. Offer financing. A five thousand dollar job becomes a hundred bucks a month, and suddenly it's a yes. The financing company takes a small cut, you get paid in full up front, and the homeowner does the repair they were putting off. It's not about being cheap. It's about being possible. Follow Booked Job.",
       "description": "You're losing jobs to the size of the check, not the price. Do you offer financing? 👇 #contractor #sales #trades",
       "video": "site/reels/financing.mp4"
+    },
+    {
+      "id": "neighbor-guy",
+      "hook": "\"My neighbor's guy does it for half\"",
+      "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
+      "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
+      "video": "site/reels/neighbor-guy.mp4"
     },
     {
       "id": "quick-favor",
@@ -361,17 +361,17 @@
       "video": "site/reels/deposit.mp4"
     },
     {
-      "id": "ad-summit",
-      "hook": "Roofing spite ad",
-      "description": "We made our least-favorite roofer a radio ad he'll hate. From the podcast — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-summit.mp4"
-    },
-    {
       "id": "charge-the-drive",
       "hook": "Windshield time is still time",
       "script": "You're driving an hour each way to a job and only charging for the wrench time. That's two hours a day you're working for free. Fuel, wear on the truck, the time you can't get back. Build a trip charge or a service-area minimum into your pricing. You're not a delivery service. Windshield time is still time, and time is the only thing you actually sell. Follow Booked Job.",
       "description": "Driving an hour each way for free? Windshield time is still time. Do you charge for it? 👇 #pricing #contractor #getpaid",
       "video": "site/reels/charge-the-drive.mp4"
+    },
+    {
+      "id": "ad-summit",
+      "hook": "Roofing spite ad",
+      "description": "We made our least-favorite roofer a radio ad he'll hate. From the podcast — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-summit.mp4"
     }
   ]
 }
