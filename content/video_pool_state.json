@@ -14,12 +14,13 @@
       "pod-ep02-howmany",
       "pod-ep02-invisible",
       "pod-ep01-verdict",
-      "pod-ep01-speed"
+      "pod-ep01-speed",
+      "pod-ep01-starter"
     ],
-    "last_iso": "2026-11-21T21:05:00",
+    "last_iso": "2026-11-22T13:40:19",
     "day": {
-      "date": "2026-11-21",
-      "count": 2
+      "date": "2026-11-22",
+      "count": 1
     }
   },
   "tiktok": {
@@ -73,12 +74,13 @@
       "bj-agency12k",
       "bj-reviews50",
       "bj-gbp",
-      "bj-track"
+      "bj-track",
+      "ad-arctic"
     ],
-    "last_iso": "2026-11-21T21:05:00",
+    "last_iso": "2026-11-22T13:40:19",
     "day": {
-      "date": "2026-11-21",
-      "count": 3
+      "date": "2026-11-22",
+      "count": 1
     }
   },
   "linkedin": {
@@ -128,12 +130,13 @@
       "bj-missedcall",
       "bj-stormchaser",
       "bj-freecheck",
-      "bj-fakemaps"
+      "bj-fakemaps",
+      "bj-agency12k"
     ],
-    "last_iso": "2026-11-21T21:05:00",
+    "last_iso": "2026-11-22T13:40:19",
     "day": {
-      "date": "2026-11-21",
-      "count": 3
+      "date": "2026-11-22",
+      "count": 1
     }
   },
   "facebook": {
@@ -152,12 +155,13 @@
       "pod-ep02-invisible",
       "pod-ep01-verdict",
       "pod-ep01-speed",
-      "pod-ep01-starter"
+      "pod-ep01-starter",
+      "pod-ep01-ftc"
     ],
-    "last_iso": "2026-11-21T17:15:35",
+    "last_iso": "2026-11-22T13:40:19",
     "day": {
-      "date": "2026-11-21",
-      "count": 2
+      "date": "2026-11-22",
+      "count": 1
     }
   },
   "pinterest": {
@@ -233,12 +237,13 @@
       "money-leaks-torque",
       "money-leaks",
       "explainer-lesson-01",
-      "rip-angi-rip"
+      "rip-angi-rip",
+      "rip-reviews-rip"
     ],
-    "last_iso": "2026-11-21T21:05:00",
+    "last_iso": "2026-11-22T13:40:19",
     "day": {
-      "date": "2026-11-21",
-      "count": 3
+      "date": "2026-11-22",
+      "count": 1
     }
   },
   "telegram": {
@@ -321,12 +326,13 @@
       "explainer-lesson-01",
       "rip-angi-rip",
       "rip-reviews-rip",
-      "rip-speed-rip"
+      "rip-speed-rip",
+      "stop-renting-leads"
     ],
-    "last_iso": "2026-11-21T21:05:00",
+    "last_iso": "2026-11-22T13:40:19",
     "day": {
-      "date": "2026-11-21",
-      "count": 3
+      "date": "2026-11-22",
+      "count": 1
     }
   }
 }

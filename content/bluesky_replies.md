@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@tonistarkiii.bsky.social**: youtube.com/watch?v=BN4m...
+So The FAA Fiasco Is Like The Reflecting Pool Fiasco. The Wrong Contractor For The Job And It All Leads Back To The Grifting Department At The White House!!! We Gotta Clean
+  → https://bsky.app/profile/tonistarkiii.bsky.social/post/3n2efdgm74k2e
+
+- **@examscholar.com**: Passing the real estate exam doesn't mean you can earn commission yet. Here's what actually comes next, in order.
+
+https://examscholar.com/real-estate/what-to-do-after-passing-the-real-estate-exam/?sp
+  → https://bsky.app/profile/examscholar.com/post/3n2jsoixzh22v
+
 - **@printerrefillers.bsky.social**: Small-business owner side quest: A) chasing a bird out of the shop at 7:55 a.m., or B) fixing the toilet because the plumber was “two hours away”?
   → https://bsky.app/profile/printerrefillers.bsky.social/post/3n2umwxp5nu2a
 
@@ -191,13 +200,3 @@ If you're keen to learn, work hard, and build a rew
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
   → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3n2braiul7h2a
-
-- **@osna-fm.bsky.social**: Despite recent upward revisions to growth forecasts for Germany by economists, the crisis in the skilled trades is deepening, according to Handwerkspräsident Jö... https://news.osna.fm/?p=71730  | #ne
-  → https://bsky.app/profile/osna-fm.bsky.social/post/3n2ctxqxjar2a
-
-- **@stylelib.org**: Renew – Renovation WordPress Theme
-
- https://stylelib.org/?p=191989 
-
-#electrician #handyman #painter #remodeling #renovation #roofing #themeforest #wordpress #business #plumber #corporate
-  → https://bsky.app/profile/stylelib.org/post/3mymqzglyjk26

@@ -263,7 +263,7 @@
     "date": "2026-11-22",
     "channels": {
       "FB Reels": {
-        "views": 3500,
+        "views": 3501,
         "engagements": 2,
         "er": 0.06
       },
@@ -273,9 +273,9 @@
         "er": 7.08
       },
       "TikTok": {
-        "views": 161,
+        "views": 160,
         "engagements": 3,
-        "er": 1.86
+        "er": 1.88
       }
     }
   }
