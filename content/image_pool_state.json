@@ -8,32 +8,34 @@
       "card-rev-roof",
       "card-rev-elec",
       "card-rev-paint",
-      "card-speed"
+      "card-speed",
+      "card-ftc"
     ],
-    "last_iso": "2026-11-22T18:57:48",
+    "last_iso": "2026-11-23T15:30:49",
     "day": {
-      "date": "2026-11-22",
-      "count": 2
+      "date": "2026-11-23",
+      "count": 1
     }
   },
   "ig": {
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-11-22T13:41:19",
+    "last_iso": "2026-11-23T15:30:49",
     "day": {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "count": 1
     }
   },
   "facebook": {
     "posted": [
       "card-cpbj",
-      "card-angi"
+      "card-angi",
+      "card-reviews"
     ],
-    "last_iso": "2026-11-22T13:41:19",
+    "last_iso": "2026-11-23T15:30:49",
     "day": {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "count": 1
     }
   }
