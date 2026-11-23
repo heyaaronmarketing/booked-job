@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "daily": [
     {
       "id": "fb-share",
@@ -55,13 +55,22 @@
       "id": "bluesky-q0",
       "platform": "Bluesky",
       "emoji": "🦋",
+      "task": "Reply to @operandicat.bsky.social: “How does ServiceNow NOW support social workers transitioning into skilled trades? — https:…”",
+      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
+      "link": "https://bsky.app/profile/operandicat.bsky.social/post/3n2w65isyo32a",
+      "est": "2 min"
+    },
+    {
+      "id": "bluesky-q1",
+      "platform": "Bluesky",
+      "emoji": "🦋",
       "task": "Reply to @tonistarkiii.bsky.social: “youtube.com/watch?v=BN4m... So The FAA Fiasco Is Like The Reflecting Pool Fiasco. The Wron…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/tonistarkiii.bsky.social/post/3n2efdgm74k2e",
       "est": "2 min"
     },
     {
-      "id": "bluesky-q1",
+      "id": "bluesky-q2",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @examscholar.com: “Passing the real estate exam doesn't mean you can earn commission yet. Here's what actuall…”",
@@ -70,7 +79,7 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q2",
+      "id": "bluesky-q3",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @printerrefillers.bsky.social: “Small-business owner side quest: A) chasing a bird out of the shop at 7:55 a.m., or B) fix…”",
@@ -79,21 +88,12 @@
       "est": "2 min"
     },
     {
-      "id": "bluesky-q3",
+      "id": "bluesky-q4",
       "platform": "Bluesky",
       "emoji": "🦋",
       "task": "Reply to @stylelib.org: “Worktop – Handyman  Repair Elementor WordPress Theme   https://themes.stylelib.org/?p=8240…”",
       "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
       "link": "https://bsky.app/profile/stylelib.org/post/3n2qvgnkzps24",
-      "est": "2 min"
-    },
-    {
-      "id": "bluesky-q4",
-      "platform": "Bluesky",
-      "emoji": "🦋",
-      "task": "Reply to @quiborafortrades.bsky.social: “Asked about EV charger rebates, this electrician's website said plainly it doesn't have...…”",
-      "note": "Add genuine value or a question — these are live threads the daemon surfaced.",
-      "link": "https://bsky.app/profile/quiborafortrades.bsky.social/post/3n2twxcgvcd2b",
       "est": "2 min"
     },
     {

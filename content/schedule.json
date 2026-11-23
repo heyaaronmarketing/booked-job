@@ -487,7 +487,8 @@
       "slug": "set-your-2027-marketing-budget",
       "series": "Season Playbook",
       "go_live": "2026-11-23",
-      "status": "pending"
+      "status": "live",
+      "published": "2026-11-23"
     },
     {
       "slug": "you-own-what-your-ai-says",

@@ -7,17 +7,17 @@
       "video": "site/reels/af-ai-quote.mp4"
     },
     {
+      "id": "af-ai-apology",
+      "hook": "AI receptionist fail",
+      "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
+      "video": "site/reels/af-ai-apology.mp4"
+    },
+    {
       "id": "speed-to-lead",
       "hook": "Five minutes or you lose the lead",
       "script": "Here's a number that'll sting. A lead you call back in five minutes is twenty times more likely to book than one you call back in thirty. Twenty times. That lead filled out three forms. Whoever calls first, wins. The other guys are letting leads sit in an inbox till lunch. Beat them on speed and you don't have to beat them on price. Call back fast. Follow Booked Job.",
       "description": "Call a lead back in 5 minutes vs 30 and you're 20x more likely to book it. Speed beats price. #contractor #trades #leads",
       "video": "site/reels/speed-to-lead.mp4"
-    },
-    {
-      "id": "af-ai-apology",
-      "hook": "AI receptionist fail",
-      "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
-      "video": "site/reels/af-ai-apology.mp4"
     },
     {
       "id": "pod-clip-onestar",
@@ -69,13 +69,6 @@
       "video": "site/reels/rip-angi-rip.mp4"
     },
     {
-      "id": "text-back",
-      "hook": "Text back the missed call in 5 minutes",
-      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
-      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
-      "video": "site/reels/text-back.mp4"
-    },
-    {
       "id": "af-ai-spiral",
       "hook": "AI receptionist fail",
       "description": "Just trying to get a quote from an AI receptionist… 💀 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews 👉 a human answers your leads: aaron.chat #contractor #trades (dramatization)",
@@ -86,6 +79,13 @@
       "hook": "20 minutes on Monday buys back real money",
       "script": "Twenty minutes every Monday. That's it. Pull up every lead you paid for last week and file a refund on the junk ones. Wrong town, wrong trade, dead phone number, same customer billed twice. That's usually all that qualifies, and there's a clock on it, so waiting till the statement looks weird means it's already gone. Most shops never file a single one. They just complain about the bill. Twenty minutes of paperwork is the difference between a channel that pays and one that quietly doesn't. Follow Booked Job.",
       "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
+    },
+    {
+      "id": "text-back",
+      "hook": "Text back the missed call in 5 minutes",
+      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
+      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
+      "video": "site/reels/text-back.mp4"
     },
     {
       "id": "first-to-answer",
@@ -172,17 +172,17 @@
       "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
     },
     {
+      "id": "rented-pipeline",
+      "hook": "You're renting the phone",
+      "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
+      "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
+    },
+    {
       "id": "one-star",
       "hook": "How you answer a 1-star matters more",
       "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
       "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
       "video": "site/reels/one-star.mp4"
-    },
-    {
-      "id": "rented-pipeline",
-      "hook": "You're renting the phone",
-      "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
-      "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
     },
     {
       "id": "pod-clip-game",
@@ -237,12 +237,6 @@
       "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job for more.",
       "description": "Three leaks that quietly drain your shop every month. Which one's getting you? 👇 #trades #contractor #smallbusiness",
       "video": "site/reels/money-leaks.mp4"
-    },
-    {
-      "id": "clip-speed",
-      "hook": "Answer your phone",
-      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-speed.mp4"
     },
     {
       "id": "pick-two",
@@ -303,6 +297,12 @@
       "script": "You ever pull off a panel and just stop? A garden hose where the p-trap should be. Wire nuts buried in a wall. Caulk holding up a roof. The last guy didn't save them money. He sold them a problem with a delay on it. This is why the cheap call is never the cheap call. Follow Booked Job for more from the field.",
       "description": "Drop your worst 'the last guy did it' find below. 👇 #plumbing #electrician #hvac #trades",
       "video": "site/reels/last-guy.mp4"
+    },
+    {
+      "id": "clip-speed",
+      "hook": "Answer your phone",
+      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-speed.mp4"
     },
     {
       "id": "cheaper",

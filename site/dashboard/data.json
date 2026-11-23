@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:45",
+  "updated": "2026-11-23T02:55",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -41,9 +41,9 @@
       {
         "label": "FB engagement",
         "icon": "\ud83d\udd25",
-        "current": 3,
+        "current": 4,
         "target": 60,
-        "pct": 5,
+        "pct": 7,
         "on_track": false
       },
       {
@@ -111,7 +111,7 @@
   },
   "content": {
     "posts_published": 73,
-    "reactions": 3,
+    "reactions": 4,
     "comments": 0,
     "shares": 0,
     "reels_published": 57,
@@ -151,9 +151,9 @@
   "search": {
     "google": {
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 13,
       "ctr": 0,
-      "position": 16.4,
+      "position": 16.8,
       "top_queries": [
         {
           "query": "booked",
@@ -177,12 +177,12 @@
       "days": 28
     },
     "cloudflare": {
-      "pageviews_daily": 677,
-      "pageviews_weekly": 6024,
-      "pageviews_monthly": 16749
+      "pageviews_daily": 754,
+      "pageviews_weekly": 5173,
+      "pageviews_monthly": 16970
     },
     "total_clicks": 0,
-    "total_impressions": 15,
+    "total_impressions": 13,
     "configured": true
   },
   "buffer": {
@@ -196,7 +196,7 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 90,
+      "posts": 89,
       "views": 160,
       "reactions": 3,
       "comments": 0,
@@ -441,9 +441,9 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1795,
+      "views": 1760,
       "followers": 20,
-      "likes": 3
+      "likes": 4
     },
     {
       "name": "Instagram",
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2205,
+      "views": 2116,
       "followers": 1
     },
     {
@@ -493,7 +493,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 52,
+      "count": 53,
       "unit": "posts",
       "followers": 361,
       "grade": "A",
@@ -605,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Polls",
@@ -635,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 10
       },
       {
         "type": "Long video",
@@ -691,7 +691,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 47
+        "count": 48
       },
       {
         "type": "Articles",
@@ -722,12 +722,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 52
+        "count": 53
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 65
+        "count": 66
       }
     ],
     "Mastodon": [
@@ -786,7 +786,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 65
+        "count": 1
       }
     ]
   },
@@ -828,16 +828,16 @@
     }
   ],
   "funnel": {
-    "reach": 37216,
-    "engagement": 3,
+    "reach": 36988,
+    "engagement": 4,
     "audience": 393,
     "cr_clicks": 206
   },
   "trends": {
-    "audience": 11,
-    "engagement": -2,
+    "audience": 9,
+    "engagement": -1,
     "email": 1,
-    "reach": -69
+    "reach": -344
   },
   "mafia": {
     "metrics": [
@@ -853,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1567,
+        "value": 1568,
         "grade": "A"
       },
       {
@@ -868,7 +868,7 @@
       },
       {
         "label": "Engagement",
-        "value": 3,
+        "value": 4,
         "grade": "F"
       }
     ],
