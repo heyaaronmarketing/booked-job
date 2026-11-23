@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-22T13:28",
+  "generated": "2026-11-22T18:45",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 3501,
+      "views": 3815,
       "engagements": 2,
-      "er": 0.06
+      "er": 0.05
     },
     "YT Shorts": {
       "posts": 25,
@@ -85,6 +85,18 @@
     },
     {
       "channel": "FB Reels",
+      "id": "1665291031705665",
+      "caption": "The $7.2M FTC fine on Angi's leads \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job for the r",
+      "views": 325,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-22"
+    },
+    {
+      "channel": "FB Reels",
       "id": "1459453002358778",
       "caption": "The ONE time Angi actually makes sense \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get ",
       "views": 267,
@@ -100,18 +112,6 @@
       "id": "1691250939280324",
       "caption": "Answer in 5 minutes or lose the job \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udee0\ufe0f Follow for the math nobod",
       "views": 245,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-21"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "29366115389687679",
-      "caption": "When to fire Angi \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udee0\ufe0f Follow for the math nobody in marketing sho",
-      "views": 228,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

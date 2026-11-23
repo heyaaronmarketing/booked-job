@@ -418,6 +418,19 @@
       "thumbnail": "site/thumbs/bj-angi-thumb.png"
     },
     {
+      "id": "pod-ep01-speed",
+      "hook": "Answer in 5 minutes or lose the job",
+      "title": "Answer in 5 minutes or lose the job #Shorts",
+      "description": "Answer in 5 minutes or lose the job\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep01-speed.mp4"
+    },
+    {
       "id": "bj-track",
       "hook": "Track every lead source",
       "title": "Track every lead source #Shorts",
@@ -446,19 +459,6 @@
         "homeservices"
       ],
       "video": "site/reels/bj-gbp.mp4"
-    },
-    {
-      "id": "pod-ep01-speed",
-      "hook": "Answer in 5 minutes or lose the job",
-      "title": "Answer in 5 minutes or lose the job #Shorts",
-      "description": "Answer in 5 minutes or lose the job\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep01-speed.mp4"
     },
     {
       "id": "bj-fakemaps",
@@ -519,6 +519,21 @@
       "video": "site/reels/pod-ep01-shared.mp4"
     },
     {
+      "id": "bj-freecheck",
+      "hook": "The 'free' system check",
+      "title": "The 'free' system check #Shorts",
+      "description": "That free HVAC check isn't free — it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work costs money.\n\n👇 Ever been upsold on a 'free' check?\n\n#hvac #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "hvac",
+        "scamalert",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-freecheck.mp4"
+    },
+    {
       "id": "bj-missedcall",
       "hook": "Every missed call = the other guy's job",
       "title": "Every missed call = the other guy's job #Shorts",
@@ -533,37 +548,6 @@
       ],
       "video": "site/reels/bj-missedcall.mp4",
       "thumbnail": "site/thumbs/bj-missedcall-thumb.png"
-    },
-    {
-      "id": "bj-anon98",
-      "hook": "98% of visitors vanish",
-      "title": "98% of visitors vanish #Shorts",
-      "description": "98% of the people who visit your site leave without a trace — no call, no form. You paid to get them there and they're gone. Capture them or keep renting.\n\n👇 Know how many visitors your site gets?\n\n#marketing #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "leadgen",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-anon98.mp4",
-      "thumbnail": "site/thumbs/bj-anon98-thumb.png"
-    },
-    {
-      "id": "bj-freecheck",
-      "hook": "The 'free' system check",
-      "title": "The 'free' system check #Shorts",
-      "description": "That free HVAC check isn't free — it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work costs money.\n\n👇 Ever been upsold on a 'free' check?\n\n#hvac #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "hvac",
-        "scamalert",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-freecheck.mp4"
     },
     {
       "id": "pod-ep01-starter",
@@ -609,6 +593,22 @@
         "homeservices"
       ],
       "video": "site/reels/bj-scam.mp4"
+    },
+    {
+      "id": "bj-anon98",
+      "hook": "98% of visitors vanish",
+      "title": "98% of visitors vanish #Shorts",
+      "description": "98% of the people who visit your site leave without a trace — no call, no form. You paid to get them there and they're gone. Capture them or keep renting.\n\n👇 Know how many visitors your site gets?\n\n#marketing #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "leadgen",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-anon98.mp4",
+      "thumbnail": "site/thumbs/bj-anon98-thumb.png"
     },
     {
       "id": "pod-ep03-exclusive",
@@ -711,21 +711,6 @@
       ]
     },
     {
-      "id": "bj-slow",
-      "hook": "Slow season starts in July",
-      "title": "Slow season starts in July #Shorts",
-      "description": "Demand triples Feb→July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n👇 Who's already dreading January?\n\n#marketing #seasonal #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "seasonal",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-slow.mp4"
-    },
-    {
       "id": "money-leaks",
       "hook": "3 ways shops bleed money",
       "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job.",
@@ -746,16 +731,31 @@
       ]
     },
     {
-      "id": "lesson-reviews-decide",
-      "hook": "They judge you before you say a word",
-      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
-      "title": "Reviews Decide Who Gets the Call #shorts #trades"
-    },
-    {
       "id": "lesson-cpl-vs-cpbj",
       "hook": "A cheap lead can be your most expensive one",
       "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
       "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
+    },
+    {
+      "id": "bj-slow",
+      "hook": "Slow season starts in July",
+      "title": "Slow season starts in July #Shorts",
+      "description": "Demand triples Feb→July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n👇 Who's already dreading January?\n\n#marketing #seasonal #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "seasonal",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-slow.mp4"
+    },
+    {
+      "id": "lesson-reviews-decide",
+      "hook": "They judge you before you say a word",
+      "script": "Before a customer ever hears your voice, they've judged you by your reviews. Count, recency, and how you respond all matter. A shop with a hundred and forty recent reviews beats one with twelve, even at a higher price. Reviews aren't vanity. They're your close rate. Follow Booked Job.",
+      "title": "Reviews Decide Who Gets the Call #shorts #trades"
     },
     {
       "id": "bj-stormchaser",

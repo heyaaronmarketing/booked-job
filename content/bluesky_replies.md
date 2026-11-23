@@ -2,6 +2,9 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@operandicat.bsky.social**: How does ServiceNow NOW support social workers transitioning into skilled trades? — https://mentaport.xyz/knowledge/how_does_servicenow_now_support_social_workers_transitioning_into_skilled_trades.php
+  → https://bsky.app/profile/operandicat.bsky.social/post/3n2w65isyo32a
+
 - **@tonistarkiii.bsky.social**: youtube.com/watch?v=BN4m...
 So The FAA Fiasco Is Like The Reflecting Pool Fiasco. The Wrong Contractor For The Job And It All Leads Back To The Grifting Department At The White House!!! We Gotta Clean
   → https://bsky.app/profile/tonistarkiii.bsky.social/post/3n2efdgm74k2e
@@ -195,8 +198,3 @@ https://ohsem.me/2026/11/labortrader-invites-contra
 Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
 If you're keen to learn, work hard, and build a rew
   → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3n2bdtffj5z2n
-
-- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
-Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
-If you're keen to learn, work hard, and build a rew
-  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3n2braiul7h2a

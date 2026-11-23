@@ -1,58 +1,40 @@
 {
-  "updated": "2026-11-22T13:44",
+  "updated": "2026-11-22T19:00",
   "posts": [
     {
-      "ts": "2026-11-22T13:42:09",
-      "channel": "facebook",
-      "item": "card-angi",
-      "url": null
-    },
-    {
-      "ts": "2026-11-22T13:42:06",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-22T13:41:21",
+      "ts": "2026-11-22T18:57:51",
       "channel": "mastodon",
-      "item": "card-rev-paint",
+      "item": "card-speed",
       "url": null
     },
     {
-      "ts": "2026-11-22T13:41:18",
+      "ts": "2026-11-22T18:57:47",
       "channel": "tumblr",
-      "item": "stop-renting-leads",
+      "item": "pod-ep03-verdict",
       "url": null
     },
     {
-      "ts": "2026-11-22T13:41:16",
+      "ts": "2026-11-22T18:57:45",
       "channel": "bluesky",
-      "item": "rip-reviews-rip",
+      "item": "rip-speed-rip",
       "url": null
     },
     {
-      "ts": "2026-11-22T13:41:14",
-      "channel": "linkedin",
-      "item": "bj-agency12k",
-      "url": null
-    },
-    {
-      "ts": "2026-11-22T13:41:13",
+      "ts": "2026-11-22T18:57:43",
       "channel": "tiktok",
-      "item": "ad-arctic",
+      "item": "ad-pauls",
       "url": null
     },
     {
-      "ts": "2026-11-22T13:41:12",
-      "channel": "ig",
-      "item": "pod-ep01-starter",
+      "ts": "2026-11-22T18:57:43",
+      "channel": "linkedin",
+      "item": "bj-reviews50",
       "url": null
     },
     {
-      "ts": "2026-11-22T13:40:37",
+      "ts": "2026-11-22T18:57:42",
       "channel": "facebook",
-      "item": "pod-ep01-ftc",
+      "item": "pod-ep01-refunds",
       "url": null
     }
   ]

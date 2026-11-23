@@ -179,16 +179,16 @@
       "video": "site/reels/one-star.mp4"
     },
     {
-      "id": "pod-clip-game",
-      "hook": "Porno or Plumbing?",
-      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip2-game.mp4"
-    },
-    {
       "id": "rented-pipeline",
       "hook": "You're renting the phone",
       "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
       "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
+    },
+    {
+      "id": "pod-clip-game",
+      "hook": "Porno or Plumbing?",
+      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip2-game.mp4"
     },
     {
       "id": "gbp-billboard",
