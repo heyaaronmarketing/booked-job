@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "ts": "2026-11-24T11:44",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: ba nobody sees"
+    },
+    {
+      "ts": "2026-11-24T11:30",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Sent weekly newsletter: Booked Job — Is Angi Worth It?"
+    },
+    {
       "ts": "2026-11-23T23:57",
       "kind": "site",
       "icon": "🌐",
@@ -1187,18 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Queued engagement to LinkedIn: pricing scope creep"
-    },
-    {
-      "ts": "2026-11-01T01:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: labor ghost"
-    },
-    {
-      "ts": "2026-10-31T20:03",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: labor show up"
     }
   ]
 }

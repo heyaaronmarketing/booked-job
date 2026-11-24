@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T23:55",
+  "generated": "2026-11-24T11:30",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
@@ -10,15 +10,15 @@
     },
     "YT Shorts": {
       "posts": 25,
-      "views": 367,
+      "views": 368,
       "engagements": 26,
-      "er": 7.08
+      "er": 7.07
     },
     "TikTok": {
       "posts": 1,
-      "views": 160,
+      "views": 99,
       "engagements": 3,
-      "er": 1.88
+      "er": 3.03
     }
   },
   "post_count": 51,
@@ -51,12 +51,12 @@
       "channel": "YT Shorts",
       "id": "331gN9RmblI",
       "caption": "Ep. 4 \u2014 Fire the Bot (Is an AI Receptionist Worth It?)",
-      "views": 81,
+      "views": 82,
       "reactions": 0,
       "comments": 1,
       "shares": 0,
       "engagements": 1,
-      "er": 1.23,
+      "er": 1.22,
       "date": "2026-11-12"
     },
     {

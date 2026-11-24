@@ -2,6 +2,39 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
+  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
+
+- **@premarcu.bsky.social**: Rebuilt a quote-drafting flow for a small trades business.
+
+V1 wrote clean professional quotes. The owner rewrote every one.
+
+So I fed it his own past emails and had it copy his phrasing, not mine.
+
+A
+  → https://bsky.app/profile/premarcu.bsky.social/post/3mzuhohmb6x26
+
+- **@stylelib.org**: Construction – WordPress Theme
+
+ https://themes.stylelib.org/?p=786 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #engineering #handyman #
+  → https://bsky.app/profile/stylelib.org/post/3n24v2m3sbc2p
+
+- **@stylelib.org**: Tanj  – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=32413 
+
+#agency #architecture #building #business #company #construction #contractor #corporate #designthemes #electrician #plumbe
+  → https://bsky.app/profile/stylelib.org/post/3n27iurxi5m2o
+
+- **@stylelib.org**: Electrician – Electricity Services WordPress Theme
+
+ https://themes.stylelib.org/?p=4166 
+
+#business #corporate #electrician #engineering #maintenance #repair #themeforest #wordpress
+  → https://bsky.app/profile/stylelib.org/post/3n32twzxcad2m
+
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that books calls 24/7. We build it, optimize it for local SEO, add an AI chatbot to answer questions at 2am, and handle the automations. R
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3n2zdnodklq27
 
@@ -169,26 +202,3 @@ Contact
 - **@windowshopgoa.bsky.social**: Properties for Sale in Goa | Buy Homes, Villas & Land
 Searching for your dream home in Goa? Discover apartments, villas and independent houses in different locations. Browse property listings on Windo
   → https://bsky.app/profile/windowshopgoa.bsky.social/post/3n2izbu53l222
-
-- **@stylelib.org**: Wood Workshop – Carpenter and Craftman HTML Template
-
- https://themes.stylelib.org/?p=19026 
-
-#architecture #business #construction #constructor #corporate #engineering #handyman #industry #plumber #r
-  → https://bsky.app/profile/stylelib.org/post/3n2izxynlwo2g
-
-- **@funkdr.bsky.social**: But the young plumber is getting loans for something that in theory can provide a revenue stream in a way college loans don’t for a half decade or more. Plus, what would a plumbing business look like 
-  → https://bsky.app/profile/funkdr.bsky.social/post/3n2hdo6zjc22q
-
-- **@chilangolandia.bsky.social**: Was he really a plumber or did he just inherit daddy’s business? Because plummers have a difficult job that requires skills.
-
-I have great respect for them.
-  → https://bsky.app/profile/chilangolandia.bsky.social/post/3n2f3tn5ids2d
-
-- **@resilientwisdom.com**: The plumber who opens a plumbing company didn't start a business. He bought himself a job, lost the protections employment gave him, and kept every burden the trade never had.
-
-https://resilientwisdom
-  → https://bsky.app/profile/resilientwisdom.com/post/3n2fh5dxv5h2r
-
-- **@concretebadger.bsky.social**: This guy is the founder of Richer Sounds, a hi-fi/home electronics retailer that I would already recommend because of its excellent customer service, fair treatment of its staff, and reasonable prices
-  → https://bsky.app/profile/concretebadger.bsky.social/post/3n2bfmxmid22c
