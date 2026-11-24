@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-23T15:18",
+  "generated": "2026-11-23T23:55",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 4061,
+      "views": 4037,
       "engagements": 3,
       "er": 0.07
     },
@@ -16,9 +16,9 @@
     },
     "TikTok": {
       "posts": 1,
-      "views": 161,
+      "views": 160,
       "engagements": 3,
-      "er": 1.86
+      "er": 1.88
     }
   },
   "post_count": 51,
@@ -87,12 +87,24 @@
       "channel": "FB Reels",
       "id": "2589460314908457",
       "caption": "Why Angi refunds 15-22% of your leads \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get f",
-      "views": 253,
+      "views": 254,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
       "engagements": 1,
-      "er": 0.4,
+      "er": 0.39,
+      "date": "2026-11-23"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1149731827673745",
+      "caption": "$542 vs $168 \u2014 the Angi tax \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow \u2014 we do this every day. You",
+      "views": 213,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
       "date": "2026-11-23"
     },
     {
@@ -106,33 +118,9 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-22"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1459453002358778",
-      "caption": "The ONE time Angi actually makes sense \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get ",
-      "views": 267,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-21"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "1138843581974801",
-      "caption": "The AI \u201cfixed\u201d a no-show by rebooking it for the year 1847. \ud83d\ude02 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/",
-      "views": 239,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-13"
-    },
     {
       "channel": "FB Reels",
       "id": "2248839468998137",
@@ -210,6 +198,18 @@
       "id": "1457902059851719",
       "caption": "Angi vs Thumbtack vs Google \u2014 real cost \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow \u2014 we do this ev",
       "views": 126,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-17"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "29669671432637296",
+      "caption": "Why the 'cheap' lead is the expensive one \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. G",
+      "views": 219,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

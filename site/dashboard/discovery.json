@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:18:16Z",
+  "updated": "2026-11-24T05:55:49Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,32 +78,32 @@
     "tags": [
       {
         "tag": "#contractor",
-        "uses": 25,
+        "uses": 23,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
         "tag": "#homeimprovement",
-        "uses": 24,
+        "uses": 20,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#hvac",
-        "uses": 13,
+        "uses": 11,
         "link": "https://mastodon.social/tags/hvac"
       },
       {
-        "tag": "#plumbing",
-        "uses": 13,
-        "link": "https://mastodon.social/tags/plumbing"
-      },
-      {
         "tag": "#contractors",
-        "uses": 12,
+        "uses": 11,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
+        "tag": "#plumbing",
+        "uses": 10,
+        "link": "https://mastodon.social/tags/plumbing"
+      },
+      {
         "tag": "#hvacr",
-        "uses": 6,
+        "uses": 5,
         "link": "https://mastodon.social/tags/hvacr"
       },
       {
@@ -175,7 +175,7 @@
       },
       {
         "handle": "@business-bloomberg@flipboard.com",
-        "followers": 2345,
+        "followers": 2346,
         "link": "https://flipboard.com/@bloomberg/business-oojh6r0lz"
       },
       {
@@ -236,7 +236,7 @@
     {
       "handle": "@john-is-naked.bsky.social",
       "display": "Handyman John",
-      "followers": 2220,
+      "followers": 2231,
       "desc": "I'm working on my bucket list project.   I'm trying to video myself Cumming in 100 different places.   I plan to post th",
       "link": "https://bsky.app/profile/john-is-naked.bsky.social"
     },
@@ -250,7 +250,7 @@
     {
       "handle": "@hvac66.bsky.social",
       "display": "William🇨🇦",
-      "followers": 1622,
+      "followers": 1623,
       "desc": "🇨🇦 🍁Windsor Ontario. Worn out service tech. Proud grandpa and lucky husband. Liberal. Manager. Teacher. Vaxed to the max",
       "link": "https://bsky.app/profile/hvac66.bsky.social"
     },

@@ -2,6 +2,37 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business deserves a website that books calls 24/7. We build it, optimize it for local SEO, add an AI chatbot to answer questions at 2am, and handle the automations. R
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3n2zdnodklq27
+
+- **@itsyourmoney.bsky.social**: Running a trade or service business in DFW?
+
+Your books should work as hard as you do.
+
+We provide specialty accounting & bookkeeping for:
+→ HVAC companies & contractors
+→ Realtors & home service busi
+  → https://bsky.app/profile/itsyourmoney.bsky.social/post/3mumwsxs6wd2r
+
+- **@starshine.bsky.social**: now when you said fuck those hvac dentist car dealering looking mfers, what did you mean that? 
+
+Thank you Anderson, I guess what I was trying to say is they were the embodiedment of small business ow
+  → https://bsky.app/profile/starshine.bsky.social/post/3muytw23am22m
+
+- **@dicksonsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://dicksoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-up
+  → https://bsky.app/profile/dicksonsource.bsky.social/post/3mv6cxwxb3b2o
+
+- **@wilsoncountysource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades? - https://wilsoncountysource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upg
+  → https://bsky.app/profile/wilsoncountysource.bsky.social/post/3mv6d2vhchs2b
+
+- **@handle.invalid**: If you own an HVAC, plumbing, or electrical company, when did you last check your Google Business Profile yourself?
+
+You know, a lot of times an owner tells me, “We already had somebody set that up.” 
+  → https://bsky.app/profile/handle.invalid/post/3mx7ssrdqs52g
+
+- **@rutherfordsource.bsky.social**: Retrofitting Older Commercial HVAC Systems: What's the ROI on Aging Equipment Upgrades?- https://rutherfordsource.com/retrofitting-older-commercial-hvac-systems-whats-the-roi-on-aging-equipment-upgrad
+  → https://bsky.app/profile/rutherfordsource.bsky.social/post/3n2t32mvobn2e
+
 - **@operandicat.bsky.social**: How does ServiceNow NOW support social workers transitioning into skilled trades? — https://mentaport.xyz/knowledge/how_does_servicenow_now_support_social_workers_transitioning_into_skilled_trades.php
   → https://bsky.app/profile/operandicat.bsky.social/post/3n2w65isyo32a
 
@@ -161,40 +192,3 @@ https://resilientwisdom
 
 - **@concretebadger.bsky.social**: This guy is the founder of Richer Sounds, a hi-fi/home electronics retailer that I would already recommend because of its excellent customer service, fair treatment of its staff, and reasonable prices
   → https://bsky.app/profile/concretebadger.bsky.social/post/3n2bfmxmid22c
-
-- **@minhajsolution.co**: The GBP mistakes hit closest to home for us. I have seen a wrong category or a missing service area quietly cost a local business real calls for months before anyone noticed. Keen to hear which horror
-  → https://bsky.app/profile/minhajsolution.co/post/3n2dobcpydc26
-
-- **@carterenterprise.bsky.social**: Roofing, web search off, 2026-11-11: Claude named a specific business in 0 of 30 runs. Gemini named one in 30 of 30. A count of runs, not a score. Free dated sample for your city and trade: check.name
-  → https://bsky.app/profile/carterenterprise.bsky.social/post/3n2d6iw3cts2i
-
-- **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
-  → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
-
-- **@premarcu.bsky.social**: Rebuilt a quote-drafting flow for a small trades business.
-
-V1 wrote clean professional quotes. The owner rewrote every one.
-
-So I fed it his own past emails and had it copy his phrasing, not mine.
-
-A
-  → https://bsky.app/profile/premarcu.bsky.social/post/3mzuhohmb6x26
-
-- **@citizenptnewsmi.bsky.social**: Monroe Public Schools are exploring a $315,946 mental health funding opportunity, but will they take the plunge to enhance student support and safety? 
-
-Click to read more!
-
-#MI #CitizenPortal #School
-  → https://bsky.app/profile/citizenptnewsmi.bsky.social/post/3n2e2nk4asz2j
-
-- **@kazwan.bsky.social**: LaborTrader Invites Contractors to Preregister for a New Skilled-Trades Marketplace
-
-The platform in development aims to connect businesses that...
-
-https://ohsem.me/2026/11/labortrader-invites-contra
-  → https://bsky.app/profile/kazwan.bsky.social/post/3n2dahsvlve22
-
-- **@kitchensbedrooms.bsky.social**: 🏠 TRAINEE KITCHEN & BEDROOM FITTER 🛏️
-Ready to start your career in skilled trades? We're looking for trainees to join our experienced head fitters!
-If you're keen to learn, work hard, and build a rew
-  → https://bsky.app/profile/kitchensbedrooms.bsky.social/post/3n2bdtffj5z2n
