@@ -308,6 +308,21 @@
       "video": "site/reels/pod-ep01-cost.mp4"
     },
     {
+      "id": "bj-track",
+      "hook": "Track every lead source",
+      "title": "Track every lead source #Shorts",
+      "description": "You can't fix marketing you don't track. Put a different number or QR code on every truck, sign, and ad. Guessing is how you burn $10k a year.\n\n👇 How do you track where jobs come from?\n\n#marketing #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "howto",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-track.mp4"
+    },
+    {
       "id": "pod-ep03-lie",
       "hook": "Cost per lead is a lie",
       "title": "Cost per lead is a lie #Shorts",
@@ -402,21 +417,6 @@
       "thumbnail": "site/thumbs/bj-angi-thumb.png"
     },
     {
-      "id": "bj-track",
-      "hook": "Track every lead source",
-      "title": "Track every lead source #Shorts",
-      "description": "You can't fix marketing you don't track. Put a different number or QR code on every truck, sign, and ad. Guessing is how you burn $10k a year.\n\n👇 How do you track where jobs come from?\n\n#marketing #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "howto",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-track.mp4"
-    },
-    {
       "id": "bj-speed",
       "hook": "Answer in 5 minutes",
       "title": "Answer in 5 minutes #Shorts",
@@ -504,21 +504,6 @@
       "video": "site/reels/pod-ep01-shared.mp4"
     },
     {
-      "id": "bj-freecheck",
-      "hook": "The 'free' system check",
-      "title": "The 'free' system check #Shorts",
-      "description": "That free HVAC check isn't free — it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work costs money.\n\n👇 Ever been upsold on a 'free' check?\n\n#hvac #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "hvac",
-        "scamalert",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-freecheck.mp4"
-    },
-    {
       "id": "bj-gbp",
       "hook": "Fix your Google profile",
       "title": "Fix your Google profile #Shorts",
@@ -548,6 +533,21 @@
       ],
       "video": "site/reels/bj-missedcall.mp4",
       "thumbnail": "site/thumbs/bj-missedcall-thumb.png"
+    },
+    {
+      "id": "bj-freecheck",
+      "hook": "The 'free' system check",
+      "title": "The 'free' system check #Shorts",
+      "description": "That free HVAC check isn't free — it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work costs money.\n\n👇 Ever been upsold on a 'free' check?\n\n#hvac #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "hvac",
+        "scamalert",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-freecheck.mp4"
     },
     {
       "id": "pod-ep01-starter",
@@ -792,6 +792,19 @@
       "video": "site/reels/pod-ep03-verdict.mp4"
     },
     {
+      "id": "pod-ep03-track",
+      "hook": "The 1 number that cuts half your ad spend",
+      "title": "The 1 number that cuts half your ad spend #Shorts",
+      "description": "The 1 number that cuts half your ad spend\n\nFull episode + free playbook: https://booked-job.com #Shorts",
+      "tags": [
+        "contractor",
+        "homeservices",
+        "leadgeneration",
+        "marketing"
+      ],
+      "video": "site/reels/pod-ep03-track.mp4"
+    },
+    {
       "id": "bj-cheapbid",
       "hook": "Cheapest bid costs the most",
       "title": "Cheapest bid costs the most #Shorts",
@@ -805,19 +818,6 @@
         "homeservices"
       ],
       "video": "site/reels/bj-cheapbid.mp4"
-    },
-    {
-      "id": "pod-ep03-track",
-      "hook": "The 1 number that cuts half your ad spend",
-      "title": "The 1 number that cuts half your ad spend #Shorts",
-      "description": "The 1 number that cuts half your ad spend\n\nFull episode + free playbook: https://booked-job.com #Shorts",
-      "tags": [
-        "contractor",
-        "homeservices",
-        "leadgeneration",
-        "marketing"
-      ],
-      "video": "site/reels/pod-ep03-track.mp4"
     },
     {
       "id": "markup-vs-margin",

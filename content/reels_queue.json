@@ -299,6 +299,13 @@
       "video": "site/reels/last-guy.mp4"
     },
     {
+      "id": "dont-discount",
+      "hook": "Don't drop the price — add value",
+      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
+      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
+      "video": "site/reels/dont-discount.mp4"
+    },
+    {
       "id": "clip-speed",
       "hook": "Answer your phone",
       "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
@@ -331,13 +338,6 @@
       "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
       "description": "'While you're here…' — name a more expensive sentence. 👇 #trades #contractor #getpaid",
       "video": "site/reels/quick-favor.mp4"
-    },
-    {
-      "id": "dont-discount",
-      "hook": "Don't drop the price — add value",
-      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
-      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
-      "video": "site/reels/dont-discount.mp4"
     },
     {
       "id": "cash-job",

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-11-24T20:20",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing pick two"
+    },
+    {
       "ts": "2026-11-24T11:44",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: labor good help"
-    },
-    {
-      "ts": "2026-11-01T01:25",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Queued engagement to LinkedIn: pricing scope creep"
     }
   ]
 }

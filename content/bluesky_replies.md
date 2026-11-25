@@ -2,6 +2,20 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@jmshinhwa.bsky.social**: AI search visibility, 22 Nov 2026: same 10 Denver customer questions to ChatGPT, Claude, Perplexity and Google AI. 156 businesses named, only 7 by every engine.
+
+#ChatGPT #Productivity
+
+https://getrea
+  → https://bsky.app/profile/jmshinhwa.bsky.social/post/3n2vph3xqna2a
+
+- **@falcorepublicmktg.bsky.social**: Plumber SEO = getting found when homeowners need help fast. Optimize your Google Business Profile, target emergency keywords, build local pages, keep your site mobile-friendly. 46% of searches are loc
+  → https://bsky.app/profile/falcorepublicmktg.bsky.social/post/3n2vq3jvmcc27
+
+- **@sakurapark.bsky.social**: Top SEO Companies in India: Find the Best Local SEO Company -
+Looking for reliable SEO companies in India? Explore our list of the top 10 best local SEO companies and compare their services, pricing, 
+  → https://bsky.app/profile/sakurapark.bsky.social/post/3n2xyxdsthk2d
+
 - **@refigman.bsky.social**: As a small business owner, white male, a college education, skilled in the trades, more than any white male group in the USA, we’re discriminated against the most in an attempt to bring required balan
   → https://bsky.app/profile/refigman.bsky.social/post/3len6bblir22y
 
@@ -188,17 +202,3 @@ Business was no longer current.
 - **@schlumbrechtselec.bsky.social**: Need help with electrical work at your business? Schlumbrecht's Electric provides Commercial electrician service to help keep your workplace safe and your electrical systems working properly.
 Contact 
   → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mzz7kptaik2o
-
-- **@stylelib.org**: Edifice – Construction, Building  Engineering WordPress Theme
-
- https://themes.stylelib.org/?p=810542 
-
-#architecture #business #construction #electrician #elementor #engineering #handyman #maintenanc
-  → https://bsky.app/profile/stylelib.org/post/3n23mt4zflo2l
-
-- **@transformeddesign.bsky.social**: Not showing up on Google? Your website may need more than a home page. Dedicated service pages, location pages, and helpful content give potential customers more ways to find your business and underst
-  → https://bsky.app/profile/transformeddesign.bsky.social/post/3n2hwvnrqct2j
-
-- **@windowshopgoa.bsky.social**: Properties for Sale in Goa | Buy Homes, Villas & Land
-Searching for your dream home in Goa? Discover apartments, villas and independent houses in different locations. Browse property listings on Windo
-  → https://bsky.app/profile/windowshopgoa.bsky.social/post/3n2izbu53l222
