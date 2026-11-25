@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-25T06:37",
+  "generated": "2026-11-25T16:25",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 4076,
-      "engagements": 3,
-      "er": 0.07
+      "views": 3973,
+      "engagements": 2,
+      "er": 0.05
     },
     "YT Shorts": {
       "posts": 25,
@@ -16,9 +16,9 @@
     },
     "TikTok": {
       "posts": 1,
-      "views": 99,
+      "views": 67,
       "engagements": 3,
-      "er": 3.03
+      "er": 4.48
     }
   },
   "post_count": 51,
@@ -61,18 +61,6 @@
     },
     {
       "channel": "FB Reels",
-      "id": "1433111445605893",
-      "caption": "Want to rank #1 for HVAC in your town? The top shop has 519 Google reviews. Here's the real bar by trade. #hvac #contractor #googlereviews\n\n",
-      "views": 222,
-      "reactions": 1,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 1,
-      "er": 0.45,
-      "date": "2026-11-14"
-    },
-    {
-      "channel": "FB Reels",
       "id": "1140208341752396",
       "caption": "Just trying to get a quote from an AI receptionist\u2026 \ud83d\udc80 (watch it spiral). Which AI tools are actually worth it: booked-job.com/reviews \ud83d\udc49 a hu",
       "views": 236,
@@ -94,6 +82,18 @@
       "engagements": 1,
       "er": 0.39,
       "date": "2026-11-23"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1422052419697247",
+      "caption": "Angi charges $79 for a single lead \u2014 then sells it to 5 other guys. You're not buying a lead, you're buying a bidding war against yourself.\n",
+      "views": 119,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-25"
     },
     {
       "channel": "FB Reels",

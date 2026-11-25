@@ -2,6 +2,21 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@hiddenentry.bsky.social**: Planning an evening in Jalandhar? Agree on the venue and start time in advance, confirm how you’ll get home, and ask before sharing anyone’s photos. Hidden Entry’s Jalandhar page has more on what to d
+  → https://bsky.app/profile/hiddenentry.bsky.social/post/3n32c2xx6622p
+
+- **@1happygirl.bsky.social**: With all the online "tasks", uploading apps, setting up new accounts with user names & passwords, keeping track of all of that, I am frustrated, exhausted, tired of all the "improvements" that were su
+  → https://bsky.app/profile/1happygirl.bsky.social/post/3n335r2gelk2o
+
+- **@gohirevirtual.bsky.social**: Hiring help for a home service business? Check:
+
+1. Can they work in Housecall Pro, ServiceTitan, or Jobber?
+2. Do they take live inbound calls?
+3. Is English/Spanish phone support offered?
+
+https://g
+  → https://bsky.app/profile/gohirevirtual.bsky.social/post/3n35glrr2fm27
+
 - **@passittobulis.bsky.social**: With the Max Sasson trade, the #Canucks appear to be open for business.
 
 So, let's talk trade: Who has value? Who doesn't? Who's likely to get moved? Who isn't? And what's the deal with Filip Hronek? 
@@ -180,26 +195,3 @@ MA folks! Do you or someone you know need electrical work done before the holida
 
 #architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
   → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
-
-- **@stylelib.org**: BlueCollar – Handyman  Renovation Business WordPress Theme
-
- https://themes.stylelib.org/?p=16710 
-
-#builder #business #construction #contractor #corporate #electrician #freelancer #handyman #painter 
-  → https://bsky.app/profile/stylelib.org/post/3myvvtcuk2p2m
-
-- **@gimsresults.bsky.social**: "Do I need a Google profile if people can find my website?"
-
-An Adelaide electrician asked me that. Then admitted the website was ordinary.
-
-His business wasn't on the map. His site sat on page two.
-
-
-  → https://bsky.app/profile/gimsresults.bsky.social/post/3mza2jgxoto2f
-
-- **@thejokebot.bsky.social**: Why did the electrician close his shop?
-
-Business was no longer current.
-
-#dadjoke #mumjokes #humor
-  → https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j
