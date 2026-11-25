@@ -580,6 +580,13 @@
       "engagement": 4,
       "email": 8,
       "reach": 36976
+    },
+    {
+      "date": "2026-11-25",
+      "audience": 401,
+      "engagement": 3,
+      "email": 8,
+      "reach": 36950
     }
   ]
 }

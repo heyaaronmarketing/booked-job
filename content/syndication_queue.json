@@ -2174,6 +2174,20 @@
       "blurb": "Budget off cost-per-booked-job, not vanity metrics. A simple way to decide what to spend.",
       "url": "https://booked-job.com/blog/set-your-2027-marketing-budget/",
       "posted": {}
+    },
+    {
+      "id": "you-own-what-your-ai-says",
+      "title": "You Own What Your AI Says: The Air Canada Lesson",
+      "labels": [
+        "Fire the Bot",
+        "AI",
+        "Legal",
+        "Reviews"
+      ],
+      "short_title": "Fire the Bot",
+      "blurb": "A tribunal held Air Canada liable for what its chatbot told a customer. If your bot quotes a price or makes a promise, that's your name on it.",
+      "url": "https://booked-job.com/blog/you-own-what-your-ai-says/",
+      "posted": {}
     }
   ]
 }

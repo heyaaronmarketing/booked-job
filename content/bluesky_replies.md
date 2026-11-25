@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@passittobulis.bsky.social**: With the Max Sasson trade, the #Canucks appear to be open for business.
+
+So, let's talk trade: Who has value? Who doesn't? Who's likely to get moved? Who isn't? And what's the deal with Filip Hronek? 
+  → https://bsky.app/profile/passittobulis.bsky.social/post/3n33mzgg5zc2h
+
 - **@jmshinhwa.bsky.social**: AI search visibility, 22 Nov 2026: same 10 Denver customer questions to ChatGPT, Claude, Perplexity and Google AI. 156 businesses named, only 7 by every engine.
 
 #ChatGPT #Productivity
@@ -198,7 +203,3 @@ Business was no longer current.
 
 #dadjoke #mumjokes #humor
   → https://bsky.app/profile/thejokebot.bsky.social/post/3mzlasrfynm2j
-
-- **@schlumbrechtselec.bsky.social**: Need help with electrical work at your business? Schlumbrecht's Electric provides Commercial electrician service to help keep your workplace safe and your electrical systems working properly.
-Contact 
-  → https://bsky.app/profile/schlumbrechtselec.bsky.social/post/3mzz7kptaik2o

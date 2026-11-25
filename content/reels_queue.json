@@ -20,6 +20,12 @@
       "video": "site/reels/speed-to-lead.mp4"
     },
     {
+      "id": "rip-angi-rip",
+      "hook": "Angi's $542 secret",
+      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
+      "video": "site/reels/rip-angi-rip.mp4"
+    },
+    {
       "id": "pod-clip-onestar",
       "hook": "The one-star that started a podcast",
       "description": "Why the guy with 140 reviews beats you even when he's worse — and what to do about it. New episode free/podcast. 🎧 #contractor #reviews #trades @PlayMorePods #PodcastsOnAmazonMusic",
@@ -61,12 +67,6 @@
       "hook": "The shop beating you has 519 reviews",
       "script": "You ever wonder why you can't crack the map pack? Here's the bar. The median HVAC shop sitting at the top of local search has around five hundred nineteen Google reviews. Plumbers, about three thirty seven. If you've got twenty two, you're not losing. You're not competing yet. That's not bad news, it's a target. Ten reviews a month, every month, and in two years nobody catches you. Ask every single happy customer, the day you finish. Follow Booked Job.",
       "description": "519 reviews is the median for HVAC shops in the map pack. Where are you at? 👇 #googlereviews #localseo #hvac"
-    },
-    {
-      "id": "rip-angi-rip",
-      "hook": "Angi's $542 secret",
-      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
-      "video": "site/reels/rip-angi-rip.mp4"
     },
     {
       "id": "af-ai-spiral",
@@ -146,6 +146,18 @@
       "video": "site/reels/repeat-customer.mp4"
     },
     {
+      "id": "eight-automations",
+      "hook": "8 automations, zero leads",
+      "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
+      "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
+    },
+    {
+      "id": "rented-pipeline",
+      "hook": "You're renting the phone",
+      "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
+      "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
+    },
+    {
       "id": "pod-clip-turd",
       "hook": "New podcast: Get Booked, Not F***ed",
       "description": "Two old tradesmen and an idiot apprentice talking real shop marketing. Episode 1 is live — listen free, link/podcast. 🎧 #contractor #trades #podcast @PlayMorePods #PodcastsOnAmazonMusic",
@@ -164,18 +176,6 @@
       "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
       "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
       "video": "site/reels/show-up.mp4"
-    },
-    {
-      "id": "eight-automations",
-      "hook": "8 automations, zero leads",
-      "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
-      "description": "Anybody else build the whole system before getting the first lead? 👇 #contractor #smallbusiness #marketing"
-    },
-    {
-      "id": "rented-pipeline",
-      "hook": "You're renting the phone",
-      "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
-      "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
     },
     {
       "id": "one-star",
@@ -198,6 +198,13 @@
       "video": "site/reels/gbp-billboard.mp4"
     },
     {
+      "id": "referrals",
+      "hook": "Your best lead just left your driveway",
+      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
+      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
+      "video": "site/reels/referrals.mp4"
+    },
+    {
       "id": "money-leaks",
       "hook": "3 ways shops bleed money",
       "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job for more.",
@@ -210,13 +217,6 @@
       "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
       "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
       "video": "site/reels/slow-season.mp4"
-    },
-    {
-      "id": "referrals",
-      "hook": "Your best lead just left your driveway",
-      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
-      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
-      "video": "site/reels/referrals.mp4"
     },
     {
       "id": "low-bid",

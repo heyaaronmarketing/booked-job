@@ -2461,3 +2461,35 @@ A: Take what you spent on a channel and divide by the jobs it actually booked �
 A: Usually marketing is a business expense, but the specifics depend on your situation. Ask your accountant — this isn't tax advice.
 
 ---
+## You Own What Your AI Says: The Air Canada Lesson
+URL: https://booked-job.com/blog/you-own-what-your-ai-says/
+
+**Short answer:** A tribunal held Air Canada liable for what its chatbot told a customer. If your bot quotes a price or makes a promise, that's your name on it.
+
+### 
+*A tribunal ruled that a company owns what its chatbot tells a customer — and for a contractor, that means every price or promise the bot makes is yours to honor.*
+Here's a case every contractor thinking about a chatbot should know. In Moffatt v. Air Canada (2024), a tribunal held the company liable for false information its website chatbot gave a customer — the business owned what its bot said. Air Canada argued the chatbot was a separate thing it shouldn't be responsible for. The tribunal didn't buy it. The bot speaks for the company. Full stop.Now put your name on that. If your AI receptionist or website chat quotes a homeowner "$150 for that repair" and the real number is $400, guess what you just promised. Guess who argues about it in front of a customer who has it in writing.
+
+### Bots improvise — and improvisation writes checks
+*AI tools generate answers on the fly, so they'll invent prices, timelines, and guarantees you never approved.*
+The thing that makes these tools feel smart is also the thing that makes them dangerous: they make up answers. A customer asks a question you never scripted, and the bot generates something plausible. Plausible isn't the same as true, or approved, or something you can afford to honor.A human at your shop knows not to quote a price sight unseen. A bot doesn't have that instinct. It wants to be helpful, so it fills the silence with numbers and promises. And after Moffatt v. Air Canada (2024), "the bot said it, not me" is not a defense that works.
+
+### The brand damage is separate from the legal risk
+*Even when it's not a lawsuit, a bot that misquotes customers makes you look like you don't honor your word.*
+Most of the time this won't end in a tribunal. It'll end in an argument. The customer screenshots what your bot told them and posts it in a review, or a neighborhood group, or just tells everyone at church that you quoted one price and charged another.You didn't do that. Your bot did. But nobody's making that distinction. Your reputation is the one thing you can't buy back, and you just handed the keys to a machine that improvises for a living.
+
+### Decide what your bot is allowed to say
+*If you run any AI chat, lock it out of quoting prices and making promises — or skip it and let a human talk.*
+If you're going to run an AI chat at all, it should do exactly one thing: take a name and number and hand it to a human. The second it starts quoting prices, confirming availability, or promising timelines, you've turned a lead-capture tool into a liability generator.We go deeper on the risks in is an AI receptionist worth it. Honestly, for most shops the clean answer is to skip the quoting bot entirely and put a human on it — someone whose promises you actually want to keep.
+
+### FAQ
+**Q: Am I legally responsible for what my website chatbot tells customers?**
+A: You can be. In Moffatt v. Air Canada (2024), a tribunal held the company liable for false information its chatbot gave a customer — the business owned what its bot said. If your bot quotes a price or makes a promise, treat it as your word.
+
+**Q: Can I just say the AI made a mistake, not me?**
+A: That argument has already lost. Air Canada tried the 'the bot is separate' defense and the tribunal rejected it. The bot speaks for your business, so its mistakes are your mistakes — legally and reputationally.
+
+**Q: How do I use a chatbot safely as a contractor?**
+A: Lock it down to capturing a name and number and handing off to a human. Don't let it quote prices, confirm availability, or promise timelines. The moment it improvises a number, you own that number.
+
+---
