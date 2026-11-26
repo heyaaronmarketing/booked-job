@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@caseysseo.bsky.social**: Electrician near 10th St in Greeley? Your Google Business Profile should match the work and areas you actually cover. Call 719-639-8238. caseysseo.com #LocalSEO #GreeleyCO
+
+https://www.youtube.com/sho
+  → https://bsky.app/profile/caseysseo.bsky.social/post/3n33jo3obkg2i
+
+- **@quiborafortrades.bsky.social**: Wire down at 11:38pm: the electrician's website gives its own safety instruction first.
+
+https://www.quibora.com/request-demo/?utm_source=bluesky&utm_medium=social&utm_campaign=set1&utm_content=s1-001
+  → https://bsky.app/profile/quiborafortrades.bsky.social/post/3n35ysqhdxu2a
+
 - **@androdconstruction.bsky.social**: See what thoughtful craftsmanship can create. Tobermory's general contractor delivers custom homes, renovations, and standout details designed to make every space feel truly yours.
 and-rodcontracting.
   → https://bsky.app/profile/androdconstruction.bsky.social/post/3n35fuhwh4s2u
@@ -186,9 +196,3 @@ MA folks! Do you or someone you know need electrical work done before the holida
 
 - **@oregonoldster.bsky.social**: So he can be a plumber. Did he study the constitution? Did his plumbing course include a history class? Did he serve in the military? No, he is a high school graduate who can unplug toilets and run a 
   → https://bsky.app/profile/oregonoldster.bsky.social/post/3n2msj5wfa22e
-
-- **@blackironfitter669.bsky.social**: A plumber who inherited his business from his dad?
-  → https://bsky.app/profile/blackironfitter669.bsky.social/post/3n2myovhmnc26
-
-- **@hghorizonstudio.bsky.social**: One question for small business owners: what’s the one number that tells you your marketing is working? Salon, booked appointments. Shop, online orders. Contractor, quote requests. Pick one you can ch
-  → https://bsky.app/profile/hghorizonstudio.bsky.social/post/3n2m2j7s63s2d

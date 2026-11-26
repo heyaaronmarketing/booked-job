@@ -12,11 +12,12 @@
       "card-ftc",
       "card-stars",
       "card-ai",
-      "card-anon98"
+      "card-anon98",
+      "card-missedcall"
     ],
-    "last_iso": "2026-11-25T16:37:57",
+    "last_iso": "2026-11-26T09:13:04",
     "day": {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 1
     }
   },
@@ -24,9 +25,9 @@
     "posted": [
       "carousel-leadsites"
     ],
-    "last_iso": "2026-11-25T16:37:57",
+    "last_iso": "2026-11-26T09:13:04",
     "day": {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 1
     }
   },
@@ -37,11 +38,12 @@
       "card-reviews",
       "card-rev-plumb",
       "card-rev-roof",
-      "card-rev-elec"
+      "card-rev-elec",
+      "card-rev-paint"
     ],
-    "last_iso": "2026-11-25T16:37:57",
+    "last_iso": "2026-11-26T09:13:04",
     "day": {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "count": 1
     }
   }
