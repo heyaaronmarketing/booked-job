@@ -67,6 +67,21 @@
       "thumbnail": "site/thumbs/bj-cpbj-thumb.png"
     },
     {
+      "id": "bj-agency12k",
+      "hook": "$12k/mo and nothing to show",
+      "title": "$12k/mo and nothing to show #Shorts",
+      "description": "The same horror story: $12k a month to an agency, no leads, no reports, no access to their own accounts. If they won't show you the work, there is no work.\n\n👇 Most you've paid for nothing?\n\n#marketingscam #agency #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketingscam",
+        "agency",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-agency12k.mp4"
+    },
+    {
       "id": "pod-ep02-howmany",
       "hook": "519 reviews to rank #1 — you've got 12",
       "title": "519 reviews to rank #1 — you've got 12 #Shorts",
@@ -141,19 +156,68 @@
       "video": "site/reels/bj-cpl.mp4"
     },
     {
-      "id": "bj-agency12k",
-      "hook": "$12k/mo and nothing to show",
-      "title": "$12k/mo and nothing to show #Shorts",
-      "description": "The same horror story: $12k a month to an agency, no leads, no reports, no access to their own accounts. If they won't show you the work, there is no work.\n\n👇 Most you've paid for nothing?\n\n#marketingscam #agency #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "id": "bj-rev-elec",
+      "hook": "Electricians: 64 to rank",
+      "title": "Electricians: 64 to rank #Shorts",
+      "description": "Electricians — only 64 reviews to rank #1 on Google. Lowest bar in the trades. So why aren't you at the top?\n\n👇 Electricians — how many reviews?\n\n#electrician #sparky #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
       "tags": [
-        "marketingscam",
-        "agency",
+        "electrician",
+        "sparky",
+        "googlereviews",
         "contractorlife",
         "smallbusiness",
         "tradeslife",
         "homeservices"
       ],
-      "video": "site/reels/bj-agency12k.mp4"
+      "video": "site/reels/bj-rev-elec.mp4"
+    },
+    {
+      "id": "bj-rev-roof",
+      "hook": "Roofers: 144 to rank",
+      "title": "Roofers: 144 to rank #Shorts",
+      "description": "Roofers — just 144 reviews to rank #1 on Google. One season of asking. Your competition isn't. Go take the top spot.\n\n👇 Roofers — you asking for reviews?\n\n#roofing #rooferlife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "roofing",
+        "rooferlife",
+        "googlereviews",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-rev-roof.mp4"
+    },
+    {
+      "id": "bj-reviews",
+      "hook": "519 reviews to rank",
+      "title": "519 reviews to rank #Shorts",
+      "description": "You need 519 Google reviews to rank #1 in HVAC. Most shops have 12. The guy beating you didn't do better work — he just asked.\n\n👇 Drop your review count 👇\n\n#googlereviews #hvac #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlereviews",
+        "hvac",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-reviews.mp4",
+      "thumbnail": "site/thumbs/bj-reviews-thumb.png"
+    },
+    {
+      "id": "bj-rev-hvac",
+      "hook": "HVAC: 519 to rank",
+      "title": "HVAC: 519 to rank #Shorts",
+      "description": "HVAC — you need 519 Google reviews to rank #1. The guy beating you just asked every customer. Start asking.\n\n👇 HVAC pros — how many reviews you got?\n\n#hvac #hvaclife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "hvac",
+        "hvaclife",
+        "googlereviews",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-rev-hvac.mp4"
     },
     {
       "id": "bj-yelp",
@@ -210,22 +274,6 @@
       "video": "site/reels/pod-ep03-lie.mp4"
     },
     {
-      "id": "bj-rev-elec",
-      "hook": "Electricians: 64 to rank",
-      "title": "Electricians: 64 to rank #Shorts",
-      "description": "Electricians — only 64 reviews to rank #1 on Google. Lowest bar in the trades. So why aren't you at the top?\n\n👇 Electricians — how many reviews?\n\n#electrician #sparky #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "electrician",
-        "sparky",
-        "googlereviews",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-rev-elec.mp4"
-    },
-    {
       "id": "bj-stars",
       "hook": "91% won't call under 4 stars",
       "title": "91% won't call under 4 stars #Shorts",
@@ -242,52 +290,36 @@
       "thumbnail": "site/thumbs/bj-stars-thumb.png"
     },
     {
-      "id": "bj-rev-roof",
-      "hook": "Roofers: 144 to rank",
-      "title": "Roofers: 144 to rank #Shorts",
-      "description": "Roofers — just 144 reviews to rank #1 on Google. One season of asking. Your competition isn't. Go take the top spot.\n\n👇 Roofers — you asking for reviews?\n\n#roofing #rooferlife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "id": "bj-rev-plumb",
+      "hook": "Plumbers: 337 to rank",
+      "title": "Plumbers: 337 to rank #Shorts",
+      "description": "Plumbers — 337 reviews to rank #1 on Google. Ask every time and you lap the whole town in 18 months.\n\n👇 Plumbers — what's your review count?\n\n#plumbing #plumberlife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
       "tags": [
-        "roofing",
-        "rooferlife",
+        "plumbing",
+        "plumberlife",
         "googlereviews",
         "contractorlife",
         "smallbusiness",
         "tradeslife",
         "homeservices"
       ],
-      "video": "site/reels/bj-rev-roof.mp4"
+      "video": "site/reels/bj-rev-plumb.mp4"
     },
     {
-      "id": "bj-reviews",
-      "hook": "519 reviews to rank",
-      "title": "519 reviews to rank #Shorts",
-      "description": "You need 519 Google reviews to rank #1 in HVAC. Most shops have 12. The guy beating you didn't do better work — he just asked.\n\n👇 Drop your review count 👇\n\n#googlereviews #hvac #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "id": "bj-rev-paint",
+      "hook": "Painters: 109 to rank",
+      "title": "Painters: 109 to rank #Shorts",
+      "description": "Painters — 109 reviews to rank #1 on Google. Every finished job is a review you forgot to ask for. Snap a photo, ask on the spot.\n\n👇 Painters — asking for reviews yet?\n\n#painting #painterlife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
       "tags": [
-        "googlereviews",
-        "hvac",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-reviews.mp4",
-      "thumbnail": "site/thumbs/bj-reviews-thumb.png"
-    },
-    {
-      "id": "bj-rev-hvac",
-      "hook": "HVAC: 519 to rank",
-      "title": "HVAC: 519 to rank #Shorts",
-      "description": "HVAC — you need 519 Google reviews to rank #1. The guy beating you just asked every customer. Start asking.\n\n👇 HVAC pros — how many reviews you got?\n\n#hvac #hvaclife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "hvac",
-        "hvaclife",
+        "painting",
+        "painterlife",
         "googlereviews",
         "contractorlife",
         "smallbusiness",
         "tradeslife",
         "homeservices"
       ],
-      "video": "site/reels/bj-rev-hvac.mp4"
+      "video": "site/reels/bj-rev-paint.mp4"
     },
     {
       "id": "bj-track",
@@ -349,38 +381,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-onetap.mp4"
-    },
-    {
-      "id": "bj-rev-plumb",
-      "hook": "Plumbers: 337 to rank",
-      "title": "Plumbers: 337 to rank #Shorts",
-      "description": "Plumbers — 337 reviews to rank #1 on Google. Ask every time and you lap the whole town in 18 months.\n\n👇 Plumbers — what's your review count?\n\n#plumbing #plumberlife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "plumbing",
-        "plumberlife",
-        "googlereviews",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-rev-plumb.mp4"
-    },
-    {
-      "id": "bj-rev-paint",
-      "hook": "Painters: 109 to rank",
-      "title": "Painters: 109 to rank #Shorts",
-      "description": "Painters — 109 reviews to rank #1 on Google. Every finished job is a review you forgot to ask for. Snap a photo, ask on the spot.\n\n👇 Painters — asking for reviews yet?\n\n#painting #painterlife #googlereviews #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "painting",
-        "painterlife",
-        "googlereviews",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-rev-paint.mp4"
     },
     {
       "id": "bj-reviews50",
@@ -472,6 +472,38 @@
       "title": "How to Actually Get Google Reviews #shorts #trades"
     },
     {
+      "id": "bj-ai",
+      "hook": "Your customer asks ChatGPT",
+      "title": "Your customer asks ChatGPT #Shorts",
+      "description": "Your next customer isn't Googling a plumber — they're asking ChatGPT. 35% now start with AI, and it names 3 shops. If you're not one, you don't exist.\n\n👇 Asked AI who it recommends?\n\n#ai #aeo #seo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "ai",
+        "aeo",
+        "seo",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-ai.mp4",
+      "thumbnail": "site/thumbs/bj-ai-thumb.png"
+    },
+    {
+      "id": "bj-freecheck",
+      "hook": "The 'free' system check",
+      "title": "The 'free' system check #Shorts",
+      "description": "That free HVAC check isn't free — it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work costs money.\n\n👇 Ever been upsold on a 'free' check?\n\n#hvac #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "hvac",
+        "scamalert",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-freecheck.mp4"
+    },
+    {
       "id": "pod-ep01-starter",
       "hook": "The ONE time Angi actually makes sense",
       "title": "The ONE time Angi actually makes sense #Shorts",
@@ -526,36 +558,58 @@
       "video": "site/reels/bj-fakemaps.mp4"
     },
     {
-      "id": "bj-ai",
-      "hook": "Your customer asks ChatGPT",
-      "title": "Your customer asks ChatGPT #Shorts",
-      "description": "Your next customer isn't Googling a plumber — they're asking ChatGPT. 35% now start with AI, and it names 3 shops. If you're not one, you don't exist.\n\n👇 Asked AI who it recommends?\n\n#ai #aeo #seo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "ai",
-        "aeo",
-        "seo",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-ai.mp4",
-      "thumbnail": "site/thumbs/bj-ai-thumb.png"
+      "id": "lesson-cpl-vs-cpbj",
+      "hook": "A cheap lead can be your most expensive one",
+      "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
+      "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
     },
     {
-      "id": "bj-freecheck",
-      "hook": "The 'free' system check",
-      "title": "The 'free' system check #Shorts",
-      "description": "That free HVAC check isn't free — it's a sales funnel. The tech is paid to find $4,000 of problems on a system that's fine. Honest work costs money.\n\n👇 Ever been upsold on a 'free' check?\n\n#hvac #scamalert #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "id": "bj-missedcall",
+      "hook": "Every missed call = the other guy's job",
+      "title": "Every missed call = the other guy's job #Shorts",
+      "description": "Shops miss about 1 in 7 calls. That customer isn't leaving a voicemail — they're dialing the next name on Google before you see the notification.\n\n👇 How many calls you think you miss?\n\n#missedcalls #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
       "tags": [
-        "hvac",
-        "scamalert",
+        "missedcalls",
+        "sales",
         "contractorlife",
         "smallbusiness",
         "tradeslife",
         "homeservices"
       ],
-      "video": "site/reels/bj-freecheck.mp4"
+      "video": "site/reels/bj-missedcall.mp4",
+      "thumbnail": "site/thumbs/bj-missedcall-thumb.png"
+    },
+    {
+      "id": "bj-gbp",
+      "hook": "Fix your Google profile",
+      "title": "Fix your Google profile #Shorts",
+      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlebusiness",
+        "localseo",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-gbp.mp4"
+    },
+    {
+      "id": "bj-trade",
+      "hook": "Which trade prints money",
+      "title": "Which trade prints money #Shorts",
+      "description": "Ranking the trades by cash per job: HVAC $2,110, Plumbing $1,714, Electrical $1,434. Painters… we didn't have the heart.\n\n👇 Where'd your trade land? Fight about it 👇\n\n#hvac #plumbing #electrician #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "hvac",
+        "plumbing",
+        "electrician",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-trade.mp4",
+      "thumbnail": "site/thumbs/bj-trade-thumb.png"
     },
     {
       "id": "bj-anon98",
@@ -600,41 +654,19 @@
       "video": "site/reels/pod-ep01-wrongnum.mp4"
     },
     {
-      "id": "lesson-cpl-vs-cpbj",
-      "hook": "A cheap lead can be your most expensive one",
-      "script": "Cost per lead is the bait. Cost per booked job is the meal. A cheap lead that never books is the most expensive lead there is. Stop judging a source by the sticker price. Judge it by what a booked job actually costs you. Follow Booked Job.",
-      "title": "Why Cheap Leads Are a Trap (CPL vs CPBJ) #shorts #contractor"
-    },
-    {
-      "id": "bj-missedcall",
-      "hook": "Every missed call = the other guy's job",
-      "title": "Every missed call = the other guy's job #Shorts",
-      "description": "Shops miss about 1 in 7 calls. That customer isn't leaving a voicemail — they're dialing the next name on Google before you see the notification.\n\n👇 How many calls you think you miss?\n\n#missedcalls #sales #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "id": "bj-scam",
+      "hook": "Guaranteed #1 = scam",
+      "title": "Guaranteed #1 = scam #Shorts",
+      "description": "If a marketing company guarantees you #1 on Google — hang up. Google says nobody can promise that. Guaranteed rankings is the tell.\n\n👇 Got a pitch like this? Drop it 👇\n\n#marketingscam #seo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
       "tags": [
-        "missedcalls",
-        "sales",
+        "marketingscam",
+        "seo",
         "contractorlife",
         "smallbusiness",
         "tradeslife",
         "homeservices"
       ],
-      "video": "site/reels/bj-missedcall.mp4",
-      "thumbnail": "site/thumbs/bj-missedcall-thumb.png"
-    },
-    {
-      "id": "bj-gbp",
-      "hook": "Fix your Google profile",
-      "title": "Fix your Google profile #Shorts",
-      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "googlebusiness",
-        "localseo",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-gbp.mp4"
+      "video": "site/reels/bj-scam.mp4"
     },
     {
       "id": "pod-ep02-peak",
@@ -648,23 +680,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-peak.mp4"
-    },
-    {
-      "id": "bj-trade",
-      "hook": "Which trade prints money",
-      "title": "Which trade prints money #Shorts",
-      "description": "Ranking the trades by cash per job: HVAC $2,110, Plumbing $1,714, Electrical $1,434. Painters… we didn't have the heart.\n\n👇 Where'd your trade land? Fight about it 👇\n\n#hvac #plumbing #electrician #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "hvac",
-        "plumbing",
-        "electrician",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-trade.mp4",
-      "thumbnail": "site/thumbs/bj-trade-thumb.png"
     },
     {
       "id": "low-bid",
@@ -728,21 +743,6 @@
       "video": "site/reels/pod-ep03-track.mp4"
     },
     {
-      "id": "bj-scam",
-      "hook": "Guaranteed #1 = scam",
-      "title": "Guaranteed #1 = scam #Shorts",
-      "description": "If a marketing company guarantees you #1 on Google — hang up. Google says nobody can promise that. Guaranteed rankings is the tell.\n\n👇 Got a pitch like this? Drop it 👇\n\n#marketingscam #seo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketingscam",
-        "seo",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-scam.mp4"
-    },
-    {
       "id": "money-leaks",
       "hook": "3 ways shops bleed money",
       "script": "Here's three ways your shop bleeds money you never even see. Number one: change orders you never billed for. The job grew, the invoice didn't. Number two: quick favors. There's no such thing as a five minute favor on a paying job. Number three: you're not charging for the drive. Windshield time is still time. Plug those three leaks, and you just gave yourself a raise. Follow Booked Job.",
@@ -761,6 +761,21 @@
         "contractor business",
         "getting paid"
       ]
+    },
+    {
+      "id": "bj-cheapbid",
+      "hook": "Cheapest bid costs the most",
+      "title": "Cheapest bid costs the most #Shorts",
+      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "pricing",
+        "contractorlife",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-cheapbid.mp4"
     },
     {
       "id": "bj-wordpress",
@@ -784,25 +799,16 @@
       "title": "Reviews Decide Who Gets the Call #shorts #trades"
     },
     {
-      "id": "bj-cheapbid",
-      "hook": "Cheapest bid costs the most",
-      "title": "Cheapest bid costs the most #Shorts",
-      "description": "You lowball to win, then eat change orders and cut corners to survive it. The guy who bid high has margin to do it right. Stop apologizing for your price.\n\n👇 Ever lose a job on price and dodge a bullet?\n\n#pricing #contractorlife #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "pricing",
-        "contractorlife",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-cheapbid.mp4"
-    },
-    {
       "id": "markup-vs-margin",
       "hook": "A 50% markup is only a 33% margin",
       "script": "Most contractors don't lose money on the work. They lose it on the estimate. Here's the trap. A fifty percent markup is only a thirty three percent margin. Price off margin, not markup, or you'll work all year and wonder where it went. Follow Booked Job.",
       "title": "Markup vs Margin: The Money Math #shorts #contractor"
+    },
+    {
+      "id": "lesson-map-pack",
+      "hook": "Free real estate at the top of Google",
+      "script": "The map pack is the top of local search. Three spots, totally free. Your Google Business Profile is what gets you in. Claim it, pick the right category, and add real photos of real work. Most contractors leave it half empty and wonder why they don't show up. Follow Booked Job.",
+      "title": "Win Google's Map Pack (It's Free) #shorts #contractor"
     },
     {
       "id": "bj-stormchaser",
@@ -818,12 +824,6 @@
         "homeservices"
       ],
       "video": "site/reels/bj-stormchaser.mp4"
-    },
-    {
-      "id": "lesson-map-pack",
-      "hook": "Free real estate at the top of Google",
-      "script": "The map pack is the top of local search. Three spots, totally free. Your Google Business Profile is what gets you in. Claim it, pick the right category, and add real photos of real work. Most contractors leave it half empty and wonder why they don't show up. Follow Booked Job.",
-      "title": "Win Google's Map Pack (It's Free) #shorts #contractor"
     },
     {
       "id": "lesson-website-job",

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "ts": "2026-11-25T22:57",
+      "kind": "site",
+      "icon": "🌐",
+      "text": "Posted engagement to Bluesky: pricing once not twice"
+    },
+    {
       "ts": "2026-11-25T16:37",
       "kind": "site",
       "icon": "🌐",
@@ -1193,12 +1199,6 @@
       "kind": "site",
       "icon": "🌐",
       "text": "Posted engagement to Bluesky: biz money leaks"
-    },
-    {
-      "ts": "2026-11-01T13:43",
-      "kind": "site",
-      "icon": "🌐",
-      "text": "Posted engagement to Bluesky: biz slow season"
     }
   ]
 }

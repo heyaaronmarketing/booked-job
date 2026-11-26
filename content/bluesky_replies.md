@@ -2,6 +2,10 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@androdconstruction.bsky.social**: See what thoughtful craftsmanship can create. Tobermory's general contractor delivers custom homes, renovations, and standout details designed to make every space feel truly yours.
+and-rodcontracting.
+  → https://bsky.app/profile/androdconstruction.bsky.social/post/3n35fuhwh4s2u
+
 - **@hiddenentry.bsky.social**: Planning an evening in Jalandhar? Agree on the venue and start time in advance, confirm how you’ll get home, and ask before sharing anyone’s photos. Hidden Entry’s Jalandhar page has more on what to d
   → https://bsky.app/profile/hiddenentry.bsky.social/post/3n32c2xx6622p
 
@@ -188,10 +192,3 @@ MA folks! Do you or someone you know need electrical work done before the holida
 
 - **@hghorizonstudio.bsky.social**: One question for small business owners: what’s the one number that tells you your marketing is working? Salon, booked appointments. Shop, online orders. Contractor, quote requests. Pick one you can ch
   → https://bsky.app/profile/hghorizonstudio.bsky.social/post/3n2m2j7s63s2d
-
-- **@stylelib.org**: Condo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=824267 
-
-#architecture #builder #building #business #company #construction #constructor #contractor #corporate #electrician #engin
-  → https://bsky.app/profile/stylelib.org/post/3mysxx7xahn2c
