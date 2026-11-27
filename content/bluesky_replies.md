@@ -2,6 +2,15 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/HVAC business gets 3-5 calls a week max? A proper website + SEO + AI chatbot handling inquiries 24/7 = 15-20+ qualified leads monthly. We build it, optimize it, automate it. N
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3n2kau52wg32j
+
+- **@websitebuilders.bsky.social**: Your landscaping/roofing/plumbing business is leaving money on the table. A done-for-you website + SEO + AI chatbot answering calls 24/7 = more qualified leads. We handle it all. Ready to actually com
+  → https://bsky.app/profile/websitebuilders.bsky.social/post/3n33u4ky5tt27
+
+- **@shareefhuddle.bsky.social**: Readiness test for a second market: visibility grows without constant effort, a real share of jobs come from people who already knew you, you can name your unclaimed areas, and the business runs witho
+  → https://bsky.app/profile/shareefhuddle.bsky.social/post/3n342hd3tyw2e
+
 - **@caseysseo.bsky.social**: Electrician near 10th St in Greeley? Your Google Business Profile should match the work and areas you actually cover. Call 719-639-8238. caseysseo.com #LocalSEO #GreeleyCO
 
 https://www.youtube.com/sho
@@ -183,16 +192,3 @@ An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each us
 
 MA folks! Do you or someone you know need electrical work done before the holidays set in, but don't know where to find a good electrician w
   → https://bsky.app/profile/riversdaughter.bsky.social/post/3n2ofie72jk2t
-
-- **@alproconstruction.bsky.social**: Planning general contractor work in Oakland, NJ? Al-Pro Construction LLC reviews soil, drainage, loads, and existing construction. Loose fill can settle or crack. Contact us to discuss your patio, ret
-  → https://bsky.app/profile/alproconstruction.bsky.social/post/3n2oznh4g5l2x
-
-- **@stylelib.org**: Constructo – Construction WordPress Theme
-
- https://themes.stylelib.org/?p=6194 
-
-#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
-  → https://bsky.app/profile/stylelib.org/post/3n2nxkmodae2h
-
-- **@oregonoldster.bsky.social**: So he can be a plumber. Did he study the constitution? Did his plumbing course include a history class? Did he serve in the military? No, he is a high school graduate who can unplug toilets and run a 
-  → https://bsky.app/profile/oregonoldster.bsky.social/post/3n2msj5wfa22e

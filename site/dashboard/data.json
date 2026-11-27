@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:59",
+  "updated": "2026-11-26T17:44",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 747
+    "media": 750
   },
   "email": {
     "subscribers": 8
@@ -178,8 +178,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 714,
-      "pageviews_weekly": 5423,
-      "pageviews_monthly": 19510
+      "pageviews_weekly": 5646,
+      "pageviews_monthly": 19733
     },
     "total_clicks": 0,
     "total_impressions": 9,
@@ -196,7 +196,7 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 83,
+      "posts": 81,
       "views": 67,
       "reactions": 3,
       "comments": 0,
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2145,
+      "views": 2169,
       "followers": 1
     },
     {
@@ -493,12 +493,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 4,
+      "count": 5,
       "unit": "posts",
       "followers": 374,
       "grade": "A",
       "group": "social",
-      "likes": 9
+      "likes": 8
     },
     {
       "name": "Mastodon",
@@ -605,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 20
       },
       {
         "type": "Polls",
@@ -635,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 18
+        "count": 20
       },
       {
         "type": "Long video",
@@ -691,7 +691,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 52
+        "count": 53
       },
       {
         "type": "Articles",
@@ -722,12 +722,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 4
+        "count": 5
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 4
+        "count": 5
       }
     ],
     "Mastodon": [
@@ -786,7 +786,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 6
+        "count": 7
       }
     ]
   },
@@ -828,7 +828,7 @@
     }
   ],
   "funnel": {
-    "reach": 36924,
+    "reach": 36963,
     "engagement": 4,
     "audience": 406,
     "cr_clicks": 210
@@ -837,7 +837,7 @@
     "audience": 18,
     "engagement": -1,
     "email": 1,
-    "reach": -153
+    "reach": -114
   },
   "mafia": {
     "metrics": [
@@ -853,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1527,
+        "value": 1528,
         "grade": "A"
       },
       {

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-26T08:59",
+  "generated": "2026-11-26T17:44",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 3991,
+      "views": 4042,
       "engagements": 2,
       "er": 0.05
     },
@@ -63,7 +63,7 @@
       "channel": "FB Reels",
       "id": "1009662104891298",
       "caption": "You need 519 Google reviews to rank #1 in HVAC. Most shops have 12. The guy beating you didn't do better work \u2014 he just asked.\n\n\ud83d\udc47 Drop your ",
-      "views": 251,
+      "views": 252,
       "reactions": 1,
       "comments": 0,
       "shares": 0,
@@ -82,6 +82,18 @@
       "engagements": 1,
       "er": 0.39,
       "date": "2026-11-23"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1851275622678354",
+      "caption": "Ranking the trades by cash per job: HVAC $2,110, Plumbing $1,714, Electrical $1,434. Painters\u2026 we didn't have the heart.\n\n\ud83d\udc47 Where'd your tra",
+      "views": 256,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-26"
     },
     {
       "channel": "FB Reels",
@@ -106,33 +118,9 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-25"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1650628066553485",
-      "caption": "The number Angi doesn't want you doing \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udee0\ufe0f Follow for the math no",
-      "views": 139,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-24"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "1864729631188027",
-      "caption": "78% of homeowners hire whoever responds first \u2014 not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #con",
-      "views": 207,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-15"
-    },
     {
       "channel": "FB Reels",
       "id": "1779082770884917",
@@ -216,6 +204,18 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-19"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "2028073261202234",
+      "caption": "519 reviews to rank #1 \u2014 you've got 12 \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get ",
+      "views": 274,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-20"
     }
   ],
   "note": "ER = (reactions+comments+shares)/views, %. 'top' = hooks that earned a reaction when seen; feed these patterns into new posts. Everything near 0 = reach without resonance (content problem)."
