@@ -2,6 +2,11 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@comichealresearch.bsky.social**: "I run a research editing service for papers in every field: sciences, medicine, engineering, social sciences and business.
+
+What I check that most editors don't: do your tables, figures and numbers m
+  → https://bsky.app/profile/comichealresearch.bsky.social/post/3n3bx54bwts2r
+
 - **@leogirl4u.bsky.social**: You know who looks down on skilled trades? Rich people. 
 
 Who gives a shit what they think, you nor I will ever be invited to eat at their table. Bsh, big deal.
@@ -191,6 +196,3 @@ Dana Marek sometimes hears a question from customers: Why haven’t we heard of 
 
 An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
   → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
-
-- **@bcfmwu.bsky.social**: Recognize this Thursday throwback? 👀 For decades, skilled trades workers at this Fraser River facility have kept BC Ferries' fleet maintained, repaired and ready to sail. Yes, it's Deas Dock circa 197
-  → https://bsky.app/profile/bcfmwu.bsky.social/post/3n2odtrfwma2x
