@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T23:44:29Z",
+  "updated": "2026-11-27T08:09:14Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 27,
+        "uses": 25,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#contractor",
-        "uses": 16,
+        "uses": 17,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
@@ -93,17 +93,17 @@
       },
       {
         "tag": "#contractors",
-        "uses": 13,
+        "uses": 11,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
         "tag": "#plumbing",
-        "uses": 9,
+        "uses": 8,
         "link": "https://mastodon.social/tags/plumbing"
       },
       {
         "tag": "#hvacr",
-        "uses": 6,
+        "uses": 5,
         "link": "https://mastodon.social/tags/hvacr"
       },
       {
@@ -132,15 +132,15 @@
         "link": "https://mastodon.social/tags/Electricians"
       },
       {
-        "tag": "#ContractorInsurance",
+        "tag": "#ContractorReporting",
         "uses": 1,
-        "link": "https://mastodon.social/tags/ContractorInsurance"
+        "link": "https://mastodon.social/tags/ContractorReporting"
       }
     ],
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 469755,
+        "followers": 469756,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -165,7 +165,7 @@
       },
       {
         "handle": "@home-page-newyorktimes@flipboard.com",
-        "followers": 8442,
+        "followers": 8443,
         "link": "https://flipboard.com/@newyorktimes/home-page-91uottdbz"
       },
       {
@@ -201,7 +201,7 @@
     {
       "handle": "@hungcontractor.bsky.social",
       "display": "Hung contractor",
-      "followers": 8693,
+      "followers": 8692,
       "desc": "…",
       "link": "https://bsky.app/profile/hungcontractor.bsky.social"
     },
@@ -227,13 +227,6 @@
       "link": "https://bsky.app/profile/noshir.bsky.social"
     },
     {
-      "handle": "@cpajoe.bsky.social",
-      "display": "Joe Rosenberg",
-      "followers": 2245,
-      "desc": "New Jersey and New York Certified Public Accountant in my own accounting and tax practice for small business owners and ",
-      "link": "https://bsky.app/profile/cpajoe.bsky.social"
-    },
-    {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
       "followers": 1883,
@@ -257,7 +250,7 @@
     {
       "handle": "@thatroofingguy.bsky.social",
       "display": "That Roofing Guy",
-      "followers": 1414,
+      "followers": 1415,
       "desc": "Blue voter Will definitely put a taliMAGAban cult member in their place. Seahawks, Mariners, Kraken, Storm, Sounders #br",
       "link": "https://bsky.app/profile/thatroofingguy.bsky.social"
     },
@@ -278,7 +271,7 @@
     {
       "handle": "@kegman83.bsky.social",
       "display": "Killdozer Enthusiast. CIA contractor paid with kibble.",
-      "followers": 999,
+      "followers": 998,
       "desc": "Definitely, totally not a member of a state sponsored intelligence agency but thanks for asking. 🇺🇦🇺🇲🇮🇪🦴",
       "link": "https://bsky.app/profile/kegman83.bsky.social"
     },
@@ -288,6 +281,13 @@
       "followers": 858,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
+    },
+    {
+      "handle": "@thebarehandyman.bsky.social",
+      "display": "The Bare Handyman",
+      "followers": 750,
+      "desc": "professional handyman",
+      "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
     }
   ]
 }

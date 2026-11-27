@@ -2,6 +2,13 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@leogirl4u.bsky.social**: You know who looks down on skilled trades? Rich people. 
+
+Who gives a shit what they think, you nor I will ever be invited to eat at their table. Bsh, big deal.
+
+I would rather eat at the table where 
+  → https://bsky.app/profile/leogirl4u.bsky.social/post/3n3a63qitu22f
+
 - **@websitebuilders.bsky.social**: Your landscaping/roofing/HVAC business gets 3-5 calls a week max? A proper website + SEO + AI chatbot handling inquiries 24/7 = 15-20+ qualified leads monthly. We build it, optimize it, automate it. N
   → https://bsky.app/profile/websitebuilders.bsky.social/post/3n2kau52wg32j
 
@@ -187,8 +194,3 @@ An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each us
 
 - **@bcfmwu.bsky.social**: Recognize this Thursday throwback? 👀 For decades, skilled trades workers at this Fraser River facility have kept BC Ferries' fleet maintained, repaired and ready to sail. Yes, it's Deas Dock circa 197
   → https://bsky.app/profile/bcfmwu.bsky.social/post/3n2odtrfwma2x
-
-- **@riversdaughter.bsky.social**: Signal boosting my husband's business. Go! Hire him today!
-
-MA folks! Do you or someone you know need electrical work done before the holidays set in, but don't know where to find a good electrician w
-  → https://bsky.app/profile/riversdaughter.bsky.social/post/3n2ofie72jk2t

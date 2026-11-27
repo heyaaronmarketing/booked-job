@@ -358,5 +358,25 @@
         "er": 4.48
       }
     }
+  },
+  {
+    "date": "2026-11-27",
+    "channels": {
+      "FB Reels": {
+        "views": 4282,
+        "engagements": 2,
+        "er": 0.05
+      },
+      "YT Shorts": {
+        "views": 368,
+        "engagements": 26,
+        "er": 7.07
+      },
+      "TikTok": {
+        "views": 35,
+        "engagements": 3,
+        "er": 8.57
+      }
+    }
   }
 ]

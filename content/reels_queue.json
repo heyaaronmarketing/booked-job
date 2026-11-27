@@ -88,17 +88,17 @@
       "video": "site/reels/text-back.mp4"
     },
     {
-      "id": "af-ai-loop",
-      "hook": "AI receptionist fail",
-      "description": "These goddamn AI bots. 😤 Watch an “AI receptionist” loop a customer right out the door. We reviewed every AI receptionist — honest verdict + what to use instead: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 A real human answers your leads: aaron.chat #contractor #trades #smallbusiness (dramatization of a documented AI failure)",
-      "video": "site/reels/af-ai-loop.mp4"
-    },
-    {
       "id": "website-converting",
       "hook": "98% leave your site without calling",
       "script": "Here's a brutal number. For every hundred people who land on your website, ninety-eight leave without ever calling. Why? No reviews up top, no click-to-call button, and it takes six seconds to load on a phone. The fix isn't a prettier site. It's a phone number they can tap in one thumb and proof you're not going to rip them off. Make it easy to call you. Follow Booked Job.",
       "description": "98 out of 100 visitors leave your site without calling. Usually it's 3 easy fixes. #website #contractor #leads",
       "video": "site/reels/website-converting.mp4"
+    },
+    {
+      "id": "af-ai-loop",
+      "hook": "AI receptionist fail",
+      "description": "These goddamn AI bots. 😤 Watch an “AI receptionist” loop a customer right out the door. We reviewed every AI receptionist — honest verdict + what to use instead: booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 A real human answers your leads: aaron.chat #contractor #trades #smallbusiness (dramatization of a documented AI failure)",
+      "video": "site/reels/af-ai-loop.mp4"
     },
     {
       "id": "first-to-answer",
@@ -132,13 +132,6 @@
       "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
     },
     {
-      "id": "repeat-customer",
-      "hook": "Keeping a customer beats finding one",
-      "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
-      "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
-      "video": "site/reels/repeat-customer.mp4"
-    },
-    {
       "id": "eight-automations",
       "hook": "8 automations, zero leads",
       "script": "Saw a plumbing owner online describe his marketing setup. Eight automations. Three funnels. A membership area. A chat widget on the site. And he admitted he never actually ran a single lead through any of it. That's not a marketing problem, that's a hiding problem. Building the system feels like work. Answering the phone feels like work you already know how to do. Pick up the phone, ask for the review, send the invoice. The boring three beat the whole stack. Follow Booked Job.",
@@ -149,6 +142,13 @@
       "hook": "Nobody taught you marketing",
       "description": "Marketing 101, Lesson 1: what marketing actually is — the 3-minute version. Full course #contractor #trades #marketing101",
       "video": "site/reels/explainer-lesson-01.mp4"
+    },
+    {
+      "id": "repeat-customer",
+      "hook": "Keeping a customer beats finding one",
+      "script": "It costs about five times more to find a new customer than to keep one you already have. So why do most shops finish a job and vanish? Send a thank-you. Set a reminder to check in before their next service season. A ten-second text six months later turns a one-time job into a customer for life. The work gets you paid once. The relationship gets you paid for years. Follow Booked Job.",
+      "description": "New customers cost 5x more than keeping old ones. What's your follow-up look like? 👇 #retention #contractor #smallbusiness",
+      "video": "site/reels/repeat-customer.mp4"
     },
     {
       "id": "show-up",
@@ -178,18 +178,18 @@
       "video": "content/podcast/clips/clip2-game.mp4"
     },
     {
-      "id": "referrals",
-      "hook": "Your best lead just left your driveway",
-      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
-      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
-      "video": "site/reels/referrals.mp4"
-    },
-    {
       "id": "slow-season",
       "hook": "Slow season starts in summer",
       "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
       "description": "The busy season is exactly when you should be marketing. Most shops learn this in January. #contractor #smallbusiness",
       "video": "site/reels/slow-season.mp4"
+    },
+    {
+      "id": "referrals",
+      "hook": "Your best lead just left your driveway",
+      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
+      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
+      "video": "site/reels/referrals.mp4"
     },
     {
       "id": "ad-arctic",
@@ -226,16 +226,16 @@
       "video": "site/reels/last-guy.mp4"
     },
     {
-      "id": "ad-pauls",
-      "hook": "The spite ad that opens the show",
-      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/ad-pauls.mp4"
-    },
-    {
       "id": "pod-clip-turd",
       "hook": "New podcast: Get Booked, Not F***ed",
       "description": "Two old tradesmen and an idiot apprentice talking real shop marketing. Episode 1 is live — listen free, link/podcast. 🎧 #contractor #trades #podcast @PlayMorePods #PodcastsOnAmazonMusic",
       "video": "content/podcast/clips/clip1-turd.mp4"
+    },
+    {
+      "id": "ad-pauls",
+      "hook": "The spite ad that opens the show",
+      "description": "We hated our competitor, so we paid to have his radio ad made. Pure vendetta. From Get Booked, Not F***ed — free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/ad-pauls.mp4"
     },
     {
       "id": "clip-porno2",
@@ -256,6 +256,13 @@
       "script": "Customer wants to do it in cash and skip the paperwork. Sounds like a favor. It's a trap. That paperwork, the contract, the invoice, the permit, that's what protects you when they claim you never did the work, or the inspector comes knocking. No paper means no proof. The five percent you save today is the lawsuit you pay for next year. Always paper the job. Follow Booked Job.",
       "description": "'Cash and skip the paperwork' protects them, not you. How do you say no without losing the job? 👇 #contractor #getpaid #trades",
       "video": "site/reels/cash-job.mp4"
+    },
+    {
+      "id": "youtube-expert",
+      "hook": "\"I watched a video, it looked easy\"",
+      "script": "Customer tells you, I watched a video, it looked easy. Here's what I've learned to say. It did look easy. That's exactly why I have a job. The video didn't show the corroded fitting behind the wall, the code violation, or the part that's discontinued. You're not paying me to do the easy version. You're paying me so the easy version doesn't turn into a flood at 2 a.m. Follow Booked Job.",
+      "description": "It looked easy in the video. That's the whole business model. 😅 #plumbing #electrician #contractor #trades",
+      "video": "site/reels/youtube-expert.mp4"
     },
     {
       "id": "dont-discount",
@@ -284,13 +291,6 @@
       "script": "You drove forty minutes for an estimate and they weren't even home. Sound familiar? Here's the filter. Before you book the estimate, ask two questions. What's the timeline, and is this in the budget you had in mind? The serious customers answer easy. The tire-kickers get weird. That two-minute phone call just saved you a tank of gas and half a Saturday. Qualify before you drive. Follow Booked Job.",
       "description": "Qualify on the phone before you drive out. Two questions filter the tire-kickers. #contractor #sales #trades",
       "video": "site/reels/estimate-noshow.mp4"
-    },
-    {
-      "id": "youtube-expert",
-      "hook": "\"I watched a video, it looked easy\"",
-      "script": "Customer tells you, I watched a video, it looked easy. Here's what I've learned to say. It did look easy. That's exactly why I have a job. The video didn't show the corroded fitting behind the wall, the code violation, or the part that's discontinued. You're not paying me to do the easy version. You're paying me so the easy version doesn't turn into a flood at 2 a.m. Follow Booked Job.",
-      "description": "It looked easy in the video. That's the whole business model. 😅 #plumbing #electrician #contractor #trades",
-      "video": "site/reels/youtube-expert.mp4"
     },
     {
       "id": "clip-speed",

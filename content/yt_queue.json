@@ -268,6 +268,36 @@
       "video": "site/reels/bj-rev-paint.mp4"
     },
     {
+      "id": "bj-track",
+      "hook": "Track every lead source",
+      "title": "Track every lead source #Shorts",
+      "description": "You can't fix marketing you don't track. Put a different number or QR code on every truck, sign, and ad. Guessing is how you burn $10k a year.\n\n👇 How do you track where jobs come from?\n\n#marketing #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "howto",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-track.mp4"
+    },
+    {
+      "id": "bj-reviews50",
+      "hook": "First 50 reviews, no begging",
+      "title": "First 50 reviews, no begging #Shorts",
+      "description": "Text every happy customer the day after with a direct link. Ask in person before you pull off the drive. People say yes when you make it easy.\n\n👇 What's your review-ask look like?\n\n#googlereviews #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlereviews",
+        "howto",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-reviews50.mp4"
+    },
+    {
       "id": "bj-yelp",
       "hook": "Yelp: worth it?",
       "title": "Yelp: worth it? #Shorts",
@@ -320,36 +350,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep03-lie.mp4"
-    },
-    {
-      "id": "bj-track",
-      "hook": "Track every lead source",
-      "title": "Track every lead source #Shorts",
-      "description": "You can't fix marketing you don't track. Put a different number or QR code on every truck, sign, and ad. Guessing is how you burn $10k a year.\n\n👇 How do you track where jobs come from?\n\n#marketing #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "howto",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-track.mp4"
-    },
-    {
-      "id": "bj-reviews50",
-      "hook": "First 50 reviews, no begging",
-      "title": "First 50 reviews, no begging #Shorts",
-      "description": "Text every happy customer the day after with a direct link. Ask in person before you pull off the drive. People say yes when you make it easy.\n\n👇 What's your review-ask look like?\n\n#googlereviews #howto #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "googlereviews",
-        "howto",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-reviews50.mp4"
     },
     {
       "id": "stop-renting-leads",
@@ -435,6 +435,21 @@
       ],
       "video": "site/reels/bj-ai.mp4",
       "thumbnail": "site/thumbs/bj-ai-thumb.png"
+    },
+    {
+      "id": "bj-gbp",
+      "hook": "Fix your Google profile",
+      "title": "Fix your Google profile #Shorts",
+      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "googlebusiness",
+        "localseo",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-gbp.mp4"
     },
     {
       "id": "bj-freecheck",
@@ -535,19 +550,20 @@
       "thumbnail": "site/thumbs/bj-missedcall-thumb.png"
     },
     {
-      "id": "bj-gbp",
-      "hook": "Fix your Google profile",
-      "title": "Fix your Google profile #Shorts",
-      "description": "Most contractors set up their Google Business Profile once and never touch it. Post weekly, answer every review, load photos, list every service. Best free marketing you're ignoring.\n\n👇 When'd you last update your Google profile?\n\n#googlebusiness #localseo #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "id": "bj-anon98",
+      "hook": "98% of visitors vanish",
+      "title": "98% of visitors vanish #Shorts",
+      "description": "98% of the people who visit your site leave without a trace — no call, no form. You paid to get them there and they're gone. Capture them or keep renting.\n\n👇 Know how many visitors your site gets?\n\n#marketing #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
       "tags": [
-        "googlebusiness",
-        "localseo",
+        "marketing",
+        "leadgen",
         "contractorlife",
         "smallbusiness",
         "tradeslife",
         "homeservices"
       ],
-      "video": "site/reels/bj-gbp.mp4"
+      "video": "site/reels/bj-anon98.mp4",
+      "thumbnail": "site/thumbs/bj-anon98-thumb.png"
     },
     {
       "id": "pod-ep01-starter",
@@ -612,22 +628,6 @@
       "thumbnail": "site/thumbs/bj-trade-thumb.png"
     },
     {
-      "id": "bj-anon98",
-      "hook": "98% of visitors vanish",
-      "title": "98% of visitors vanish #Shorts",
-      "description": "98% of the people who visit your site leave without a trace — no call, no form. You paid to get them there and they're gone. Capture them or keep renting.\n\n👇 Know how many visitors your site gets?\n\n#marketing #leadgen #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "leadgen",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-anon98.mp4",
-      "thumbnail": "site/thumbs/bj-anon98-thumb.png"
-    },
-    {
       "id": "bj-scam",
       "hook": "Guaranteed #1 = scam",
       "title": "Guaranteed #1 = scam #Shorts",
@@ -641,6 +641,21 @@
         "homeservices"
       ],
       "video": "site/reels/bj-scam.mp4"
+    },
+    {
+      "id": "bj-slow",
+      "hook": "Slow season starts in July",
+      "title": "Slow season starts in July #Shorts",
+      "description": "Demand triples Feb→July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n👇 Who's already dreading January?\n\n#marketing #seasonal #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
+      "tags": [
+        "marketing",
+        "seasonal",
+        "contractorlife",
+        "smallbusiness",
+        "tradeslife",
+        "homeservices"
+      ],
+      "video": "site/reels/bj-slow.mp4"
     },
     {
       "id": "pod-ep01-verdict",
@@ -700,21 +715,6 @@
         "marketing"
       ],
       "video": "site/reels/pod-ep02-peak.mp4"
-    },
-    {
-      "id": "bj-slow",
-      "hook": "Slow season starts in July",
-      "title": "Slow season starts in July #Shorts",
-      "description": "Demand triples Feb→July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n👇 Who's already dreading January?\n\n#marketing #seasonal #contractorlife #smallbusiness #tradeslife #homeservices\nbooked-job.com #Shorts",
-      "tags": [
-        "marketing",
-        "seasonal",
-        "contractorlife",
-        "smallbusiness",
-        "tradeslife",
-        "homeservices"
-      ],
-      "video": "site/reels/bj-slow.mp4"
     },
     {
       "id": "money-leaks",

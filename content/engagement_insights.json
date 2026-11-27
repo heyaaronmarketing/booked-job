@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-26T17:44",
+  "generated": "2026-11-27T02:09",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 4042,
+      "views": 4282,
       "engagements": 2,
       "er": 0.05
     },
@@ -16,9 +16,9 @@
     },
     "TikTok": {
       "posts": 1,
-      "views": 67,
+      "views": 35,
       "engagements": 3,
-      "er": 4.48
+      "er": 8.57
     }
   },
   "post_count": 51,
@@ -85,9 +85,21 @@
     },
     {
       "channel": "FB Reels",
+      "id": "1170522612007818",
+      "caption": "Demand triples Feb\u2192July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n\ud83d\udc47 Who's already d",
+      "views": 234,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-26"
+    },
+    {
+      "channel": "FB Reels",
       "id": "1851275622678354",
       "caption": "Ranking the trades by cash per job: HVAC $2,110, Plumbing $1,714, Electrical $1,434. Painters\u2026 we didn't have the heart.\n\n\ud83d\udc47 Where'd your tra",
-      "views": 256,
+      "views": 261,
       "reactions": 0,
       "comments": 0,
       "shares": 0,
@@ -99,19 +111,7 @@
       "channel": "FB Reels",
       "id": "1422052419697247",
       "caption": "Angi charges $79 for a single lead \u2014 then sells it to 5 other guys. You're not buying a lead, you're buying a bidding war against yourself.\n",
-      "views": 120,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-25"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "29325809473750353",
-      "caption": "One Angi lead \u2014 sold to 5 other guys \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get fo",
-      "views": 247,
+      "views": 121,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:44",
+  "updated": "2026-11-27T02:09",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 750
+    "media": 751
   },
   "email": {
     "subscribers": 8
@@ -177,9 +177,9 @@
       "days": 28
     },
     "cloudflare": {
-      "pageviews_daily": 714,
-      "pageviews_weekly": 5646,
-      "pageviews_monthly": 19733
+      "pageviews_daily": 669,
+      "pageviews_weekly": 5281,
+      "pageviews_monthly": 19987
     },
     "total_clicks": 0,
     "total_impressions": 9,
@@ -196,8 +196,8 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 81,
-      "views": 67,
+      "posts": 82,
+      "views": 35,
       "reactions": 3,
       "comments": 0,
       "engagement_rate": 0
@@ -441,7 +441,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 1739,
+      "views": 1709,
       "followers": 20,
       "likes": 4
     },
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2169,
+      "views": 2123,
       "followers": 1
     },
     {
@@ -493,12 +493,12 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 5,
+      "count": 6,
       "unit": "posts",
-      "followers": 374,
+      "followers": 377,
       "grade": "A",
       "group": "social",
-      "likes": 8
+      "likes": 6
     },
     {
       "name": "Mastodon",
@@ -559,8 +559,8 @@
       "status": "live",
       "count": 85,
       "unit": "videos (Buffer)",
-      "stat": "67 views \u00b7 3 reactions",
-      "views": 67,
+      "stat": "35 views \u00b7 3 reactions",
+      "views": 35,
       "likes": 3,
       "grade": "B",
       "group": "social"
@@ -605,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 20
+        "count": 2
       },
       {
         "type": "Polls",
@@ -635,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 20
+        "count": 2
       },
       {
         "type": "Long video",
@@ -691,7 +691,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 53
+        "count": 54
       },
       {
         "type": "Articles",
@@ -722,12 +722,12 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 5
+        "count": 6
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 5
+        "count": 6
       }
     ],
     "Mastodon": [
@@ -786,7 +786,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 7
+        "count": 8
       }
     ]
   },
@@ -828,16 +828,16 @@
     }
   ],
   "funnel": {
-    "reach": 36963,
+    "reach": 36802,
     "engagement": 4,
-    "audience": 406,
-    "cr_clicks": 210
+    "audience": 409,
+    "cr_clicks": 211
   },
   "trends": {
-    "audience": 18,
-    "engagement": -1,
+    "audience": 19,
+    "engagement": 0,
     "email": 1,
-    "reach": -114
+    "reach": -290
   },
   "mafia": {
     "metrics": [
@@ -848,12 +848,12 @@
       },
       {
         "label": "Total Clicks",
-        "value": 210,
+        "value": 211,
         "grade": "B"
       },
       {
         "label": "Total Posts",
-        "value": 1528,
+        "value": 1529,
         "grade": "A"
       },
       {
@@ -863,7 +863,7 @@
       },
       {
         "label": "Audience Size",
-        "value": 406,
+        "value": 409,
         "grade": "B"
       },
       {
@@ -873,6 +873,6 @@
       }
     ],
     "overall": "B",
-    "summary": "Strong. 406 audience and 210 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
+    "summary": "Strong. 409 audience and 211 clicks to Consent Resolve \u2014 this is working. To hit an A: scale the winning channels, push reach (ads + video), and fix the funnel's weakest stage."
   }
 }
