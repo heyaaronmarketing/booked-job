@@ -2,6 +2,16 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@gohirevirtual.bsky.social**: General contractors: what eats up more of your week, paperwork, scheduling, or chasing delayed parts?
+
+A General Contractor Virtual Assistant can take the admin off your plate so you can build.
+
+gohir
+  → https://bsky.app/profile/gohirevirtual.bsky.social/post/3n3ddv4pkwt2y
+
+- **@jvanbooven.bsky.social**: Ghosts? Yeah Mate, I Got a Guy for That. A General Contractor Mystery Novel
+  → https://bsky.app/profile/jvanbooven.bsky.social/post/3n3e2u37py22g
+
 - **@stylelib.org**: Constructo – Construction WordPress Theme
 
  https://themes.stylelib.org/?p=6194 
@@ -188,15 +198,3 @@ https://www.youtube.com/watch
 
 Looking for dependable commercial roofing solutions? Understanding your roof's condition and choosing experienced professionals can make a 
   → https://bsky.app/profile/precision06.bsky.social/post/3n2nzlqdyg22b
-
-- **@roofingleadshq.bsky.social**: Google Business Profile for roofers: do you hide your address and show a service area, or show your shop? Which works better for you?
-
-https://roofingleadscompany.com/roofing-seo?utm_source=bluesky&ut
-  → https://bsky.app/profile/roofingleadshq.bsky.social/post/3n2ozhitsn72w
-
-- **@stylelib.org**: Beruco – Roofing Services WordPress Theme
-
- https://themes.stylelib.org/?p=810327 
-
-#business #corporate #themeforest #wordpress
-  → https://bsky.app/profile/stylelib.org/post/3n2rwxm3cp62s

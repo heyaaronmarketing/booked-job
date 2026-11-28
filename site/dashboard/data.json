@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T04:13",
+  "updated": "2026-11-28T12:51",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -184,8 +184,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 641,
-      "pageviews_weekly": 5303,
-      "pageviews_monthly": 20605
+      "pageviews_weekly": 5513,
+      "pageviews_monthly": 20815
     },
     "total_clicks": 0,
     "total_impressions": 10,
@@ -202,7 +202,7 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 82,
+      "posts": 81,
       "views": 35,
       "reactions": 3,
       "comments": 0,
@@ -211,7 +211,7 @@
     "linkedin": {
       "name": "Booked Job",
       "posts": 35,
-      "views": 52,
+      "views": 53,
       "reactions": 2,
       "comments": 0,
       "engagement_rate": 0.58
@@ -458,7 +458,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2168,
+      "views": 2178,
       "followers": 1
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 9,
+      "count": 10,
       "unit": "posts",
       "followers": 378,
       "grade": "A",
@@ -554,8 +554,8 @@
       "status": "live",
       "count": 68,
       "unit": "posts (Buffer)",
-      "stat": "526 reach \u00b7 2 reactions",
-      "views": 52,
+      "stat": "529 reach \u00b7 2 reactions",
+      "views": 53,
       "likes": 2,
       "grade": "B",
       "group": "social"
@@ -611,7 +611,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 6
       },
       {
         "type": "Polls",
@@ -641,7 +641,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 8
+        "count": 6
       },
       {
         "type": "Long video",
@@ -728,7 +728,7 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 9
+        "count": 10
       },
       {
         "type": "Video",
@@ -834,7 +834,7 @@
     }
   ],
   "funnel": {
-    "reach": 36966,
+    "reach": 36987,
     "engagement": 4,
     "audience": 410,
     "cr_clicks": 211
@@ -843,7 +843,7 @@
     "audience": 18,
     "engagement": 1,
     "email": 1,
-    "reach": -96
+    "reach": -75
   },
   "mafia": {
     "metrics": [
@@ -859,7 +859,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1536,
+        "value": 1537,
         "grade": "A"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T10:13:58Z",
+  "updated": "2026-11-28T18:51:15Z",
   "reddit": [
     {
       "name": "r/HVAC",
@@ -78,12 +78,12 @@
     "tags": [
       {
         "tag": "#homeimprovement",
-        "uses": 29,
+        "uses": 34,
         "link": "https://mastodon.social/tags/homeimprovement"
       },
       {
         "tag": "#contractor",
-        "uses": 23,
+        "uses": 26,
         "link": "https://mastodon.social/tags/contractor"
       },
       {
@@ -93,7 +93,7 @@
       },
       {
         "tag": "#contractors",
-        "uses": 12,
+        "uses": 13,
         "link": "https://mastodon.social/tags/contractors"
       },
       {
@@ -140,7 +140,7 @@
     "accounts": [
       {
         "handle": "@BusinessInsider@flipboard.com",
-        "followers": 469982,
+        "followers": 469984,
         "link": "https://flipboard.com/@BusinessInsider"
       },
       {
@@ -155,7 +155,7 @@
       },
       {
         "handle": "@homeassistant@fosstodon.org",
-        "followers": 23746,
+        "followers": 23745,
         "link": "https://fosstodon.org/@homeassistant"
       },
       {
@@ -194,7 +194,7 @@
     {
       "handle": "@handymanken.bsky.social",
       "display": "Ken",
-      "followers": 10870,
+      "followers": 10872,
       "desc": "A handyman, problem solver, husband, father, grandfather, American, democrat, disappointed person",
       "link": "https://bsky.app/profile/handymanken.bsky.social"
     },
@@ -208,14 +208,14 @@
     {
       "handle": "@hndymn.bsky.social",
       "display": "HandymanNick",
-      "followers": 4417,
+      "followers": 4419,
       "desc": "Married pig faggot growing its hole, spreading some love and ffinding its tribe| 18+ | FF | piss | cum | big toys | big ",
       "link": "https://bsky.app/profile/hndymn.bsky.social"
     },
     {
       "handle": "@sbaer28.bsky.social",
       "display": "S Baer",
-      "followers": 3826,
+      "followers": 3824,
       "desc": "Mom | competitive intelligence consultant | lover of farmers and small business owners | dog, cat, rabbit, and snake own",
       "link": "https://bsky.app/profile/sbaer28.bsky.social"
     },
@@ -229,7 +229,7 @@
     {
       "handle": "@cocksroade.bsky.social",
       "display": "Handyman",
-      "followers": 1883,
+      "followers": 1884,
       "desc": "In Palm Springs 10/20-11/19 Hit me up if u wanna make some jff content  or if you need a handyman work in the future.   ",
       "link": "https://bsky.app/profile/cocksroade.bsky.social"
     },
@@ -278,14 +278,14 @@
     {
       "handle": "@kirtolson.bsky.social",
       "display": "Kirt Olson | World's Worst Handyman",
-      "followers": 858,
+      "followers": 859,
       "desc": "Making a thrilling stealth-lite comedy game about the World's Worst Handyman.  Baby Lumberjack Founder.  🔧World’s Worst ",
       "link": "https://bsky.app/profile/kirtolson.bsky.social"
     },
     {
       "handle": "@thebarehandyman.bsky.social",
       "display": "The Bare Handyman",
-      "followers": 750,
+      "followers": 751,
       "desc": "professional handyman",
       "link": "https://bsky.app/profile/thebarehandyman.bsky.social"
     }
