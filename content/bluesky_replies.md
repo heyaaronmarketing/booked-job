@@ -2,6 +2,23 @@
 
 _Auto-surfaced relevant conversations. Reply by hand (keeps it human + safe). Newest first._
 
+- **@stylelib.org**: Constructo – Construction WordPress Theme
+
+ https://themes.stylelib.org/?p=6194 
+
+#architecture #building #business #company #construction #constructor #contractor #corporate #electrician #elementor #
+  → https://bsky.app/profile/stylelib.org/post/3n2nxkmodae2h
+
+- **@riversdaughter.bsky.social**: Signal boosting my husband's business. Go! Hire him today!
+
+MA folks! Do you or someone you know need electrical work done before the holidays set in, but don't know where to find a good electrician w
+  → https://bsky.app/profile/riversdaughter.bsky.social/post/3n2ofie72jk2t
+
+- **@caseysseo.bsky.social**: Searching for an electrician near Lookout Mountain? Golden locals check the map pack first. Your Google Business Profile needs to match the work you actually do. #CaseysSEO #MapPack
+
+https://youtu.be/
+  → https://bsky.app/profile/caseysseo.bsky.social/post/3n3akbs65bt2z
+
 - **@comichealresearch.bsky.social**: "I run a research editing service for papers in every field: sciences, medicine, engineering, social sciences and business.
 
 What I check that most editors don't: do your tables, figures and numbers m
@@ -183,16 +200,3 @@ https://roofingleadscompany.com/roofing-seo?utm_source=bluesky&ut
 
 #business #corporate #themeforest #wordpress
   → https://bsky.app/profile/stylelib.org/post/3n2rwxm3cp62s
-
-- **@natlantastar.bsky.social**: A Sandy Springs HVAC company builds its business one referral at a time
-
-Dana Marek sometimes hears a question from customers: Why haven’t we heard of your company before?...
-  → https://bsky.app/profile/natlantastar.bsky.social/post/3mxra5dbutq2a
-
-- **@sarkisz.bsky.social**: What have you built? Statistically speaking you're a wagecuck or at best an HVAC business owner like the people who stormed the capitol on January 6th
-  → https://bsky.app/profile/sarkisz.bsky.social/post/3mybbospbzs2x
-
-- **@whatagentscando.com**: Own a small business? Your old quotes might be money.
-
-An HVAC owner had Grok Bot send 100+ personal follow-ups from his phone, each using the customer's real appointment. He says one became a $2,000 
-  → https://bsky.app/profile/whatagentscando.com/post/3mz6wxrgndd2z
