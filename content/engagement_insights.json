@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-27T12:51",
+  "generated": "2026-11-27T19:53",
   "min_views_for_rank": 20,
   "channels": {
     "FB Reels": {
       "posts": 25,
-      "views": 4286,
+      "views": 4384,
       "engagements": 2,
       "er": 0.05
     },
@@ -85,6 +85,18 @@
     },
     {
       "channel": "FB Reels",
+      "id": "1795032361791268",
+      "caption": "A booked job from Angi runs you $542. The same job from a Google ad? $168. Stop renting your business from a website.\n\n\ud83d\udc47 Worst you've paid a",
+      "views": 208,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-27"
+    },
+    {
+      "channel": "FB Reels",
       "id": "1170522612007818",
       "caption": "Demand triples Feb\u2192July then falls off a cliff. Everybody markets in July when it's easy. The winners market in February.\n\n\ud83d\udc47 Who's already d",
       "views": 236,
@@ -106,33 +118,9 @@
       "engagements": 0,
       "er": 0.0,
       "date": "2026-11-26"
-    },
-    {
-      "channel": "FB Reels",
-      "id": "1422052419697247",
-      "caption": "Angi charges $79 for a single lead \u2014 then sells it to 5 other guys. You're not buying a lead, you're buying a bidding war against yourself.\n",
-      "views": 121,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-25"
     }
   ],
   "bottom": [
-    {
-      "channel": "FB Reels",
-      "id": "1779082770884917",
-      "caption": "Shared-lead sites rent you an audience. The second you stop paying, the leads vanish. Build channels you own instead.\n\nhttps://booked-job.co",
-      "views": 110,
-      "reactions": 0,
-      "comments": 0,
-      "shares": 0,
-      "engagements": 0,
-      "er": 0.0,
-      "date": "2026-11-15"
-    },
     {
       "channel": "FB Reels",
       "id": "1751160273290339",
@@ -210,6 +198,18 @@
       "id": "2028073261202234",
       "caption": "519 reviews to rank #1 \u2014 you've got 12 \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\ud83d\udd27 Follow Booked Job. Get ",
       "views": 274,
+      "reactions": 0,
+      "comments": 0,
+      "shares": 0,
+      "engagements": 0,
+      "er": 0.0,
+      "date": "2026-11-20"
+    },
+    {
+      "channel": "FB Reels",
+      "id": "1853653439012815",
+      "caption": "91% won't call a shop under 4 stars \u2014 the full breakdown's on the pod. Free playbook: https://booked-job.com \ud83d\udc47\n\n\u2795 Follow Booked Job for the ",
+      "views": 223,
       "reactions": 0,
       "comments": 0,
       "shares": 0,

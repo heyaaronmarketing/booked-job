@@ -1,70 +1,52 @@
 {
-  "updated": "2026-11-27T13:06",
+  "updated": "2026-11-27T20:09",
   "posts": [
     {
-      "ts": "2026-11-27T13:04:18",
+      "ts": "2026-11-27T20:06:57",
       "channel": "facebook",
-      "item": "card-ftc",
+      "item": "card-stars",
       "url": null
     },
     {
-      "ts": "2026-11-27T13:04:15",
-      "channel": "ig",
-      "item": "carousel-leadsites",
-      "url": null
-    },
-    {
-      "ts": "2026-11-27T13:03:38",
+      "ts": "2026-11-27T20:06:53",
       "channel": "mastodon",
-      "item": "carousel-leadsites",
+      "item": "card-cpbj",
       "url": null
     },
     {
-      "ts": "2026-11-27T13:03:32",
-      "channel": "mastodon",
-      "item": "best-software-for-a-one-truck-shop",
-      "url": "https://mastodon.social/@bookedjob/117689955880932970"
-    },
-    {
-      "ts": "2026-11-27T13:03:28",
-      "channel": "telegraph",
-      "item": "best-software-for-a-one-truck-shop",
-      "url": "https://telegra.ph/Best-Field-Service-Software-for-a-One"
-    },
-    {
-      "ts": "2026-11-27T13:03:27",
+      "ts": "2026-11-27T20:06:51",
       "channel": "tumblr",
-      "item": "pod-ep02-onetap",
+      "item": "pod-ep02-peak",
       "url": null
     },
     {
-      "ts": "2026-11-27T13:03:25",
+      "ts": "2026-11-27T20:06:49",
       "channel": "bluesky",
-      "item": "pod-ep02-system",
+      "item": "pod-ep02-fake",
       "url": null
     },
     {
-      "ts": "2026-11-27T13:03:23",
+      "ts": "2026-11-27T20:06:47",
       "channel": "linkedin",
-      "item": "clip1-turd",
-      "url": null
-    },
-    {
-      "ts": "2026-11-27T13:03:22",
-      "channel": "tiktok",
       "item": "clip3-onestar",
       "url": null
     },
     {
-      "ts": "2026-11-27T13:03:20",
-      "channel": "ig",
-      "item": "bj-trade",
+      "ts": "2026-11-27T20:06:46",
+      "channel": "tiktok",
+      "item": "is-angi-worth-it",
       "url": null
     },
     {
-      "ts": "2026-11-27T13:02:48",
+      "ts": "2026-11-27T20:06:45",
+      "channel": "ig",
+      "item": "bj-slow",
+      "url": null
+    },
+    {
+      "ts": "2026-11-27T20:06:13",
       "channel": "facebook",
-      "item": "bj-cpbj",
+      "item": "bj-speed",
       "url": null
     }
   ]

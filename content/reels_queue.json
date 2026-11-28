@@ -7,16 +7,16 @@
       "video": "site/reels/af-ai-quote.mp4"
     },
     {
-      "id": "rip-angi-rip",
-      "hook": "Angi's $542 secret",
-      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
-      "video": "site/reels/rip-angi-rip.mp4"
-    },
-    {
       "id": "af-ai-apology",
       "hook": "AI receptionist fail",
       "description": "The AI “fixed” a no-show by rebooking it for the year 1847. 😂 The honest take on AI receptionists (and the $30 fix): booked-job.com/reviews/is-an-ai-receptionist-worth-it 👉 aaron.chat #hvac #plumber #trades (dramatization)",
       "video": "site/reels/af-ai-apology.mp4"
+    },
+    {
+      "id": "rip-angi-rip",
+      "hook": "Angi's $542 secret",
+      "description": "Angi sells your lead to a dozen guys, then you race to the bottom. The real cost per booked job? $542. #contractor #angi #trades",
+      "video": "site/reels/rip-angi-rip.mp4"
     },
     {
       "id": "speed-to-lead",
@@ -81,18 +81,18 @@
       "description": "Do you actually file lead refunds, or just eat them? 20 minutes a week is real money. 👇 #contractor #leads #smallbusiness"
     },
     {
-      "id": "text-back",
-      "hook": "Text back the missed call in 5 minutes",
-      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
-      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
-      "video": "site/reels/text-back.mp4"
-    },
-    {
       "id": "website-converting",
       "hook": "98% leave your site without calling",
       "script": "Here's a brutal number. For every hundred people who land on your website, ninety-eight leave without ever calling. Why? No reviews up top, no click-to-call button, and it takes six seconds to load on a phone. The fix isn't a prettier site. It's a phone number they can tap in one thumb and proof you're not going to rip them off. Make it easy to call you. Follow Booked Job.",
       "description": "98 out of 100 visitors leave your site without calling. Usually it's 3 easy fixes. #website #contractor #leads",
       "video": "site/reels/website-converting.mp4"
+    },
+    {
+      "id": "text-back",
+      "hook": "Text back the missed call in 5 minutes",
+      "script": "You can't always answer the phone. You're under a house, up a ladder, hands full. Fine. But here's the move that saves the job. The second you're free, text them back. Sorry I missed you, this is Mike, what's going on? Five minutes. That's the window. Miss it and they've already booked the next guy. A fast text is a booked job. Follow Booked Job.",
+      "description": "Can't answer? Text back within 5 minutes and you keep the job. #speedtolead #contractor #trades",
+      "video": "site/reels/text-back.mp4"
     },
     {
       "id": "af-ai-loop",
@@ -113,12 +113,6 @@
       "description": "Ever disputed a lead charge with your bank? Careful — that's how pros lose the account AND the reviews. 👇 #contractor #leads #getpaid"
     },
     {
-      "id": "rip-speed-rip",
-      "hook": "78% hire the first",
-      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
-      "video": "site/reels/rip-speed-rip.mp4"
-    },
-    {
       "id": "review-timing",
       "hook": "Ask for the review at 'wow'",
       "script": "Timing is everything on Google reviews. Most guys text a review link three days later, when the customer's already moved on. Here's the fix. The second they say, wow, that looks great, that's your moment. Hand them your phone, right there, review already pulled up. You'll triple your reviews and the reviews rank you higher than any ad. Catch them at wow, not on Wednesday. Follow Booked Job.",
@@ -126,10 +120,10 @@
       "video": "site/reels/review-timing.mp4"
     },
     {
-      "id": "rented-pipeline",
-      "hook": "You're renting the phone",
-      "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
-      "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
+      "id": "rip-speed-rip",
+      "hook": "78% hire the first",
+      "description": "78% of homeowners hire whoever responds first — not the cheapest, not the best. If it rings to voicemail, that job's gone. #speedtolead #contractor #trades",
+      "video": "site/reels/rip-speed-rip.mp4"
     },
     {
       "id": "eight-automations",
@@ -151,18 +145,24 @@
       "video": "site/reels/repeat-customer.mp4"
     },
     {
-      "id": "show-up",
-      "hook": "The trades don't have a wage problem",
-      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
-      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
-      "video": "site/reels/show-up.mp4"
-    },
-    {
       "id": "chasing-invoices",
       "hook": "Three months chasing one invoice",
       "script": "Three months chasing a customer for a four thousand dollar invoice. Sound familiar? Here's the hard truth. You're not a bank. Every week that invoice sits unpaid, it's a loan you didn't agree to give. Set net terms in writing, take a deposit up front, and don't start the next phase until the last one's paid. The nicest thing you can do for your business is get paid on time. Follow Booked Job.",
       "description": "At what point is a $4k unpaid invoice worth the lien? Asking for me. 👇 #getpaid #contractor #smallbusiness",
       "video": "site/reels/chasing-invoices.mp4"
+    },
+    {
+      "id": "rented-pipeline",
+      "hook": "You're renting the phone",
+      "script": "Real talk about lead sites. The day you stop paying, the phone stops ringing. That's not a pipeline, that's rent. And you're paying it on a lead four other guys bought at the same time. Compare that to your Google profile and your reviews. Nobody can deactivate those, nobody resells them, and they don't send you an invoice at the end of the month. Buy leads if the math works today. Just build the thing they can't take away while you do it. Follow Booked Job.",
+      "description": "Buying leads is rent. What are you building that they can't shut off? 👇 #contractor #leads #localseo"
+    },
+    {
+      "id": "show-up",
+      "hook": "The trades don't have a wage problem",
+      "script": "Everybody says the trades have a labor shortage. That's not it. Posted for a helper this week. Three no-shows and one guy who quit because I asked him to sweep. The trades don't have a wage problem. They have a show-up problem. The guys who actually show up, on time, ready to work? They're worth double and they know it. If that's you, you'll never be out of work. Follow Booked Job.",
+      "description": "It's not a labor shortage, it's a follow-through shortage. Who's actually reliable and hiring? Drop your city. 👇 #trades #hiring",
+      "video": "site/reels/show-up.mp4"
     },
     {
       "id": "missed-call",
@@ -172,12 +172,6 @@
       "video": "site/reels/missed-call.mp4"
     },
     {
-      "id": "pod-clip-game",
-      "hook": "Porno or Plumbing?",
-      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip2-game.mp4"
-    },
-    {
       "id": "slow-season",
       "hook": "Slow season starts in summer",
       "script": "Here's the trap. The phone's ringing now, so you stop marketing. Then January hits and it's dead silent. The work you book in winter was sold in summer. The time to fill the pipe is when you're busy, not when you're broke. Market in your good months. Coast through your slow ones. Follow Booked Job.",
@@ -185,24 +179,16 @@
       "video": "site/reels/slow-season.mp4"
     },
     {
-      "id": "referrals",
-      "hook": "Your best lead just left your driveway",
-      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
-      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
-      "video": "site/reels/referrals.mp4"
+      "id": "pod-clip-game",
+      "hook": "Porno or Plumbing?",
+      "description": "The dumbest, funniest game on the trades internet. From our new podcast Get Booked, Not F***ed — full episodes free/podcast. 🎧 #contractor #plumbing #trades @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip2-game.mp4"
     },
     {
       "id": "ad-arctic",
       "hook": "HVAC spite ad",
       "description": "Our competitor's radio ad — the one we paid to have made. Get Booked, Not F***ed, free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
       "video": "content/podcast/clips/ad-arctic.mp4"
-    },
-    {
-      "id": "one-star",
-      "hook": "How you answer a 1-star matters more",
-      "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
-      "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
-      "video": "site/reels/one-star.mp4"
     },
     {
       "id": "gbp-billboard",
@@ -217,6 +203,20 @@
       "script": "Ever lose a job to a guy half your price? Let him have it. Here's what happens next. He lowballs the bid to win it, then cuts corners to survive it. The customer pays twice. Once for the cheap job, once for you to fix it. Your price isn't high. It's honest. Don't chase the bottom. Follow Booked Job.",
       "description": "Stop apologizing for your price. The lowball always comes back around. #contractor #pricing #trades",
       "video": "site/reels/low-bid.mp4"
+    },
+    {
+      "id": "referrals",
+      "hook": "Your best lead just left your driveway",
+      "script": "Here's the lead source everybody sleeps on. The customer whose job you just finished. They trust you, they've seen your work, and they know three neighbors with the same problem. But you have to ask. Hey, if you know anyone who needs this done, I'd appreciate the intro. Say it every single time. The cheapest lead you'll ever get is the one you already earned. Follow Booked Job.",
+      "description": "The customer you just finished is your cheapest lead — if you ask. Do you? 👇 #referrals #contractor #smallbusiness",
+      "video": "site/reels/referrals.mp4"
+    },
+    {
+      "id": "one-star",
+      "hook": "How you answer a 1-star matters more",
+      "script": "You got a one-star review. It stings. But here's the thing. Every future customer is going to read your reply, not just the complaint. Answer it calm, professional, and offer to make it right. Do that and the one-star actually builds trust, because it proves you don't run when things go sideways. The review isn't the reputation. Your response is. Follow Booked Job.",
+      "description": "Future customers read your REPLY to the 1-star, not just the complaint. #reputation #contractor #trades",
+      "video": "site/reels/one-star.mp4"
     },
     {
       "id": "last-guy",
@@ -238,19 +238,6 @@
       "video": "content/podcast/clips/ad-pauls.mp4"
     },
     {
-      "id": "clip-porno2",
-      "hook": "Porno or Plumbing R2",
-      "description": "The dumbest, funniest game on the trades internet — round 2. Full episodes free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-porno2.mp4"
-    },
-    {
-      "id": "ten-mm",
-      "hook": "The 10mm socket conspiracy",
-      "script": "Let's talk about the greatest mystery in the trades. The 10mm socket. You buy a set, and within a week the 10 is gone. Not the 8, not the 12. Always the 10. It's the most-used size and it vanishes like it's got somewhere to be. I'm convinced there's a landfill somewhere made entirely of 10mm sockets. Where do they go? Tell me your theory. Follow Booked Job.",
-      "description": "Where do all the 10mm sockets GO? Drop your best theory. 👇 #tools #trades #contractorlife",
-      "video": "site/reels/ten-mm.mp4"
-    },
-    {
       "id": "cash-job",
       "hook": "\"Cash, and skip the paperwork\"",
       "script": "Customer wants to do it in cash and skip the paperwork. Sounds like a favor. It's a trap. That paperwork, the contract, the invoice, the permit, that's what protects you when they claim you never did the work, or the inspector comes knocking. No paper means no proof. The five percent you save today is the lawsuit you pay for next year. Always paper the job. Follow Booked Job.",
@@ -265,11 +252,17 @@
       "video": "site/reels/youtube-expert.mp4"
     },
     {
-      "id": "dont-discount",
-      "hook": "Don't drop the price — add value",
-      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
-      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
-      "video": "site/reels/dont-discount.mp4"
+      "id": "clip-porno2",
+      "hook": "Porno or Plumbing R2",
+      "description": "The dumbest, funniest game on the trades internet — round 2. Full episodes free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-porno2.mp4"
+    },
+    {
+      "id": "ten-mm",
+      "hook": "The 10mm socket conspiracy",
+      "script": "Let's talk about the greatest mystery in the trades. The 10mm socket. You buy a set, and within a week the 10 is gone. Not the 8, not the 12. Always the 10. It's the most-used size and it vanishes like it's got somewhere to be. I'm convinced there's a landfill somewhere made entirely of 10mm sockets. Where do they go? Tell me your theory. Follow Booked Job.",
+      "description": "Where do all the 10mm sockets GO? Drop your best theory. 👇 #tools #trades #contractorlife",
+      "video": "site/reels/ten-mm.mp4"
     },
     {
       "id": "diagnostic-fee",
@@ -293,17 +286,31 @@
       "video": "site/reels/estimate-noshow.mp4"
     },
     {
-      "id": "clip-speed",
-      "hook": "Answer your phone",
-      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
-      "video": "content/podcast/clips/clip-speed.mp4"
-    },
-    {
       "id": "deposit",
       "hook": "No deposit, no material order",
       "script": "Learned this one the hard way. Six thousand dollars of custom material sitting in my garage because the customer ghosted after I ordered it. Never again. Now the rule is simple. No deposit, no material order. A serious customer has no problem putting money down. The ones who fight you on a deposit are the ones who'll fight you on the final bill. Protect your cash. Follow Booked Job.",
       "description": "What's your deposit rule? The garage full of unpaid material taught me mine. 👇 #getpaid #contractor #smallbusiness",
       "video": "site/reels/deposit.mp4"
+    },
+    {
+      "id": "dont-discount",
+      "hook": "Don't drop the price — add value",
+      "script": "Customer's on the fence about the price. Do not discount. The second you drop your number, you just told them your first one was made up. Instead, add value. Throw in the extra year of warranty, the follow-up visit, the priority scheduling. Same price, more reasons to say yes. Discounting trains customers to haggle. Adding value trains them to trust you. Follow Booked Job.",
+      "description": "Discounting says your first price was fake. Add value instead. How do you hold your number? 👇 #pricing #contractor #sales",
+      "video": "site/reels/dont-discount.mp4"
+    },
+    {
+      "id": "quick-favor",
+      "hook": "The 5-minute favor that isn't",
+      "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
+      "description": "'While you're here…' — name a more expensive sentence. 👇 #trades #contractor #getpaid",
+      "video": "site/reels/quick-favor.mp4"
+    },
+    {
+      "id": "clip-speed",
+      "hook": "Answer your phone",
+      "description": "You don't lose jobs on price — you lose them on the phone. New episode 'Answer Your Phone' free/podcast. 🎧 @PlayMorePods #PodcastsOnAmazonMusic",
+      "video": "content/podcast/clips/clip-speed.mp4"
     },
     {
       "id": "pick-two",
@@ -345,13 +352,6 @@
       "script": "My neighbor's guy does it for half. Okay. Then call your neighbor's guy. Nine times out of ten they don't, because the half-price guy can't get to it for three weeks, or he already burned that bridge. Your price reflects that you show up, you're licensed, and you'll answer the phone if something goes wrong. Half-price gets you half of all that. Follow Booked Job.",
       "description": "'My neighbor's guy does it for half' — great, go call him. How do you handle it? 👇 #pricing #contractor #trades",
       "video": "site/reels/neighbor-guy.mp4"
-    },
-    {
-      "id": "quick-favor",
-      "hook": "The 5-minute favor that isn't",
-      "script": "While I'm here, can you just take a quick look at this? Eight words that have cost contractors billions. There's no quick look on a paying job. You look, you touch it, you own it. Be helpful, but put it on the invoice. Your time is the product. Follow Booked Job for more.",
-      "description": "'While you're here…' — name a more expensive sentence. 👇 #trades #contractor #getpaid",
-      "video": "site/reels/quick-favor.mp4"
     },
     {
       "id": "warranty-expectations",

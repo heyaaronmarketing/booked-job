@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:51",
+  "updated": "2026-11-27T19:53",
   "goals": {
     "label": "Month 2 \u2014 Convert the audience we built",
     "end": "2026-08-27",
@@ -137,7 +137,7 @@
   "instagram": {
     "connected": true,
     "followers": 1,
-    "media": 751
+    "media": 754
   },
   "email": {
     "subscribers": 8
@@ -178,8 +178,8 @@
     },
     "cloudflare": {
       "pageviews_daily": 669,
-      "pageviews_weekly": 5559,
-      "pageviews_monthly": 20265
+      "pageviews_weekly": 5714,
+      "pageviews_monthly": 20420
     },
     "total_clicks": 0,
     "total_impressions": 9,
@@ -196,7 +196,7 @@
     },
     "tiktok": {
       "name": "bookedjob",
-      "posts": 82,
+      "posts": 80,
       "views": 35,
       "reactions": 3,
       "comments": 0,
@@ -204,8 +204,8 @@
     },
     "linkedin": {
       "name": "Booked Job",
-      "posts": 34,
-      "views": 51,
+      "posts": 35,
+      "views": 52,
       "reactions": 2,
       "comments": 0,
       "engagement_rate": 0.58
@@ -452,7 +452,7 @@
       "unit": "posts",
       "grade": "B",
       "group": "social",
-      "views": 2162,
+      "views": 2165,
       "followers": 1
     },
     {
@@ -469,7 +469,7 @@
     {
       "name": "Blogger",
       "status": "live",
-      "count": 152,
+      "count": 153,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -485,7 +485,7 @@
     {
       "name": "Telegraph",
       "status": "live",
-      "count": 152,
+      "count": 153,
       "unit": "posts",
       "grade": "B",
       "group": "content"
@@ -493,7 +493,7 @@
     {
       "name": "Bluesky",
       "status": "live",
-      "count": 7,
+      "count": 8,
       "unit": "posts",
       "followers": 378,
       "grade": "A",
@@ -503,7 +503,7 @@
     {
       "name": "Mastodon",
       "status": "live",
-      "count": 152,
+      "count": 153,
       "unit": "posts",
       "followers": 0,
       "grade": "F",
@@ -548,8 +548,8 @@
       "status": "live",
       "count": 68,
       "unit": "posts (Buffer)",
-      "stat": "523 reach \u00b7 2 reactions",
-      "views": 51,
+      "stat": "526 reach \u00b7 2 reactions",
+      "views": 52,
       "likes": 2,
       "grade": "B",
       "group": "social"
@@ -605,7 +605,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Polls",
@@ -635,7 +635,7 @@
       {
         "type": "Stories",
         "status": "live",
-        "count": 4
+        "count": 6
       },
       {
         "type": "Long video",
@@ -691,7 +691,7 @@
       {
         "type": "Native video",
         "status": "live",
-        "count": 54
+        "count": 55
       },
       {
         "type": "Articles",
@@ -722,19 +722,19 @@
       {
         "type": "Posts",
         "status": "live",
-        "count": 7
+        "count": 8
       },
       {
         "type": "Video",
         "status": "live",
-        "count": 6
+        "count": 7
       }
     ],
     "Mastodon": [
       {
         "type": "Posts",
         "status": "live",
-        "count": 152
+        "count": 153
       },
       {
         "type": "Video",
@@ -786,7 +786,7 @@
       {
         "type": "Video",
         "status": "live",
-        "count": 8
+        "count": 9
       }
     ]
   },
@@ -828,7 +828,7 @@
     }
   ],
   "funnel": {
-    "reach": 36884,
+    "reach": 36888,
     "engagement": 4,
     "audience": 410,
     "cr_clicks": 211
@@ -837,7 +837,7 @@
     "audience": 20,
     "engagement": 0,
     "email": 1,
-    "reach": -208
+    "reach": -204
   },
   "mafia": {
     "metrics": [
@@ -853,7 +853,7 @@
       },
       {
         "label": "Total Posts",
-        "value": 1531,
+        "value": 1535,
         "grade": "A"
       },
       {
